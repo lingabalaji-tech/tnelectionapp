@@ -1307,6 +1307,29 @@ def render_home(
     validation: dict[str, Any],
 ) -> None:
     top_constituencies = sorted(summaries, key=lambda row: row["candidate_count_2026"], reverse=True)[:6]
+    party_counts: Counter[str] = Counter()
+    party_labels: dict[str, str] = {}
+    party_name_counts: dict[str, Counter[str]] = {}
+    for row in full_rows:
+        party_key = row.get("party_abbrev") or row.get("party_name") or "UNKNOWN"
+        party_name = (row.get("party_name") or party_key).strip()
+        party_counts[party_key] += 1
+        party_name_counts.setdefault(party_key, Counter())[party_name] += 1
+    for party_key, counts in party_name_counts.items():
+        party_labels[party_key] = sorted(counts.items(), key=lambda item: (-item[1], item[0]))[0][0]
+    top_parties = sorted(
+        party_counts.items(),
+        key=lambda item: (-item[1], party_labels.get(item[0], item[0])),
+    )[:10]
+    top_parties_rows = "".join(
+        f"""
+        <tr>
+          <td>{html.escape(party_labels.get(party_key, party_key))}</td>
+          <td>{count:,}</td>
+        </tr>
+        """
+        for party_key, count in top_parties
+    )
     body = f"""
     <section class="hero">
       <span class="pill">{bi_text('Official roster + voter context', 'அதிகாரப்பூர்வ பட்டியல் + வாக்காளர் தகவல்')}</span>
@@ -1547,6 +1570,29 @@ def render_home(
     validation: dict[str, Any],
 ) -> None:
     top_constituencies = sorted(summaries, key=lambda row: row["candidate_count_2026"], reverse=True)[:6]
+    party_counts: Counter[str] = Counter()
+    party_labels: dict[str, str] = {}
+    party_name_counts: dict[str, Counter[str]] = {}
+    for row in full_rows:
+        party_key = row.get("party_abbrev") or row.get("party_name") or "UNKNOWN"
+        party_name = (row.get("party_name") or party_key).strip()
+        party_counts[party_key] += 1
+        party_name_counts.setdefault(party_key, Counter())[party_name] += 1
+    for party_key, counts in party_name_counts.items():
+        party_labels[party_key] = sorted(counts.items(), key=lambda item: (-item[1], item[0]))[0][0]
+    top_parties = sorted(
+        party_counts.items(),
+        key=lambda item: (-item[1], party_labels.get(item[0], item[0])),
+    )[:10]
+    top_parties_rows = "".join(
+        f"""
+        <tr>
+          <td>{html.escape(party_labels.get(party_key, party_key))}</td>
+          <td>{count:,}</td>
+        </tr>
+        """
+        for party_key, count in top_parties
+    )
     body = f"""
     <section class="hero">
       <span class="pill">{bi_text('Official roster + voter context', 'அதிகாரப்பூர்வ பட்டியல் + வாக்காளர் தகவல்')}</span>
@@ -1564,6 +1610,18 @@ def render_home(
     <section class="cards">
       <article class="card"><h3>{bi_text('Constituency roster', 'தொகுதி வேட்பாளர் பட்டியல்')}</h3><p class="small">{bi_text('Find everyone contesting in a seat, with district context and 2021 result data.', 'ஒவ்வொரு தொகுதியிலும் போட்டியிடும் அனைவரையும், 2021 முடிவு பின்னணியுடன் காணுங்கள்.')}</p><a class="btn" href="constituencies/index.html">{bi_text('Browse constituencies', 'தொகுதிகளைப் பார்க்க')}</a></article>
       <article class="card"><h3>{bi_text('Candidate fact cards', 'வேட்பாளர் உண்மை அட்டைகள்')}</h3><p class="small">{bi_text('Each candidate page shows official roster data, affidavit links, and matched public facts where available.', 'ஒவ்வொரு வேட்பாளர் பக்கமும் அதிகாரப்பூர்வ பட்டியல் தகவல்கள், affidavit இணைப்புகள் மற்றும் கிடைக்கும் பொது தரவு பொருத்தங்களை காட்டுகிறது.')}</p><a class="btn" href="downloads/index.html">{bi_text('Open downloads', 'பதிவிறக்கங்களைத் திறக்க')}</a></article>
+    </section>
+    <div class="section-title"><h2>{bi_text('Parties with the most candidates contesting', 'Parties with the most candidates contesting')}</h2></div>
+    <section class="table-card">
+      <table>
+        <thead>
+          <tr>
+            <th>{bi_text('Party', 'Party')}</th>
+            <th>{bi_text('# of candidates', '# of candidates')}</th>
+          </tr>
+        </thead>
+        <tbody>{top_parties_rows}</tbody>
+      </table>
     </section>
     <div class="section-title"><h2>{bi_text('Seats with the most candidates', 'அதிக வேட்பாளர்கள் உள்ள தொகுதிகள்')}</h2></div>
     <section class="cards">
