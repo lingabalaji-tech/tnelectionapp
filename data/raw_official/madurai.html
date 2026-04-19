@@ -1,0 +1,1613 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Public (Elections) Department || Home</title>
+    <meta name="description" content="Home" />
+    <meta name="keywords" content="Home" />
+    <link rel="stylesheet" href="dist/style_home.css" />
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="icon" type="image/png" href="Content/images/android-icon-48x48.png" />
+ 
+
+        <script type="text/javascript" >
+            function preventBack() { window.history.forward(); }
+            setTimeout("preventBack()", 0);
+            window.onunload = function () { null };
+        </script>
+    <script type="text/javascript">
+        window.oncontextmenu = function () {
+            return false;
+        }
+        $(document).keydown(function (event) {
+            if (event.keyCode == 123) {
+                return false;
+            }
+            else if ((event.ctrlKey && event.shiftKey && event.keyCode == 73) || (event.ctrlKey && event.shiftKey && event.keyCode == 74)) {
+                return false;
+            }
+        });
+
+        $(document).ready(function () {
+            //Disable cut copy paste
+            $('body').bind('cut copy paste', function (e) {
+                e.preventDefault();
+            });
+
+            //Disable mouse right click
+            $("body").on("contextmenu", function (e) {
+                return false;
+            });
+        });
+    </script>
+
+    <!-- toogle style -->
+
+    <style>
+        html {
+            --bg: #219cf3;
+            --text-home: #007bff;
+            --text-lok: #007bff;
+            --bg-color: #f6f6f6;
+            --bg-color2: #fff;
+            --text-rt: #fff;
+            --text: #000000;
+            --text-2: #212121;
+            --text-3: #999999;
+            --text-4: #212529;
+            --text-5: #219cf3;
+            --text-6: #333;
+            --bg-lok: #ffffff;
+            --text-election: #6c757d;
+            --bread: #6c757d;
+            --border: #bbbbbb;
+            --border-election: #ea5432;
+            --bg-contact: #219cf3;
+            --bg-icon: #000;
+            --bg-election: #ff3636;
+            --bg-color-gray: #999999;
+            --bg-color-wt: #ffffff;
+            --bg-panel: #ebebeb;
+            --color-headings: #0077ff;
+            --color-text: #333333;
+            --bg-image: url(Content/images/top.png) no-repeat 0px 0px;
+            --bg-logo: url(Content/images/election_dept_tn.png);
+            --bg-notif: url(Content/images/new.gif);
+            --bg-cnt-clr: #007bff;
+            --bg-summary: #17a2b8;
+            --bg-epic: #2196f3;
+            --border-epic: #00000020;
+            --border-deo: #00000020;
+            --bg-box: #2196f3;
+            --icon-deos: #007bff;
+            --table-bg: #f2f2f2;
+            --head-parg: #043356;
+        }
+
+            html[data-theme="dark"] {
+                --bg: #585858;
+                --text-home: #fff;
+                --text-lok: #92b620;
+                --bg-color: #585858;
+                --bg-color2: #6d6c6c;
+                --text-rt: #fff;
+                --text: #ffffff;
+                --text-2: #ffffff;
+                --text-3: #ffffff;
+                --text-4: #ffffff;
+                --text-5: #ffffff;
+                --text-6: #ffffff;
+                --bg-lok: #585858;
+                --text-election: #ffffff;
+                --bread: #92b620;
+                --bg-contact: #6d6c6c;
+                --bg-icon: #92b620;
+                --border: #bbbbbb;
+                --border-election: #92b620;
+                --bg-election: #92b620;
+                --bg-color-gray: #585858;
+                --bg-color-wt: #808080;
+                --bg-panel: #434343;
+                --color-headings: #3694ff;
+                --color-text: #b5b5b5;
+                --bg-image: url(Content/images/top-blk.png) no-repeat 0px 0px;
+                --bg-logo: url(Content/images/election_dept_tn_white.png);
+                --bg-notif: url(Content/images/new-blk.gif);
+                --bg-cnt-clr: #92b620;
+                --bg-summary: #6d6c6c;
+                --bg-epic: #6d6c6c;
+                --border-epic: #bbbbbb;
+                --border-deo: #92b620;
+                --bg-box: #808080;
+                --icon-deos: #92b620;
+                --table-bg: #fff;
+                --head-parg: #3e3e3e;
+            }
+
+        .theme-toggle-input {
+            height: 0;
+            width: 0;
+            visibility: hidden;
+        }
+
+        .theme-toggle {
+            cursor: pointer;
+            text-indent: -9999px;
+            width: 52px;
+            height: 27px;
+            background-color: var(--bg);
+            float: right;
+            border-radius: 100px;
+            position: relative;
+        }
+
+            .theme-toggle:after {
+                content: "";
+                position: absolute;
+                top: 3px;
+                left: 3px;
+                width: 20px;
+                height: 20px;
+                background: #fff;
+                border-radius: 90px;
+                transition: 0.3s;
+            }
+
+        .theme-toggle-input:checked + .theme-toggle {
+            /*background: var(--color-headings);*/
+            background-color: var(--bg);
+        }
+
+            .theme-toggle-input:checked + .theme-toggle:after {
+                left: calc(100% - 5px);
+                transform: translateX(-100%);
+            }
+
+        .theme-toggle:active:after {
+            width: 45px;
+        }
+    </style>
+
+    <!-- //for-mobile-apps -->
+    <link href="Content/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /><link href="Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- font-awesome icons -->
+    
+    <link rel="stylesheet" href="css/fontawesome.css" />
+    <!-- Font-Awesome-Icons-CSS -->
+    <!-- //font-awesome icons -->
+    <link rel="stylesheet" href="Content/css/chocolat.css" type="text/css" media="screen" />
+    <!-- //Gallery Css -->
+    <!-- testimonials css -->
+    <link rel="stylesheet" href="Content/css/flexslider.css" type="text/css" media="screen" property="" /><link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" /><link rel="stylesheet" href="Content/css/eocjs-newsticker.css" /><link rel="stylesheet" href="Content/css/hover.min.css" /><link href="https://cdn.jsdelivr.net/lightgallery/1.3.9/css/lightgallery.min.css" rel="stylesheet" />
+    <!-- flexslider css -->
+    <!-- //testimonials css -->
+
+    <!-- js -->
+
+    
+    
+    
+    <!-- //for-mobile-apps -->
+    <link href="Content/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /><link href="Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- font-awesome icons -->
+    <link rel="stylesheet" href="Content/css/fontawesome-all.css" />
+    <!-- Font-Awesome-Icons-CSS -->
+    <!-- //font-awesome icons -->
+    <link rel="stylesheet" href="Content/css/chocolat.css" type="text/css" media="screen" />
+    <!-- //Gallery Css -->
+    <!-- testimonials css -->
+    <link rel="stylesheet" href="Content/css/flexslider.css" type="text/css" media="screen" property="" /><link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" /><link rel="stylesheet" href="Content/css/eocjs-newsticker.css" /><link rel="stylesheet" href="Content/css//hover.min.css" /><link rel="stylesheet" href="Content/css/animate.min.css" />
+    <!-- flexslider css -->
+    <!-- //testimonials css -->
+
+    <!-- js -->
+
+    <script type="text/javascript" src="/Scripts/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="/Scripts/js/explode.js"></script>
+    <script type="text/javascript" src="js/brands.js">
+    <!--Overlay-->
+    <script>
+</script>
+    <!--//Overlay-->
+
+   
+    <style>
+        .demo-gallery > ul {
+            margin-bottom: 0;
+        }
+
+            .demo-gallery > ul > li {
+                float: left;
+                margin-bottom: 15px;
+                margin-right: 0px;
+            }
+
+                .demo-gallery > ul > li a {
+                    border: 3px solid #FFF;
+                    border-radius: 3px;
+                    display: block;
+                    overflow: hidden;
+                    position: relative;
+                    float: left;
+                }
+
+                    .demo-gallery > ul > li a > img {
+                        -webkit-transition: -webkit-transform 0.15s ease 0s;
+                        -moz-transition: -moz-transform 0.15s ease 0s;
+                        -o-transition: -o-transform 0.15s ease 0s;
+                        transition: transform 0.15s ease 0s;
+                        -webkit-transform: scale3d(1, 1, 1);
+                        transform: scale3d(1, 1, 1);
+                        height: 100%;
+                        width: 100%;
+                    }
+
+                    .demo-gallery > ul > li a:hover > img {
+                        -webkit-transform: scale3d(1.1, 1.1, 1.1);
+                        transform: scale3d(1.1, 1.1, 1.1);
+                    }
+
+                    .demo-gallery > ul > li a:hover .demo-gallery-poster > img {
+                        opacity: 1;
+                    }
+
+                    .demo-gallery > ul > li a .demo-gallery-poster {
+                        background-color: rgba(0, 0, 0, 0.1);
+                        bottom: 0;
+                        left: 0;
+                        position: absolute;
+                        right: 0;
+                        top: 0;
+                        -webkit-transition: background-color 0.15s ease 0s;
+                        -o-transition: background-color 0.15s ease 0s;
+                        transition: background-color 0.15s ease 0s;
+                    }
+
+                        .demo-gallery > ul > li a .demo-gallery-poster > img {
+                            left: 50%;
+                            margin-left: -10px;
+                            margin-top: -10px;
+                            opacity: 0;
+                            position: absolute;
+                            top: 50%;
+                            -webkit-transition: opacity 0.3s ease 0s;
+                            -o-transition: opacity 0.3s ease 0s;
+                            transition: opacity 0.3s ease 0s;
+                        }
+
+                    .demo-gallery > ul > li a:hover .demo-gallery-poster {
+                        background-color: rgba(0, 0, 0, 0.5);
+                    }
+
+        .demo-gallery .justified-gallery > a > img {
+            -webkit-transition: -webkit-transform 0.15s ease 0s;
+            -moz-transition: -moz-transform 0.15s ease 0s;
+            -o-transition: -o-transform 0.15s ease 0s;
+            transition: transform 0.15s ease 0s;
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            height: 100%;
+            width: 100%;
+        }
+
+        .demo-gallery .justified-gallery > a:hover > img {
+            -webkit-transform: scale3d(1.1, 1.1, 1.1);
+            transform: scale3d(1.1, 1.1, 1.1);
+        }
+
+        .demo-gallery .justified-gallery > a:hover .demo-gallery-poster > img {
+            opacity: 1;
+        }
+
+        .demo-gallery .justified-gallery > a .demo-gallery-poster {
+            background-color: rgba(0, 0, 0, 0.1);
+            bottom: 0;
+            left: 0;
+            position: absolute;
+            right: 0;
+            top: 0;
+            -webkit-transition: background-color 0.15s ease 0s;
+            -o-transition: background-color 0.15s ease 0s;
+            transition: background-color 0.15s ease 0s;
+        }
+
+            .demo-gallery .justified-gallery > a .demo-gallery-poster > img {
+                left: 50%;
+                margin-left: -10px;
+                margin-top: -10px;
+                opacity: 0;
+                position: absolute;
+                top: 50%;
+                -webkit-transition: opacity 0.3s ease 0s;
+                -o-transition: opacity 0.3s ease 0s;
+                transition: opacity 0.3s ease 0s;
+            }
+
+        .demo-gallery .justified-gallery > a:hover .demo-gallery-poster {
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .demo-gallery .video .demo-gallery-poster img {
+            height: 48px;
+            margin-left: -24px;
+            margin-top: -24px;
+            opacity: 0.8;
+            width: 48px;
+        }
+
+        .demo-gallery.dark > ul > li a {
+            border: 3px solid #04070a;
+        }
+
+        .home .demo-gallery {
+            padding-bottom: 80px;
+        }
+    </style>
+<title>
+
+</title></head>
+<body oncut="return false;" oncopy="return false;" onpaste="return false;">
+    <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="mZNoRrDG6aHyBeXV5ZlUyHU10oixacAkSz9FmN3mrFhc9vaqEJ2t2tyn/sVZluC+cbDFzmaE//q36NPm3B1pvmAYED3IYcZ+F5EjBeWLrnxPjedKpSry8gksEqRF5GQY6f8PjxCTjr+RL9TTJxBWNaRSkDUJv6PRCKkAjr2m2T6VzSRdOu7W0xpqlbIBQP6K8AM5BkomWFhil5STTo8uGvWNubq5F4mVuxU8QbE2Ns7SRGHHWJEGdWHfECPoNERpSYm+QlnCJs1u7uCSVhjySYGvMT8u0EIHFN0EWXHeyD3kMp+nj6849MJyqlpGpfoLt2WxmMTLFWJA91txWWiiZhQiWWjVEYYwt07QL+yAmbNMQBMKSTp5vM12a08Sz7SXg9MfAsm4v7pMYenL+c+2PfhGVl1vUHV8/l/dLwjJRPFW5vJI9Axb9Ye21qHGIIoDaY19mPsvKUzlGBZ7YbCElKttzFkauKwvEF/9ZL5twOuK/dQeP5gjJo0S6JZXHo2y2usPld0Xz96otyC5DUyZ7eMykHwNHNBgZTutmnEgxvmzwbU7ugdX2ZoQ7wfiPB/FsAblxAMS+2yxHwnwQRohcoXJfLUNFQtmk/kH6JWHxcklB3OXEF3i2NiZkAFXEriSGRKRiyuQfzq6Amr2gOKUxvm9ZPN7uPuR2q4yy4HDXGj7t72ymVii3Vk26odzbtUv/2RRxYqMJjr6fA3mxZRJGJkhq1e7zQ4TZl0BQaUuIeTcdMy7QAJuF2nMLll4pjXsx4JGUWP0UAuByKCpvqCd5IO+ilkpZnppUImByDm/tA7T6CaJm/hV8XavY3sq0P6gm8A4WlGVbPzkanSQ7oMXSr4bvXyjaodL/5AMmbDuZl51rE6npJ17ur3f8mW0auujkBVsCi3wDS9wTH1mUHmQRYYAqHxfLaqXV7oPaatZexAcuLzcQr/uTXegRgl9RF1mPxWYGHJ58YiRtXj+tCkPZu+nxukOyQJtZVXIB9v6/qpeaGRWTEl9G2nzewwGSivv" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZJ5RtRBu-F-f2qXi4gtESIbLczY7c2de1-nPzPnVdWzFEIDOQnmnsNx7L3QMNcrOnQ2&amp;t=638596790468673218" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=x2nkrMJGXkMELz33nwnakMvkgbU-99IZ9gwuMpr7t4j4bLv_Y7pZKcNXbwuN5kpUsTCF2Eioqse9ICyxkuYy1WDw7la78IbwM_8lcHL339w1&amp;t=638596790468673218" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="IGZdg1IohXJz0u6CvRHFijTJdI0T/VcqHSw0Kb/vNfTgLGNplCu+uSVR7A0ExM/OXDv0eXH+6eAbYXpBXng9WNy2GjKAGunrs/5eugxvyVkg3OBB/0GuOWzIgICUQRhX/ktJiz/Hol6Ars86Lu/O6MRi1OET5QPUyX/YSzUKlILlPADXHf0SEDMz8F3VNdvtWjSWvByup5MxGlAWWeETCR0e+AiMD2mt0RW7+QsiPDaabMOc7tqDHTMDHOKePzF77ssEEUwI/vR/+z8nKG/nZlvp/zLn19mxLcnHC0ZZ44IiMxOV1umE0eVHcR4uMsRwVhL4JOQgGwfR+qx8frMazfnbNBFuMBfjw+it3EdlfUSVpOGi1lUKAz8OeSs1tpcPRR4ksEI9luwmwBIvf/zb3nD1DMgwSr5AVJ0CezQ4/ukkO+BbyfDgx0wg23ngErCng15T/Wm7p8adr+fj1DM6TZV39hroucheQbkxd8Q5Sn91DDbZ2sw0ggx2lrvpj9x3+dpVM6MfijZwIFjaWiJBESpCu2Qx49BartH6YU5DxUgUX/nY1zFblOgH+aKxQVUTwNqN5vRIBKe+RpsA3Z7Lw9qo/tRAjBOOHkyJoUxdYVlaYz0JUNODqb97F1lCjKP/ll+qqj5Q2I1n6dZihxFszau9btX37fTgsOKqB7y9Yzu5qWhIcNnyty7RzoI6MlNvS/HX7YTw3UPIkZ56pj/IRIRh7Sj38QYOOvbX47FNKEDxQ9eMM2xcSttclUeKeQMmUWpfkuWJKl4UvnlcI6Yywg9N5YMrkPiNljuqlXvbGaKkzTlCrdSsxqHW5RQ3UO3RguKd/oWeGwVeSOhBFfNbC515WiAWHVv6xr/a5yQkZiL9BNtc1+vp34yiMJEC9U4umy+pmJO8eaV6xWD/cFofiuobK1zdRMf3jqfOe4foxWokzhHskqgYuPT2miGKmdxCyG91U1eLVOmYMx0iSvU4OgkjOi0iyubGgQ8ZvVThUqWn1XAiuXlmGH5T5B56ibFKFFpLWBTF8+12EqA1lXyD/z3cgngWeQtBkDGgWDHmPuM=" />
+</div>
+        <header class="head-top sticky">
+            <div class="top-line">
+                <div class="container headercontainer">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-4 col-xs-4">
+                            <p class="ceoMail">
+                                <span><i class="fa fa-phone"></i><a href="tel:1800 4252 1950" tabindex="-1" title="1800 4252 1950">1800 4252 1950</a></span>
+                                <span><i class="fa fa-envelope-o"></i><a tabindex="0" href="mailto:info@company.com" title="ceo@tn.gov.in">ceo@tn.gov.in</a></span>
+                            </p>
+                        </div>
+
+                        <div class="col-md-8 col-sm-8 col-xs-8 text-right pull-right">
+
+                            <div class="icon-social">
+
+                                <!-- <h3>Socialize with us</h3> -->
+                                <a target="_blank" href="https://www.facebook.com/TNElectionsCEO/" class="button-topper" tabindex="1" title="Facebook">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                                <a target="_blank" href="https://twitter.com/tnelectionsceo" class="button-topper" tabindex="2" title="Twitter">
+                                    <i class="fab fa-x-twitter"></i>
+                                </a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=919444123456" class="button-topper" tabindex="3" title="WhatsApp">
+                                    <i class="fab fa-whatsapp"></i>
+                                </a>
+                                <a target="_blank" href="https://www.youtube.com/user/ceotamilnadu/videos" class="button-topper" tabindex="4" title="YouTube">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                                <a target="_blank" href="https://www.instagram.com/accounts/login/?next=/ceo_tamilnadu/" class="button-topper" tabindex="5" title="Instagram">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+
+                                <span class="space"></span>
+                                <a class="" href="screenReader.aspx" title="Screen Reader Access" tabindex="6">Screen Reader Access</a>
+                                <span class="space"></span>|
+                                <span class="space"></span>
+                                <a class="scroll" href="#skip_to_main" title="Skip to main content" tabindex="7">Skip to main content</a>
+                                <span class="space"></span>
+                                <a id="lnk_Language" title="தமிழ்" class="text-light btn btn-primary abtn h-50" href="javascript:__doPostBack(&#39;ctl00$lnk_Language&#39;,&#39;&#39;)">தமிழ்</a>
+                                <span class="space"></span>
+                                <a class="text-light increase btn btn-primary abtn" role="button" title="A +" tabindex="8">A +
+                                </a>
+                                <a class="text-light decrease btn btn-primary abtn" role="button" title="A -" tabindex="9">A -</a>
+                                <span class="space"></span>
+                                <label class="dark-label">Dark</label>
+                                <span class="space"></span>
+                                <input class="theme-toggle-input" type="checkbox" id="switch" name="theme" tabindex="10"/>
+                                
+                                <label class="theme-toggle" for="switch"></label>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid agile-banner_nav">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+                    <a class="navbar-brand" href="index.aspx" tabindex="-1">
+                        <img id="darktoggle" src="Content/images/election_dept_tn.png" alt="Public (Elections) Department" />
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto">                            
+                            <li class="nav-item">
+                                <a tabindex="11" class="nav-link hvr-sweep-to-top" href="index.aspx" title="Home">Home <span
+                                    class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a tabindex="12" class="nav-link dropdown-toggle hvr-sweep-to-top" href="Contactus_Main.aspx" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Contact Us">Contact Us
+                                </a>
+                                <div class="dropdown-menu sub-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="Contactus.aspx" title="TN CEO Office">TN CEO Office</a>
+                                    <a class="dropdown-item" href="CEO_List.aspx" title="CEOs List">CEOs List</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/DEO.aspx" title="DEOs" target="_blank">DEOs</a>
+                                    <a class="dropdown-item" href="DEOs.aspx" title="Link to DEOs">Link to DEOs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/blo/SPs.aspx" target="_blank" title="Supdts.of Police">Supdts.of Police</a>
+                                     <a class="dropdown-item" href="https://www.erolls.tn.gov.in/blo/RO.aspx" target="_blank" title="ROs of PCs">ROs of PCs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/blo/ARO.aspx" target="_blank" title="AROs of PCs">AROs of PCs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/RO.aspx" target="_blank" title="ROs of ACs">ROs of ACs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/ARO.aspx" target="_blank" title="AROs of ACs">AROs of ACs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/ERO.aspx" target="_blank" title="EROs">EROs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/AERO.aspx" target="_blank" title="AEROs">AEROs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/blo/" target="_blank" title="BLOs">BLOs</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/blo/BLO_Supervisor.aspx" target="_blank" title="BLOs Supervisors">BLOs Supervisors</a>
+                                    <a class="dropdown-item" href="https://www.erolls.tn.gov.in/blo/BLA1.aspx" target="_blank" title="BLAs - I">BLAs - I</a>
+                                    
+                                    <a class="dropdown-item" href="DCC.aspx" target="_blank" title="District Call Center">District Call Center</a>
+                                    <a class="dropdown-item" href="RTI.aspx" title="RTI">RTI</a>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a tabindex="13" class="nav-link hvr-sweep-to-top" title="Elections" href="Elections.aspx">Elections <span
+                                    class="sr-only">(current)</span></a>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a tabindex="14" class="nav-link dropdown-toggle hvr-sweep-to-top" href="Our_Services.aspx" id="servicesDropdown"
+                                    role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Services">Services</a>
+                                <div class="dropdown-menu dropdown-menu-right mega-menu-wrapper" aria-labelledby="servicesDropdown">
+                                    <a class="dropdown-item hvr-icon-up menu-link" href="Summary_Revision.aspx" title="Summary Revision of Electoral Rolls">
+                                        <i class="fas fa-file-alt hvr-icon"></i>Summary Revision of Electoral Rolls</a>
+                                    <a class="dropdown-item hvr-icon-up menu-link" href="Continuous_Updation.aspx" title="Continuous Updation of Electoral Rolls">
+                                        <i class="fas fa-file-alt hvr-icon"></i>Continuous Updation of Electoral Rolls</a>
+                                    <div class="dropdown-divider"></div>
+                                    <div class="d-md-flex align-items-start justify-content-start">                                        
+                                        <div class="mega-menu">
+                                            <div class="dropdown-header">Electoral Services</div>
+                                            <a class="dropdown-item hvr-icon-up" href="https://electoralsearch.eci.gov.in/" title="Search Your Name in Electoral Roll" target="_blank"><i
+                                                class="fas fa-search hvr-icon"></i>Search Your Name in Electoral Roll</a>
+                                            <a class="dropdown-item hvr-icon-up" href="ElectoralRolls.aspx" title="Electoral Rolls (In PDF)"><i
+                                                class="fas fa-file-pdf hvr-icon"></i>Electoral Rolls (In PDF)</a>
+                                            <a class="dropdown-item hvr-icon-up" href="https://voters.eci.gov.in/" title="Online Registration Facility" target="_blank"><i class="fa fa-user hvr-icon"></i>
+                                                Online Registration Facility</a>
+
+                                            
+                                            <a class="dropdown-item hvr-icon-up" href="Download_Forms.aspx" title="Download Forms"><i
+                                                class="fas fa-download hvr-icon"></i>Download Forms</a>
+                                            <a class="dropdown-item hvr-icon-up" href="https://voters.eci.gov.in/login" title="Applicaion Tracking" target="_blank"><i
+                                                class="fas fa-qrcode hvr-icon"></i>Applicaion Tracking </a>
+                                            <a class="dropdown-item hvr-icon-up" href="https://voters.eci.gov.in/home/ngsp" title="Register Your Complaints" target="_blank"><i
+                                                class="fas fa-list-alt hvr-icon"></i>Register Your Complaints</a>
+
+                                            <div class="dropdown-header">Other Services</div>
+                                            <a class="dropdown-item hvr-icon-up" href="Reports.aspx" title="Reports & Publications"><i class="fas fa-book hvr-icon"></i>Reports & Publications</a>
+                                            <a class="dropdown-item hvr-icon-up" href="Sveep.aspx" title="SVEEP"><i class="fas fa-question-circle hvr-icon"></i>SVEEP</a>
+                                            
+                                            <a class="dropdown-item hvr-icon-up" href="Archives.aspx" title="Archives"><i class="fas fa-archive hvr-icon"></i>Archives</a>
+                                        </div>
+                                        <div class="mega-menu">
+                                            <div class="dropdown-header">Political Parties</div>
+                                            <a class="dropdown-item hvr-icon-up" href="BLA_ContactDetails.aspx" title="Contact Details of Booth Level Agent">
+                                                <i class="fas fa-id-card hvr-icon"></i>Contact Details of Booth Level Agent </a>
+                                            <a class="dropdown-item hvr-icon-up" href="GELS2024_MPs.aspx" title="MPs from Tamil Nadu - 2024">
+                                                <i class="fas fa-users hvr-icon"></i>MPs from Tamil Nadu - 2024</a>
+                                            <a class="dropdown-item hvr-icon-up" href="PDF2022/Rajya Sabha MP List.pdf" target="_blank" title="MPs from Tamil Nadu to Rajya Sabha">
+                                                <i class="fas fa-users hvr-icon"></i>MPs from Tamil Nadu to Rajya Sabha</a>
+                                            <a class="dropdown-item hvr-icon-up" href="TNLA2021_MLA.aspx" title="MLAs - TN Legislative Assembly 2021">
+                                                <i class="fas fa-user-circle hvr-icon"></i>MLAs - TN Legislative Assembly 2021</a>
+                                            <a class="dropdown-item hvr-icon-up" href="GELS2019_MPs.aspx" title="MPs from Tamil Nadu - 2019">
+                                                <i class="fas fa-users hvr-icon"></i>MPs from Tamil Nadu - 2019</a>
+                                            <a class="dropdown-item hvr-icon-up" href="TNLA2016_MLA.aspx" title="MLAs - TN Legislative Assembly 2016">
+                                                <i class="fas fa-user-circle hvr-icon"></i>MLAs - TN Legislative Assembly 2016</a>
+                                            <a class="dropdown-item hvr-icon-up" href="GELS2014_MPs.aspx" title="MPs from Tamil Nadu - 2014">
+                                                <i class="fas fa-users hvr-icon"></i>MPs from Tamil Nadu - 2014</a>
+                                            <a class="dropdown-item hvr-icon-up" href="TNLA2011_MLA.aspx" title="MLAs - TN Legislative Assembly 2011">
+                                                <i class="fas fa-user-circle hvr-icon"></i>MLAs - TN Legislative Assembly 2011</a>
+                                            <a class="dropdown-item hvr-icon-up" href="GELS2009_MPs.aspx" title="MPs from Tamil Nadu - 2009">
+                                                <i class="fas fa-users hvr-icon"></i>MPs from Tamil Nadu - 2009</a>
+                                            <a class="dropdown-item hvr-icon-up" href="TNLA2006_MLAs.aspx" title="MLAs - TN Legislative Assembly 2006">
+                                                <i class="fas fa-user-circle hvr-icon"></i>MLAs - TN Legislative Assembly 2006</a>
+                                            <a class="dropdown-item hvr-icon-up" title="RUPPs - Registered Unrecognised Political Parties"
+                                                href="PP_Reports.aspx" target="_blank">
+                                                <i class="far fa-clipboard hvr-icon"></i>RUPPs - Registered Unrecognised Political Parties</a>
+                                             <a class="dropdown-item hvr-icon-up" title="Integrated Election Expenditure Monitoring System (IEMS)"
+                                                href="IEMS.aspx" target="_blank">
+                                                <i class="far fa-clipboard hvr-icon"></i>Integrated Election Expenditure Monitoring System (IEMS)</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a tabindex="15" class="nav-link dropdown-toggle hvr-sweep-to-top" href="Tendernotificatio.aspx" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Media Corner
+                                </a>
+                                <div class="dropdown-menu sub-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="Factsheet.aspx" title="State Fact Sheet">State Fact Sheet</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="Press_Clippings.aspx" title="Press Clippings / Print Advertisements">Press Clippings / Print Advertisements</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="Press_Releases_2026.aspx" title="Press Releases">Press Releases</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="Sveep.aspx" title="SVEEP">SVEEP</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="Gallery.aspx" title="Gallery">Gallery</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="Manuals_2024.aspx" title="Publications">Publications</a>
+                                    <div class="dropdown-divider"></div>                                    
+                                    <a class="dropdown-item" href="Unique_Stories_2025.aspx" title="Unique Stories">Unique Stories</a>
+                                </div>
+                            </li>
+                            
+                            <li class="nav-item dropdown">
+                                <a tabindex="16" class="nav-link dropdown-toggle hvr-sweep-to-top" href="Tendernotificatio.aspx" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Tenders/Notifications">Tenders/Notifications
+                                </a>
+                                <div class="dropdown-menu sub-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="Gazette_Notification.aspx" title="Gazette Notifications">Gazette Notifications</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="Notifications.aspx" title="Notifications">Notifications</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="ECI_Instructions.aspx" title="Important ECI Inst.">Important ECI Inst.</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="Tenders.aspx" title="Tenders">Tenders</a>
+                                </div>
+                            </li>
+
+
+                            <li class="nav-item">
+                                <a tabindex="17" class="nav-link hvr-sweep-to-top"
+                                    href="https://www.erolls.tn.gov.in/officersapp/Login/Login.aspx" target="_blank" title="Officers Login">Officers Login</a>
+                            </li>
+                        </ul>
+
+                    </div>
+                     
+                </nav>
+            </div>
+        </header>
+        <!--Header-->
+        
+    <div class="container-fluid py-md-1">
+        <div class="w3ls-row row flash-bd">
+            <div class="col-lg-2 no-padding">
+                    <div class="fash-box box arrow-right" ><i class="fa fa-bolt"></i>Latest Updates</div>
+                </div>
+            
+			
+               
+               
+          
+                    
+               
+             <div class="col-lg-10"><marquee onmouseover="this.stop()" onmouseout="this.start()">
+                    <div id="example-1" class="example-1">
+                        <a href="https://erolls.tn.gov.in/acwithcandidate_tnla2026/AC_List.aspx" target="_blank" title="List of contesting candidates - Form 7A in HTML Format" style="color:#219cf3 !important; font-weight:bold;">List of contesting candidates - Form 7A in HTML Format</a><img src="Content/images/new-gif.gif" height="20" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://erolls.tn.gov.in/acwithcandidate_tnla2026/" target="_blank" title="Know your AC / Candidate Details" style="color:#219cf3 !important; font-weight:bold;">Know your AC / Candidate Details</a><img src="Content/images/new-gif.gif" height="20" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                        <a href="https://www.electionapps.tn.gov.in/NOM2026/pu_nom/public_report.aspx" target="_blank" title="Nomination Summary Details - TNLA 2026" style="color:#219cf3 !important; font-weight:bold;">Nomination Summary Details - TNLA 2026</a><img src="Content/images/new-gif.gif" height="20" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                        <a href="PDF2026/Pocket VG 2026 - Eng-24.02.2026.pdf" target="_blank" title="Pocket Voter Guide - 2026" style="color:#219cf3 !important; font-weight:bold;">Pocket Voter Guide - 2026</a><img src="Content/images/new-gif.gif" height="20" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                        <a href="https://voters.eci.gov.in/download-eroll" target="_blank" title="Final Publication of Electoral Roll - SIR 2026" style="color:#219cf3 !important; font-weight:bold;">Final Publication of Electoral Roll - SIR 2026</a><img src="Content/images/new-gif.gif" height="20" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                        
+                        
+                        
+                        
+                        
+                        Public FAQs <a href="PDF2025/Public_FAQ_English.pdf" target="_blank" title="Public FAQs" style="color:#219cf3 !important; font-weight:bold;">English</a> /
+                        <a href="PDF2025/Public_FAQ_Tamil.pdf" target="_blank" title="Public FAQs" style="color:#219cf3 !important; font-weight:bold;">Tamil</a><img src="Content/images/new-gif.gif" height="20" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                        
+                                            
+                       </div></marquee>
+                </div>
+        </div>
+    </div>
+
+    <!--/banner-->
+    
+    <!--//banner-->
+    <!-- welcome -->
+    <div id="skip_to_main" class="skip-to-content"></div>
+    <div class="welcome py-3" id="about">
+
+        <div class="container py-md-3 df-width">
+            <div class="agile-title">
+                <div class="w3-head-all text-center mb-3">
+                    <img src="Content/images/eci_logo.png" width="100" alt="WELCOME TO THE WEBSITE OF CHIEF ELECTORAL OFFICER, TAMIL NADU" />
+                    <h3>WELCOME TO THE WEBSITE OF CHIEF ELECTORAL OFFICER, TAMIL NADU</h3>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    
+    <!-- //welcome -->
+  
+  
+    <!-- services -->
+    <div class="services py-5" id="services">
+        <div class="container py-md-3 df-width">
+            <div class="agileits-heading">
+                <div class="w3-head-all text-center mb-4">
+                    <h3 class="resizable">Our Services</h3>
+                </div>
+            </div>
+            <div class="wthree-services-grids services-grids py-3 row ">
+           
+
+               
+                <div class="col-lg-3 col-sm-6 wthree-services hvr-icon-bounce">
+                    <div class="wthree-services-grid">
+                        <button tabindex="9" type="button" class="speach-btn" onclick="speak('box-content-1');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                        <a href="TNLA2026.aspx" title="General Elections to TNLA - 2026">
+                            <div class="wthree-services-info" id="box-content-7" data-aos="fade-right" data-aos-duration="2000">
+                                <i class="fas fa-briefcase text-primary hvr-icon" aria-hidden="true"></i>
+                                <h4 class="resizable">General Elections to TNLA - 2026</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                 <div class="col-lg-3 col-sm-6 wthree-services hvr-icon-bounce">
+     <div class="wthree-services-grid">
+         <button tabindex="41" type="button" class="speach-btn" onclick="speak('box-content-2');">
+             <i class="fas fa-volume-up"></i>
+         </button>
+         <a href="SIR_2026.aspx" title="Special Intensive Revision - 2026">
+             <div class="wthree-services-info" id="box-content-1" data-aos="fade-right" data-aos-duration="2000">
+
+                 <img src="SSRicon/SSR-2023.png" aria-hidden="true" width="80px" />
+                 <h4 class="resizable">Special Intensive Revision - 2026</h4>
+                 <div class="w3ls-border"></div>
+             </div>
+         </a>
+     </div>
+ </div>
+
+                
+
+               
+
+               
+
+
+               
+
+                
+
+                
+
+
+
+                
+
+
+                <!--  <div class="col-lg-3 col-sm-6 wthree-services hvr-icon-bounce">
+                    <div class="wthree-services-grid">
+                        <button tabindex="9" type="button" class="speach-btn" onclick="speak('box-content-1');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                        <a href="BE2023_Erode.aspx" title="Special Summary Revision - 2023">
+                            <div class="wthree-services-info" id="box-content-7" data-aos="fade-right" data-aos-duration="2000">
+                                
+                                <img src="/content/images/train-station.png" aria-hidden="true" width="50px" />
+                                <h4 class="resizable">Bye Election to 98 - Erode (East) Assembly Constituency</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div> -->
+                <!--   <div class="col-lg-3 col-sm-6 wthree-services hvr-icon-bounce">
+                    <div class="wthree-services-grid">
+                        <button tabindex="9" type="button" class="speach-btn" onclick="speak('box-content-1');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                        <a href="SSR2023.aspx" title="Special Summary Revision - 2023">
+                            <div class="wthree-services-info" id="box-content-7" data-aos="fade-right" data-aos-duration="2000">
+                                
+                                <img src="SSRicon/SSR-2023.png" aria-hidden="true" width="80px" />
+                                <h4 class="resizable">Special Summary Revision - 2023</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>-->
+                
+
+                
+                <div class="col-lg-3 col-sm-6 wthree-services services1-gap2 hvr-icon-bounce ">
+                    <div class="wthree-services-grid">
+                        <button tabindex="42" class="speach-btn" onclick="speak('box-content-4');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+
+                        <a href="Electoral_Services.aspx" title="Electoral Roll Services">
+                            <div class="wthree-services-info" data-aos="fade-down" data-aos-duration="2000" id="box-content-2">
+                                <i class="fas fa-industry text-warning hvr-icon" aria-hidden="true"></i>
+                                <h4 class="resizable">Electoral Roll Services</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wthree-services services1-gap2 hvr-icon-bounce ">
+    <div class="wthree-services-grid">
+        <button tabindex="42" class="speach-btn" onclick="speak('box-content-4');">
+            <i class="fas fa-volume-up"></i>
+        </button>
+
+        <a href="https://electoralsearch.eci.gov.in/pollingstation" title="Know your Polling Station" target="_blank">
+            <div class="wthree-services-info" data-aos="fade-down" data-aos-duration="2000" id="box-content-9">
+                <i class="fas fa-map-marker text-success hvr-icon" aria-hidden="true"></i>
+                <h4 class="resizable">Know your Polling Station</h4>
+                <div class="w3ls-border"></div>
+            </div>
+        </a>
+    </div>
+</div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="wthree-services-grids services-grids py-3 row ">
+                <div class="col-lg-3 col-sm-6 wthree-services services1-gap hvr-icon-bounce ">
+                    <div class="wthree-services-grid">
+                        <button tabindex="43" class="speach-btn" onclick="speak('box-content-5');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+
+                        <a href="Sveep.aspx" title="SVEEP">
+                            <div class="wthree-services-info" data-aos="fade-left" data-aos-duration="2000" id="box-content-3">
+                                <i class="fas fa-expand text-success hvr-icon" aria-hidden="true"></i>
+                                <h4 class="resizable">SVEEP</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wthree-services services1-gap hvr-icon-bounce">
+                    <div class="wthree-services-grid">
+                        <button tabindex="44" class="speach-btn" onclick="speak('box-content-6');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                        <a href="https://voters.eci.gov.in/home/ngsp" title="Complaints" target="_blank">
+                            <div class="wthree-services-info " data-aos="fade-right" data-aos-duration="2000" id="box-content-4">
+                                <i class="fas fa-globe text-danger hvr-icon" aria-hidden="true"></i>
+                                <h4 class="resizable">Complaints</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wthree-services services1-gap hvr-icon-bounce ">
+                    <div class="wthree-services-grid">
+                        <button tabindex="45" class="speach-btn" onclick="speak('box-content-7');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                        <a href="PressRelease2024.aspx" title="Press Releases">
+                            <div class="wthree-services-info " data-aos="fade-down" data-aos-duration="2000" id="box-content-5">
+                                <i class="fas fa-laptop text-dark hvr-icon" aria-hidden="true"></i>
+                                <h4 class="resizable">Press Releases</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wthree-services services1-gap hvr-icon-bounce">
+                    <div class="wthree-services-grid ">
+                        <button tabindex="46" class="speach-btn" onclick="speak('box-content-8');">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                        <a href="Tendernotificatio.aspx" title="Tenders / Notifications">
+                            <div class="wthree-services-info " data-aos="fade-left" data-aos-duration="2000" id="box-content-6">
+                                <i class="fas fa-university text-info hvr-icon" aria-hidden="true"></i>
+                                <h4 class="resizable">Tenders / Notifications</h4>
+                                <div class="w3ls-border"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+
+            <div class="container df-width">
+                <div class="row apps-img py-3">
+                    <div class="col">
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.eci.citizen&hl=en_IN" title="Voter Helpline">
+                            <img src="Content/images/f.png" alt="Voter Helpline" />
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a target="_blank" href="https://ecisveep.nic.in/" title="SVEEP">
+                            <img src="Content/images/e.png" alt="SVEEP" />
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=pwd.eci.com.pwdapp&hl=en_IN" title="PwD">
+                            <img src="Content/images/d.png" alt="PwD" />
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a target="_blank" href="https://eci.gov.in/" title="Election Commission of India">
+                            <img src="Content/images/c.png" alt="Election Commission of India" />
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=in.nic.eci.cvigil&hl=en_IN" title="cVIGIL">
+                            <img src="Content/images/b.png" alt="cVIGIL" />
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="DCC.aspx" title="1950">
+                            <img style="width: auto; padding: 16px;" src="Content/images/a.png" alt="1950" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //services -->
+
+    <!-- news -->
+    <div class="news py-5 " id="news">
+        <div class="container py-md-3 df-width">
+
+            <div class="w3-head-all text-center mb-3">
+                <h3>Latest News & Events</h3>
+            </div>
+            <div class="news-agileinfo row resizable">
+                <div class="col-lg-6 news-w3row" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="wthree-news-grids row">
+                        <div class="col-lg-2 col-md-3 col-xs-3 datew3-agileits">
+                            <img src="Content/images/eci_logo.png" width="30" class="img-responsive" alt="Special Intensive Revision" />
+                        </div>
+                        <div class="col-lg-10 col-md-10 col-xs-10  get-in-touch">
+                            <h4>
+                                <a class="" href="PressRelease2025/SIR process English.pdf" target="_blank" title="Special Intensive Revision">Special Intensive Revision</a></h4>
+                            <h6>Nov 03, 2025</h6>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="wthree-news-grids row">
+                        <div class="col-lg-2 col-md-3 col-xs-3 datew3-agileits">
+                            <img src="Content/images/eci_logo.png" width="30" class="img-responsive" alt="SIR announcement" />
+                        </div>
+                        <div class="col-lg-10 col-md-10 col-xs-10  get-in-touch">
+                            <h4>
+                                <a class="" href="PressRelease2025/SIR announcement English.pdf" target="_blank" title="SIR announcement">SIR announcement</a></h4>
+                            <h6>Oct 27, 2025</h6>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                  
+                  
+                </div>
+
+                <div class="col-lg-6 news-w3row" data-aos="fade-left" data-aos-duration="2000">
+                    <div class="wthree-news-grids row">
+                        <div class="col-lg-2 col-md-3 col-xs-3 datew3-agileits">
+                            <img src="Content/images/eci_logo.png" width="30" class="img-responsive" alt="SIR Political Party Meeting" />
+                        </div>
+                        <div class="col-lg-10 col-md-10 col-xs-10  get-in-touch">
+                            <h4>
+                                <a class="" href="PressRelease2025/SIR political party meeting English.pdf" target="_blank" title="SIR Political Party Meeting">SIR Political Party Meeting</a></h4>
+                            <h6>Oct 29, 2025</h6>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div> 
+                    <div class="wthree-news-grids row">
+                        <div class="col-lg-2 col-md-3 col-xs-3 datew3-agileits">
+                            <img src="Content/images/eci_logo.png" width="30" class="img-responsive" alt="SSR Final Roll" />
+                        </div>
+                        <div class="col-lg-10 col-md-10 col-xs-10  get-in-touch">
+                            <h4>
+                                <a class="" href="PressRelease2025/SSR Final roll 06.01.2025 English.pdf" target="_blank" title="SSR Final Roll">SSR Final Roll</a></h4>
+                            <h6>Jan 06, 2025</h6>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                   
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <!-- //news -->
+
+    <!-- contact -->
+    <div class="contact py-5 " id="contact">
+        <div class="container py-md-3 df-width">
+            <div class="w3-head-all text-center mb-3">
+                <h3>Get In Touch</h3>
+            </div>
+            <div class="agile-contact-form row resizable">
+                <div class="col-md-6 contact-form-left" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="w3layouts-contact-form-top">
+
+                        <div class="get-in-touch">
+                            <h4>Tmt. Archana Patnaik, I.A.S.,</h4>
+                            <p>Chief Electoral Officer (CEO) & Principal Secretary to Government</p>
+                        </div>
+                        
+                       
+                       
+                         <div class="divider"></div>
+                         <div class="get-in-touch">
+                             <h4>Thiru. A.Sivagnanam, I.A.S.,</h4>
+                             <p>Additional Chief Electoral Officer</p>
+                         </div>
+                        <div class="divider"></div>
+                        <div class="get-in-touch">
+                            <h4>Thiru. V.Sridhar,</h4>
+                            <p>Additional CEO & Additional Secretary to Government</p>
+                        </div>
+                        <div class="divider"></div>
+                        <div class="get-in-touch">
+                            <h4>Thiru.Srutanjay Narayanan, I.A.S.,</h4>
+                            <p>Joint Chief Electoral Officer (IT)</p>
+                        </div>
+                        <div class="divider"></div>
+                        <div class="get-in-touch">
+                            <h4>Thiru. R.Manuel Raj,</h4>
+                            <p>Joint Chief Electoral Officer (SVEEP)</p>
+                        </div>
+                        <div class="divider"></div>
+                        <div class="get-in-touch">
+                            <h4>Thiru. M.Vijayaraghavan,</h4>
+                            <p>Under Secretary to Government</p>
+                        </div>
+                        <div class="divider"></div>
+                        <div class="get-in-touch">
+                            <h4>Tmt. D. Leelavathi,</h4>
+                            <p>Under Secretary to Government</p>
+                        </div>
+                        
+                        <div class="divider"></div>
+                        <div class="get-in-touch">
+                            <h4>Thiru. P.Ashok Kumar,</h4>
+                            <p>System Manager</p>
+                        </div>
+                    </div>
+                    <div class="agileits-contact-address">
+                        <ul>
+                            <li>
+                                <i class="fas fa-phone" aria-hidden="true"></i>
+                                <span>1800 4252 1950</span>
+                            </li>
+                            <li>
+                                <i class="fas fa-envelope" aria-hidden="true"></i>
+                                <span><a tabindex="-1" href="mailto:ceo@tn.gov.in">ceo@tn.gov.in</a></span>
+                            </li>
+                            <li>
+                                <i class="fas fa-map-marker" aria-hidden="true"></i>
+                                <span>Secretariat, Fort St George,Chennai - 600 009</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 contact-form-right" data-aos="fade-left" data-aos-duration="2000">
+                    <div class="contact-form-top">
+                        <h3>Send us a message</h3>
+                    </div>
+                    <div class="agileinfo-contact-form-grid">
+                        <label class="text-4">Name of the District:<span style="color:red;font-weight:bold;">*</span></label>
+                        <select name="ctl00$ContentPlaceHolder1$ddl_District" id="ContentPlaceHolder1_ddl_District" class="form-control">
+	<option value="Select">Select</option>
+	<option value="31">ARIYALUR</option>
+	<option value="35">CHENGALPATTU</option>
+	<option value="2">CHENNAI</option>
+	<option value="13">COIMBATORE</option>
+	<option value="18">CUDDALORE</option>
+	<option value="6">DHARMAPURI</option>
+	<option value="14">DINDIGUL</option>
+	<option value="11">ERODE</option>
+	<option value="33">KALLAKURICHI</option>
+	<option value="3">KANCHEEPURAM</option>
+	<option value="30">KANNIYAKUMARI</option>
+	<option value="15">KARUR</option>
+	<option value="5">KRISHNAGIRI</option>
+	<option value="24">MADURAI</option>
+	<option value="38">MAYILADUTHURAI</option>
+	<option value="19">NAGAPATTINAM</option>
+	<option value="10">NAMAKKAL</option>
+	<option value="17">PERAMBALUR</option>
+	<option value="22">PUDUKKOTTAI</option>
+	<option value="27">RAMANATHAPURAM</option>
+	<option value="37">RANIPET</option>
+	<option value="9">SALEM</option>
+	<option value="23">SIVAGANGA</option>
+	<option value="34">TENKASI</option>
+	<option value="21">THANJAVUR</option>
+	<option value="12">THE NILGIRIS</option>
+	<option value="25">THENI</option>
+	<option value="1">THIRUVALLUR</option>
+	<option value="20">THIRUVARUR</option>
+	<option value="28">THOOTHUKUDI</option>
+	<option value="16">TIRUCHIRAPPALLI</option>
+	<option value="29">TIRUNELVELI</option>
+	<option value="36">TIRUPATHUR</option>
+	<option value="32">TIRUPPUR</option>
+	<option value="7">TIRUVANNAMALAI</option>
+	<option value="4">VELLORE</option>
+	<option value="8">VILUPPURAM</option>
+	<option value="26">VIRUDHUNAGAR</option>
+
+</select>
+                        <span id="ContentPlaceHolder1_RequiredFieldValidator4" style="display:none;"></span>
+                        <br />
+                        <label class="text-4">Name:<span style="color:red;font-weight:bold;">*</span></label>
+                        <input name="ctl00$ContentPlaceHolder1$txtName" type="text" id="ContentPlaceHolder1_txtName" class="form-control" autocomplete="off" /> 
+                        <span id="ContentPlaceHolder1_req1" style="display:none;"></span>
+                        <br />
+                        <label class="text-4">Email:<span style="color:red;font-weight:bold;">*</span></label>
+                        <input name="ctl00$ContentPlaceHolder1$txtEmail" type="text" id="ContentPlaceHolder1_txtEmail" class="form-control" autocomplete="off" />
+                        <span id="ContentPlaceHolder1_RequiredFieldValidator1" style="display:none;"></span>
+                        <span id="ContentPlaceHolder1_regexEmailValid" style="display:none;"></span>
+                        <br />
+                        <label class="text-4">Mobile No:<span style="color:red;font-weight:bold;">*</span></label>
+                        <input name="ctl00$ContentPlaceHolder1$txtTelephone" type="text" maxlength="10" id="ContentPlaceHolder1_txtTelephone" class="form-control" autocomplete="off" />
+                        <span id="ContentPlaceHolder1_RequiredFieldValidator2" style="display:none;"></span>
+                        <span id="ContentPlaceHolder1_RegularExpressionValidator3" style="display:none;"></span>
+                        <br />
+                        <label class="text-4">Feedback:<span style="color:red;font-weight:bold;">*</span></label>
+                        <textarea name="ctl00$ContentPlaceHolder1$txtMessage" rows="2" cols="20" id="ContentPlaceHolder1_txtMessage" class="form-control" autocomplete="off">
+</textarea>
+                        <span id="ContentPlaceHolder1_RequiredFieldValidator3" style="display:none;"></span>
+                        <br />
+                        <input type="submit" name="ctl00$ContentPlaceHolder1$btnSubmitfeedback" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnSubmitfeedback&quot;, &quot;&quot;, true, &quot;Feedback&quot;, &quot;&quot;, false, false))" id="ContentPlaceHolder1_btnSubmitfeedback" class="btn btn-primary" />
+                        <div id="successMessage" class="text-success" style="display: none;">
+                            உங்கள் கருத்து வெற்றிகரமாக அனுப்பப்பட்டது!
+                        </div>
+                        <div id="ContentPlaceHolder1_val" style="display:none;">
+
+</div>
+
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+
+            <div class="w3agile-map" data-aos="fade-down" data-aos-duration="2000">
+                <h3 class="resizable">Find us here</h3>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.308192413642!2d80.28526051464644!3d13.079643890785013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5268ad0fe75195%3A0x4cff4a37449c92fd!2sFort%20St.%20George!5e0!3m2!1sen!2sin!4v1610698945726!5m2!1sen!2sin"
+                    width="600" height="450" frameborder="0" style="border: 0" allowfullscreen="" aria-hidden="false"
+                    tabindex="0"></iframe>
+            </div>
+        </div>
+    </div>
+    <!-- Vertically centered Modal -->
+        <div class="modal fade" id="startUpModalCenter" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="startUpModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-footer">
+                <button type="button" class="btn btn-light" data-dismiss="modal">
+                    Close
+                </button>
+            </div>
+                          <div class="modal-footer">
+                <a href="TNLA2026_Schedule.aspx" target="_blank" title="Click Here to View in Schedule - TNLA 2026" class="btn btn-light">Click Here to View in Schedule - TNLA 2026</a>
+            </div>
+            <div class="modal-body">
+                <a href="TNLA2026_Schedule.aspx" title="Click Here to View in Schedule - TNLA 2026" target="_blank">
+                    <img src="TNLA2026/Pop_up_4.jpeg" class="img-fluid" alt="Awareness" style="height: 600px !important; width: 100% !important" />
+                    
+                </a>
+            </div>
+          
+        </div>
+    </div>
+</div>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js'></script>
+    <script src="dist/script_home.js"></script>
+
+         <!-- //contact -->
+        <!-- //Vertically centered Modal -->
+        <button title="Contact Us" class="open-button" onclick="openForm()"><i class="fas fa-envelope-square"></i></button>
+
+        <div class="chat-popup" id="myForm">
+            <div class="form-container">
+                <div class="pop-contact">
+                    <h5>Contact Us</h5>
+                </div>
+
+                <ul class="list-group">
+                    <li class="list-group-item">
+
+                        <a href="Contactus.aspx" title="TN CEO Office" tabindex="401">TN CEO Office</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="CEO_List.aspx" title="CEOs List" tabindex="402">CEOs List</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/DEO.aspx" title="DEOs" target="_blank" tabindex="403">DEOs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="DEOs.aspx" title="Link to DEOs" tabindex="404">Link to DEOs</a>
+                    </li>
+                   <li class="list-group-item">
+                        <a href="https://erolls.tn.gov.in/blo/SPs.aspx" title="Supdts.of Police">Supdts.of Police</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://erolls.tn.gov.in/blo/RO.aspx" target="_blank" title="ROs of ACs">ROs of PCs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://erolls.tn.gov.in/blo/ARO.aspx" target="_blank" title="AROs of ACs">AROs of PCs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/RO.aspx" target="_blank" title="ROs of ACs" tabindex="406">ROs of ACs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/ARO.aspx" target="_blank" title="AROs of ACs" tabindex="407">AROs of ACs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/ERO.aspx" target="_blank" title="EROs" tabindex="408">EROs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://www.erolls.tn.gov.in/acwithcandidate_be2019/AERO.aspx" target="_blank" title="AEROs" tabindex="409">AEROs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="https://www.erolls.tn.gov.in/blo/" target="_blank" title="BLOs" tabindex="410">BLOs</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="RTI.aspx" title="RTI" tabindex="411">RTI</a>
+                    </li>
+                </ul>
+                <button type="button" class="btn btn-sm cancel" onclick="closeForm()" title="Close" tabindex="412 ">Close</button>
+            </div>
+        </div>
+
+        <footer>
+
+            <!-- footer -->
+            
+                        <section class="agile-footer middle w3ls-section">
+                <div class="container">
+                    <div class="agileits_w3layouts-footer-bottom">
+                        <div class="row w3_agile-footer-grids py-5">
+                            <div class="col-lg-2 col-sm-3 mb-sm-0 mb-4 px-sm-0 px-4 w3_agile-footer1 f1">
+                                <h5 class="mb-3">Quick Links</h5>
+                                <ul class="w3ls-footer-bottom-list">
+                                    <li><a href="../index.aspx" title="Home" tabindex="413">Home</a></li>
+                                    <li><a href="../Elections.aspx" title="Elections" tabindex="414">Elections</a></li>
+                                    <li><a href="../Tenders.aspx" title="Tenders" tabindex="415">Tenders</a></li>
+                                    <li><a href="../Notifications.aspx" title="Notifications" tabindex="416">Notifications</a></li>
+                                    <li><a href="https://www.erolls.tn.gov.in/officersapp/Login/Login.aspx" title="Officers Login" tabindex="417">Officers Login</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-sm-9 mb-sm-0 mb-4 px-sm-0 px-4 row w3_agile-footer1 f2">
+                                <div class="col-lg-6 col-sm-7 mb-sm-0 mb-4 inner-li">
+                                    <h5 class="mb-3">Address</h5>
+                                    <ul class="w3ls-footer-bottom-list">
+                                        <li>
+                                            <span class="fas fa-map-marker"></span>Secretariat, Fort St George,Chennai - 600 009
+                                        </li>
+                                        <li>
+                                            <span class="fas fa-envelope"></span>
+                                            <a href="mailto:ceo@tn.gov.in" title="ceo@tn.gov.in" tabindex="418">ceo@tn.gov.in</a>
+                                        </li>
+                                        <li><span class="fas fa-phone"></span>1800 4252 1950</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-lg-6 col-sm-9 mb-sm-0 mb-4 px-sm-0 px-4 row w3_agile-footer1 f3">
+                                    <h5 class="mb-3">Web Information Manager</h5>
+                                     <ul class="w3ls-footer-bottom-list">
+                                        <li>
+                                            <a title="24/7 Service">P.ASHOK KUMAR<br />System Manager</a>
+                                        </li>
+                                        <li>
+                                            <span class="fas fa-map-marker"></span>Secretariat, Fort St George,Chennai - 600 009
+                                        </li>
+                                        <li>
+                                             <span class="fas fa-envelope"></span>sysmngr.pelecd@tn.gov.in
+                                        </li>
+                                        <li>
+                                            <span class="fas fa-phone"></span>044 - 2567 5082
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="col-lg-4 col-md-12 px-sm-0 px-4 w3_agile-footer1 f4">
+                                <h5 class="mb-3">Socialize with us</h5>
+                                <a target="_blank" href="https://www.facebook.com/TNElectionsCEO/" class="button-footr" title="Facebook" tabindex="419">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                                <a target="_blank" href="https://twitter.com/tnelectionsceo" class="button-footr" title="Twitter" tabindex="420">
+                                    <i class="fab fa-x-twitter"></i>
+                                </a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=919444123456" class="button-footr" title="WhatsApp" tabindex="421">
+                                    <i class="fab fa-whatsapp"></i>
+                                </a>
+                                <a target="_blank" href="https://www.youtube.com/user/ceotamilnadu/videos" class="button-footr" title="YouTube" tabindex="422">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                                <a target="_blank" href="https://www.instagram.com/accounts/login/?next=/ceo_tamilnadu/" class="button-footr" title="Instagram" tabindex="423">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="copyright py-4">
+                <div class="agileits_w3layouts-copyright text-center">
+                    <p>
+                        © 2021 Public (Elections) Department, Tamil Nadu. All rights reserved.
+                    </p>
+                    <p>
+                        Visit Count :
+        <!-- Start of CuterCounter Code -->
+                       <img src="https://www.cutercounter.com/hits.php?id=hmxpfkdp&nd=9&style=8" border="0" alt="website counter">
+                        <!-- End of CuterCounter Code -->
+                    </p>
+                                <p style="color:white">
+                Last Updated : Jan 07, 2025
+            </p>
+                </div>
+            </section> 
+            <!-- //footer -->
+        </footer>
+       
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ContentPlaceHolder1_val"));
+var Page_Validators =  new Array(document.getElementById("ContentPlaceHolder1_RequiredFieldValidator4"), document.getElementById("ContentPlaceHolder1_req1"), document.getElementById("ContentPlaceHolder1_RequiredFieldValidator1"), document.getElementById("ContentPlaceHolder1_regexEmailValid"), document.getElementById("ContentPlaceHolder1_RequiredFieldValidator2"), document.getElementById("ContentPlaceHolder1_RegularExpressionValidator3"), document.getElementById("ContentPlaceHolder1_RequiredFieldValidator3"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ContentPlaceHolder1_RequiredFieldValidator4 = document.all ? document.all["ContentPlaceHolder1_RequiredFieldValidator4"] : document.getElementById("ContentPlaceHolder1_RequiredFieldValidator4");
+ContentPlaceHolder1_RequiredFieldValidator4.controltovalidate = "ContentPlaceHolder1_ddl_District";
+ContentPlaceHolder1_RequiredFieldValidator4.errormessage = "Select your district";
+ContentPlaceHolder1_RequiredFieldValidator4.display = "None";
+ContentPlaceHolder1_RequiredFieldValidator4.validationGroup = "Feedback";
+ContentPlaceHolder1_RequiredFieldValidator4.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_RequiredFieldValidator4.initialvalue = "Select";
+var ContentPlaceHolder1_req1 = document.all ? document.all["ContentPlaceHolder1_req1"] : document.getElementById("ContentPlaceHolder1_req1");
+ContentPlaceHolder1_req1.controltovalidate = "ContentPlaceHolder1_txtName";
+ContentPlaceHolder1_req1.errormessage = "Enter your Name";
+ContentPlaceHolder1_req1.display = "None";
+ContentPlaceHolder1_req1.validationGroup = "Feedback";
+ContentPlaceHolder1_req1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_req1.initialvalue = "";
+var ContentPlaceHolder1_RequiredFieldValidator1 = document.all ? document.all["ContentPlaceHolder1_RequiredFieldValidator1"] : document.getElementById("ContentPlaceHolder1_RequiredFieldValidator1");
+ContentPlaceHolder1_RequiredFieldValidator1.controltovalidate = "ContentPlaceHolder1_txtEmail";
+ContentPlaceHolder1_RequiredFieldValidator1.errormessage = "Enter your Email Id";
+ContentPlaceHolder1_RequiredFieldValidator1.display = "None";
+ContentPlaceHolder1_RequiredFieldValidator1.validationGroup = "Feedback";
+ContentPlaceHolder1_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_RequiredFieldValidator1.initialvalue = "";
+var ContentPlaceHolder1_regexEmailValid = document.all ? document.all["ContentPlaceHolder1_regexEmailValid"] : document.getElementById("ContentPlaceHolder1_regexEmailValid");
+ContentPlaceHolder1_regexEmailValid.controltovalidate = "ContentPlaceHolder1_txtEmail";
+ContentPlaceHolder1_regexEmailValid.errormessage = "Enter Valid Email Address";
+ContentPlaceHolder1_regexEmailValid.display = "None";
+ContentPlaceHolder1_regexEmailValid.validationGroup = "Feedback";
+ContentPlaceHolder1_regexEmailValid.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ContentPlaceHolder1_regexEmailValid.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ContentPlaceHolder1_RequiredFieldValidator2 = document.all ? document.all["ContentPlaceHolder1_RequiredFieldValidator2"] : document.getElementById("ContentPlaceHolder1_RequiredFieldValidator2");
+ContentPlaceHolder1_RequiredFieldValidator2.controltovalidate = "ContentPlaceHolder1_txtTelephone";
+ContentPlaceHolder1_RequiredFieldValidator2.errormessage = "Enter your Mobile No";
+ContentPlaceHolder1_RequiredFieldValidator2.display = "None";
+ContentPlaceHolder1_RequiredFieldValidator2.validationGroup = "Feedback";
+ContentPlaceHolder1_RequiredFieldValidator2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_RequiredFieldValidator2.initialvalue = "";
+var ContentPlaceHolder1_RegularExpressionValidator3 = document.all ? document.all["ContentPlaceHolder1_RegularExpressionValidator3"] : document.getElementById("ContentPlaceHolder1_RegularExpressionValidator3");
+ContentPlaceHolder1_RegularExpressionValidator3.controltovalidate = "ContentPlaceHolder1_txtTelephone";
+ContentPlaceHolder1_RegularExpressionValidator3.errormessage = "Please Enter valid Mobile Number";
+ContentPlaceHolder1_RegularExpressionValidator3.display = "None";
+ContentPlaceHolder1_RegularExpressionValidator3.validationGroup = "Feedback";
+ContentPlaceHolder1_RegularExpressionValidator3.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ContentPlaceHolder1_RegularExpressionValidator3.validationexpression = "^[6-9][0-9]{9}$";
+var ContentPlaceHolder1_RequiredFieldValidator3 = document.all ? document.all["ContentPlaceHolder1_RequiredFieldValidator3"] : document.getElementById("ContentPlaceHolder1_RequiredFieldValidator3");
+ContentPlaceHolder1_RequiredFieldValidator3.controltovalidate = "ContentPlaceHolder1_txtMessage";
+ContentPlaceHolder1_RequiredFieldValidator3.errormessage = "Enter your Feedback";
+ContentPlaceHolder1_RequiredFieldValidator3.display = "None";
+ContentPlaceHolder1_RequiredFieldValidator3.validationGroup = "Feedback";
+ContentPlaceHolder1_RequiredFieldValidator3.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_RequiredFieldValidator3.initialvalue = "";
+var ContentPlaceHolder1_val = document.all ? document.all["ContentPlaceHolder1_val"] : document.getElementById("ContentPlaceHolder1_val");
+ContentPlaceHolder1_val.showmessagebox = "True";
+ContentPlaceHolder1_val.showsummary = "False";
+ContentPlaceHolder1_val.validationGroup = "Feedback";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+    <div class="icon-angle-up" id="toTop" style="display:block;"></div>
+</body>
+
+    <!-- stats -->
+<script src="Scripts/js/jquery.waypoints.min.js"></script>
+<script src="Scripts/js/jquery.countup.js"></script>
+<script>
+    $(".counter").countUp();
+</script>
+<!-- //stats -->
+<!--gallery -->
+<script src="Scripts/js/jquery.chocolat.js"></script>
+<!--light-box-files -->
+<script type="text/javascript">
+    $(function () {
+        $(".gallery-grid1 a").Chocolat();
+    });
+</script>
+<!-- //gallery -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+<script>
+    // polyfill
+    window.requestAnimationFrame = (function () {
+        return window.requestAnimationFrame ||
+            window.webkitRequestAnimationFrame ||
+            window.mozRequestAnimationFrame ||
+            function (callback) {
+                window.setTimeout(callback, 1000 / 60);
+            };
+    })();
+
+    var speed = 5000;
+    (function currencySlide() {
+        var currencyPairWidth = $('.slideItem:first-child').outerWidth();
+        $(".slideContainer").animate({ marginLeft: -currencyPairWidth }, speed, 'linear', function () {
+            $(this).css({ marginLeft: 0 }).find("li:last").after($(this).find("li:first"));
+        });
+        requestAnimationFrame(currencySlide);
+    })();
+
+</script>
+<script>
+    var checkbox = document.querySelector('input[name=theme]');
+
+    checkbox.addEventListener('change', function () {
+        if (this.checked) {
+            trans()
+            document.documentElement.setAttribute('data-theme', 'dark')
+            document.getElementById('darktoggle').setAttribute('src', 'Content/images/election_dept_tn_white.png');
+        } else {
+            trans()
+            document.documentElement.setAttribute('data-theme', 'light')
+            document.getElementById('darktoggle').setAttribute('src', 'Content/images/election_dept_tn.png');
+        }
+    })
+
+    let trans = () => {
+        document.documentElement.classList.add('transition');
+    window.setTimeout(() => {
+        document.documentElement.classList.remove('transition')
+    }, 1000)
+    }
+</script>
+
+
+
+<!-- flexSlider -->
+<!-- for testimonials -->
+<script defer src="Scripts/js/jquery.flexslider.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $(".flexslider").flexslider({
+            animation: "slide",
+            start: function (slider) {
+                $("body").removeClass("loading");
+            },
+        });
+    });
+</script>
+<!-- //flexSlider -->
+<!-- for testimonials -->
+
+<!-- start-smoth-scrolling -->
+<script src="Scripts/js/move-top.js"></script>
+<script src="Scripts/js/easing.js"></script>
+<script>
+    jQuery(document).ready(function ($) {
+        $(".scroll").click(function (event) {
+            event.preventDefault();
+            $("html,body").animate(
+                { scrollTop: $(this.hash).offset().top },
+                1000
+            );
+        });
+    });
+</script>
+<!-- start-smoth-scrolling -->
+<!-- here stars scrolling icon -->
+<script>
+    $('.launch-container').click(function () {
+        $('#overlay').fadeOut(1500, "linear");
+        document.getElementById("audioblast").play();
+        setTimeout(() => {
+            $("#hide-confetti").fadeOut(1500, "linear");
+    }, 10000);
+    });
+
+    $(document).ready(function () {
+        $('#overlay').fadeIn();
+        $().UItoTop({ easingType: "easeOutQuart" });
+        $("#loading-div").fadeOut(1000)
+    });
+    //!--Font resize script-- >
+    $(document).ready(function () {
+        var resize = new Array('.resizable');
+        resize = resize.join(',');
+
+        //resets the font size when "reset" is clicked
+        var resetFont = $(resize).css('font-size');
+        $(".reset").click(function () {
+            $(resize).css('font-size', resetFont);
+        });
+
+        //increases font size when "+" is clicked
+        $(".increase").click(function () {
+            var originalFontSize = $(resize).css('font-size');
+            var originalFontNumber = parseFloat(originalFontSize, 10);
+            var newFontSize = originalFontNumber * 1.2;
+            $(resize).css('font-size', newFontSize);
+            return false;
+        });
+
+        //decrease font size when "-" is clicked
+
+        $(".decrease").click(function () {
+            var originalFontSize = $(resize).css('font-size');
+            var originalFontNumber = parseFloat(originalFontSize, 10);
+            var newFontSize = originalFontNumber * 0.8;
+            $(resize).css('font-size', newFontSize);
+            return false;
+        });
+
+    });
+    //Font resize script-->
+</script>
+<!-- //here ends scrolling icon -->
+
+<!-- for bootstrap working -->
+<script src="Scripts/js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+
+
+<script>
+    var stickyOffset = $('.sticky').offset().top;
+    console.log(stickyOffset);
+    $(window).scroll(function () {
+        var sticky = $('.sticky'),
+            scroll = $(window).scrollTop();
+        if (scroll >= 10) sticky.addClass('fixed');
+        else sticky.removeClass('fixed');
+    });
+</script>
+<script>
+    function speak(id) {
+        const node = document.getElementById(id),
+            textContent = node.textContent;
+        speechSynthesis.speak(new SpeechSynthesisUtterance(textContent));
+    }
+</script>
+<script>
+    $('.tabDisable').on('keydown', function (e) {
+        if (e.keyCode == 9) {
+            e.preventDefault();
+        }
+    });
+</script>
+<script>
+    function openForm() {
+        document.getElementById("myForm").style.display = "block";
+    }
+
+    function closeForm() {
+        document.getElementById("myForm").style.display = "none";
+    }
+</script>
+<script>
+    $('#startUpModalCenter').modal('show');
+</script>
+<script>
+    $(document).ready(function () {
+        $('#lightgallery').lightGallery();
+    });
+</script>
+<script>
+    $(function () {
+
+        $("#example-2").eocjsNewsticker({
+            speed: 25,
+            timeout: 0.5,
+        });
+
+        $("#example-3").eocjsNewsticker({
+            speed: 25,
+            timeout: 0.5,
+        });
+
+        $("#example-4").eocjsNewsticker({
+            speed: 25,
+            timeout: 0.5,
+        });
+        $("#example-5").eocjsNewsticker({
+            speed: 25,
+            timeout: 0.5,
+        });
+        $("#example-6").eocjsNewsticker({
+            speed: 25,
+            timeout: 0.5,
+        });
+        $("#example-7").eocjsNewsticker({
+            speed: 25,
+            timeout: 0.5,
+        });
+        $("#example-8").eocjsNewsticker({
+            speed: 25,
+            timeout: 0.5,
+        });
+    });
+</script>
+
+</html>
+
+
+

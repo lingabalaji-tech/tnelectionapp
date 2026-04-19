@@ -1,0 +1,409 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Gummidipoondi",
+    "count": 27,
+    "candidates": [
+      {
+        "name": "A.h. Siva Ganesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "A.harinathudu",
+        "address": "No.102, G.n.chetty Street, Arani, Ponneri Taluk, Tiruvallur District - 601101",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AHS-2026-20260406084441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10835/0/8abf2253cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.dinesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "T.j.desamuthu",
+        "address": "No.4.Kollur Village, Kilikodi Post, Ponneri Taluk, Tiruvallur District - 601 206",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DDIN-2026-20260406045956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9723/0/b4aeb3c7f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.sudhakar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Devan",
+        "address": "84. Chitoor Nadham, Eguvarpalayam Post, Gummidipoondi Taluk, Tiruvallur District 601201",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DSUD-2026-20260406055113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9158/0/fa2e31bb16/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.kirubakaran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Gurumoorthy",
+        "address": "No.9. Ma Po Ci Nagar, 1 St Street, Old Gummidipoondi - Gummidipoondi 601 201",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GKIR-2026-20260402040312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5406/0/7a61d6c4ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.ranjiith B.sc.l.l.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Govindharaju",
+        "address": "No.37A, S.r.kandigai, Pathapalayam, Pappankuppam, Po, Sidharajakandigai, Gummidipoondi Taluk, Tiruvallur District - 601201",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAN-2026-20260406081305.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12881/0/07bd791f42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.ranjith B.sc.l.l.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "S.govindharaju",
+        "address": "No.37A, S.r.kandigai, Pathapalayam, Pappankuppam, Po, Sidharajakandigai, Gummidipoondi Taluk, Tiruvallur District - 601201",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAN-2026-20260406081305.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10511/0/1dfbf4adac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.tamilarasan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "T.j.govindarajan",
+        "address": "No.175, G N T Road, Kavaraipettai,  Keelmudalambedu Village,  Gummidipoondi Taluk, Tiruvallur Distirct 601 206",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GTAM-2026-20260402053520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5825/0/0cb49b6eb2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopal.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Kangadaran",
+        "address": "No.582, Kottakuppam, Manjangarani, Uthukottai Taluk, Tiruvallur District",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPAL-2026-20260406090940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11976/0/0f42a9d661/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Chandra Sekar",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "K.karunakaran",
+        "address": "No.18/4, Murthinkar 1St Lane, Vyasarpadi, Chennai 600039",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCHA-2026-20260404064940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7795/0/88ba7c770f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Manogaran",
+        "address": "No. 605 Nagarajakandigai Village S.r.kandigai Post, Gummidipoondi Taluk",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/1/1775302868PHOTO.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9700/0/6bc5a97dd4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.sarathkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "G.logu",
+        "address": "No.824 Bajanai Kovil Street, Thervazhi Colony, Thervazhi Post, Gummidipoondi Taluk, Tiruvallur District - 601201",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LSAR-2026-20260404045032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7849/0/412c8d61e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.jagadeesan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "J.munusami",
+        "address": "No.574, Arijana Colony, Theirvazhi  Post , Athupakkam Village, Gummidipoondi, Tiruvallur District -601201",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MJAG-2026-20260330060248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/341/0/9e8cdf8197/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kumaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Manogaran",
+        "address": "No. 605 Nagarajakandigai Village S.r.kandigai Post, Gummidipoondi Taluk",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/1/1775302868PHOTO.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13064/0/1062dcaa24/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.abilash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "G.radhakrishnan",
+        "address": "No.23.Lakshmi Amman Kovil Street, Alappakkam Village, Athivakkam Post, Uthukottai Taluk, Tiruvallur District 601102Rict",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RABI-2026-20260404035909.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6597/0/f871146949/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.malin Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Radhakrishnan",
+        "address": "No.443, Annai Therasa Nagar, Palavakkam Village, Uthukottai Taluk, Tiruvallur District",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAL-2026-20260406082956.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sridar. B.l.,",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Raghavan",
+        "address": "No.1 S.e.n.nagar Main Road, Thatchur, Ponneri- 601204",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSRI-2026-20260330063229.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandra Reddy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Bramma Reddy",
+        "address": "No.41,Perumal Kovil Street, Gopalreddy Kandigai Village, S.r.kandigai Post, Gummidipoondi Taluk, Thiruvallur District - 601 201.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMAC-2026-20260402071651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5681/0/143ca6301a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.madhupriya",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "V.sudhakar",
+        "address": "No.9 Chetti Street, Peritivakkam Village, Pondavakkam Post, Uthukottai Taluk, Tiruvallur District 602 026",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAD-2026-20260402075520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6028/0/a8380ec84e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vijayakumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Sambandha Varma",
+        "address": "No.12. M P C Nagar, 1St Street, Old Gummidipoondi, Tiruvallur - 601201",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIJ-2026-20260402031645.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5188/0/c41997b1e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vijayakumari",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Sdk Sankar",
+        "address": "No.61.Egavalliyamman Kovil Street, Narasingapuram Village, Periya Obulapuram Post, Gummidipoondi Taluk, Tiruvallur District 601 201",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIJ-2026-20260404033729.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6326/0/a073c6145c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sdk Sankar",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Dhasarathan",
+        "address": "No.61 Egavalliyamman Kovil Stree, Narasingapuram Village, Periyaobulapuram Post, Gummidipoondi Taluk Tiruvallur District - 601201",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDKSA-2026-20260404030451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6648/0/bd559ad3f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudhakar.v",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Venugopal",
+        "address": "09.Cheeti Street, Peritivakkam Village, Pondavakkam Post, Uthukottai Taluk, Tiruvallur District 602026",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260402062552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5815/0/64fbceb8d6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.govindan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "M.thulukknam",
+        "address": "No.231.Thaliyarepalliyam, F3, Elavur, Gummidipoondi Taluk, Tiruvallur District - 601201",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TGOV-2026-20260406064842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8666/0/5e61e3efa4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.j.govindarajan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "S.v.jayaraman",
+        "address": "No.175.G N T Road, Kavaraipet, Keelmudalambedu, Gummidipoondi Taluk,  Tiruvallur District 601 201",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TJG-2026-20260402044935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5387/0/cc70d331f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tmt. Madhu Priya S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "V.sudhakar",
+        "address": "No.9 Chetti Street, Peritivakkam Village, Pondavakkam Post, Uthukottai Taluk, Tiruvallur District 602 026",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAD-2026-20260402075520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8951/0/71e4d8f2ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "U.prathap",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Umapathy",
+        "address": "No.47/1, Dr.radhakrishnan Street, T.v.puram,  Ponneri",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UPRA-2026-20260330070420.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.sudhakar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gummidipoondi",
+        "father_husband_name": "Velu",
+        "address": "No.46.Pappar Street, Keelmuldalambedu, Mellmudalambedu Village, Gummidipoondi Taluk, Tiruvallur District 601206",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUD-2026-20260404061942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7816/0/3b20d3d209/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

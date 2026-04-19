@@ -1,0 +1,430 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sirkazhi",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "A.malathi",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Ashokkumar",
+        "address": "1,Pillaiyar Kovil Street,Perattakudi,Kuthalam Taluk,Komal East,Mayiladuthurai District-609805",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAL-2026-20260406065449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9332/0/2fec9c45d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Babusankar.r",
+        "party": "Our Mahathma National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Rajkumar",
+        "address": "60/62-3,Indhira Colony,Mayiladuthurai Town,Mayiladuthurai District-609001",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBAB-2026-20260406062030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15580/0/0c2646dbd4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.r.pandiyan",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Ramachandran",
+        "address": "441,Main Road,Thiruneelakandam,Oothavanthankudi,Sirkazhi Taluk,Mayiladuthurai District-609111",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRP-2026-20260404083830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8139/0/79d74a9925/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.s.gopinath",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Samidurai",
+        "address": "54,Vadapathy Street,Sendhangudi,Vellalagaram,Mayiladuthurai Taluk,Mayiladuthari District-609118",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOP-2026-20260404075457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8382/0/8101cd049d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gajendran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Kanagasabai",
+        "address": "4/99A,Senniyanallur,Perumbur Post,Sirkazhi Taluk,Mayiladuthurai District-609108",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANAG-2026-20260404085309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8579/0/10761d6059/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gajendran.kanaga",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Kanagasabai",
+        "address": "4/99A,Senniyanallur,Perumbur Post,Sirkazhi Taluk,Mayiladuthurai District-609108",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANAG-2026-20260404085309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14705/0/7c1f3eb7ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopinath.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Samidurai",
+        "address": "54,Vadapathy Street,Sendhangudi,Vellalagaram,Mayiladuthurai Taluk,Mayiladuthari District-609118",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOP-2026-20260404075457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15028/0/75750b7cca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.elayaraja",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Kaliyaperumal",
+        "address": "1/301-1,Nariyan Street,Alakkudy Post,Sirkazhi Taluk,Mayiladuthurai District-609101",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KELA-2026-20260404080401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7449/0/5ee4b76317/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.pethaperumal",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Kannan",
+        "address": "No 1/27,Kalaignar Nagar,Akkulur,Pattamangalam,Mayiladuthurai Taluk,Mayiladuthurai District-609001",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPET-2026-20260406061027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9277/0/d088596bff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanaga.gajendran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Kanagasabai",
+        "address": "4/99A,Senniyanallur,Perumbur Post,Sirkazhi Taluk,Mayiladuthurai District-609108",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANAG-2026-20260404085309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8208/0/767281034c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.s.praveenadevi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Manibalan",
+        "address": "No-86, Mariyamman Koil Street, Erukkur, Sirkazhi Taluk, Mayiladuthurai District - 609108",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSP-2026-20260404065700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7806/0/61c7d825f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sakthi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Manibalan",
+        "address": "No.86, Mariyamman Koil Street, Erukkur, Sirkali Taluk, Mayiladuthurai District - 609108",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAK-2026-20260404063605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7249/0/91a4900d98/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malathi.a",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Ashokkumar",
+        "address": "1,Pillaiyar Kovil Street,Perattakudi,Kuthalam Taluk,Komal East,Mayiladuthurai District-609805",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAL-2026-20260406065449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15077/0/4fed80c61c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.kalaivani",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Pandiyan",
+        "address": "441,Main Road,Thiruneelakandam,Oothavathankudi,Sirkazhi Taluk , Mayiladuthurai District-609111",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKAL-2026-20260404084552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8182/0/d7e195de29/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandiyan.c.r",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Ramachandran",
+        "address": "441,Main Road,Thiruneelakandam,Oothavanthankudi,Sirkazhi Taluk,Mayiladuthurai District-609111",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRP-2026-20260404083830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15771/0/ccd694d367/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pethaperumal.k",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Kannan",
+        "address": "No 1/27,Kalaignar Nagar,Akkulur,Pattamangalam,Mayiladuthurai Taluk,Mayiladuthurai District-609001",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPET-2026-20260406061027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15226/0/f549c4054e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.babusankar",
+        "party": "Our Mahathma National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Rajkumar",
+        "address": "60/62-3,Indhira Colony,Mayiladuthurai Town,Mayiladuthurai District-609001",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBAB-2026-20260406062030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10244/0/5bf148fd70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.nanmathi Selvan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Rajangam",
+        "address": "33, Thadalan Mela Veedi, Balasubramiyan Nagar, Sirkazhi, Mayiladuthurai District - 609110.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RNAN-2026-20260404072149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7597/0/848cf9ceab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sakthivel",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Ramadoss",
+        "address": "2/122,Keela Street,Kuravaloor,Neppathur Po,Sirkazhi Taluk",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAK-2026-20260330051657.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/378/0/960eb8b23e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.senthilselvan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Rajangam",
+        "address": "5/112, Sullan Street, Agaraperunthottam, Perunthottam, Sirkazhi, Mayiladuthurai District - 609106",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEN-2026-20260404071118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7246/0/00b074fa8b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.subash",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Rajarajan",
+        "address": "3/206,Thenmanikkramam ,Manikramam,Sirkazhi Taluk",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSUB-2026-20260330045757.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/182/0/d59c8894e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.tamilventhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Ramamoorthy",
+        "address": "1/22-1,Nangur,Narayanapuram,Thiruvali Post,Sirkazhi Taluk,Mayiladuthurai District-609109",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RTAM-2026-20260404082431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8315/0/8d495fdff3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.gopinath",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Samidurai",
+        "address": "54,Vadapathy Street,Sendhangudi,Vellalagaram,Mayiladuthurai Taluk,Mayiladuthari District-609118",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOP-2026-20260404075457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7218/0/0dd1931ceb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.premladevi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Prabakaran",
+        "address": "1/50,North Street,Kizhaai,Mayiladuthurai Taluk,Mayiladuthurai District-609202",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SPRE-2026-20260404081600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7728/0/6496ab8f3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthi.m",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Manibalan",
+        "address": "No.86, Mariyamman Koil Street, Erukkur, Sirkali Taluk, Mayiladuthurai District - 609108",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAK-2026-20260404063605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15889/0/2fea038cc9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilselvan.r",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Rajangam",
+        "address": "5/112, Sullan Street, Agaraperunthottam, Perunthottam, Sirkazhi, Mayiladuthurai District - 609106",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEN-2026-20260404071118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15886/0/24eaa74a2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subash.r",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Rajarajan",
+        "address": "3/206,Thenmanikkramam ,Manikramam,Sirkazhi Taluk, Mayiladuthurai District - 609114",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSUB-2026-20260330045757.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15081/0/612fc8ad59/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilventhan.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sirkazhi",
+        "father_husband_name": "Ramamoorthy",
+        "address": "1/22-1,Nangur,Narayanapuram,Thiruvali Post,Sirkazhi Taluk,Mayiladuthurai District-609109",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RTAM-2026-20260404082431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15409/0/16f7499a3e/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Oddanchatram",
+    "count": 46,
+    "candidates": [
+      {
+        "name": "A.alagiyannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "S.alagiyanan",
+        "address": "8/3, Gopalapuram, Chatrapatti, Chatrapatti Post, Oddanchatram Taluk, Dindigul District - 624614",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AALA-2026-20260402061141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5761/0/fb4719d2b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.manikannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "K.arumugam",
+        "address": "164, West Thottam, Alayagoundanpatti, Ambilikai, Oddanchatram Taluk, Dindigul District -624612",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAN-2026-20260407123339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11606/0/295ea8932b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.nagul Prakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Arivalagan",
+        "address": "Thottathu Salai, Sastha Nagar  West , Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAG-2026-20260407011813.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11643/0/0e9389f6b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Alagiyannan. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Alagiyanan. S",
+        "address": "8/3, Gopalapuram, Chatrapatti, Chatrapatti Post, Oddanchatram Taluk, Dindigul District - 624614",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AALA-2026-20260406102525.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13325/0/c10744b4c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananthraj. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Thirumoorthy",
+        "address": "3/12, Amuthampalam, Kallimandayam Village, Oddanchatram Taluk, Dindigul District - 624616",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TANA-2026-20260407011303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12851/0/f74b569899/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Muthusamy",
+        "address": "54 A/1, Sangupullaipudur, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260404080925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13240/0/438481d545/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arun Kumar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Ramasamy",
+        "address": "1/17, Ambilikkai, Oddanchatram Taluk, Dindigul District-624612",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARU-2026-20260407022807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12630/0/5c2841546b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.sooriyamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "N.chinnakaliyappan",
+        "address": "Pukazhendhi Street, Muthamizh Nagar, Pammal, Kancheepuram District-600075",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSOO-2026-20260407122030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11597/0/0b0caaddd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellamuthu. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Karupana Goundar",
+        "address": "102/5, Kodankipatti, Devathur, Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCHE-2026-20260407012609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12869/0/1c5a68eaa2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.jothieswaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "N.eswaran",
+        "address": "Member Garden, Kosavapatti, Kappiliapatti, Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EJOT-2026-20260407023639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11554/0/87a5c4bef2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jothieswaran. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Eswaran",
+        "address": "Member Garden, Kosavapatti, Kappiliapatti, Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EJOT-2026-20260407023639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12636/0/05282d7147/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.chellamuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Karupana Goundar",
+        "address": "102/5, Kodankipatti, Devathur, Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCHE-2026-20260407012609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11650/0/e2cdc15f82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.raghunath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "M.kesavaraj",
+        "address": "253, Marappan Thottam, Rukkuvarpatti, Amarapoondi Post, Palani Taluk, Dindigul District-624613",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAG-2026-20260404073212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7879/0/4d86f5798a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.rasiyappan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Karuppana Gounder",
+        "address": "255 D/9, Gandhi Market, By Pass Road, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAS-2026-20260407121105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11582/0/2b9fead9f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumarrathinam. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Muthusamy",
+        "address": "1/91, Aranganathapuram, S.athikombai Post, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKUM-2026-20260407124555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12825/0/76635290a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.arumugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Muthusamy",
+        "address": "54 A1, Sangupullaipudur, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260404080925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7586/0/e17dfcc9c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kumarrathinam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Muthusamy",
+        "address": "1/91, Aranganathapuram, S.athikombai Post, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKUM-2026-20260407124555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11618/0/7dc989c09e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.prabaharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Marimuthu",
+        "address": "1/62, Poolampatti, Marichilambu, Palani Taluk, Dindigul District - 624613",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPRA-2026-20260407010028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11629/0/6af866ca22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sathya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "S.mohan",
+        "address": "175, Thilagam Illam, West Street, Nachiyappagoundanvalasu, Palani Taluk, Dindigul District",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAT-2026-20260407020342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11543/0/759eb246fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.shanmugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Manickam",
+        "address": "Perumalkovilvalasu, Poosaripatti Village,  Thirumalaigoundanvalasu  Post, Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSHA-2026-20260407021220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11548/0/98f5b28f60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Subramani",
+        "address": "Kothukarar Garden, Kosavapatti, Kappiliapatti Village, Oddanchatram Taluk, Dindigul District - 624612",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAN-2026-20260407024811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12644/0/015bca99a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikannan. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Arumugam. K",
+        "address": "164, West Thottam, Alayagoundanpatti, Ambilikai, Oddanchatram Taluk, Dindigul District -624612",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAN-2026-20260407123339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12808/0/8c186e57b0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Shanmugam. C",
+        "address": "175,Thilagam Illam, West Street, Nachiappagoundan Valasu, Kovilammapatti Post, Palani Taluk, Dindigul District -624618",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOH-2026-20260407015141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12603/0/93a50756e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugaraj. P",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Palaniyappan. V",
+        "address": "542/99, Sathya Nagar, Oddanchatram Taluk, Dindigul District - 624619",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PMUR-2026-20260406102608.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13354/0/327410610d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagul Prakash. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Arivalagan",
+        "address": "Thottathu Salai, Sastha Nagar  West , Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAG-2026-20260407011813.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12856/0/5d05628cc3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.manikandan",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Pitchai Muthu",
+        "address": "Chinnakarattupatti, Reddiyapatti, Veeralapatti Post, Oddanchatram Taluk, Dindigul District - 624614",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260404075706.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7265/0/5afd0de5e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.murugaraj",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "V.palaniyappan",
+        "address": "542/99, Sathya Nagar, Oddanchatram Taluk, Dindigul District - 624619",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUR-2026-20260402063844.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5875/0/a4cb213dea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.ragupathi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Palanisamy",
+        "address": "3/200, West Thottam, Boduvarpatti, Oddanchatram Taluk, Dindigul District-624614",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAG-2026-20260330041643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/616/0/1cb56e7aab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.udhayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Palaniyappan",
+        "address": "542 Z9, Sathya Nagar, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PUDH-2026-20260404074019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8075/0/118933a2cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabaharan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Marimuthu",
+        "address": "1/62, Poolampatty, Marichilambu, Palani Taluk, Dindigul District - 624613",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPRA-2026-20260407010028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12838/0/b2a13b61c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.arunkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "N.ramasamy",
+        "address": "1/17, Ambilikkai, Oddanchatram Taluk, Dindigul District-624612",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARU-2026-20260407022807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11552/0/cb8b96568d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.jotheeswaran",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Ramasamy Gounder",
+        "address": "1/139, I.vadipatti Post, Kallimandayam Via, Oddanchatram Taluk, Dindigul District-624616",
+        "gender": "Male",
+        "age": "77",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJOT-2026-20260404072133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7569/0/c1ab0a8a54/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sakkarapani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Rangasamy Gounder",
+        "address": "3/102 A1, Semozhi Nagar, Kallimandayam, Oddanchatram Taluk, Dindigul District-624616",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAK-2026-20260404070727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7118/0/32f446aea6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "N.rathinasamy",
+        "address": "Arasappapillaipatti Post, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUR-2026-20260407022213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11550/0/f447ab7bd1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raghunath. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Kesavaraj. M",
+        "address": "253, Marappan Thottam, Rukkuvarpatti, Amarapoondi Post, Palani Taluk, Dindigul District-624613",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAG-2026-20260404073212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13282/0/0728afdfcf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ragupathi. P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Palanisamy",
+        "address": "3/200, West Thottam, Boduvarpatty Post, Oddanchatram Taluk, Dindigul District-624614",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRAG-2026-20260406102432.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13397/0/bccfd4a7c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Subramani",
+        "address": "Kothukarar Garden, Kosavapatti, Kappiliapatti Village, Oddanchatram Taluk, Dindigul District - 624612",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAN-2026-20260407024811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11557/0/d7f8a81151/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.mohan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "C.shanmugam",
+        "address": "175,Thilagam Illam, West Street, Nachiappagoundan Valasu, Kovilammapatti Post, Palani Taluk, Dindigul District -624618",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOH-2026-20260407015141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11536/0/f3c3f90669/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakkarapani. R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Rangasamy Gounder",
+        "address": "3/102 A1, Semozhi Nagar, Kallimandayam, Oddanchatram Taluk, Dindigul District-624616",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAK-2026-20260404070727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13187/0/d4b099da86/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Manickam",
+        "address": "Perumalkovilvalasu, Poosaripatti Village,  Thirumalaigoundanvalasu  Post, Oddanchatram Taluk, Dindigul District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSHA-2026-20260407021220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12621/0/496ef25b04/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Rathinasamy. N",
+        "address": "Arasappapillaipatti Post, Oddanchatram Taluk, Dindigul District-624619",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUR-2026-20260407022213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12624/0/3b672169eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.ananthraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "P.thirumoorthy",
+        "address": "3/12, Amuthampalam, Kallimandayam Village, Oddanchatram Taluk, Dindigul District - 624616",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TANA-2026-20260407011303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11639/0/7529665601/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.thirumalaisamy",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Thirumalaisamy",
+        "address": "2/39, 2Nd Ward, Vinayagarkovil Street, Palappanpattipudur, Palappanpatti Post, Oddanchatram Taluk, Dindigul District - 624616",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TTHI-2026-20260402062707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5819/0/77fa4d4f97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Umar Faruc Babu",
+        "party": "Bharatha Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Mydeen Batcha",
+        "address": "1672/446A-5, A.s.m.pettai, Oddanchatram Taluk, Dindigul District - 624619",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UMARF-2026-20260406114341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11956/0/18f9b0b3e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vidiyal S. Sekar",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "Senniappan.s",
+        "address": "4.G.k.mooppanar Street, Sangu Nagar, Erode District-638011",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIDIY-2026-20260407120129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12751/0/b178982d55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vidiyal S.sekar",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Oddanchatram",
+        "father_husband_name": "S.senniappan",
+        "address": "4.G.k.moopanar Street, Sangu Nagar, Erode District-638011",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIDIY-2026-20260407120129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11569/0/7f28c6f65f/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

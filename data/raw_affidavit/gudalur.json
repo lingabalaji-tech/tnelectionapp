@@ -1,0 +1,250 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Gudalur",
+    "count": 16,
+    "candidates": [
+      {
+        "name": "Deepak Sai Kishore A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Arul Prakasam",
+        "address": "F1, Amoga Golden Bell Apartments, 11/5, Puliyur 1St Lane, Puliyur 2Nd Main Road, Trust Puram, Kodambakkam, Chennai - 600024",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEEPA-2026-20260404060128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7089/0/bcb18e7022/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Deepak Sai Kishore.a",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Arul Prakasam",
+        "address": "F1, Amoga Golden Bell Apartments, 11/5, Puliyur 1St Lane, Puliyur 2Nd Main Road, Trust Puram, Kodambakkam, Chennai - 600024",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEEPA-2026-20260404060128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15791/0/05b7bdc032/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhravidamani.m",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Muniyandi",
+        "address": "14/82 E7, M G R Nagar, Pandalur, The Nilgiris - 643233",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHRA-2026-20260404011033.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15717/0/580a9dc4df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Ramakrishanan",
+        "address": "5/438, Marappalam, Puliyamparai Post, Gudalur, Nilgiris. 643212",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260330035840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/447/0/c867dee1e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik.r",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Ramakrishanan",
+        "address": "5/438, Marappalam, Puliyamparai Post, Gudalur, Nilgiris. 643212",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260330035840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16639/0/1910a8f6b2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ketheeswaran R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Ramachandran",
+        "address": "7/57 F2 , Bharathi Nagar, Newhope Post, Ovalley,Gudalur, The Nilgiris - 643226",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KETHE-2026-20260404054526.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7588/0/f3700dc948/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Dhravidamani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Muniyandi",
+        "address": "14/82 E7, M G R Nagar, Pandalur, The Nilgiris - 643233",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHRA-2026-20260404011033.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6104/0/14c537bc7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pon Jayaseelan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Ponniah",
+        "address": "12-567A5E, Ezhumuram ,Marthoma Nagar Post,Gudalur - 643212",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONJA-2026-20260402020153.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5078/0/a4b130c722/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pon.jayaseelan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Ponniah",
+        "address": "12-567A5E, Ezhumuram ,Marthoma Nagar Post,Gudalur - 643212",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONJA-2026-20260402020153.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16430/0/069f5e7d69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prem Anand J",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Jayabalan",
+        "address": "P 3/1, 3 Rd Floor, Daksha Virutha, I O B Colony, Maruthamalai Road Coimbatore - 641046",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMA-2026-20260406072315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11181/0/0541ebc501/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raj S K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Shanmugam",
+        "address": "19/379, Kamaraj Nagar Colony, Chevidipet,Gudalur Post,Gudalur - 643211",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJSK-2026-20260406083256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11317/0/c3b8ec365d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raj.s.k",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Shanmugam",
+        "address": "19/379, Kamaraj Nagar Colony, Chevidipet,Gudalur Post,Gudalur - 643211",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJSK-2026-20260406083256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15548/0/c30113b387/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekaran M",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Muthaiah",
+        "address": "4/9A1,Valavayal,Devala Post, Gudalur - 643212",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260406091108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12047/0/111b3f473c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangavel G",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Govindan",
+        "address": "11/205 C1E,M G R Nagar, Chembala, Gudalur - 643212",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260406065015.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8914/0/b4ab59cf9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thilagaraj N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Nagaraj",
+        "address": "13/30A,Paisa House,Market Road,Pandalur Post,Pandalur - 643233",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THILA-2026-20260406081554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10631/0/7183678341/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thilagaraj.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudalur",
+        "father_husband_name": "Nagaraj",
+        "address": "13/30A,Faisha House,Market Road,Pandalur Post,Pandalur - 643233",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THILA-2026-20260406081554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14763/0/ba2b88988f/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

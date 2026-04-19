@@ -1,0 +1,551 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Perambalur",
+    "count": 36,
+    "candidates": [
+      {
+        "name": "A.gunasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "A.ariyan",
+        "address": "31-3, East Street, Veppanthattai Post, Veppanthattai Taluk, Perambalur District - 621116.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGUN-2026-20260404012837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6303/0/928ee282c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anandajothi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Paramasivam",
+        "address": "145, South Street, Bommanappadi Post, Perambalur Taluk, Perambalur District - 621104.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260406011452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9220/0/7668313fe9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anandajothi Paramasivam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Paramasivam. S",
+        "address": "D.no.145, South Street, Bommanappadi Village, Perambalur Taluk, Perambalur District - 621104.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANAND-2026-20260408045006.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15022/0/b02abb199f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arivazhagan. D",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Dharmalingam. S",
+        "address": "D.no.47, Aathithiravidar Street, Pudhunaduvalur Village, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DARI-2026-20260408013615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15697/0/3e6c7d126c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.jayachandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "K.balasundaram",
+        "address": "590/A, Palani Nagar, Mettusorathur, Sorathur Post, Thuraiyur Taluk, Tiruchirappalli District - 621002",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BJAY-2026-20260404043534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7333/0/a760d1828a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrakumar P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Pachamuthu",
+        "address": "6/18, Mettuchery, V.kalathur Post, Veppanthattai Taluk, Perambalur District - 621117.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260404030635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6670/0/6a0c75b056/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrakumar. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Pachamuthu. S",
+        "address": "D.no.6/18, Mettuchery, V.kalathur Post, Veppanthattai Taluk, Perambalur District - 621117.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CHAND-2026-20260408013552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16142/0/f82a815530/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.arivazhagan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "S.dharmalingam",
+        "address": "47, Adhidravider Street, Pudhunaduvalur Post, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DARI-2026-20260404042349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6086/0/f33a246442/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhamodharan. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Subramaniyam. V",
+        "address": "D.no.5/104, Middle Street, Sirugudal Post, Kunnam Taluk, Perambalur District - 621115.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SDHA-2026-20260408045108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14953/0/5b836ee966/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Jayalakshmi. S.t",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Thangaraju. A",
+        "address": "D.no.7A/44-1H, Madhanagopalapuram, Perambalur Town, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAL-2026-20260408013453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15980/0/1217cb6828/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.muthumari",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "C.ganesan",
+        "address": "4-34, M.g.r Nagar, Arumadal Post, Perambalur Taluk, Perambalur District - 621115.",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMUT-2026-20260406020757.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9280/0/2b34e28782/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasekaran. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Ariyan. A",
+        "address": "31-3, East Street, Veppanthattai Post, Veppanthattai Taluk, Perambalur District - 621116.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGUN-2026-20260404012837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15856/0/b1710b71af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Suganya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Justice Gopinath",
+        "address": "3-183, South Street, Irur Post, Alathur Taluk, Perambalur District - 621109.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGAN-2026-20260402041618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11470/0/4647e7c072/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Janci Rani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Rajagopalan",
+        "address": "Old D.no.173/B, New D.no.63/B, New Colony, Thuraimangalam Post, Perambalur Taluk, Perambalur District - 621220.",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JANCI-2026-20260330044032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/150/0/fb66f090bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayachandran. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Balasundaram. K",
+        "address": "D.no.590/A, Palani Nagar, Mettusorathur, Sorathur Post, Thuraiyur Taluk, Trichy District - 621002",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BJAY-2026-20260408013632.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15947/0/b7e627dfaa/",
+          "https://voterlist.co.in/affidavit-download/15947/1/11231d71c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayalakshmi S.t.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Thangaraju A",
+        "address": "7A/44-1H, Madhanagopalapuram, Perambalur, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAL-2026-20260404025025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6468/0/bd84f6b639/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Punitharaj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Kanagaraj",
+        "address": "1, Near Karthik Petrol Bunk, Thuraimangalam Post, Perambalur Taluk, Perambalur District - 621220.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPUNI-2026-20260330024506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/118/0/c9a47a3f2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Rajakandhasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Mookkan",
+        "address": "7/51, South Street, Ladapuram East, Perambalur Taluk, Perambalur District - 621101.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260402012758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11077/0/b3c05d931b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.rajakandhasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Mookkan",
+        "address": "7/51, South Street, Ladapuram East, Perambalur Taluk, Perambalur District - 621101.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260402012758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5030/0/12bb2f0207/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.venkatachalam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "P.palanimuthu",
+        "address": "54, V.keeranur, Kakkanji Nagar, Vayalapadi Post, Kunnam Taluk, Perambalur District - 621716",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PVEN-2026-20260330034031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/335/0/e06ea38a0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Jancirani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Rajagopalan",
+        "address": "Old D.no.173/B, New D.no.63/B, New Colony, Thuraimangalam Post, Perambalur Taluk, Perambalur District - 621220.",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JANCI-2026-20260330044032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11517/0/07b4de7582/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.subramanian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Ramalingam",
+        "address": "5/51, North Street, Perunila Village, Kai.kalathur West Post, Veppanthattai Taluk, Perambalur District - 621117.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUB-2026-20260406025933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9599/0/f2283ff0cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.thamizhselvan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Raju",
+        "address": "54A/3-58, Adhidravider Street, Elambalur Post, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RTHA-2026-20260404122514.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6458/0/5ba843c75f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.dhamodharan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Subramaniyam",
+        "address": "5/104, Middle Street, Sirugudal Post, Kunnam Taluk, Perambalur District - 621115.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDHA-2026-20260406024810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9105/0/3234acf38e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kavitha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "A.sathishkumar",
+        "address": "5/310, West Colony, Ladapuram Post, Perambalur Taluk, Perambalur District - 621101",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAV-2026-20260330052639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/442/0/302aa00c11/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kavitha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "A.sathishkumar",
+        "address": "5/310, West Colony, Ladapuram Post, Perambalur Taluk, Perambalur District - 621101",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAV-2026-20260330052639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13388/0/221066c992/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shiyamala",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Marimuthu",
+        "address": "93/4, Venkatachalapathy Nagar, New Bus Stand, Perambalur Post, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHIYA-2026-20260406022046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9854/0/d0da8ccf46/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shiyamala. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Marimuthu. N",
+        "address": "No.93/4, Venkatachalapathy Nagar, New Bus Stand, Perambalur, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHIYA-2026-20260408015924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15344/0/141b9b3fdd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Krishnan",
+        "address": "23, Aranarai North Colony, Aranarai Post, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAK-2026-20260406015339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8729/0/bdd8d0e60b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar. K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Krishnan. M",
+        "address": "D.no.23, Aranarai North Colony, Aranarai, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SIVAK-2026-20260408013714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14770/0/9d0ad55e00/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramanian. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Ramalingam. S",
+        "address": "No.5/51, North Street, Perunila Village, Kai.kalathur West, Veppanthattai Taluk, Perambalur District - 621117.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSUB-2026-20260408013748.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15207/0/35677f6ebc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suganya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Justice Gopinath",
+        "address": "3-183, South Street, Irur Post, Alathur Taluk, Perambalur District - 621109.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGAN-2026-20260402041618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5540/0/1991e0ffbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suganya. J",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Justice Gopinath. P",
+        "address": "D.no.3-183, South Street, Irur Village, Alathur Taluk, Perambalur District - 621109.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JSUG-2026-20260408044858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15990/0/b868a2fe66/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.priyadharshini",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "R.thamizhselvan",
+        "address": "54A/3-58, Adhidravider Street, Elambalur Post, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TPRI-2026-20260404124708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6626/0/26bdb6ecfc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.vengatesan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "K.thangaraj",
+        "address": "16, Kaveri Nagar, Mettu Street, Perambalur, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TVEN-2026-20260406014307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10237/0/fefe8fb100/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamizhselvan. R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambalur",
+        "father_husband_name": "Raji. C",
+        "address": "D.no.54A/3-58, Aathithiravidar Street, Elambalur Post, Perambalur Taluk, Perambalur District - 621212.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RTHA-2026-20260408044937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15973/0/755c1208db/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

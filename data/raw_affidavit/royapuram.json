@@ -1,0 +1,489 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Royapuram",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "A. Babu Mailan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "R. Arani",
+        "address": "No. 17/65, Ymca, 5Th Street, Tondiarpet, Chennai-600081.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABAB-2026-20260330033549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/349/0/5e631c9221/",
+          "https://voterlist.co.in/affidavit-download/349/1/fc8c81c470/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Jayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "A. Aarumugam",
+        "address": "No. 11/25, Thoppai Street, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJAY-2026-20260404075416.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7202/0/7231528142/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Nizar Ahamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Ahamed Ibrahim",
+        "address": "No. 20/21, Madha Chruch Street, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANIZ-2026-20260404093757.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8291/0/820d15b6c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Rehana Sulthana",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "A. Subair Khan",
+        "address": "No.15, 2Nd Street, Balaji Nagar, Royapettah, Chennai-600014.",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AREH-2026-20260402054449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5883/0/703a8506d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Sasikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "P. Arumugam",
+        "address": "No. 372/204, Sn Chetty Street, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAS-2026-20260406080715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11261/0/137d158785/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Sathik Kumar",
+        "party": "Democratic National Allegiance",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Ashokkumar",
+        "address": "No. 23/20, East Cementry Road, Old Washermenpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAT-2026-20260404064212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7489/0/889176b6bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Sridhar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Chinnadurai",
+        "address": "No. 10, Nagappa Nagar, 1St Street. Cb Road, Old Washermenpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSRI-2026-20260404083932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8150/0/a5083d2afa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Jayakumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "K. Durairaj",
+        "address": "No. 10, Laith Castle South Street, Raja Annamalaipuram, Santhome, Chennai-600028.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DJAY-2026-20260402044557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5346/0/d67a582b7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Jayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "V. Durai",
+        "address": "No. 342, I Block, Jeevarathinam Nagar, Kasimedu, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DJAY-2026-20260404080306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7414/0/06fed13a69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. A. Subair Khan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Abdhul Rahman Khan",
+        "address": "No. 15, 2Nd Street, Balaji Nagar, Royapettah, Chennai-600014.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRA-2026-20260402052343.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Gopi",
+        "address": "No. 9/19, Stn Street, Kondithoppu, Chennai-600001.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GKAR-2026-20260406074755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11319/0/ee34435617/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "I Jayaprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Irudhayasamy",
+        "address": "No. 84/11, 3Rd Main Road, Venkateswara Nagar, Velachery, Chennei-600042.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IJAYA-2026-20260406093536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11936/0/2b3f9ac2a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Jayakumari",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "D. Jayakumar",
+        "address": "No. 10, Leith Castle South Street, Raja Annamalaipuram, Santhome, Chennai-600028.",
+        "gender": "Female",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJAY-2026-20260404081934.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7848/0/c5525d0f6d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Selvakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "E. Jayakanthan",
+        "address": "No. 13, Vaaleeswaran Kovil Street, Mylapore, Chennai-600004.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JSEL-2026-20260404090350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8232/0/76cd3da2be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Ilangovan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Kathavarayan",
+        "address": "No. 9, A Block, Jeevarathinam Nagar, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KILA-2026-20260406072523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11250/0/0b57b298b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Prasath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "T. Kalisamy",
+        "address": "No. 14/25, Mgr Nagar, 2Nd Street, Velachery, Chennai-600042.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPRA-2026-20260404084736.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8192/0/06a0b3d81c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.j. Sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "C.jayaraman",
+        "address": "No. 9, Keezhaveli Street, Kavalangudi Post, Srimushnam Taluk, Cuddalore-608702.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KJS-2026-20260404085659.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8217/0/5cd45dcc64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.v. Vijay Damu",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Kanniyappan",
+        "address": "No. 225/2, Ranganathapuram, Thiruvamiyur, Chennai-600041",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVV-2026-20260404073526.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7982/0/06804a2c20/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kerthivarunnan .R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "M. Rajagopal",
+        "address": "No. 9A/42, Nkc Illam, Karunanithi 3Rd Street, Kottur, Chennai-600085.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KERTH-2026-20260406082929.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11201/0/87b1fa8c41/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Dhinakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "P. Madhusudhanan",
+        "address": "No. 2/5, 1St Lane Nagappa Nagar, Cb Road, Chennai-600021.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHIN-2026-20260404083017.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8351/0/7b02a3723f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jayarajkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Adamraj",
+        "address": "No. 40, Model Line 7Th Street, Old Washermenpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406094305.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12155/0/1466f439f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Mahalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "P. Narasiman",
+        "address": "No. 8, L/342, 16 Cross Street, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai-600041.",
+        "gender": "Female",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAH-2026-20260406095634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12539/0/9c44247f5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Rajkumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Manohar",
+        "address": "No. 983, T.h. Road, Kaladipettai, Thiruvottriyur, Chennai-600019.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260404092926.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8276/0/b5cdc64881/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Shanmugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "V. Muthu",
+        "address": "No. 11/1, Jeer Street, Old Washermenpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSHA-2026-20260406082234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10920/0/cba7c0818c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Sumathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Selvakumar",
+        "address": "No. 327, K Block, West Cemetry Road, Old Washermenpet, Chennai-600021.",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSUM-2026-20260406092351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12466/0/f73ebb6072/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Rajkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "T. Ravichandran",
+        "address": "No. 11/1, Jeer Street, Old Washermenpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260406081651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10662/0/a859ff5099/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Udhaya Kumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Rajendran",
+        "address": "No. 69/22, South Mada Street, Thiruvanmiyur, Chennai-600041.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RUDH-2026-20260404094703.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8305/0/4356b085ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Vinothkumar",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Rajendran",
+        "address": "No. 138/10, Sanjeevirayan Kovil Steert, Old Washermenpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIN-2026-20260406073916.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10894/0/e0368be1a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Raju",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "G. Sownthiraraj",
+        "address": "No. 712, Thangamman Kovil Street, Keelanatham South, Palayankottai, Tirunelveli-627353.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260406075800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10881/0/5918f21ca4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Kaviyarasu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Thulukanam",
+        "address": "No. 20/7, Manikandan Mudhali Street, 1St Lane, Old Washermenpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TKAV-2026-20260404081156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7642/0/0ecb1783e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Rajesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "K. Thangaraj",
+        "address": "No. 159/3, Kollawaar Agragaram Street, Oldwashermenpet, Chennai-600021",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TRAJ-2026-20260404074728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7019/0/1dedde1a0b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Bhagath Singh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Royapuram",
+        "father_husband_name": "Vinayagam",
+        "address": "No. 14, O.s.h. Street, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBHA-2026-20260406100252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11793/0/2c5a0b8998/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Valparai",
+    "count": 21,
+    "candidates": [
+      {
+        "name": "A.kannan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Anthonydas",
+        "address": "27/41, Venkatachalapathy Nagar, Kurichi, Coimbatore 641024",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAN-2026-20260404035557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6532/0/0e1ee15c09/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sridharan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Anthonydas",
+        "address": "5/762, Padhuvai Hospital, Sabari Salai, Madipakkam, Kancheepuram, Chennai 600091",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASRI-2026-20260404034028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6373/0/bcfe15a257/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sudhakar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Arokkiyam",
+        "address": "2-72 Chincona 1 , Valparai -642106",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUD-2026-20260406055504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8436/0/3af2c5a47b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.sukumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Chinnasamy",
+        "address": "2/136 Madurai Veeran Kovil Street, Thamaraikulam, Coimbatore-642109",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSUK-2026-20260406064901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8707/0/f5ef9e133e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.lekshmanasingh",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Dharmakkan",
+        "address": "Singh Cottage, 6 Th Street, Anna Nagar, Kinathukadavu-642109",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DLEK-2026-20260406045333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9170/0/a99844e0fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Sridharan. A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Anthonydas",
+        "address": "5/762, Padhuvai Hospital, Sabari Salai, Madipakkam, Kancheepuram, Chennai 600091",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASRI-2026-20260404034028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15900/0/458a05df76/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.padmavathi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Rajkumar",
+        "address": "1/174, Vadakku Veethi, Subbegounenpudur, Anaimalai Tk",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EPAD-2026-20260330024355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/110/0/1ec33f47b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.perumal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Karuppan",
+        "address": "1/245-1, Mgr Nagar, Mayileripalayam, Coimbatore-641032",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPER-2026-20260406064206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10071/0/32ed2f76e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.samynathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Kuppusamay",
+        "address": "5/85,Railway Station Colony, Subbegoundenpudur, Anaimalai-642103",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAM-2026-20260406063341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9430/0/91723f7087/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kutty (Alias) Sudhakar. A",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Arokkiyam",
+        "address": "2-72 Chincona 1 , Valparai -642106",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SUDHA-2026-20260409065613.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14646/0/9bc6d74a4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.haransingh",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Lekshmanasingh",
+        "address": "3, Mgr Nagar, Kamaraj Colony, Kinathukadavu -642109",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LHAR-2026-20260406051925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9124/0/dafa71cd9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lakshmi. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Nataraj",
+        "address": "95 A, Narasimman Nagar,Anaimalai 642104",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NLAK-2026-20260406043108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15312/0/394d4dd8af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lekshmana Singh. D",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Dharmakkan",
+        "address": "Singh Cottage, 6 Th Street, Anna Nagar, Kinathukadavu-642109",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DLEK-2026-20260406045333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14985/0/481b9015a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.umamaheshwari",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "A.sudhakar",
+        "address": "2-72, Chincona-1, Valparai-642106",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUMA-2026-20260406060816.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9151/0/d28a8c9f9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.lakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Nataraj",
+        "address": "95 A, Narasimman Nagar,Anaimalai 642104",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NLAK-2026-20260406043108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9797/0/08ed67468d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.navaneethakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Navarathinam",
+        "address": "140/39, Nehru Nagar, Kottur Road, Pollachi-642001",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NNAV-2026-20260406053430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10376/0/7a0227b27c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.muruganantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Palaniyappan",
+        "address": "48B, Devendirar Street, Anaimalai-642104",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUR-2026-20260406061822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10078/0/96ecfd1ca5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Perumal. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Karuppan",
+        "address": "1/245-1, Mgr Nagar, Mayileripalayam, Coimbatore-641032",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPER-2026-20260406064206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15472/0/7926e285dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S M Manivannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Muthusamy",
+        "address": "15/161, Mudis Town, Valparai, 642117",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMMAN-2026-20260404041142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6716/0/59ab039edb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ananthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "Sasikumar",
+        "address": "29/3,Gandhi Nagar, Anaimalai -642104",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANA-2026-20260406044313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10447/0/57b768bdb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Umadevi. P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Valparai",
+        "father_husband_name": "K.periyandi",
+        "address": "35, Akg Nagar, Ponnalammanthurai, Sethumadai Post, Anaimalai Tk",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UMADE-2026-20260330014555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/576/0/dbe660d7d4/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Mylapore",
+    "count": 66,
+    "candidates": [
+      {
+        "name": "A Babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "V Andiappan",
+        "address": "No 974, Tnhb Main Road, Tnhb Colony, Velachery, Chennai - 600 042.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABABU-2026-20260406080256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11063/0/11e3a91693/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Romanraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Aarivincent",
+        "address": "No. 2/19 Arulanantham Street, Santhome, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROMA-2026-20260406052726.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9777/0/e30546606f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Vinu Pradha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "P Mayakrishnan",
+        "address": "No. 4/257 A, 3Rd Main Road Swaminathan Nagar, Kottivakkam, Chennai - 600 041.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVINU-2026-20260404055141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7850/0/804ce44df9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "V. Andiappan",
+        "address": "No 974, Tnhb Main Road, Tnhb Colony, Velachery, Chennai - 600 042.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABABU-2026-20260406080256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13054/0/a76c692d80/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Romanraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Aarivincent",
+        "address": "No. 2/19 Arulanantham Street, Santhome, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROMA-2026-20260406052726.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13076/0/5d5a2fc047/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Vinu Pradha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "P. Mayakrishnan",
+        "address": "No. 4/257 A, 3Rd Main Road Swaminathan Nagar, Kottivakkam, Chennai - 600 041.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVINU-2026-20260404055141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13278/0/0d91e2b39a/",
+          "https://voterlist.co.in/affidavit-download/13278/1/879272b752/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arun. R.l",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Lakshminarayanan. R",
+        "address": "No. 14, Luz Green Garden, Annamalai Industrial Park Backside,  Kalapatti, Coimbatore - 641 048",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RLARU-2026-20260330040028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16641/0/f748e33de2/",
+          "https://voterlist.co.in/affidavit-download/16641/1/53396d2c14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B Venkatraman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Bajirao",
+        "address": "No. 3 T.k.p. Block, Pallakuma Nagar, Mylapore, Chennai - 600 004.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVENK-2026-20260406094339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12172/0/6c14d723b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Venkatraman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Bajirao",
+        "address": "No. 3 T.k.p. Block, Pallakuma Nagar, Mylapore, Chennai - 600 004.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVENK-2026-20260406094339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13042/0/de77b47d88/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Babu. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Andiappan. V",
+        "address": "No. 974, Tnhb Main Road, Tnhb Colony, Velachery, Chennai - 600 042.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABABU-2026-20260406080256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15234/0/d727fed37c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaji. V",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Venkatesan",
+        "address": "No. 130/20, Avvai Nagar, Srinivasapuram, Pattinambakkam, Raja Annamalaipuram, Chennai - 600 028.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBALA-2026-20260406105953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15380/0/aab7761c4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Karthik",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Desing",
+        "address": "No. 79, Duraisamy Nagar, Kottur, Kotturpuram, Chennai - 600 028.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DKART-2026-20260406112857.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11775/0/4739caf3ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devendran. R",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Ramamoorthy. E",
+        "address": "No.13/8, 2Nd Street, Lotus Colony, Nandanam, Chennai - 600 035",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RDEVE-2026-20260406100935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14800/0/981520b7c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dha Velu",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "G Dharani Singh",
+        "address": "No 12/50 V.c. Garden 1St Street, Mandaveli, Chennai - 600 028",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHAVE-2026-20260404040411.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6693/0/2cd0751740/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dha. Velu",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "G. Dharani Singh",
+        "address": "No 12/50 V.c. Garden 1St Street, Mandaveli, Chennai - 600 028",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHAVE-2026-20260404040411.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13269/0/e291fb9bb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Tamilisai Soundararajan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Soundararajan. P",
+        "address": "No. 7/4, Logaiah Colony 4Th Cross Street, Saligramam, Chennai - 600 093.",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TAMIL-2026-20260406071511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15153/0/6b4090d363/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Parthiban",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "S Gopal",
+        "address": "No 8B, Kamatchi Amman Kovil Street, Kambam. Uthamapalayam Taluk, Theni - 626 516",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GPART-2026-20260406063548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8780/0/a092f46fbe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Radhakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Gopal",
+        "address": "No. 18/60, Pondicherry Road, Kottur, Kotturpuram, Chennai - 600085",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRADH-2026-20260406101827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12249/0/d6256c084c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Parthiban",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "S. Gopal",
+        "address": "No 8B, Kamatchi Amman Kovil Street, Kambam. Uthamapalayam Taluk, Theni - 626 516",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GPART-2026-20260406063548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12916/0/c6541c14c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Radhakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Gopal",
+        "address": "No. 18/60, Pondicherry Road, Kottur, Kotturpuram, Chennai - 600085",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRADH-2026-20260406101827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13065/0/62229dba0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J Mohanraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "R Jebamani",
+        "address": "No. 33  2Nd Street, East Abhiramapuram, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JMOHA-2026-20260406060652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8836/0/83fa306fae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Mohanraj",
+        "party": "Jebamani Janata",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "R. Jebamani",
+        "address": "No. 33  2Nd Street, East Abhiramapuram, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JMOHA-2026-20260406060652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12929/0/2e7612a09e/",
+          "https://voterlist.co.in/affidavit-download/12929/1/722edb5ece/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayagopi. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Madurai. N",
+        "address": "No. 12, Kailasapuram 3Rd Street, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAYA-2026-20260404071551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15961/0/e33d68de52/",
+          "https://voterlist.co.in/affidavit-download/15961/1/ab57a8e8f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Velu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Kabali",
+        "address": "No. 12, Ramakrishnapuram 4Th Street, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVELU-2026-20260406092925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11731/0/21c97b97d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Velu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Kabali",
+        "address": "No. 12, Ramakrishnapuram 4Th Street, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVELU-2026-20260406092925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12895/0/c5c5ffc2bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Jayagopi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "N Madurai",
+        "address": "No. 12 Kailasapuram 3Rd Street, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAYA-2026-20260404071551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7373/0/88ed9ff3a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jayagopi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "N. Madurai",
+        "address": "No. 12 Kailasapuram 3Rd Street, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAYA-2026-20260404071551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13220/0/1a6bbaa568/",
+          "https://voterlist.co.in/affidavit-download/13220/1/cc8495e8aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohanraj. J",
+        "party": "Jebamani Janata",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Jebamani. R",
+        "address": "No. 33,  2Nd Street, East Abhiramapuram, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JMOHA-2026-20260406060652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14817/0/6881dfdc97/",
+          "https://voterlist.co.in/affidavit-download/14817/1/6ddaf80fb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthy. S",
+        "party": "Thamizhaga Dravidar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Subramani. C",
+        "address": "No. 1, Ground Floor, Sree Meenakshi Flats, Nilamangai Nagar, Valmegi Street, Adambakkam, Chennai - 600 088.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOOR-2026-20260330063510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16589/0/7687a5990a/",
+          "https://voterlist.co.in/affidavit-download/16589/1/8c9165b443/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan. S",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Shanmugavelu. P",
+        "address": "No. 13B, Muthu Naicken Street, Purasawakkam, Chennai - 600 007",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAGA-2026-20260406111642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15658/0/b3add32f47/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Soundararajan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Periyasamy",
+        "address": "No. 7/4 Logaiah Colony, 4Th Cross Street, Saligramam, Chennai - 600 093.",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSOUN-2026-20260406072352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11203/0/41255c4ff6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Venkataramanan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Padmanaaban",
+        "address": "No 8 B/4 Sabari D.s.r. Arcot, Egambaram Street, Pammal, Chennai - 600 075.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVENK-2026-20260330045045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/215/0/e38377db18/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Vijayalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "B Sridhar",
+        "address": "No. 1/6 B-2, Mahalakshmi Apartments, Sundararajan Street, Abhiramapuram, Chennai - 600 018.",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVIJA-2026-20260406103630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11802/0/156748480c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Venkataramanan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Padmanaaban",
+        "address": "No 8 B/4 Sabari D.s.r. Arcot, Egambaram Street, Pammal, Chennai - 600 075.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVENK-2026-20260330045045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13381/0/63f881d1cd/",
+          "https://voterlist.co.in/affidavit-download/13381/1/32e721df61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Vijayalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "B. Sridhar",
+        "address": "No. 1/6 B-2, Mahalakshmi Apartments, Sundararajan Street, Abhiramapuram, Chennai - 600 018.",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVIJA-2026-20260406103630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12923/0/403c4b7abf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthipan. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Gopal. S",
+        "address": "No. 8B, Kamatchi Amman Kovil Street, Kambam. Uthamapalayam Taluk, Theni - 626 516",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GPART-2026-20260406063548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14790/0/3e5cb4bdf0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Devendran",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "E Ramamoorthy",
+        "address": "No.13/8 2Nd Street, Lotus Colony, Nandanam, Chennai - 600 035",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RDEVE-2026-20260406100935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11801/0/4368af5971/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R L Arun",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "R Lakshminarayanan",
+        "address": "No 14, Luz Green Garden, Annamalai Industrial Park Backside,  Kalapatti, Coimbatore - 641 048",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RLARU-2026-20260330040028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/452/0/d16b4aa2d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Devendran",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "E. Ramamoorthy",
+        "address": "No.13/8 2Nd Street, Lotus Colony, Nandanam, Chennai - 600 035",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RDEVE-2026-20260406100935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12922/0/06caaa4520/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.l. Arun",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "R. Lakshminarayanan",
+        "address": "No 14, Luz Green Garden, Annamalai Industrial Park Backside,  Kalapatti, Coimbatore - 641 048",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RLARU-2026-20260330040028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13390/0/92b34f761a/",
+          "https://voterlist.co.in/affidavit-download/13390/1/43bdcc829b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radhakrishnan. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Gopal",
+        "address": "No. 18/60, Pondicherry Road, Kottur, Kotturpuram, Chennai - 600085",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRADH-2026-20260406101827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15265/0/d8747c368a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Romanraj. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Aarivincent",
+        "address": "Plot C, 2Nd Floor, No. 2/19, Arulanantham Street, Santhome, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROMA-2026-20260406052726.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15303/0/7dddb30de0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Moorthy",
+        "party": "Thamizhaga Dravidar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "C Subramani",
+        "address": "No 1 Ground Floor, Sree Meenakshi Flats, Nilamangai Nagar, Valmegi Street, Adambakkam, Chennai - 600 088.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOOR-2026-20260330063510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/216/0/8766b59b9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Nagarajan",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "P Shanmugavelu",
+        "address": "No. 13-B, Muthu Naicken Street, Purasawakkam, Chennai - 600 007",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAGA-2026-20260406111642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12541/0/54047f6980/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Selvamuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "R M Chellappa",
+        "address": "No. 31/1 V.c. Garden 2Nd Street, Mandaveli, Chennai - 600 028",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSELV-2026-20260404063438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7185/0/e7bbf2b597/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Moorthy",
+        "party": "Thamizhaga Dravidar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "C. Subramani",
+        "address": "No 1 Ground Floor, Sree Meenakshi Flats, Nilamangai Nagar, Valmegi Street, Adambakkam, Chennai - 600 088.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOOR-2026-20260330063510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13382/0/594d56a774/",
+          "https://voterlist.co.in/affidavit-download/13382/1/b44500c89b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Nagarajan",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "P. Shanmugavelu",
+        "address": "No. 13-B, Muthu Naicken Street, Purasawakkam, Chennai - 600 007",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAGA-2026-20260406111642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13148/0/14ed7e60c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Selvamuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "R.m. Chellappa",
+        "address": "No. 31/1 V.c. Garden 2Nd Street, Mandaveli, Chennai - 600 028",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSELV-2026-20260404063438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13198/0/aac7d618fa/",
+          "https://voterlist.co.in/affidavit-download/13198/1/fc4ffd5c95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvamuthu. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Chellappa. R.m",
+        "address": "No. 31/1, V.c. Garden 2Nd Street, Mandaveli, Chennai - 600 028",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSELV-2026-20260404063438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15848/0/858152d701/",
+          "https://voterlist.co.in/affidavit-download/15848/1/64031a4c14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Egambaram",
+        "address": "No. 112/1 Ward No 123, East Abhiramapuram, Kalvaikarai Salai, Mylapore, Chennai - 600 004.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SURES-2026-20260406081749.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10641/0/2f8a91014a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suseela. V",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Velu. Dha",
+        "address": "No. 12/50, V.c. Garden 1St Street, Mandaveli, Chennai - 600 028.",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUSE-2026-20260404043314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15897/0/9aa2210b33/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilisai Soundarajan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "P Soundarajan",
+        "address": "No. 7/4 Logaiah Colony 4Th Cross Street, Saligramam, Chennai - 600 093.",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TAMIL-2026-20260406071511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9488/0/67fc060a87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Balaji",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Venkatesan",
+        "address": "No. 130/20 Avvai Nagar, Srinivasapuram, Pattinambakkam, Raja Annamalaipuram, Chennai - 600 028.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBALA-2026-20260406105953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12327/0/e1abb6c0b2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Lokesh",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Vijayaragavan",
+        "address": "No. 24, Andiyamanya Thottam, Mandaveli, Chennai - 600 028",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VLOKE-2026-20260406084509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11408/0/0d5c49d303/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Suseela",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Dha Velu",
+        "address": "No. 12/50 V.c. Garden 1St Street, Mandaveli, Chennai - 600 028.",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUSE-2026-20260404043314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6371/0/95560a3090/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Vijaya Krishna",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "V J Poorna Chandra Rao",
+        "address": "No 146, Periyasamy Illam, 2Nd Floor, T.s.v Koil Street, Chennai - 600 004",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVIJA-2026-20260402043246.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Balaji",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Venkatesan",
+        "address": "No. 130/20 Avvai Nagar, Srinivasapuram, Pattinambakkam, Raja Annamalaipuram, Chennai - 600 028.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBALA-2026-20260406105953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13090/0/ba0f2e735a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Suseela",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Dha. Velu",
+        "address": "No. 12/50 V.c. Garden 1St Street, Mandaveli, Chennai - 600 028.",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUSE-2026-20260404043314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13210/0/0521434aec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Vijaya Krishna",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "V.j. Poorna Chandra Rao",
+        "address": "No 146, Periyasamy Illam, 2Nd Floor, T.s.v Koil Street, Chennai - 600 004",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVIJA-2026-20260402043246.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13320/0/418b2eae05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. Dha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Dharani Singh. G",
+        "address": "No. 12/50, V.c. Garden 1St Street, Mandaveli, Chennai - 600 028",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHAVE-2026-20260404040411.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16160/0/ce81ae7353/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Kabali",
+        "address": "No. 12, Ramakrishnapuram 4Th Street, Mylapore, Chennai - 600 004",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVELU-2026-20260406092925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14729/0/f7b93f9a64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkataraman. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Bajirao",
+        "address": "T.k.p, Block No. 3, Pallakuma Nagar, Mylapore, Chennai - 600 004.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVENK-2026-20260406094339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15182/0/22da7133ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkataramanan. P",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Padmanaaban",
+        "address": "No. 8 B/4, Sabari D.s.r. Arcot, Egambaram Street, Pammal, Chennai - 600 075.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVENK-2026-20260330045045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16588/0/62c92f6594/",
+          "https://voterlist.co.in/affidavit-download/16588/1/7821f850fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaya Krishna. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Poorna Chandra Rao. V.j",
+        "address": "No. 146, Periyasamy Illam, 2Nd Floor, T.s.v Koil Street, Chennai - 600 004",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVIJA-2026-20260402043246.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16379/0/b708c35883/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayalakshmi. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Sridhar. B",
+        "address": "No. 1/6, B-2, Mahalakshmi Apartments, Sundararajan Street, Abhiramapuram, Chennai - 600 018.",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVIJA-2026-20260406103630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14801/0/690ab5fa1a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinu Pradha. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mylapore",
+        "father_husband_name": "Mayakrishnan. P",
+        "address": "No. 4/257 A, 3Rd Main Road Swaminathan Nagar, Kottivakkam, Chennai - 600 041.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVINU-2026-20260404055141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16176/0/e090010bb6/",
+          "https://voterlist.co.in/affidavit-download/16176/1/e1e9d49808/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

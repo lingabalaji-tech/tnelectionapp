@@ -1,0 +1,802 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Chepauk-Thiruvallikeni",
+    "count": 53,
+    "candidates": [
+      {
+        "name": "A Mohamed Meera",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "M Abdul Kareem",
+        "address": "No 6B, 2Nd Street, Rajiv Gandhi Nagar, Avadi, Thiruvallur, 600055.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMOHA-2026-20260330032659.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Aadirajaram",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Adhimoorthy",
+        "address": "9A/2, Swaminathan Street, West Mambalam, Chennai - 600033",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AADIR-2026-20260404022040.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6180/0/eaa98a5bba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Agni Aalvar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Nallappan",
+        "address": "No.6,Nagamarai Main Road, Nagamarai Pudur, Nagamarai Post, Pennagaram Taluk, Dharmapuri District - 636810.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGNIA-2026-20260406015820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8916/0/cde083c22b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Chinnakutty",
+        "address": "No. 39-8, Thommaiyappan Street, Gopalapuram, Chennai - 600086.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CARU-2026-20260406070901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12875/0/5e668008ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Athimulam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Krishnasamy",
+        "address": "No.39, Sasthiri Street, Rajaji Nagar, Thiruvottiyur, Chennai - 600019.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ATHIM-2026-20260406013818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10057/0/ff580f7930/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ayisha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Syed Shafiudheen",
+        "address": "No.12/14, Ramarao Garden 1St Street, Royapettah, Chennai - 600014.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAYI-2026-20260406064922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12913/0/4e66843547/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aysha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Faizudeen",
+        "address": "Dlf Commanders Court 144, B Block, Ethiraj Salai, Egmore, Chennai-600008.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AYSHA-2026-20260402052927.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5632/0/f02fa51e4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B Vijaya Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "B Venugopal",
+        "address": "24/28, Chinnappa Street, Triplicane, Chennai - 600005.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVIJA-2026-20260404032821.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6163/0/7fa9790cfe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharathkumar. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Gajendran",
+        "address": "No. C-10, Gangaikarai Puram, Parakasam Street, T. Nagar, Chennai - 600017.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBAR-2026-20260404064654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13253/0/95c7513222/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Arumugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Chinnakutty",
+        "address": "39-8, Thommaiyappan Street, Gopalapuram, Chennai - 600086.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CARU-2026-20260406070901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8427/0/28b90c5587/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dilipkumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Ravikumar",
+        "address": "48/42, Veerapathiran Street, Pudupet, Anna Salai, Chennai - 600002.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DILIP-2026-20260406083429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11393/0/e67c527687/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. S.k. Saamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Karuppasamy",
+        "address": "No.11094, Tower - 11, Pbv, Iyyapanthangal, Chennai - 600056.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRS-2026-20260406081319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10516/0/ff8471e80e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Barathkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Gajendran",
+        "address": "C-10, Gangaikarai Puram, Parakasam Street, T. Nagar, Chennai - 600017.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBAR-2026-20260404064654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7684/0/de2ef5e357/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "H.dhanasekar",
+        "party": "All India Youth Development Party",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Harikrishnan",
+        "address": "No.23E-1, Balakrishnan Puthu Street, Chintadripet, Chennai - 600002.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HDHA-2026-20260404045201.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7924/0/c101c4d91b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Irfan Basha",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Kulab Basha",
+        "address": "125 A/5, Thiyagarayapuram, 9Th Street, Thangal, Thiruvottiyur, Chennai - 600019.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IRFAN-2026-20260404061921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7785/0/4a7134d0c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Arun Balaji",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "K. Jayabalan",
+        "address": "17/8, Venkatarangam Pillai Street, Triplicane, Chennai - 600005",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JARU-2026-20260404025934.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6593/0/edc2e0deb7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "V. Kanniappan",
+        "address": "No.118, 3Rd Street, Vannanthurai Perumbakkam, Medavakkam, Chennai - 600100",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406060011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10457/0/49f6e2cf4d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.rajeshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Kanniappan",
+        "address": "No.56/57, Ragavan Street, Venus, Perambur,Chennai - 600011",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260404054029.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7347/0/a85ac2e678/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Karupannan",
+        "address": "Old No.5 New No.9, Sringeri Mutt Road, Mandaiveli, Chennai - 600028.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406035828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9996/0/7d36ad83f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.venkatesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "D.kumar",
+        "address": "No.10/43, Saivamuthiah 6Th Street, Royapettah, Chennai - 600014.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEN-2026-20260406030327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9756/0/ddb2a8d81c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Manoharan",
+        "address": "No.5/12, Puspa Nagar, Numgampakkam, Chennai - 600034.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKUM-2026-20260406084503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12991/0/4d797a3214/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Manoharan",
+        "address": "No.5/12, Puspa Nagar, Numgampakkam, Chennai - 600034.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKUM-2026-20260406084503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10860/0/c46bcdc7c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Rajamanickam",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Masaanam",
+        "address": "No.124, Kovanoor, Pillur Post, Sivagangai Taluk, Sivagangai District - 630561.",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406075241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10592/0/94cc598592/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Milany. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "K. Ponnuram",
+        "address": "No. 7-5-5/9, Sanjay Gandhi First Street, Selvaraj Illam, Palani Chetti Patti, Theni - 625531.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMIL-2026-20260404063303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13184/0/d93379e7c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mirza Safder Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Gaffar Hussain",
+        "address": "29-1, Mirza Gulam Hussain Ali Khan Street, Royapettah, Chennai -  600014.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MIRZA-2026-20260402064435.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5908/0/d708d2c4ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Dharik",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Ebrahim",
+        "address": "No.47/48-1, Veerabadran Street, Pudupet, Anna Salai, Chennai - 600002.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260404065919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8074/0/cecd0b596c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Dharik. I",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Ibrahim",
+        "address": "No. 47/48-1, Veerabadran Street, Pudupet, Anna Salai, Chennai - 600002.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260404065919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13303/0/6fc46b40ec/",
+          "https://voterlist.co.in/affidavit-download/13303/1/cc6d2df699/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Meera. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "M. Abdul Kareem",
+        "address": "No. 6B, 2Nd Street, Rajiv Gandhi Nagar, Avadi, Thiruvallur, 600055.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMOHA-2026-20260330032659.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13385/0/a6683448f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohammed Yasser",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Yacoob",
+        "address": "No. 1/3, Parathasarathy Street, Ayanavaram, Chennai - 600023.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/YMOH-2026-20260406041444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12909/0/9c69555656/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Harinarayanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "V. Nagarajan",
+        "address": "No.1/1, Swathanthra Nagar, 4Th Street, V.p. Raman Salai, Triplicane, Chennai - 600005.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NHAR-2026-20260406024342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8917/0/5ab9bb85c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Milany",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "K. Poonuram",
+        "address": "No. 7-5-5/9, Sanjay Gandhi First Street, Selvaraj Illam, Palani Chetti Patti, Theni - 625531.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMIL-2026-20260404063303.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Shanmugam",
+        "address": "No.42/87, V.m. Street, Royapaettah, Chennai - 600014.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260406022501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10089/0/b9808c2ad6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeshkumar. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Kanniappan",
+        "address": "No. 56/57, Ragavan Street, Venus, Perambur, Chennai - 600011",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260404054029.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13218/0/418a037541/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ayisha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Syed Shafiudheen",
+        "address": "No.12/14, Ramarao Garden 1St Street, Royapettah, Chennai - 600014.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAYI-2026-20260406064922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8755/0/e787872496/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Udhayanidhi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "M.k. Stalin",
+        "address": "No.25/9, Chitharanjan Salai, Cenotoph 2Nd St, Teynampet, Chennai-600018",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDH-2026-20260402031225.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5171/0/2f2dcd9034/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.h. Rahamathullah",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Syed Hussain",
+        "address": "No.7/13, Pachaiyappan Street, Triplicane, .Hennai-600005.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHR-2026-20260402040207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5383/0/c8d82e6e84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saamy. S.k. Dr",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Karuppasamy Thevar",
+        "address": "No.11094, Tower - 11, Prestige Bellavista, Iyyapanthangal, Chennai - 600056.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRS-2026-20260406081319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12882/0/d37c22a4f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seenivasan L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Lakshmana Perumal",
+        "address": "Door No. 1/56, West Street, Alagapuri, Meesalur, Viruthunagar - 626003.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEENI-2026-20260402061056.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5747/0/7921d8b662/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seenivasan. L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Lakshmana Perumal",
+        "address": "No. 1/56, West Street, Alagapuri, Meesalur, Viruthunagar - 626003.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SEENI-2026-20260406050913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12995/0/723a28bab0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selva. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "V. Kanniappan",
+        "address": "No.118, 3Rd Street, Vannanthurai Perumbakkam, Medavakkam, Chennai - 600100",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406060011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13154/0/65736f12db/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Nagarajan",
+        "address": "No. 1/1, Swathanthra Nagar, 4Th Street, Lloyds Road, Triplicane, Chennai - 600005.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NHAR-2026-20260406024342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12947/0/db37de3391/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam ( Alias ) Harinarayanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Nagarajan",
+        "address": "No. 1/1, Swathanthra Nagar, 4Th Street, Lloyds Road, Triplicane, Chennai - 600005.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NHAR-2026-20260406024342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14854/0/e67d715924/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam ( Alias ) Venkatesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Kumar",
+        "address": "No. 10/43, Saivamuthiah 6Th Street, Royapettah, Chennai - 600014.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEN-2026-20260406030327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15292/0/298e2f4551/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam D",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Dakshinamurthy",
+        "address": "Plot No.4, Door No.s-1, Second Floor, Pleasant Avenue, Sakthi Nagar, Porur, Chennai - 600116.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406045231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9073/0/6cf2670c86/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam. D",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Dakshinamurthy",
+        "address": "Flat No.4, Door No.s-1, Second Floor, Pleasant Avenue, Sakthi Nagar, Porur, Chennai - 600116.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406045231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12975/0/5bc2969afc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Karuppannan",
+        "address": "Old No.5 New No.9, Sringeri Mutt Road, Mandaiveli, Chennai - 600028.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406035828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13101/0/0fa52c2019/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Sivanandam",
+        "address": "No.29/14, Feroze Street, Royapettah, Chennai - 600014.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406063430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9519/0/19094f4aca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suleka Rani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Muhamad Haroon",
+        "address": "No.19/8, Thandavarayan Street, Triplicane, Chennai - 600005.",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SULEK-2026-20260406090704.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10762/0/73eebf5ae4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syeed Layak Bhasha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Syed Riyaz",
+        "address": "No.85, Neelam Basha Dharga Triplicane, Chennai - 600005.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEED-2026-20260406061948.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10191/0/1dea703825/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.kadalkani",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Theeran",
+        "address": "Door No 101, North Muthalapuram, Muthalapuram Post, Ettayapuram Taluk, Thoothukudi District, 628902.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TKAD-2026-20260404052249.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7961/0/aeb0cc34ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayanidhi Stalin",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "M.k. Stalin",
+        "address": "No.25/9, Chitharanjan Salai, Cenotoph 2Nd St, Teynampet, Chennai-600018",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDH-2026-20260402031225.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13313/0/38a49d253e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaya Kumar. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "B. Venugopal",
+        "address": "No. 24/28, Chinnappa Street, Triplicane, Chennai - 600005.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVIJA-2026-20260404032821.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13174/0/31875435d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Y.mohammed Yasser",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Chepauk-Thiruvallikeni",
+        "father_husband_name": "Yacoob",
+        "address": "No. 1/3, Parathasarathy Street, Ayanavaram, Chennai - 600023.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/YMOH-2026-20260406041444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8722/0/6b4f8a7ba5/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

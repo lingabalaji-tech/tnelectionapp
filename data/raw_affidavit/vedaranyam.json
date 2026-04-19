@@ -1,0 +1,575 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Vedaranyam",
+    "count": 37,
+    "candidates": [
+      {
+        "name": "A.kingsly Gerald",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Arputharaj",
+        "address": "7A, Appasamy Garden, Velanganni Post, Kilvelur Taluk, Nagapattinam District. Pin Code-611111",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKIN-2026-20260404063216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7079/0/70c74de562/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.palanivelu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Arumugam",
+        "address": "5/39, Kottavelikadu, Maruthur South, Vedaranyam Taluk, Nagapattinam District -614714",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406071545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12989/0/877b3b21cc/",
+          "https://voterlist.co.in/affidavit-download/12989/1/65d1d93df1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.thivaskar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Baskaran",
+        "address": "3/91, Melakadu, Vanavanmahadevi, Vellapallam Post, Vedaranyam Taluk, Nagapattinam District. Pin Code-611112",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BTHI-2026-20260404065605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7973/0/4e846cd187/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.rajasimman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Dharumaiyan",
+        "address": "4/69, Kalai Nagar, Thennapulam, Senbagarayanallur, Vedaranyam Taluk, Nagapattinam District. Pin Code - 614806",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRAJ-2026-20260406073826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10837/0/3cb19312dd/",
+          "https://voterlist.co.in/affidavit-download/10837/1/42fec30715/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.muruganandam",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "S.govindarajan",
+        "address": "2/70, Keelakadu, Kariyappattinam, Vedaranyam Taluk, Nagapattinam District -614806",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMUR-2026-20260330044256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/178/0/2f9f23def3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gowthaman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Marimuthu",
+        "address": "16, Vadaku Mada Vilagam, Agathiyampalli, Vedaranyam Taluk, Nagapattinam District. Pin Code - 614810",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOWTH-2026-20260406081253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10501/0/e8ae69a2d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gowthaman. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Marimuthu",
+        "address": "No.16, Vadakku Mada Vilagam, Agasthiyanpalli, Vedaranyam Post And Taluk, Nagapattinam District - 614810.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOWTH-2026-20260406081253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14652/0/561fc6d71a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.priya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Kingsly Gerald",
+        "address": "7A, Appasamy Garden, Velanganni Post, Kilvelur Taluk, Nagapattinam District. Pin Code-611111",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPRI-2026-20260404063941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7418/0/daaff55b71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.s.veeraiyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "K.subramaniyan",
+        "address": "5/228/2, Gavunarkadu, Kariyapattinam, Chettipulam, Vedaranyam Taluk, Nagapattinam District.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSV-2026-20260330035520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/427/0/94b4f0d38c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick. T",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Tamilselvan",
+        "address": "No.8/113, Melavadiyakkadu, Edumbavanam, Vadiyakadu, Thiruthuraipoondi Taluk, Thiruvarur District-614703.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARTH-2026-20260409072019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15670/0/8ee9be5650/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaviarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "33, Kumarankadu, Agastiyanpalli, Vedaranyam Taluk",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIA-2026-20260406083427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11388/0/79eb98456a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kingsly Gerald. A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Arputharaj",
+        "address": "No.7A, Appasamy Thottam, Velankanni -611111.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKIN-2026-20260404063216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15787/0/fe7161e89d/",
+          "https://voterlist.co.in/affidavit-download/15787/1/9ac5c52b49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lingeswaran. M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Marimuthu",
+        "address": "No.78/D, Rajalikadu, Vedaranyam Town And Taluk, Nagapattinam- 614810.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MLIN-2026-20260407063950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15067/0/4455a7a635/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gowthaman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Marimuthu",
+        "address": "16, Vadaku Mada Vilagam, Agasthiyanpalli, Vedaranyam Post Andtaluk, Nagapattinam District. - 614810",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOWTH-2026-20260406081253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12876/0/e26f53d995/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.lingeswaran",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Marimuthu",
+        "address": "78/D, Rajalikadu, Vedaranyam Town And Taluk, Nagapattinam District. Pin Code - 614810",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MLIN-2026-20260406084644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10925/0/64a69ee7ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.pugazhendi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Meenachisundharam",
+        "address": "5, Vettukulam Melpagam, Vedaranyam Post, Vedaranyam Taluk, Nagapattinam District. Pin Code-614810",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPUG-2026-20260404060922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7400/0/c831ed5b9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sathiyaseelan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Mariyappan",
+        "address": "2/96, Thiruvenkadu, Maruthur South, Vedaranyam Taluk, Nagapattinam District. Pin Code - 614714",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAT-2026-20260406072300.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11163/0/36834eda5e/",
+          "https://voterlist.co.in/affidavit-download/11163/1/ccf8312f9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manian. O.s",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Somu",
+        "address": "No.5/54, Karaivaikkal Nallar Road, Oradiyampulam, Thalanayiru-614712.",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OSM-2026-20260404055250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16197/0/4865c8c052/",
+          "https://voterlist.co.in/affidavit-download/16197/1/1509813924/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "O.s.manian",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Somu",
+        "address": "5/54, Karai Vaikkal, Nallar Road, Oradiyampulam, Thalanayar 3Rd Sethi, Thalanayar Post, Vedaranyam Taluk. Nagapattinam District. Pin Code-614712",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OSM-2026-20260404055250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7897/0/edda1fe324/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.jothiboss",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Palanivel",
+        "address": "6/114-1, Singan Kuthagai, Ayakkaranpulam 3 Sethi, Vedaranyam Taluk, Nagapattinam District. Pin Code - 614707",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PJOT-2026-20260406082808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11145/0/41890670e5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.uma",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Pugazhendi",
+        "address": "5, Vettukulam Melpagam, Vedaranyam Post, Vedaranyam Taluk, Nagapattinam District. Pin Code-614810",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PUMA-2026-20260404061928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7794/0/a482ed98a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanivelu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Arumugam",
+        "address": "5/39, Kottavelikadu, Maruthur South, Vedaranyam Taluk, Nagapattinam District Pin Code-614714",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406071545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10852/0/4f4db67170/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanivelu. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Arumugam",
+        "address": "5/39, Kottavelikadu, Maruthur South, Vedaranyam Taluk, Nagapattinam District -614714",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406071545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14986/0/08f4385f18/",
+          "https://voterlist.co.in/affidavit-download/14986/1/d107c5f7cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priya",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Lingeswaran",
+        "address": "47, Nallathankadu, Vedaranyam  Taluk, Nagapattinam District. Pin Code - 614810",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRIYA-2026-20260406085211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11141/0/429e4af0a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priya. K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Kingsly Gerald",
+        "address": "7A, Appasamy Garden, Velanganni -611111",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPRI-2026-20260404063941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15979/0/4d363d7093/",
+          "https://voterlist.co.in/affidavit-download/15979/1/013f5ff683/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pugazhendi. M",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Meenatchisundaram",
+        "address": "No.5, Vettukulam Melpagam, Vedaranyam Post And Taluk-614810.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPUG-2026-20260404060922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15975/0/cb1bbcf76d/",
+          "https://voterlist.co.in/affidavit-download/15975/1/11d544a956/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ashokkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Renganathan",
+        "address": "8/27, Keezha Kadu, Periyakuthagai, Vedaranyam Taluk, Nagapattinam District. Pin Code - 614809",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RASH-2026-20260406085838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11380/0/df868376ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.giritharan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Rajagopalu",
+        "address": "4/21, Arakkarai, Thethakudi North, Vedaranyam Taluk, Nagapattinam District. Pin Code - 614809",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGIR-2026-20260406080345.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11100/0/5d0479a9d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasimman. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Dharumaiyan",
+        "address": "No.4/69, Kalai Nagar, Thennampulam Post, Senbagarayanallur, Vedaranyam Taluk - 614806",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRAJ-2026-20260406073826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14964/0/e923ca6498/",
+          "https://voterlist.co.in/affidavit-download/14964/1/624f0b225d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.selvakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Subramaniyan",
+        "address": "25, Vembadevankadu, Vedaranyam Post And Taluk, Nagapattinam District. Pin Code - 614810",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEL-2026-20260406082122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10871/0/e21b6fd337/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathiyaseelan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Mariyappan",
+        "address": "No.2/96, Thiruvenkadu, Maruthur South, Vedaranyam - 614714.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAT-2026-20260406072300.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15337/0/fbe545b77b/",
+          "https://voterlist.co.in/affidavit-download/15337/1/79d4921f37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakumar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Subramaniyan",
+        "address": "No.25, Vembadevankadu, Vedaranyam Post And Taluk, Nagapattinam District - 614810.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEL-2026-20260406082122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15009/0/3230be4ec3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.karthick",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Tamilselvan",
+        "address": "8/113, Melavadiyakadu, Edumbavanam, Thiruturaipoondi Taluk, Tiruvarur District.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TKAR-2026-20260330042515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/37/0/d1161414bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thivaskar. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Baskaran",
+        "address": "No.3/91, Melakkadu, Vanavanmahadevi, Vellapallam Post, Vedaranyam Taluk, Nagapattinam District-611112.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BTHI-2026-20260404065605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16234/0/4438955a56/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.veerakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Veerasamy",
+        "address": "4/53, Therku Kattalai, Rasapuram, Marudur North, Vedaranyam - 614714",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260406065011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12944/0/53b9e2e172/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veerakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Veerasamy",
+        "address": "4/53, Therku Kattalai, Rasapuram, Marudur North, Vedaranyam Taluk, Nagapattinam District Pin Code 614714",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260406065011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8896/0/b4211c0794/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veerakumar. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedaranyam",
+        "father_husband_name": "Veerasamy",
+        "address": "No.4/53, Therkkukattalai, Rasapuram, Maruthur North, Vedaranyam Taluk - 614714",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260406065011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14844/0/22afb9672a/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

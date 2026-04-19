@@ -1,0 +1,493 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Anaikattu",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "A.p.nandakumar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "A.k.perumal",
+        "address": "Main Road, Latheri Village And Post, K.v.kuppam Taluk, Vellore District - 632202",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APN-2026-20260406080115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11002/0/54024cd601/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Velazhagan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "K Dharmalingam",
+        "address": "No.1, Pasumai Illam, Sandhai Medu, Odukathur, Anaicut Taluk, Vellore District - 632103",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVELA-2026-20260404055602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7511/0/1fafdb9bbb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.velazhagan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "K.dharmalingam",
+        "address": "No.1, Pasumai Illam, Sandhai Medu, Odukathur, Anaicut Taluk, Vellore District - 632103",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVELA-2026-20260404055602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16267/0/59e26bda2d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "M.ekambaram",
+        "address": "No.1/6, Old Police Station Street, Latheri Village And Post, K.v.kuppam Taluk, Vellore District - 632202",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESUR-2026-20260406081620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10637/0/42087ab505/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.manoharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Kannan",
+        "address": "No.4/36, Senji Kilkrishnapuram Village, Senji Post, Latheri Via, K.v.kuppam Taluk, Vellore - 632202",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAN-2026-20260406082226.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10912/0/9a56e25cdb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L Dhanashekar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Loganathan",
+        "address": "No.170, Kamatchi Amman Kovil Street, Ussoor, Anaicut Taluk, Vellore - 632105",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LDHAN-2026-20260402073429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6000/0/99a7dd3ec5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L Dhanashekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Loganathan",
+        "address": "No.170, Kamatchi Amman Kovil Street, Ussoor, Anaicut Taluk, Vellore - 632105",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LDHAN-2026-20260402073429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13344/0/bc4587a51c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Nandha Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Munisamy",
+        "address": "No.123, Main Road, Oonai Vaniyambadi, Anaicut Taluk, Vellore Dist - 632101",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAND-2026-20260402074510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6011/0/90d79886a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Paulraj",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "C Maduraiveeran",
+        "address": "26/14, Pillaiyar Kovil Street, Ganesapuram, Pennathur Post, Vellore - 632058",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPAUL-2026-20260330061542.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/120/0/268d450d4e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Ravikumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Magadevan",
+        "address": "143/3, Mariyamman Kovil Street, Ganasapuram, Kattuputhur Post, Vellore - 632058",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAVI-2026-20260330060810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/41/0/a12e29b994/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.babu",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "G.murugesan",
+        "address": "Bangalamedu Village, Melarasampattu Post, Anaicut Taluk, Vellore District - 632103",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBAB-2026-20260406080911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11350/0/0d4e49c517/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.nandha Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Munisamy",
+        "address": "No.123, Main Road, Oonai Vaniyambadi, Anaicut Taluk, Vellore Dist - 632101",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAND-2026-20260402074510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16446/0/cb624b9fd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ravikumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Magadevan",
+        "address": "143/3, Mariyamman Kovil Street, Ganasapuram, Kattuputhur Post, Vellore - 632058",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAVI-2026-20260330060810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16557/0/39826c6bba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.jayaseelan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "M.ponnusamy",
+        "address": "No.3/71, Ambedkar Nagar, Poigai Village And Post, Anaicut Taluk, Vellore - 632114",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PJAY-2026-20260406084942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11021/0/b0b89baed3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sathish Kumar",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Paneerselvam",
+        "address": "No.54/109, Battaiyur Village, Velangadu Post, Anaicut Taluk, Vellore District - 632101",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAT-2026-20260406085953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11430/0/d066938cab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sathish Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Paneerselvam",
+        "address": "No.54/109, Battaiyur Village, Velangadu Post, Anaicut Taluk, Vellore District - 632101",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAT-2026-20260406085953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13147/0/bd4a4ff60f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Ramamoorthy",
+        "address": "No.3, Melalathur Road, Bheemapuram Village, Gudiyatham, Vellore District - 635806",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAME-2026-20260402075524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6029/0/1a9d301d6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Saravanan",
+        "party": "Namadhu Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Raja",
+        "address": "No.59, Chennai Salai, Katpadi, Katpadi Taluk, Vellore District - 632007",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSARA-2026-20260406072032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11040/0/a4c1eedc84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Velmurugan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Raman",
+        "address": "Old No.26, New No.16, Tiruppur Kumaran 2Nd Street, Salavanpet, Vellore - 632001",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVELM-2026-20260402065907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5663/0/2980210052/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Ramamoorthy",
+        "address": "No.3, Melalathur Road, Bheemapuram Village, Gudiyatham, Vellore District - 635806",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAME-2026-20260402075524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16469/0/9e8fedee79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.saravanan",
+        "party": "Namadhu Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Raja",
+        "address": "No.59, Chennai Salai, Katpadi, Katpadi Taluk, Vellore District - 632007",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSARA-2026-20260406072032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15200/0/adeb2a6925/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.velmurugan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Raman",
+        "address": "Old No.26, New No.16, Tiruppur Kumaran 2Nd Street, Salavanpet, Vellore - 632001",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVELM-2026-20260402065907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16322/0/c4757f58b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendiran Naidu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Sami Nandagopal",
+        "address": "No.m/2/27, New Street, Masigam Village, Pernambut Taluk, Vellore - 635810",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406073124.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10519/0/141beb3d4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Selvamoorthy",
+        "party": "Viro Ke Vir Indian Party",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Srinivasan",
+        "address": "No. 12, First Street, Ward -1, Thuthikadu Village And Post, Vellore District - 632113",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSELV-2026-20260402071652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5758/0/dda8e71630/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Selvamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Srinivasan",
+        "address": "No. 12, First Street, Ward -1, Thuthikadu Village And Post, Vellore District - 632113",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSELV-2026-20260402071652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13324/0/6165a72340/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.selvamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Srinivasan",
+        "address": "No. 12, First Street, Ward -1, Thuthikadu Village And Post, Vellore District - 632113",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSEL-2026-20260409104350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16394/0/ac69b84452/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.swapna",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "J.poovarasan",
+        "address": "No.323, Ambedkar Nagar, Chinna Sekkanur, Ussoor, Anaicut Taluk, Vellore - 632105",
+        "gender": "Female",
+        "age": "22",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSWA-2026-20260406083719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10561/0/ce0cee566e/",
+          "https://voterlist.co.in/affidavit-download/10561/1/0ad597a93f/",
+          "https://voterlist.co.in/affidavit-download/10561/2/2b48719f1a/",
+          "https://voterlist.co.in/affidavit-download/10561/3/ac45607a21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Sandilyan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "D Velazhagan",
+        "address": "No.1, Pasumai Illam, Sandhaimedu, Odukathur, Anaicut Taluk, Vellore District - 632103.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSAND-2026-20260404060938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7412/0/6782f30722/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Vinoth Kanna",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Vajiravel Gounder",
+        "address": "No.106, Bharathiyar Street, Avarampalayam, H/O. Keezhmonavur, Melmonavur Post, Vellore District - 632010",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVINO-2026-20260404062652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8066/0/39feef0653/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.s.venkatesh",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Saminathan",
+        "address": "No.48, Lakshmana Perumal Kovil Street, Kosapet, Vellore - 632001",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSV-2026-20260406083101.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13114/0/cf8c5e473a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.s.venktesh",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Saminathan",
+        "address": "No.48, Lakshmana Perumal Kovil Street, Kosapet, Vellore - 632001",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSV-2026-20260406083101.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11267/0/07de5ccc03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.vinothkanna",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anaikattu",
+        "father_husband_name": "Vajiravel Gounder",
+        "address": "No.106, Bharathiyar Street, Avarampalayam, H/O. Keezhmonavur, Melmonavur Post, Vellore District - 632010",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVINO-2026-20260404062652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16288/0/0683a00595/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

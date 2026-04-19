@@ -1,0 +1,414 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ariyalur",
+    "count": 27,
+    "candidates": [
+      {
+        "name": "Balamurugan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Subramaniyan",
+        "address": "4/3A, Vanniyar Street, Poovanipattu, Anikuthichan Post, Andimadam Tk, Ariyalur Dt - 621803",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406044105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10369/0/cab88355a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Pugazhendhi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Devendran",
+        "address": "206/2, Vadakku Theru, Keezhhkangayanur, Sundakudi, Ariyalur Dt - 621701",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Elaiyaraja C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Chakkaravarthi",
+        "address": "31A, South Street, Pappankulam, Jayankondam Post, Udaiyarpalayam Tk, Ariyalut  Dt - 621802",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELAIY-2026-20260406044826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8842/0/9ccb77391f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eswari",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Sivakumar",
+        "address": "4-87, Nadu Theru, Keelakavattankurichi, Ariyalur Tk, Ariyalur Dt. - 621715",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESWAR-2026-20260404024631.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6424/0/c4f57357c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Suppuraya Udaiyar",
+        "address": "220, Middle Street, Venkattaramapuram, Thamaraikulam Post, Ariyalut Tk, Ariyalur Dt. - 621705",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260406035235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9731/0/11158e42d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jothibasu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Karuppaiyan",
+        "address": "9B3, Oppilathamman Kovil Street, Ariyalur, Tamil Nadu",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/149/1774832240Jothibasu.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/60/0/43c76b0d1e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jothibasu K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Karuppaiyan",
+        "address": "9B3, Oppilathamman Kovil Street, Ariyalur, Tamil Nadu",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/149/1774832240Jothibasu.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16560/0/0be74c67c4/",
+          "https://voterlist.co.in/affidavit-download/16560/1/82fb157be9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kasinathan K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Karuppaiyan",
+        "address": "73/A, North Street, Kariyavetti, Ariyalur Tk, Ariyalur Dt - 621715",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASIN-2026-20260406033225.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8969/0/b0bc05095a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kennady R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Rasu",
+        "address": "100, Velan Nagar, Thirumanur, Ariyalur Tk, Ariyalur Dt. - 621715",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KENNA-2026-20260406041822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8927/0/c58a52615f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamoorthy C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Chinnasamy",
+        "address": "1/47, North Street, Kallankurichi, Ariyalur Tk, Ariyalur Dt. - 621705",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260404031556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6795/0/af8bf3f589/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Kulanthaivelan",
+        "address": "4/171, Main Road, Viragalur, Thiruppeyar Po, Thirumanur So, Ariyalur Tk, Ariyalur Dt. Pincode 621715",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/149/1774982679KUMAR.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6259/0/349da9d20b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Latha B",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Balasubramanian A",
+        "address": "2/43, Main Veethi, Manjamedu, Karaipakkam Post, Ariyalur Tk, Ariyalur Dt. - 621715",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LATHA-2026-20260406041309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8613/0/272689c05f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Latha Balu",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Balasubramanian A",
+        "address": "2/43, Main Veethi, Manjamedu, Karaipakkam Post, Ariyalur Tk, Ariyalur Dt. - 621715",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LATHA-2026-20260406041309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12892/0/4283993a95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pugazhendhi D",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Devendran",
+        "address": "206/2, Vadakku Theru, Keezhhkangayanur, Sundakudi, Ariyalur Dt - 621701",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PUGAZ-2026-20260402041556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5523/0/c62bdf3775/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Suppurayan K",
+        "address": "220, Middle Street, Venkattaramapuram, Thamaraikulam Po, Ariyalur Tk, Ariyalur Dt - 621705",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406034104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9264/0/c1c1f18d18/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Thangamani",
+        "address": "2/91, South Street, Koraikuzhi, Ulliyakudi Post, Udayarpalayam Tk, Ariyalur Dt. - 621701",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406040554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10323/0/3ef8ab31b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Karuppaiah S",
+        "address": "6/60, Kadaiyathuppatti Keela Theru, Silattur, Chidambara Viduthi Post, Aranthangi Tk, Pudukkottai Dt - 614622",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJKU-2026-20260406043501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10016/0/8ba535ec46/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar S",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Sakkiyanathan",
+        "address": "13/9A, Indira Nagar, Jayankondam, Udayarpalayam Tk, Ariyalur Dt - 621802",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJKU-2026-20260406032602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8749/0/f1817068e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Savari Anandham V",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Velankanni",
+        "address": "117 Gandhi Nagar Thirumanur Ariyalur Taluk Ariyalur Taluk 621715",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAVAR-2026-20260402035845.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5347/0/c3fd2fa185/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvapathi K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Kannaiyan",
+        "address": "129, Mela Street, Chettithirukkonam, Periyathirukkonam Post, Ariyalur Tk, Ariyalur Dt - 621701",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406045527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9338/0/2d845647a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Semmalai T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Thangavel",
+        "address": "1/18, Nadu Theru, Aikkal, Kavanur Post, Ariyalur Tk, Ariyalur Dt. - 621704",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEMMA-2026-20260406040002.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10076/0/8948949e5d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Muthusamy",
+        "address": "87, Nadu Theru, Keelakavattankurichi, Ariyalur Tk, Ariyalur Dt. - 621715",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAK-2026-20260404023632.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6252/0/9ae374e115/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Stalin V",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Velusami",
+        "address": "New No 82 Periya Theru Ariyalur Ariyalur Taluk Ariyalur District 621704",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STALI-2026-20260402040617.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5436/0/6514c67dd3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudhakar M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Maharajan",
+        "address": "3/592, South Street, Nayakkarpalayam, Reddipalayam Post, Ariyalur Tk, Ariyalut Dt - 621704",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406051529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8810/0/44a1e72474/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thanga. Shanmuga Sundaram",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "V. Thangarasu Udaiyar",
+        "address": "4/89, Middle Street, Keezhakavattankurichy, Ariyalur Tk, Ariyalur Dt  - 621715",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260330035544.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/430/0/65d2768f6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetrivel G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Govindhan",
+        "address": "521, Colony Street, Kavanur, Ariyalur Tk, Ariyalur Dt. - 621704",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VETRI-2026-20260404025257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6505/0/315b7b6b70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ariyalur",
+        "father_husband_name": "Rajapandiyan K",
+        "address": "39C, Vilangara Street, Ariyalur, Ariyalur Tk, Ariyalur Dt. 621704",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404030426.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6644/0/3f519f6782/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Paramakudi",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "A. Raju",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "V. Arumugam",
+        "address": "2/154, Kamankottai Village/ Post, Paramakudi Taluk-623527",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAJ-2026-20260404122933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6510/0/c705aab1c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Advocate. Kathiravan. K.k",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Karuppaiah",
+        "address": "4/903, Ambedkar Nagar, Sathirakudi, Paramakudi, 623527",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KKAT-2026-20260408030421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16219/0/ea350074be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amirtha. M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Baluchamy",
+        "address": "3-471C, M.g.r Nagar, Paramakudi, 623707",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAMI-2026-20260409103344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15545/0/d6118c0617/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Karthik Vani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Baskaran",
+        "address": "1/378, Poovaisiya Indrakula North Street, Paramakudi-623707",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BKAR-2026-20260404043228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6357/0/b67b34026a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Muthiah. S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Sithiran",
+        "address": "266, Bharathi Nagar Main Road, Paramakudi, 623707",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMUT-2026-20260408030450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15986/0/4f93be1fd6/",
+          "https://voterlist.co.in/affidavit-download/15986/1/391844b99b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhil Elavarasi. R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "N. Shivakumar",
+        "address": "B-201, Green Park Apartment, Sugarcane Main Road, Coimbatore, 641007",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/REZH-2026-20260408030333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16566/0/eba9b4580c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopirajan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Guruswaami",
+        "address": "12, Ward 32, Krishna Nagar, 3 Rd Street, Tambaram Corporation, Chengalpattu-600045",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPIR-2026-20260404050707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7266/0/6d134725cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopirajan. G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Gurusamy",
+        "address": "12, Ward 32, Krishna Nagar 3 Rd Street, Tambaram Corporation, Chengalpattu, 600045",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GOPIR-2026-20260408030847.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15901/0/975572167a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Kathiravan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Karuppaiah",
+        "address": "4/903, Ambedkarnagar, Sathirakudi,Paramakudi Taluk-623527",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAT-2026-20260404125746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6764/0/5e5da5f904/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik Vani. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Baskaran",
+        "address": "1/378, Poovaisiya Indrakula North Street, Paramakudi, 623707",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BKAR-2026-20260408031125.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15888/0/8da9336d48/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathiravan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Rajendran",
+        "address": "43/3/538, Ponnaiyapuram, Paramakudi-623707",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KATHI-2026-20260404120650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6374/0/fb395d4baa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathiravan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Rajendran",
+        "address": "43/3/538, Ponnaiyapuram, Paramakudi, 623707",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KATHI-2026-20260408031050.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15904/0/3bf23ff467/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Amirtha",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Baluchamy",
+        "address": "3/471 C, M.g.r Nagar, Paramakudi-623707",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAMI-2026-20260406040308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10174/0/0323697882/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Muniyandi",
+        "address": "3/203, Ganthinagar 1 St Street,Emaneswaram Post,Paramakudi Taluk-623701",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406123727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10159/0/3170e36e6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthaiah",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Muthu",
+        "address": "203, Enathikottai, Sudiyur, Paramakudi-623608",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHA-2026-20260406045116.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9028/0/77bb614615/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthaiya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Ammasi",
+        "address": "135, Enathikottai, Sudiyur, Paramakudi-623608",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHA-2026-20260406050519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10092/0/9cff62bd75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muththiah. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Muthu",
+        "address": "203, Enathi Kottai, Sudiyur, Paramakudi",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHA-2026-20260408051153.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14910/0/9530fca4fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ezhil Elavarasi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "N. Shivakumar",
+        "address": "B-201, Green Park Apartment, Sugarcane Main Road, Coimbatore - 641007",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REZH-2026-20260330024529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/121/0/79acf4e638/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Susila",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Ramachandran",
+        "address": "4/116, Ambedkar Nagar, Chathirakkudi, Paramakudi Taluk",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUS-2026-20260404040526.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6709/0/a4a8c6ed59/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radha Krishnan . G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Govindaraj",
+        "address": "1/314,  Poovaisiya Indrakula South Street, Paramakudi-623707",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RADHA-2026-20260404044830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7762/0/2554464c09/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radha Krishnan. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Govindaraj",
+        "address": "1/314,  Poovaisiya Indra Kula North Street, Kattuparamakudi, Paramakudi, 623707",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RADHA-2026-20260408031219.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16137/0/73424480dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Muniyandi",
+        "address": "3/203, Gandhi Nagar 1 St Street, Emaneswaram-623701",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAJ-2026-20260408031502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15535/0/37b844d992/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Kanakaraj",
+        "address": "3/526-44, Ceylon Colony, Paramakudi-623707",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260406043204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9857/0/fc2180bcbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raju. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "V. Arumugam",
+        "address": "2/154, Kamankottai, Paramakudi, 623527",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARAJ-2026-20260408031620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16022/0/4981f591eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rathina Prakash",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Karmegam",
+        "address": "1/343, Poovaisiya Indirakula Street, Kattuparamakudi,Paramakudi-623707",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RATHI-2026-20260406030053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9636/0/0d2d2bc893/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rathina Prakash. K",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Karmegam",
+        "address": "1/343, Poovaisiya Indirakula Street, Kattuparamakudi,Paramakudi, 623707",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RATHI-2026-20260408030729.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15235/0/470499e5e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Muthiah",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Sithiran",
+        "address": "266, Bharathi Nagar Main Road, Paramakudi-623707",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUT-2026-20260404014240.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6238/0/71b864b7b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sasikala",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "U. Shanmuganathan",
+        "address": "385, Pavanar Street, Karungalakuruchi Village, M.m.pattanam Post, Mudukulathur Taluk.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAS-2026-20260402033734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5262/0/04b4598a6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Muthiah",
+        "address": "266, Bharathi Nagar Main Road, Paramakudi-623707",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260404012228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6222/0/f7083a075c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkateswari",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramakudi",
+        "father_husband_name": "Gopirajan",
+        "address": "Door No 12, 3 Rd Street, Krsihana Nagar, Tambaram, Chengalpattu-600045",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260404052206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7938/0/9ea616e652/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

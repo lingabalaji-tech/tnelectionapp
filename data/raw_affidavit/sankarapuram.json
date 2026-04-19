@@ -1,0 +1,580 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sankarapuram",
+    "count": 38,
+    "candidates": [
+      {
+        "name": "Anbazhagan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Sakthivel",
+        "address": "69, Vijayapuram 10Vathu Street, Chinnasalem Town Panchayat, Kallakurichi District- 606201",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAZ-2026-20260406090124.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10536/0/d9c96520b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.murugu K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Kathamuthu",
+        "address": "1278,Kalanjiyam Nagar, Thenkeeranur, Kallakurichi Taluk And District-606213",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRMU-2026-20260406112717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12568/0/f160602f5f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.murugu.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Kathamuthu",
+        "address": "1278,Kalanjiyam Nagar, Thenkeeranur, Kallakurichi Taluk And District-606213",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRMU-2026-20260402060844.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5731/0/0c63190aea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai Ezhilan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Paramasivam",
+        "address": "No.197, L.f.road, Kachirapalayam Post, Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406045930.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9659/0/ff003bccc7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganga Sekar A",
+        "party": "Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Annakarai P",
+        "address": "17/9, Udaiyar Street, Ammapettai Village, Vadakkanandal Post,Chinnasalem Taluk,Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GANGA-2026-20260406113635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12565/0/2c3587fcbe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gangasekar A",
+        "party": "Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Annakarai P",
+        "address": "17/9, Udaiyar Street, Ammapettai Village, Vadakkanandal Post,Chinnasalem Taluk,Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANGA-2026-20260404035730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6561/0/0f7e36d19e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Harun Rasheeth J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Johnbasha",
+        "address": "35/30A, Middle Street, Kallakurichi - 606202",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARUN-2026-20260406093002.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11760/0/0ad5f87310/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jagadesan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Arumugam",
+        "address": "East Nattar Street, Pethanayakan Palayam, Salem District-636109",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAGAD-2026-20260404010441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6833/0/e76b242ec3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jagadesan A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Arumugam",
+        "address": "East Nattar Street, Pethanayakan Palayam And Taluk, Salem District-636109",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAGAD-2026-20260406113318.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12404/0/c32bd6c394/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaprakash K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Karunanithi",
+        "address": "2/293,South Street, Kachirayapalaiyam Road,Ka.sellampattu Village And Post, Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAP-2026-20260402065020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5892/0/2a00f36c39/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karkuzhaly V",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Pachamuthu",
+        "address": "Amman Nagar, Kachirayapalayam Saalai, Kallakurichi District-606202",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARKU-2026-20260406073307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10591/0/8831bc700d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavikuil V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Venkatesan K",
+        "address": "075,Colony Middle Street, Nedumanur Post,Sankarapuram Taluk, Kallakurichi District-606208",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIK-2026-20260404023032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6177/0/e6b3de0f58/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahendiran R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Rajendiran",
+        "address": "392/2, Kattukottai, Maravanatham, Vettiperumalagam Post, Chinnasalem Taluk, Kallakurichi District- 606201",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHEN-2026-20260406094307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12158/0/d84f1166cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mailamparai Mari A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Asalan",
+        "address": "1/218,Main Road, Vadasettiyandal Village, Sankarapuram Taluk, Kallakurichi District - 606208",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAYIL-2026-20260330060838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12571/0/1dabe1a2f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mani G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Gobal",
+        "address": "437, East Street, Manmalai Village, Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIG-2026-20260402070652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5712/0/034e4fcfc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Periyasamy",
+        "address": "1/37, Vijayapuram 13Vathu Street, Chinnasalem Town Panchayat, Kallakurichi District - 606201",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANIK-2026-20260404072027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7387/0/5e86af8be7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayilamparai Mari A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Asalan",
+        "address": "1/218,Main Road, Vadasettiyandal Village, Sankarapuram Taluk, Kallakurichi District - 606208",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAYIL-2026-20260330060838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/83/0/910567e8cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nadarajan K",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Karuppapillai",
+        "address": "38A,Middle Street, Akkarayapalayam,Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NADAR-2026-20260406083451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11414/0/9d766c71ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pachaiyappan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Kuttiya",
+        "address": "9B, North Street, Vadakkanandal , Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PACHA-2026-20260406082005.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10825/0/b3560be59d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniyammal S",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Sellappan",
+        "address": "60/1, Belur Post, Ward-12, Kaliyamman Kovil Street, Valapady Taluk, Salem District - 636104",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406052100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9252/0/f5cda601bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Udhayasuriyan T",
+        "address": "1, East Street, Vadakkanandal, Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RADHA-2026-20260406075702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10834/0/f9dcb21f06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rakesh R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Rajavel",
+        "address": "3, Sakthipuram, Chinnasalem, Kallakurichi District - 606201",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAKES-2026-20260406053725.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8534/0/9f41b83713/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandiran M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Murugesan",
+        "address": "North Street, 92, Keezhkuppam Village, Anumanandal Post, Chinnasalem Taluk, Kallakurichi District-606301",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMAC-2026-20260409083751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14818/0/6ad8006753/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Murugesan",
+        "address": "92, North Street, Keezhkuppam Village, Anumanandal Post, Chinnasalem Taluk, Kallakurichi District-606301",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406071256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10682/0/b28ca4f9fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Kanagaraj",
+        "address": "36,Middle Street, Akkarayapalayam, Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260330032453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/293/0/e2b25eba33/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjith R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Rajavel",
+        "address": "3/9, Sakthipuram, Chinnasalem, Kallakurichi District-606201",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260406065755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9632/0/0489bbb41d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samikkannu M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Muniyan",
+        "address": "5-68B, Mariyamman Kovil Street, Sivapuram Village, Mookkanur Post, Sankarapuram Taluk, Kallakurichi District - 606402",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMIK-2026-20260409083202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15252/0/8764cb62b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samikkanu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Muniyan",
+        "address": "Mariyamman Kovil Street, Sivapuram Village, Mookkanur Post, Sankarapuram Taluk, Kallakurichi District - 606402",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMIK-2026-20260406040051.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9674/0/0d6ccabf2d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sanniyasi N",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Narayanan",
+        "address": "1/91,Pillaiyar Koil Street, Thachur Post, Kallakurichi District-606202",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANNI-2026-20260404122736.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6489/0/0e9dd7bd6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish Kumur",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Arumugam",
+        "address": "3,East Nattar Street, Pethanayakan Palayam, Salem District - 636109",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260404020429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6698/0/fbb044b358/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathishkumar A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Arumugam",
+        "address": "3,East Nattar Street, Pethanayakan Palayam And Taluk, Salem District - 636109",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SATHI-2026-20260406113412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12566/0/5757614e79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivasankar N",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Natrajan",
+        "address": "38A, Middle Street, Akkarayapalayam, Chinnasalem Taluk, Kallakurichi District- 606207",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAS-2026-20260406091718.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12279/0/e91ba7671d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudha M",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Manivannan A",
+        "address": "126, Mariyamman Kovil Street, Rayarpalayam, Pethanur Post, Kallakurichi Taluk And District - 606201",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260404024558.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6407/0/168d8e3a58/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayasuriyan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Thagappillai",
+        "address": "1, East Street, Vadakkanandal, Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDHAY-2026-20260406074709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11289/0/ba49823f89/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayasuriyan T",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Thagappillai",
+        "address": "1, East Street, Vadakkanandal, Chinnasalem Taluk, Kallakurichi District - 606207",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDHAY-2026-20260406074709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12416/0/5589041786/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu R",
+        "party": "Republican Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Ramalingam",
+        "address": "No.45, North Street, Mathur Village, Chinnasalem Taluk, Kallakurichi Distict-606201",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VELUR-2026-20260406041722.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8881/0/7aebabbf5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Ramadas",
+        "address": "42/23, Vadugar Street, Chinnasalem Town Panchayat, Kallakurichi Distirct-606201",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIGNE-2026-20260404072053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7951/0/adafd3e074/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarapuram",
+        "father_husband_name": "Jayaraman",
+        "address": "0, Ramachandira Nagar, Chinnasalem, Kallakurichi- 606201",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406085004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11042/0/1f72a4ca7d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

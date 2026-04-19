@@ -1,0 +1,848 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Velachery",
+    "count": 56,
+    "candidates": [
+      {
+        "name": "Aasan Maulaana",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Aaroon Rasheed",
+        "address": "No 218/166, Peters Road, Royapettah, Chennai - 600014",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AASAN-2026-20260406084800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10961/0/c0e0345f84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aassan Maulaana J.m.h",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Aaroon Rasheed",
+        "address": "No 165, Peters Road, Royapettah, Chennai - 600014",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AASAN-2026-20260406084800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15110/0/1b215f3484/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ahammed Nazeer Khan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Shajakhan",
+        "address": "No 300, Payndiyamman Kovil Street, Odakuppam, Besant Nagar, Chennai - 600019",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AHAMM-2026-20260406092859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11709/0/7b63ed3a85/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asha Marina S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Kumar R",
+        "address": "Old No 28 New No 42 Sasthiri Nagar 1St Avenue, Adyar, Chennai  600020",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHAM-2026-20260402062244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5807/0/e3ab183bbc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asha Marina S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Kumar R",
+        "address": "Old No 28 New No 42 Sasthiri Nagar 1St Avenue, Adyar, Chennai  600020",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHAM-2026-20260402062244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13343/0/b11879aa0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashok. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "V Mani",
+        "address": "No 41, Anna Street, Thiruvanmiyur, Chennai  600041",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASHO-2026-20260406090452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14809/0/ad8b4d3704/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashok. M.k",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Karuppaiah",
+        "address": "No:538, Lig-Ii, Tnhb Quarters , Velachery, Chennai  600 042",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKA-2026-20260330071134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16620/0/b35e3a9785/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Azarutheen. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Mohammed Yusuf",
+        "address": "No.11, Erikkarai Street, Kamarajapuram, Nandhivaram, Guduvancheri, Vandalur Taluk, Chengalpattu -603202",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAZA-2026-20260404070728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15810/0/6dc33c1103/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bhaskar. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Gunasekar",
+        "address": "G1, Pallakku Manyam, Tnhb, G Block, Mylapore, Chennai - 600004",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBASK-2026-20260406082416.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15129/0/e14eb08c5b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.r Rathakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Deventhiran",
+        "address": "1288,B Block , Ground Floor, 79Th Lane, Tamilnadu Housing Board, Velachery, Chennai - 600042",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRRA-2026-20260402062733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5821/0/2854cfa435/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Deepak Ravi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "G Ravi",
+        "address": "No 27C, East Coast Road, Tiruvanmiyur , Chennai  600041",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEEPA-2026-20260406091303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12139/0/c7b2c76d1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Diwakar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Ravi",
+        "address": "No 2/1699, Kasthuribai Nagar, Okkiyam, Thuraipakkam, Kancheepuram - 600097",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DIWAK-2026-20260406090952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11994/0/584a327749/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Diwakar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Ravi",
+        "address": "No 2/1699, Kasthuribai Nagar, Okkiyam, Thuraipakkam, Kancheepuram - 600097",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DIWAK-2026-20260406090952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15016/0/c85d7d36b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Baskar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Gunasekar",
+        "address": "G1, Pallakku Manyam, Tnhb, G Block, Mylapore, Chennai - 600004",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBASK-2026-20260406082416.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10978/0/6be95746cf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "I.mohamed Yaseen",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "I Sabeera",
+        "address": "28/4, Anbazhagan Street, Velachery Checkpost, Guindy, Chennai - 600042",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IMOH-2026-20260402055846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5654/0/8b85df194a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Janagaraj Ravi Gunaseelan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Venkatraman Janagaraj",
+        "address": "No 1624,25Th  Lane, Tnhb, Velachery, Chennai - 600042",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JANAG-2026-20260406074525.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11210/0/86a9d2dc25/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Kannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "P Kuppusamy",
+        "address": "No 870, 44Th Cross Street, Tiruvalluvar Nagar, Tiruvamiyur, Chennai  600041",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKANN-2026-20260406090103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10523/0/0389db1c2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Mohanraj",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "R Kuppusamy",
+        "address": "No 12/6, 10Th Lane , Indira Nagar, Adyar, Chennai - 600020",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOHA-2026-20260404011519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6156/0/ef6652cf02/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.a Vimal Kumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "M.k Ashok",
+        "address": "No 538, Lig Ii, First Avenue, Tnhb Colony, Velachery, Chennai  600 042",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVI-2026-20260406083012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11221/0/ababe8984f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kala Pethachi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Ar Pethachi",
+        "address": "No 44/66, Murugan Adi Enclave, Venkarathinam Street, Adyar, Chennai  600020",
+        "gender": "Female",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAP-2026-20260406091638.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12254/0/b4a8c022ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanchana. R",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "K Krishnaveni",
+        "address": "No H14, S6, Elegant Flats,Thiruvalluvar Nagar, Tiruvanmiyur, Chennai  600041",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RKANC-2026-20260406080452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15221/0/73e669811e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "P Kuppusamy",
+        "address": "No 870, 44Th Cross Street, Tiruvalluvar Nagar, Thiruvanmiyur, Chennai  600041",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKANN-2026-20260406090103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14666/0/246149e944/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Keerthana. M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "C Adhithya",
+        "address": "No. 6 , Jeganathan Street, Kottivakkam , Thiruvanmiyur , Chennai - 600041",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKEE-2026-20260330064915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16604/0/7ee24acd69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Ram Tula",
+        "address": "Old No 28 New No 42 Sasthiri Nagar 1St Avenue, Adyar, Chennai  600020",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260402061105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5752/0/9cece71de2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar. R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Ram Tula",
+        "address": "Old No 28 New No 42 Sasthiri Nagar 1St Avenue, Adyar, Chennai  600020",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260402061105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16393/0/3aad74b8df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Ashok",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "V Mani",
+        "address": "No 41, Anna Street, Tiruvamiyur, Chennai  600041",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASHO-2026-20260406090452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10677/0/e3c2b0d343/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Mani",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Murugesan",
+        "address": "21A, Door No .As2, Thamarai Flat, V G P Selva Nagar 1St Street, Anna Nagar Extension, Velachery, Chennai  600042",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMANI-2026-20260402060527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5703/0/9dfdbeefb4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Poyyamozhi",
+        "party": "Proutist Sarva Samaj",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Muniyappan",
+        "address": "No 1/181, 2Nd Floor, Prabhu Complex, Santhoshapuram Bus Stand, Velachery Main Road, Chennai  600073",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPOYY-2026-20260406081916.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10776/0/b2ae4f88af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Vignesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Mathialagan R",
+        "address": "No 30, First Street, Pavithram Village, Tiruvannamalai, Tamilnadu - 606806",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIGN-2026-20260406083724.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10569/0/8b43b5e7ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Azarutheen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Mohammed Yusuf",
+        "address": "No.11, Erikkarai Street, Kamarajapuram, Nandhivaram, Guduvancheri, Vandalur Taluk, Chengalpattu -603202",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAZA-2026-20260404070728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7124/0/ec55c0ccfe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Keerthana",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "C Adhithya",
+        "address": "No. 6 , Jeganathan Street, Kottivakkam , Thiruvanmiyur  - 41 Chengalpattu",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKEE-2026-20260330064915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/267/0/c59119a169/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.k. Ashok",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Karuppaiah",
+        "address": "No:538, Lig-Ii, Tnhb Quarters , Velachery, Chennai  42",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKA-2026-20260330071134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/342/0/769ce47e9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mani. M",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Murugesan",
+        "address": "No 21 A, Door No .As2, Thamarai Flat, V G P Selva Nagar 1St Street, Anna Nagar Extension, Velachery, Chennai  600042",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMANI-2026-20260402060527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16351/0/b445ff4049/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Yaseen. I",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "I Sabeera",
+        "address": "No 28/4, Anbazhagan Street, Velachery Checkpost, Guindy, Chennai - 600032",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IMOH-2026-20260402055846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16315/0/7183181aab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Rangasamy",
+        "address": "No 04, A.m Garden, Ra Puram, Chennai  600028",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMOHA-2026-20260406071541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14980/0/f7712597ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohanraj. K",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "R Kuppusamy",
+        "address": "No 12/6, 10Th Lane , Indira Nagar, Adyar, Chennai - 600020",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOHA-2026-20260404011519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15753/0/f6e7161600/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poyyamozhi. M",
+        "party": "Proutist Sarva Samaj",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Muniyappan",
+        "address": "No 1/181, 2Nd Floor, Prabhu Complex, Santhoshapuram Bus Stand, Velachery Main Road, Chennai  600073",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPOYY-2026-20260406081916.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14899/0/2c6f4f011b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Kanchana",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "K Krishnaveni",
+        "address": "No H14, S6, Elegant Flats,Thiruvalluvar Nagar, Tiruvanmiyur, Chennai  600041",
+        "gender": "Female",
+        "age": "92",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RKANC-2026-20260406080452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11056/0/7842888fe4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Malarkodi",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "L Ramesh",
+        "address": "No E715, 22Nd Cross Street, Tiruvalluvar Nagar, Tiruvanmiyur, Chennai  600041",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMALA-2026-20260406085639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11281/0/e33194b718/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Mohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Rangasamy",
+        "address": "No 04, A.m Garden, Ra Puram, Chennai  600028",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMOHA-2026-20260406071541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10848/0/7a56977a22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Vignesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "K Ramesh",
+        "address": "No 39/164, Avvai Nagar, Tiruvanmiyur , Chennai - 600041",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIGN-2026-20260406092103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12383/0/41479ec34b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radhakrishnan. D.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Deventhiran",
+        "address": "No 1288, B Block , Ground Floor, 79Th Lane, Tamilnadu Housing Board, Velachery, Chennai - 600042",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRRA-2026-20260402062733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16447/0/628cc03a90/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Sethuraman",
+        "address": "No.21/11, Ramasamy Garden, Adyar, Chennai-20",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260330061928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16578/0/b4be25f8c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ritish",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Suresh",
+        "address": "No 33/81 , Vadamalai Street, Purasaiwalkam, Vepery, Chennai - 600007",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RITIS-2026-20260406075535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14901/0/db80bb5e36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ritish S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Suresh",
+        "address": "No 33/81 , Vadamalai Street, Purasaiwalkam, Vepery, Chennai - 60007",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RITIS-2026-20260406075535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10779/0/93ccc80170/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rokesh Kumar. V",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Venkatesan",
+        "address": "No 3, Karumari Amman Kovil, 1St Street, Mahatma Gandhi Nagar, Taramani, Chennai  600113",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VROGE-2026-20260406084306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14916/0/81e8c8ae24/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Mugesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Sugumaran",
+        "address": "No 12/6 Guindy, Ramarajapuram, Kannagi Street, Chennai - 600032",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUGE-2026-20260406073719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10791/0/d832b9bf27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Rajasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Sethuraman",
+        "address": "No.21/11, Ramasamy Garden, Adyar, Chennai-20",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260330061928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/153/0/cac5a9f81b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarabeshwar C S P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Prayakai Krishnan",
+        "address": "No 96/65, Veeraperumal Street, Mylapore, Chennai - 600004",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAB-2026-20260406072530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11255/0/0b436b7aa0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarabeshwar Sisu. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Prayakai Krishnan",
+        "address": "No 96/65, Veeraperumal Street, Mylapore, Chennai - 600004",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAB-2026-20260406072530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15463/0/6d9a587ed9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Krishnan",
+        "address": "No 6/63, Solaiappan Street, Mylapore, Chennai  600 004",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406072949.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11431/0/816d38151c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Usha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Sekar",
+        "address": "No 225, Payndiyamman Kovil Street, Odakuppam, Besant Nagar, Chennai - 600019",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/USHA-2026-20260406092509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12525/0/da63c88fd8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Bala Subramaniyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "M Velusamy",
+        "address": "No 3A , 5Th Street Extention, Sarathy Nagar, Velachery, Chennai - 600042",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBALA-2026-20260406100331.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V Rogesh Kumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Venkatesan",
+        "address": "No 3, Karumari Amman Kovil, 1St Street, Mahatma Gandhi Nagar, Taramani, Chennai  600113",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VROGE-2026-20260406084306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10802/0/f91fa745e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "Mathialagan R",
+        "address": "No 30, First Street, Pavithram Village, Tiruvannamalai, Tamilnadu - 606806",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIGN-2026-20260406083724.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14711/0/744274f7b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Velachery",
+        "father_husband_name": "K Ramesh",
+        "address": "No 39/164, Avvai Nagar, Tiruvanmiyur , Chennai - 600041",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIGN-2026-20260406092103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15465/0/85e53bdf87/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

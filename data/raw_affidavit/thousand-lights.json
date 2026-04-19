@@ -1,0 +1,607 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Thousand Lights",
+    "count": 40,
+    "candidates": [
+      {
+        "name": "A.george Benny",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "A.antony",
+        "address": "No.40/2, Arokiyasamy Street, Varadharajanpettai,Choolaimedu, Chennai - 600094",
+        "gender": "Male",
+        "age": "79",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AGEO-2026-20260407124452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11576/0/62dc37ab01/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sathya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Arunachalam",
+        "address": "Plot No.17,Shanthi Nagar, Metha Nagar Extn, Sriperumbudur, Kundrathur, Kancheepuram - 600069",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAT-2026-20260404054935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7774/0/cb4e5bce6c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sundararaju",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "K.arumugam",
+        "address": "27, Old No.30/1, South Gangai Amman Koil 1St Street, Choolaimedu, Chennai - 600094",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUN-2026-20260402054944.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ammalan Samraj Prabhakar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "J.c.d. Prabhakar",
+        "address": "No. 1, 4Th Avenue, Harington Road, Chetpet, Chennai - 600031",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMMAL-2026-20260406064434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10267/0/76368c4841/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.prabhakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Balan",
+        "address": "No.501, South Boag Road, Vtc Thiyagaraya Nagar, Chennai - 600017",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BPRA-2026-20260406011053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9103/0/a62236b5e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.valarmathi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "K.v.balasubramanian",
+        "address": "Old No.118, New No.4, 6Th Street, 1St Sector, K K Nagar, Chennai - 600078",
+        "gender": "Female",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVAL-2026-20260406025807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8486/0/bb71842d2a/",
+          "https://voterlist.co.in/affidavit-download/8486/1/6b5b987fe1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.b.muvendhan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "K.v.balasubramanian",
+        "address": "No.4, 6Th Street, 1St Sector, K.k. Nagar, Chennai - 600078",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CBM-2026-20260406081001.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "D.vijay",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Doss",
+        "address": "No.125/19, Thiru Vi Ka Quarters, Vtc Teynampet, Chennai - 600018",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVIJ-2026-20260406062543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8832/0/31d23e5c7c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanasekaran.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "V. Venkatesan",
+        "address": "No.24/51, Nattumuthu Theru, Teynampet, Chennai - 600018",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VDHA-2026-20260407123659.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15149/0/2af7a87a08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.muniyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Elangovan",
+        "address": "No.97/34, 7Th Cross Street, Trustpuram, Kodambakkam, Chennai - 600024",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EMUN-2026-20260407121919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12037/0/5b1f5e9bc3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.pachaiyappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Ezhumalai",
+        "address": "No.54/88, Ellaiyamman Colony, 2Nd Cross Street, Gopalapuram, Chennai - 600086",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EPAC-2026-20260406114349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11961/0/fed5a84df8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.valarmathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Elumalai",
+        "address": "No.2/2, I Block, Pushpa Nagar, Nungambakkam, Chennai - 600034",
+        "gender": "Female",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EVAL-2026-20260406020401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9130/0/e8597facf9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhilan Naganathan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Naganathan.m",
+        "address": "No.14, Siva Sankar Apartments, Sivasankar Salai, Teynampet, Chennai - 600086",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260404025606.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6546/0/b271d83953/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "H.mohamed Ghouse",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Hassain Moulana",
+        "address": "Door No.7, M.s. Koil Street, Royapuram, Chennai - 600013",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HMOH-2026-20260406123623.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10137/0/7670b9cab3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.c.d. Prabhakar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "I.johnsamuel",
+        "address": "No.1, 4Th Avenue, Harington Road, Chetpet, Chennai - 600031",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JCD-2026-20260404014752.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6550/0/c831a98ba1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalanchiyam.mu",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Muniyandi",
+        "address": "No.5/24, Plot No 10/11, First Floor, Sriram Nagar Main Road, Opposite To Lamicale Club, Ramapuram, Chennai - 600089",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUKA-2026-20260405024527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16433/0/f836c8c222/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Saravanan",
+        "address": "No.111/131, West Namachivayapuram, Choolaimedu, Chennai - 600094",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406113645.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11869/0/1bdcc79c5a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Saravanan",
+        "address": "No.111/131, West Namachivayapuram, Choolaimedu, Chennai - 600094",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARTH-2026-20260409080315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14880/0/3670bc143b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.mohammed Haroon.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Makthum Sha",
+        "address": "No.52/113, Appasamy Street, 7Th Avenue, Harrington Road, Chennai",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMOH-2026-20260407124137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11586/0/be67c9c78e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Ghouse.h",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Hassain Moulana",
+        "address": "Door No.7, M.s. Koil Street, Royapuram, Chennai - 600013",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HMOH-2026-20260406123623.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15521/0/3073374e02/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mu.kalanchiyam",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Muniyandi",
+        "address": "No.5/24, Plot No 10/11, First Floor, Sriram Nagar Main Road, Opposite To Lamicale Club, Ramapuram, Chennai - 600089",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUKA-2026-20260402035100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5312/0/bdd6ce7c2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muniyan.e",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Elangovan",
+        "address": "No.97/34, 7Th Cross Street, Trustpuram, Kodambakkam, Chennai - 600024",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EMUN-2026-20260407121919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15057/0/453b6cd3a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.anbudurai",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "M.parthasarathy",
+        "address": "No.42, New No.5, Mudhaliyandar Garden, Teynampet, Chennai - 600018",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANB-2026-20260404051748.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7723/0/36dc1660b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pachaiyappan.e",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Ezhumalai",
+        "address": "No.54/88, Ellaiyamman Colony, 2Nd Cross Street, Gopalapuram, Chennai - 600086",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EPAC-2026-20260406114349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14971/0/82b754b752/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhakar.j.c.d",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "I.johnsamuel",
+        "address": "No.1, 4Th Avenue, Harington Road, Chetpet, Chennai - 600031",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JCD-2026-20260404014752.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16049/0/3d68f1abbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhakaran.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Balan",
+        "address": "No.501, South Boag Road, Vtc Thiyagaraya Nagar, Chennai - 600017",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRABH-2026-20260409090220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14952/0/8f24e521a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhakaran.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Thulasingam",
+        "address": "No.68/36, Prasanna Vinayagar Kovil, 1St Street, Pudupet, Royapettah, Chennai - 600014",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TPRA-2026-20260406022940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15613/0/d2f5631e82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhakaran.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Viswanathan",
+        "address": "No.19/36, Gulam Abbas Ali Khan, 9Th Street, Thousand Lights, Chennai - 600006",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VPRA-2026-20260406102319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15511/0/8e8b0c8664/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathya.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Arunachalam",
+        "address": "Plot No.17,Shanthi Nagar, Metha Nagar Extn, Sriperumbudur, Kundrathur, Kancheepuram - 600069",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAT-2026-20260404054935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16143/0/0659c6bd3b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shankar.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Venkatesa Naidu",
+        "address": "Old No.2/4, New No.7, Pillaiyar Koil Street, T.nagar, Chennai -600017",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHANK-2026-20260409075635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15240/0/8b04f0b301/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundara Raju.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "K.arumugam",
+        "address": "No.27, Old No.30/1, South Gangai Amman Koil 1St Street, Choolaimedu, Chennai - 600094",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ASUN-2026-20260405031359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16501/0/3709acbb3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.prabhakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Thulasingam",
+        "address": "No.68/36, Prasanna Vinayagar Kovil, 1St Street, Pudupet, Royapettah, Chennai - 600014",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TPRA-2026-20260406022940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10321/0/5cf057a7ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.dhanasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "V. Venkatesan",
+        "address": "No.24/51, Nattumuthu Theru, Teynampet, Chennai - 600018",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VDHA-2026-20260407123659.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12135/0/549f7b9c03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.prabhakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Viswanathan",
+        "address": "No.19/36, Gulam Abbas Ali Khan, 9Th Street, Thousand Lights, Chennai - 600006",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPRA-2026-20260406013940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10124/0/971f727ede/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.sankar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Venkatesa Naidu",
+        "address": "No.2/4 - No.7, Pillaiyar Koil Street, T.nagar, Chennai -600017",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSAN-2026-20260407124900.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12219/0/562ab77ff2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Valarmathi.b",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "K.v.balasubramanian",
+        "address": "Old No.118, New No.4, 6Th Street, 1St Sector, K K Nagar, Chennai - 600078",
+        "gender": "Female",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVAL-2026-20260406025807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15171/0/98cef3491a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Valarmathi.e",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Elumalai",
+        "address": "No.2/2, I Block, Pushpa Nagar, Nungambakkam, Chennai - 600034",
+        "gender": "Female",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EVAL-2026-20260406020401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14962/0/938e71ffa5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Valarmathy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Dhanasekaran",
+        "address": "No.360, X Block, Kamaraji Colony, Boopathi Nagar, Kodambakkam, Chennai - 600024",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VALAR-2026-20260406070326.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10118/0/c6f46b2c07/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Valarmathy.d",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Dhanasekaran",
+        "address": "No.360, X Block, Kamaraji Colony, Boopathi Nagar, Kodambakkam, Chennai - 600024",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VALAR-2026-20260406070326.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15504/0/296ca02c71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay.d",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thousand Lights",
+        "father_husband_name": "Doss",
+        "address": "No.125/19, Thiru Vi Ka Quarters, Vtc Teynampet, Chennai - 600018",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DVIJ-2026-20260406102611.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14814/0/e825ad96df/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

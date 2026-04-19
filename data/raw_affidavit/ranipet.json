@@ -1,0 +1,458 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ranipet",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "A. Nareshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Akkeem",
+        "address": "No.6/5, Labour School Street, Ranipet, Walajah Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAR-2026-20260406095039.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12359/0/6e50277bf4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Mythili",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Karthikeyan",
+        "address": "No.6/2, Vakkil Street, Ranipet, Ranipet District",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BMYT-2026-20260406100223.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11782/0/9d9fbf122f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "H. Raihan Begum",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Sheik Barith",
+        "address": "No.37, Bmv School Backside, Kizputhupettai, Ananthalai Village, Walajah Taluk",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HRAI-2026-20260330063226.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ibrhaim",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Hayath Basha",
+        "address": "No.5, Mission Church Street, Katpadi, Tharapadavedu, Vellore - 632007",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IBRHA-2026-20260406104312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11965/0/ec070fb6bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ibrhaim",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Hayath Basha",
+        "address": "No.5, Mission Church Street, Katpadi, Tharapadavedu, Vellore - 632007",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IBRHA-2026-20260406104312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12981/0/ebb5a70291/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Hassain",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Jiggiriya",
+        "address": "No.11, Thirumalai Street, Walajapet, Ranipet District - 632513",
+        "gender": "Male",
+        "age": "82",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JHAS-2026-20260406094535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12226/0/d763757353/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Mohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Jothi",
+        "address": "No.138, Vetrilaikara Street, Walajapet, Ranipet District - 632513",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMOH-2026-20260406103445.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11757/0/0da8cad32d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.jeniferjanet",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "James Mathew",
+        "address": "No.268/A, V.o.c Street, Vallalar Nagar, Thandalam, Chettithangal Panchayat - Ranipet District - 632401",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJEN-2026-20260404054232.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7426/0/80696e84dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Kuppan",
+        "address": "No.18/30B, Paarai Street, Navalpur, Ranipet, Ranipet District - 632402",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOO-2026-20260402044216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5311/0/4c5e2c5613/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Sakthivel Nathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "S. Karuppaiya",
+        "address": "No.4, Eswaran Kovil Street, Pinji, Ranipet, Ranipet District - 632401",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAK-2026-20260406093046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11781/0/2243e6be97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamala Gandhi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "R. Gandhi",
+        "address": "No.7, Railway Station Road, Ranipet, Ranipet District",
+        "gender": "Female",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAMAL-2026-20260406102234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12364/0/0a09c4bc4c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Meera.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "C.rajendiran",
+        "address": "No.55/B, School Street, Srinivasanpet, Ranipet, Ranipet District",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MEERA-2026-20260404054927.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7764/0/107b00349b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Kumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Nagappan",
+        "address": "No.3/39, Mandhaiveli Street, Ramanthanpuram, Thalanur Village, Walajah Taluk, Arcot Post, Ranipet District - 632503",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKUM-2026-20260404053710.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7243/0/d19ebbd9dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Nagappan",
+        "address": "No.3/39, Mandhaiveli Street, Ramanthanpuram, Thalanur Village, Walajah Taluk, Arcot Post, Ranipet District - 632503",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKUM-2026-20260404053710.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13206/0/ea6f1842bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Sugumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Nataraj",
+        "address": "No.20J, Lamba Street, M.mottur, Ranipet, Ranipet District - 632404",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSUG-2026-20260406093357.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11877/0/efe5d004ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.viswanathan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Nagappan",
+        "address": "No.3/39, Mandhaiveli Street, Ramanthanpuram, Thalanur Village, Walajah Taluk, Arcot Post, Ranipet District - 632503",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NVIS-2026-20260404051652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7708/0/3c9b46753a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthiban. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Murugesan",
+        "address": "No.33, Tv St, Vtc Thirupparkadal, Thirupparkadal Post, Walajah Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARTH-2026-20260406101809.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12239/0/20d0848a5a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Gandhi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Chinappa",
+        "address": "No.7, Railway Station Road, Ranipet, Ranipet District",
+        "gender": "Male",
+        "age": "80",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGAN-2026-20260406101155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12040/0/3f29e2e58c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ilayaraja",
+        "party": "Vanchit Bahujan Aaghadi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Selvam",
+        "address": "No.3/177, Ambethkar Street, Csi Nagar, Kodaikkal Village  Post, Sholinghur Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SILA-2026-20260406105507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12246/0/60b265258d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Thiyagarajan",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Subramani",
+        "address": "No.20, Indhira Gandhi 3Rd Street, Srinivasa Nagar Post, New Perungalathur, Chengalpattu District, Chennai 600063",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STHI-2026-20260406103027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12548/0/e9c5dadc91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Sadhasivam",
+        "address": "No.32, Ward 1, Bajanai Koil Street, Valaiyathur Village, Kalavai Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEN-2026-20260406092633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12538/0/a684e352ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.jayaprakash",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Subramaniam",
+        "address": "No.41B/38, Mettu Street, Ammoor, Ranipet District - 632501",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJAY-2026-20260404053302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7112/0/7790dd91f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.jayaprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Subramaniam",
+        "address": "No.41B/38, Mettu Street, Ammoor, Ranipet District - 632501",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJAY-2026-20260404053302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13978/0/4b56c6de0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.munisamy",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Subiramani",
+        "address": "No.9, Pillaiyar Koil Street, Mecheri Madhura Narayanapuram, Mecheri Post, Arcot Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUN-2026-20260404054602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7606/0/2cd55bcffa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.thaarikha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Salman",
+        "address": "No.37, Bmv School Backside, Kizputhupettai, Ananthalai Village, Walajahtaluk.",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/STHA-2026-20260330062210.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/146/0/37a0b746d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thaarikha Salman",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Salman",
+        "address": "No.37, Bmv School Backside, Kizputhupettai, Ananthalai Village, Walajahtaluk.",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/STHA-2026-20260330062210.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12051/0/e1e471f717/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thahira",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Ibrahim",
+        "address": "No.5, Mission Church Street, Katpadi, Tharapadavedu, Vellore - 632007",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8072/0/ef66d7e03c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Dharmendiran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Vajjiravel",
+        "address": "No.1/149, Mettu Street, No.49, Melakuppam Village, Walajah Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VDHA-2026-20260402045600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5447/0/b622099f43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "Varatharajilu",
+        "address": "No.34, Kamarajar Nagar, Walajapet, Ranipet District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUR-2026-20260406103803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11832/0/6e388669a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.m. Karthikeyan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ranipet",
+        "father_husband_name": "V.d. Marthandam",
+        "address": "No.6/2, Vakkil Street, Ranipet, Ranipet District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMK-2026-20260406095812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11675/0/36bf8e0d98/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

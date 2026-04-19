@@ -1,0 +1,460 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Pallavaram",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "A. Abdul Raguf",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Abdul Gani",
+        "address": "No.43, Yasinkhan Street, Essa Pallavaram, Chennai - 600043",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AABD-2026-20260404101354.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8362/0/e563e1c155/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.thangaraj",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Arulraj",
+        "address": "No.11,  Renuga Nagar, Dharga Road, Zamin Pallavaram, Chennai - 600117",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ATHA-2026-20260406084558.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "B.rajeswari",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Balasubramanian",
+        "address": "No.15, Patel Street, Near Theepanji Amman, Chithirai Nagar, Pozhichalur, Chennai - 600074",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BRAJ-2026-20260404095358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8320/0/6a13fb7fa8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.murugesan",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Durai Pandian",
+        "address": "No.6, N.v.n Street, Vinoba Nagar, Anakaputhur, Chennai- 600070",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMUR-2026-20260404015356.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.r.karthikeyan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "V.ramamoorthy",
+        "address": "No 2/304 , Nadu Street , Puthupalli West , Vettaikaraniruppu , Nagapattinam , 611112",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRR-2026-20260330044129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/167/0/903ce373e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.john Pandian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Govindhan",
+        "address": "No. 8/781, Annai Indira Gandhi Street, Ambethkar Nagar, Zamin Pallavaram, Chennai -43",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GJOH-2026-20260402051319.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G.mala",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Govindaraj",
+        "address": "No. 5, Erikarai Aalamara Street, Zamin Royapettai, Chennai - 44",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMAL-2026-20260404095854.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8329/0/cd101b6d1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.rameshbabu",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Govindarajulu",
+        "address": "No.28/29, Navamani Street, Central Bank Colony, Chromepet, Chennai - 600044",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAM-2026-20260406091023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12022/0/796354f493/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.jayakrishnan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Jayaramaraja",
+        "address": "No. 17, 1St Canal Road, Gandhi Nagar, Adyar, Chennai-20",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJAY-2026-20260402044522.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "J.kamatchi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Jayakrishnan",
+        "address": "No. 17, 1St Canal Road, Gandhi Nagar, Adyar, Chennai - 20",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JKAM-2026-20260402043825.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.l.ravi",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Lakshmipathy",
+        "address": "No.21/11, Venkatraman Street, Mint Street Chennai-600001",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MLR-2026-20260404083947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8156/0/a5d3b3c8c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sankar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Munusamy",
+        "address": "No.1/188, Shanmuga Mudhali Street, Anakaputhur, Chennai - 70",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAN-2026-20260406093555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11946/0/daee7701c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Murugesan",
+        "address": "No.29, Thiruneermalai Main Road, L.i.c Colony, Pammal, Chennai - 600075",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSIV-2026-20260404100558.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8348/0/21dbd207df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vijayaraj",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "D.murugesan",
+        "address": "No.6, N.v.n Street, Vinoba Nagar, Anakaputhur, Chennai-600070",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJ-2026-20260404020235.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N.bharathi",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "S.neelakandan",
+        "address": "No 5 , Kannagi Street , Ponni Nagar , Pammal , Chennai -600075",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NBHA-2026-20260330062552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/185/0/ba12366cc7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.ramkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Nagarajan",
+        "address": "No.18, Kannabiran Kovil Street, Ganapathipuram, Chromepet, Chennai - 44",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAM-2026-20260406085311.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.ram Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Perumal",
+        "address": "No. 6/10, Postal Nagar, Dhanalakshmi Street, Zamin Royapet, Chromepet - 600044",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAM-2026-20260404100213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8341/0/ecc7ff56d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.ravichandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Ponnusamy",
+        "address": "No.20/1, Yasinkhan 2Nd Street, Essa Pallavaram, Chennai - 600043",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAV-2026-20260406082802.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sasikumar",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Palani",
+        "address": "No.24, 1St Floor, Jothi Nagar, 2Nd Street, Tambaram, Chitlapakkam, Chennai - 600064",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAS-2026-20260406092711.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.aravamuthan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "R.ramaiya",
+        "address": "No 22 , Subasri Nagar , Extn - 3 , Mugalivakkam , Chennai - 125",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARA-2026-20260330061453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/111/0/4955b95428/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.jawahar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Ramalingam",
+        "address": "No 7A Ganga Street, Anna Nagar, Pammal, Chennai - 75",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJAW-2026-20260402041514.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.muthukumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Ramakrishna",
+        "address": "109/1,  Arul Murugan Ramamoorthy  2Nd Street,  Senthil Nagar, Chromepet - 600044",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMUT-2026-20260404094434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8303/0/95c0d50d1e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.rajkumar",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Ramayan",
+        "address": "No.5/18, 7Th Main Road Ext, New Colony, Chromepet, Chennai - 600044",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260406092107.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12391/0/e3c3753ff7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh T R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Rajendran",
+        "address": "No. 10, Periya Palaiyathaman Kovil Street, Chromepet, Chennai-600044",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260406081649.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.rahamathulla",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Mohammed Sadiq Basha",
+        "address": "No. 18, Kasthuribai Street, Moongileri, Pammal, Chennai - 600075",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAH-2026-20260404101001.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8356/0/a8489d774c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sathiyaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Selvaraj",
+        "address": "1/24, Chinnaman Kovil Street, Chengalpattu - 603002",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAT-2026-20260404095021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8312/0/8a958f6cb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sundaramoorthy Pandiyar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Sambandam Pandiyar",
+        "address": "No.18, 1St Floor, Voc Street, Muththamizh Nagar, Pammal, Chennai - 600075",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUN-2026-20260406085817.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Sundaramoorthy",
+        "address": "No.5, Sanjai Gandhi Nagar, 1St Cross Street, Anakaputhur, Chennai - 70",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEN-2026-20260406094151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12088/0/9d10f0d350/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vetri Vel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Senthil Kumar",
+        "address": "No.27, Voc Street, Iyyancheri, Urapakkam, Chengalpattu - 603210",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVET-2026-20260406090253.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Subathra.v",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Venkatesan",
+        "address": "No.9, Subath Garden, Sri Devi Garden Main Road, Sriram Nagar, Valasaravakkam, Tiruvallur, Tamil Nadu  600087",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBAT-2026-20260404022231.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T.amirtha Kanthan",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Thangapandi",
+        "address": "No.111/66/31A Sakthi Vinayagapuram, Thoothukudi - 628002",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMI-2026-20260404093644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8289/0/1085f73855/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.venkatesan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pallavaram",
+        "father_husband_name": "Vadivel",
+        "address": "No.9, Subath Garden, Sri Devi Garden Main Road, Sriram Nagar, Valasaravakkam, Tiruvallur, Tamil Nadu  600087",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVEN-2026-20260404021232.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      }
+    ]
+  }
+}

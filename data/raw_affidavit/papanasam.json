@@ -1,0 +1,582 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Papanasam",
+    "count": 38,
+    "candidates": [
+      {
+        "name": "A S Thangarasu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Seerangan",
+        "address": "3/327, Atrangarai Theru, Arumalaikottai, Papanasam Taluk, Thanjavur District - 614019",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260402061504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16408/0/3da84a2efa/",
+          "https://voterlist.co.in/affidavit-download/16408/1/c2cb2a1201/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Anis Fathima Abdul Rahim",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Abdul Rahim B",
+        "address": "2/139, Uppukaran Gate, Rajagiri, Papanasam Taluk, Thanjavur - 614207",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANISF-2026-20260402010922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16359/0/b62b3a26a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.m. Shahjahan",
+        "party": "Indian Union Muslim League",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Mohammed Yasin A",
+        "address": "47/25, South Seniya Street, Aduthurai, Thiruvidaimaruthur Taluk, Thanjavur District - 612101",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AMS-2026-20260410093706.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15760/0/c750beaffe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdul Rahim B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "2/139, Uppukaran Gate, Rajagiri, Papanasam Taluka, Thanjavur District - 614302",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABDUL-2026-20260330062050.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/158/0/8111908095/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anees Parveen",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Azarudeen",
+        "address": "No 148, John Selvaraj Nagar, Kumbakonam, Thanjavur - 612001",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANEES-2026-20260402043846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5281/0/e781773077/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anees Parveen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Azarudeen",
+        "address": "No 148, John Selvaraj Nagar, Kumbakonam, Thanjavur - 612001",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANEES-2026-20260402043846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14086/0/ba512b96ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anis Fathima",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Syed Abdul Rahuman",
+        "address": "Door No 56, Mariyamman Kovil Street, Ganeshapuram, Karaikudi - 630001",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANISF-2026-20260330042259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/18/0/23fc093e54/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anis Fathima",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Abdul Rahim B",
+        "address": "2/139, Uppukaran Gate, Rajagiri, Thanjavur - 614205",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANISF-2026-20260402010922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5010/0/940b83a22f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arul Pandiyan G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Ganesan A",
+        "address": "1/39, Pillaiyar Kovil Street, Vada Sarukkai, Sarukkai, Papanasam - 614203",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULP-2026-20260406055150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9830/0/b825bc89ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Azarudeen Uduman Ali",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Uduman Ali",
+        "address": "No 148, John Selvaraj Nagar, Kumbakonam, Thanjavur - 612001",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AZARU-2026-20260402040202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5380/0/83f72afc7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Dhamodharan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Balan",
+        "address": "No 611, Keezha Theru, Atrangarai, Kalanjeri Post, Melattur 5Th Sethi, Papanasam Taluk, Thanjavur District - 613504",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHAMO-2026-20260406060310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14736/0/4cf935ab2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Chandrasekaran",
+        "party": "Thamizh Desiya Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Chinnathambi",
+        "address": "No - 645, Anna Nagar, Sikkapattu, Puliyakudi - 2, Papanasam Taluk, Thanjavur - 614403",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260404041918.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15737/0/59f56746ec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekaran C",
+        "party": "Thamizh Desiya Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Chinnathambi",
+        "address": "No - 645, Anna Nagar, Sikkapattu, Puliyakudi - 2, Papanasam Taluka, Thanjavur - 614403",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260404041918.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6135/0/bb60d05e7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhamotharan B",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Balan",
+        "address": "No 611, Keezha Theru, Atrangarai, Kalanjeri Post, Melattur 5Th Sethi, Papanasam Taluka, Thanjavur District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHAMO-2026-20260406060310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8645/0/dacfbed443/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dorai. Shanmuga Prabu",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Duraikannu R",
+        "address": "4/92, Aandi Theru, Rajagiri Village And Post, Papanasam Taluk, Thanjavur District - 614207",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANMU-2026-20260406070105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15369/0/a4abe35bfb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Hibayathulla",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Abdul Hameed",
+        "address": "1, New Muslim Street, Thirubuvanam - 612103",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HIBAY-2026-20260402022440.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5413/0/bd84f8f60e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Masilamani",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Kalimuthu",
+        "address": "4/1068, Mgr Colony, Manapadaiveedu, Thiruvalanjuli, Thanjavur District - 612302",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMAS-2026-20260410094435.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16510/0/b1f038478f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Rajendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Kaliyaperumal T",
+        "address": "9, Danari Harijana Street, Mundhiri Thoppu, Aduthurai, Maruthuvakudi, Thiruvidaimarudhur Taluk, Thanjavur District - 612101",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406052714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15284/0/885dc25225/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaliyamoorthi P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Paramanandham",
+        "address": "No: 2/134, Mela Theru, Madhagaram, Manakundu Post, Valangaiman Taluka, Thiruvarur District 614302",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALIY-2026-20260406084451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10843/0/18d3a66551/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karumani Anusuya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Karupasamy",
+        "address": "5/1, Mela Road, Swamimalai",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUM-2026-20260406081143.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11433/0/5dd3fecc31/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kulandhaivelu V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Vengatasalam",
+        "address": "9/18, Keezha Kudiyana Theru, Thiruppalathurai, Papanasam Post, Thanjavur District",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KULAN-2026-20260402071511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5750/0/e66cf9e8a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Masilamani K",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Kalimuthu",
+        "address": "4/1068, Mgr Colony, Manapadaiveedu, Thiruvalanjuli, Thanjavur District - 612302",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASIL-2026-20260402055144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5913/0/b5acf19291/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mumtaj Begam",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Mohamed Rabeek",
+        "address": "Door No 152, Anna Nagar, Chakkarapalli, Papanasam Taluka, Thanjavur - 614211",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUMTA-2026-20260330052851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/458/0/385ed6bd5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natarajan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Subramanian",
+        "address": "2/181, North Street, Pandaravadai Village And Post, Papanasam Taluka - 614204, Thanjavur District",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATAR-2026-20260406051454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8733/0/a61b94a7f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Kaliyaperumal T",
+        "address": "9, Tanari Arijana Street, Mundhiri Thoppu, Aduthurai, Thiruvidaimarudhur Taluka, Maruthuvakudi, Thanjavur District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406052714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9741/0/885a0bd3db/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Natarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Subramanian",
+        "address": "2/181, North Street, Pandaravadai Village And Post, Papanasam Taluk, Thanjavur District - 614204",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATAR-2026-20260406051454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14771/0/1005636fa9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sanmugaprabu D",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Duraikannu R",
+        "address": "4/92, Aandi Theru, Rajagiri Village And Post, Papanasam Taluka, Pin:614207 Thanjavur District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANMU-2026-20260406070105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9895/0/5c46ad9490/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shahjahan A M",
+        "party": "Indian Union Muslim League",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Mohammed Yasin A",
+        "address": "47/25, South Seniya Street, Aduthurai, Thiruvidaimaruthur Taluka, Thanjavur District",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAHJ-2026-20260404022912.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6169/0/ce132f74d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shamim Nisha S",
+        "party": "Indian Union Muslim League",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Shahjahan A M",
+        "address": "47/25, South Seniya Street, Aduthurai, Thiruvidaimaruthur Taluka, Thanjavur District",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAMI-2026-20260406054349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9074/0/4806367a78/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shamim Nisha S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Shahjahan A M",
+        "address": "47/25, South Seniya Street, Aduthurai, Thiruvidaimaruthur Taluka, Thanjavur District",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAMI-2026-20260406054349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13922/0/52dde94bfe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundarajan M",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Marudhamuthu",
+        "address": "4/132, Draupathi Amman Kovil Street, Pasupathikovil Post - 614206, Papanasam Taluka, Thanjavur District",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260406074113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10998/0/340502b453/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamiladiyan S",
+        "party": "Thamizh Desiya Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Sathasivam",
+        "address": "132-Adi Dravidar Street, Karupamudaliyarkottai, Puliyakudi-2, Papanasam Taluka, Thanjavur District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMI-2026-20260406091019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12014/0/e9ce59b550/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangarasu S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Seerangan",
+        "address": "3/327, Atrangarai Theru, Arumalaikottai, Papanasam Taluka",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260402061504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5779/0/e9d8ed624b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thiyagarajan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Vadivel P",
+        "address": "3/36, Therku Adidravidar Street, Iluppakorai, Papanasam, Thanjavur",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIYA-2026-20260406082855.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11172/0/4620c5ff91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Usharani D",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Dhamotharan",
+        "address": "No 611, Keezha Theru, Atrangarai, Melattur 5Th Sethi, Papanasam Taluka, Thanjavur District",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/USHAR-2026-20260406061646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9903/0/30f19e26c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Usharani D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Dhamotharan",
+        "address": "No 611, Keezha Theru, Atrangarai, Melattur 5Th Sethi, Papanasam Taluka, Thanjavur District",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/USHAR-2026-20260406061646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13965/0/ba30044dd7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Kulandhaivelu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Vengatasalam",
+        "address": "9/18, Keezha Kudiyana Theru, Thiruppalathurai, Papanasam Taluk, Thanjavur District - 614205",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KULAN-2026-20260402071511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16391/0/a967cd8eb6/",
+          "https://voterlist.co.in/affidavit-download/16391/1/74d772e4d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Thiyagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Papanasam",
+        "father_husband_name": "Vadivel P",
+        "address": "3/36, Therku Adidravidar Street, Iluppakorai, Papanasam Taluk, Thanjavur - 614202",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIYA-2026-20260406082855.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15348/0/85b8429a13/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

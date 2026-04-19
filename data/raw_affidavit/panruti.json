@@ -1,0 +1,501 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Panruti",
+    "count": 33,
+    "candidates": [
+      {
+        "name": "A. Ramalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Adhimoolam",
+        "address": "435, 4Th Main Road, Tnhb, Avadi, Thiruvallur District, 600054",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAL-2026-20260404025840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11474/0/c06037d57c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdul Subahan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Bakshi",
+        "address": "35/15, 4Th Street, Anvarsha Nagar, Panruti Taluk, Cuddalore District. 607106",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABDUL-2026-20260406071926.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8566/0/767abd0643/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdur Rahman",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Abdurrahim",
+        "address": "14/27, Muslim Street, Kattumannar Koil, Cuddalore District.608301",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABDUR-2026-20260406013637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9747/0/a9513c19a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdur Rahman. A",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Abdur Rahim",
+        "address": "14/27, Muslim Street, Kattumannar Koil, Cuddalore District.608301",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABDUR-2026-20260406013637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13071/0/8607e4a243/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdur Rahman. A.r",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Abdur Rahim",
+        "address": "14/27, Muslim Street, Kattumannar Koil, Cuddalore District.608301",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABDUR-2026-20260406013637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15286/0/d1c1961bf0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manivannan",
+        "address": "97, Middlestreet, M.earipalayam, Maligaimedu Post, Panruti Tk, Cuddalore Dt. 607112",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BANUP-2026-20260330053109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11469/0/2410a98e34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya. M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manivannan",
+        "address": "97, Middlestreet, M.earipalayam, Maligaimedu Post, Panruti Tk, Cuddalore Dt. 607112",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BANUP-2026-20260330053109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13396/0/f0994bfabc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya.m",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manivannan",
+        "address": "97, Middlestreet, M.earipalayam, Maligaimedu Post, Panruti Tk, Cuddalore Dt. 607112",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BANUP-2026-20260330053109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/602/0/bd1926d796/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Mohan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Kaliyavaradhan",
+        "address": "55/2, Kamaraj Street, Panruti Taluk, Cuddalore District. 607106",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMOH-2026-20260406072115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9169/0/26ceabc146/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lalithambigai",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Anandharaj",
+        "address": "23, Avurikkollai Street, Pudupettai Post, Panruti Taluk, Cuddalore District. 607108",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LALIT-2026-20260404024427.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Lalithambigai. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Anandharaj",
+        "address": "23, Avurikkollai Street, Pudupettai Post, Panruti Taluk, Cuddalore District. 607108",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LALIT-2026-20260404024427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11468/0/0f87c7acad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Sarala",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "K. Mohan",
+        "address": "55/2, Kamaraj Street, Panruti Taluk, Cuddalore District. 607106",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSAR-2026-20260406072000.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10058/0/4e2800b36b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manimozhi",
+        "address": "868, Panruti Main Road, Nadu Sathipattu, Sathipattu Post, Panruti Taluk, Cuddalore District, 607106",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANIK-2026-20260402012339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4989/0/5af46f17aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manimozhi",
+        "address": "868, Panruti Main Road, Nadu Sathipattu, Sathipattu Post, Panruti Taluk, Cuddalore District, 607106",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANIK-2026-20260402012339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13312/0/3a98ec5caf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohammed Safi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Ayyuf",
+        "address": "17, Muthaiya Nagar, Panruti Taluk, Cuddalore District. 607106",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAM-2026-20260406012215.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9256/0/99bf6ba9fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohammed Safi. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Ayyuf",
+        "address": "17, Muthaiya Nagar, Panruti Taluk, Cuddalore District. 607106",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAM-2026-20260406012215.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13000/0/9e149caf9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan. K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Kaliyavaradhan",
+        "address": "55/2, Kamaraj Street, Panruti Taluk, Cuddalore District. 607106",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMOH-2026-20260406072115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12986/0/0f84eee9ac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prakash R",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Ramalingam",
+        "address": "2/223, Mandhakarai, Gudithangi, Vaidapakkam, Nellukippam, Panruti Taluk, Cuddalore District 607105",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAKA-2026-20260404125447.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6700/0/d0292bbe9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prakash. R",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Ramalingam",
+        "address": "2/223, Mandhakarai, Gudithangi, Vaidapakkam, Nellukippam, Panruti Taluk, Cuddalore District 607105",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAKA-2026-20260404125447.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13273/0/015d9fa654/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Prakash",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Ramalingam",
+        "address": "2/223, Mandhakarai, Gudithangi, Vaidapakkam, Nellukippam, Panruti Taluk, Cuddalore District 607105",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAKA-2026-20260404125447.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11481/0/ad9e52cef6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Surendar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "G. Rajendran",
+        "address": "475, Pillaiyar Koil Street, Kattiyampalayam, Manapakkam, Panruti Taluk, Cuddalore District. 607108",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSUR-2026-20260406072340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9475/0/1257797fdd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Adhimoolam",
+        "address": "435, 4Th Main Road, Tnhb, Avadi, Thiruvallur District, 600054",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAL-2026-20260404025840.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramalingam. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Adhimoolam",
+        "address": "435, 4Th Main Road, Tnhb, Avadi, Thiruvallur District, 600054",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAL-2026-20260404025840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13243/0/5f224747da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Shyamala",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "R. Surendar",
+        "address": "475, Pillaiyar Koil Street, Kattiyampalayam, Manapakkam, Panruti Taluk, Cuddalore District. 607108",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSHY-2026-20260406072247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8548/0/c78e6bb8fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Srikanthu",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Suntharamoorthy",
+        "address": "414, Ambethkar Street, Kilkavarapattu, Panruti Taluk, Cuddalore District, 607112",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRIKA-2026-20260404123049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11467/0/66799c82d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shahul Hameed",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Abdul Azeez",
+        "address": "62B, North Street, Nidur, Mayiladuthurai. 609203.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHAHU-2026-20260406015128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10404/0/37ef11de0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shyamala. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "R. Surendar",
+        "address": "475, Pillaiyar Koil Street, Kattiyampalayam, Manapakkam, Panruti Taluk, Cuddalore District. 607108",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSHY-2026-20260406072247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12889/0/a7da07e566/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srikanthu",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Suntharamoorthy",
+        "address": "414, Madha Koil Street, Kilkavarapattu, Panruti Taluk, Cuddalore District, 607112",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRIKA-2026-20260404123049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6327/0/dcd62c621e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srikanthu. S",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Suntharamoorthy",
+        "address": "414, Ambethkar Street, Kilkavarapattu, Panruti Taluk, Cuddalore District, 607112",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRIKA-2026-20260404123049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13203/0/89d6169639/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Surendar. R",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "G. Rajendran",
+        "address": "475, Pillaiyar Koil Street, Kattiyampalayam, Manapakkam, Panruti Taluk, Cuddalore District. 607108",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSUR-2026-20260406072340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13027/0/6ddf3212ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamizhelakkiya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manikandan",
+        "address": "868, Panruti Main Road, Nadu Sathipattu, Sathipattu Post, Panruti Taluk, Cuddalore District, 607106.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THAMI-2026-20260402061723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11497/0/aa9e8f815c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamizhelakkiya G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manikandan",
+        "address": "868, Panruti Main Road, Nadu Sathipattu, Sathipattu Post, Panruti Taluk, Cuddalore District, 607106.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5043/0/1f356b904c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamizhelakkiya. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Panruti",
+        "father_husband_name": "Manikandan",
+        "address": "868, Panruti Main Road, Nadu Sathipattu, Sathipattu Post, Panruti Taluk, Cuddalore District, 607106.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THAMI-2026-20260402061723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13326/0/4582c06920/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

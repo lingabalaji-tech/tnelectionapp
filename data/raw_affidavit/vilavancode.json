@@ -1,0 +1,355 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Vilavancode",
+    "count": 23,
+    "candidates": [
+      {
+        "name": "Anitha .T",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Sam Daniel",
+        "address": "29/29A1,Vilampathottam, North Street, Marthandam Post -629 165",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANITH-2026-20260330042549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/43/0/3665dab6b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arasu Nadar C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Chellan Nadar",
+        "address": "8/103, Nadarkudi, Devancheri, Sathancode Post - 629 153",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARASU-2026-20260406100540.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11864/0/7611e76be5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baiju T",
+        "party": "Viro Ke Vir Indian Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Thangaiyan",
+        "address": "4/181-1, Ayiramthengu, Unnamalakadai Post",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BAIJU-2026-20260406102144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12348/0/af3bf2de13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Cershika Michael M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Michael Kumar K",
+        "address": "29-114/2, Aluvilai, Malaicode, Edaicode Post - 629 152",
+        "gender": "Female",
+        "age": "23",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CERSH-2026-20260404051100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7469/0/7682726527/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "David T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Thangappan K",
+        "address": "Plot No. 22, J A Chinnasamy Nagar, Periyamathoor, Manali Post, Chennai - 600 068",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DAVID-2026-20260406084622.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10910/0/9ff4900f26/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gnanadhas S",
+        "party": "Janata Dal (Secular)",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Sathiyanesan",
+        "address": "2-15 Gnana Vilasam Veedu, Pathukani Post - 629 101",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNANA-2026-20260402034323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5287/0/e6c456e571/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gnanadhas S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Sathiyanesan",
+        "address": "2-15 Gnana Vilasam Veedu, Pathukani Post - 629 101",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNANA-2026-20260402034323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13338/0/0a293a6533/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "John Christopher T",
+        "party": "Rashtriya Janata Dal",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Thomas",
+        "address": "16/54, Pandimavilai, Panankarai, Arumanai Post - 629 151",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JOHNC-2026-20260406094530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12216/0/95679550aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Joselal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Lazer",
+        "address": "17/163, Konathuvilai Veedu, Edaivilagam, Kuzhithurai Poat - 629 163",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JOSEL-2026-20260406101334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12084/0/f4f647de44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Joselal L.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Lazer",
+        "address": "17/163, Konathuvilai Veedu, Edaivilagam, Kuzhithurai Poat - 629 163",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JOSEL-2026-20260406101334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15111/0/98fe5e0ca9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Mani N",
+        "address": "14/71, Madathuvilai House, Kaliyal, Kaliyal Post - 629 101",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260402040727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5446/0/31a3d9ee35/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maria Stella",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "D.christopher",
+        "address": "28/232 Pulingudiveedu, Malaicode, Edaicode Post - 629 152",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MARIA-2026-20260330040718.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/408/0/1f9b43b620/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Michael Kumar K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Krishnan",
+        "address": "29-114/2, Aluvilai, Malaicode, Edaicode Post - 629 152",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MICHA-2026-20260404045641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8064/0/bc76ee175e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan Kumar M",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Madhavan R",
+        "address": "7/216 A, Nullikadu, Maruthancode Post - 629 163",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406090214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10566/0/b5ab794ce2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muruganandha Prasad T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Thangaswamy",
+        "address": "17/48, Kaithalathattuvilai, Kottavilai, Maruthancode, Maruthancode Post - 629 163",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406095455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15609/0/1fd8deb3a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muruganantha Prasad T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Thangaswamy",
+        "address": "17/43, Kaithalathattuvilai, Kottavilai, Maruthancode, Maruthancode Post - 629 163",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406095455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12501/0/1df71e1245/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveen Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Gnanamani T",
+        "address": "3/176 Prakkavilai, Killiyoor Post - 629 171",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260406070702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15634/0/19b3933a83/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveen Kumar G L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Gnanamani T",
+        "address": "3/176 Prakkavilai, Killiyoor Post - 629 171",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260406070702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10372/0/5357f77f22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveen T.t",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Thomson",
+        "address": "1-2/174 Kanathukonam, Mancode, Cheruvalloor Post - 629 152",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260406072846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11381/0/76b431d639/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shibu Amose",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Amose",
+        "address": "2-348, Anugraha, Naragathinkuzhi, Manjalumoodu, Karode Post",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHIBU-2026-20260404041832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6115/0/ffb58d7870/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sini B.j",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Praveen T.t",
+        "address": "1-2/174 Kanathukonam, Mancode, Cheruvalloor Post - 629 152",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SINIB-2026-20260406075546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10804/0/a0f94d1683/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkadeasan. K",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Kumaraswamy",
+        "address": "24/18A Paruthiyaravilagam, Kariyankulam, Kappukadu Post 629 162",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260402043201.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5230/0/b0d5c2bd16/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayadharani S",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vilavancode",
+        "father_husband_name": "Sivakumar Kennedy K",
+        "address": "4/23 B, Bheemanagari, Thirupathisaram Post - 629 901",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406081546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10627/0/13afcac1d5/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

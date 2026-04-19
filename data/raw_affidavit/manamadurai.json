@@ -1,0 +1,403 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Manamadurai",
+    "count": 26,
+    "candidates": [
+      {
+        "name": "Arumugam.v",
+        "party": "Republican Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Vellaiyan",
+        "address": "1-199,Thoothai,Kothangulam Post,Thiruppuvanam,Sivagangai-630610.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUMU-2026-20260406113317.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11829/0/fcd1362368/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunpandian.a",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Alangaram",
+        "address": "14-A,Kattabomman Street,Agilandapuram,Sivagangai District-630561",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNP-2026-20260406110622.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15510/0/39bdfa5dac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunpandiyan.a",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Alangaram",
+        "address": "14-A,Kattabomman Street,Agilandapuram,Sivagangai District-630561",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNP-2026-20260406110622.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12419/0/3bb3104eb4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaganapathy",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Velmurugan",
+        "address": "2-16,S.kavanoor,Paramakudi Taluk,Ramanathapuram District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAG-2026-20260406095531.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12523/0/5b0a3a772b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaganapathy.v",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Velmurugan",
+        "address": "2-16,S.kavanoor,Paramakudi Taluk,Ramanathapuram District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAG-2026-20260406095531.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15632/0/22229ed92c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharathidasan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Sangaralingam",
+        "address": "-",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHARA-2026-20260407120156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11570/0/67d5f6b7d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Duraipandi.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Sethu",
+        "address": "875,Vedhiyarendhal,Manamadurai Taluk,Sivagangai-630606",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260407010206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11631/0/d121830418/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elangovan.d",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Duraipandi",
+        "address": "Door No.1-50,Agaram,Kalugerkadai,Thiruppuvanam Taluk,Sivagangai District-630611.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELANG-2026-20260404070438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7009/0/86696341ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayalakshmi.k",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Elangovan",
+        "address": "1-50,Agaram,Kalukerkadai,Thiruppuvanam,Sivagangai-630611.",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAL-2026-20260407123320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11605/0/89aa5cc175/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanimozhi.k",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Karruppaiya",
+        "address": "1-113,Agaram,Kalugerkadai,Thiruppuvanam,Sivagangai-630611",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANIM-2026-20260406104346.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11992/0/29b1018a3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuppusami.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Veeranan",
+        "address": "5-158,Konthagai,Thiruppuvanam,Sivagangai-630611",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUP-2026-20260406115210.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12071/0/4e7a3e61eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Latha.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Ravi",
+        "address": "-",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LATHA-2026-20260406115724.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12178/0/194af7b5d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan.m",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Muthusamy",
+        "address": "202,Paatam Village,Pottapalayam Post,Thiruppuvanam,Sivagangai-630611.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260406105156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12164/0/c63933767a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Periyasamy.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Solaiyappan",
+        "address": "105,Railway Colony,Manamadurai,Sivagangai-630606.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PERIY-2026-20260407012450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11649/0/3e7e60e7dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poomanatamilan.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Rasu",
+        "address": "211,Krishnarajapuram Colony,Manamadurai Taluk,Sivagangai-630606.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOMA-2026-20260407011015.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11635/0/7b105fceed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamanikkam.a",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Alagumalai",
+        "address": "26-A,Keelayur Colony,Keelayur Post,Ilayankudi,Sivagangai District.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260406110013.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12333/0/8137d15b87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raju.j.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Muthu",
+        "address": "24,Mettumadai,Saveriyarpattinam,Manamadurai.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJU-2026-20260406112832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11771/0/98a744f384/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravikumar.m",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Muthusundarraj",
+        "address": "25,Anthaneri,Kadhakinaru,Madurai-107.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIK-2026-20260406111652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12546/0/e41e522773/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.veena",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Sakthivel",
+        "address": "6/A,Madurai,Anaiyur,Annai Meenakshi Nagar, Ward-4,Madurai,Anaiyur,Madurai-625017.",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEE-2026-20260330083326.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/551/0/042f120ec5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankarganesan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Sangu",
+        "address": "144-205,Krishnarajapuram,Manamadurai Taluk,Sivagangai.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260406114055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11910/0/77189e56ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Thirusanku",
+        "address": "596,Seikalathur,Manamadurai,Sivagangai",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260407121810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11591/0/544dc1b4ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shankarganesan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Sangu",
+        "address": "144-205,Krishnarajapuram,Manamadurai Taluk,Sivagangai.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260406114055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14921/0/6b1c253a94/",
+          "https://voterlist.co.in/affidavit-download/14921/1/64097d7696/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugapriya.m",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Manikandan",
+        "address": "2-471, 1-46, Muniyandipuram,Kondhagai Post,Thiruppuvanam Taluk,Sivagangai Dist,630611.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260330062213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/387/0/a6bbcc55f5/",
+          "https://voterlist.co.in/affidavit-download/387/1/e8044a513b/",
+          "https://voterlist.co.in/affidavit-download/387/2/be7ff5bdd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilarasi.a",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Ravikumar",
+        "address": "1A,Seeniyappa Nagar,Sangamangalam,Manamadurai Taluk,Sivagangai District.",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406101549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12182/0/9ffcc1b705/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thilagaraj.k",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Karruppaiya",
+        "address": "1-113,Agaram,Kalugerkadai,Thiruppuvanam,Sivagangai-630611.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THILA-2026-20260406103815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11841/0/5507a4fcfc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veerapandi.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manamadurai",
+        "father_husband_name": "Veeraiya",
+        "address": "2-113,Melapoovanthi,Poovanthi,Sivagangai-630611.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260407122326.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11599/0/a6a59b1102/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

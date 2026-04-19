@@ -1,0 +1,443 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Andipatti",
+    "count": 29,
+    "candidates": [
+      {
+        "name": "Bose.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Sivalingam",
+        "address": "4W/15, Karuppanasamy Kovil Illam, Theppampatti, Andipatti Taluk, Theni District.",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BOSE-2026-20260406061148.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9413/0/ba6860c621/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellapandiyan.s",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Sundharrajan",
+        "address": "D.no.12 B, Sriram Avenue, Near Cave Temple, Thiruparangundram",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHELL-2026-20260404093438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8281/0/64c0367230/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elayaraja.m",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Mahalingam",
+        "address": "No.3 East Street, Kunnur Post, Kunnur, Andipatti, Theni District 625531",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELAYA-2026-20260406071126.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8648/0/57593d4098/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakkiammal.m",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Muthuraj",
+        "address": "130,Middle Street, T.meenatchipuram, Thekkampatti Post, Andipatti Taluk, Theni District",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ESAKK-2026-20260404111148.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8267/0/c5901c9684/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gomathi .M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Anbarasan.c",
+        "address": "No.90, Ward-4, Arasamara Street, Karunagamuthanpatti  Post Uthamapalayam Taluk, Theni District",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOMAT-2026-20260330052727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/446/0/a63f87bf13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopal.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Sithiran",
+        "address": "8-1-678 Madurai Theni Main Road, Avm Theatre West, Andipatti Taluk, Theni District.",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GOPAL-2026-20260402041212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5475/0/4e6e4cb370/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopinath.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Poosari Jakkaiyan",
+        "address": "North Street, Karisalpatti, Shanmugasundrapuram Post, Andipatti Taluk, Theni District",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPIN-2026-20260406055628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10228/0/aaf888071e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Irumborai.g",
+        "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Gunasekaran",
+        "address": "D.no.3-23 Middle Street, Ammatchiapuram Post, Andipatti Taluk, Theni District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IRUMB-2026-20260406053908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8616/0/ca7bc0c788/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jagadeesan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Palanisamy",
+        "address": "D.no.12/45-A1 Vinayakar Kovil Street, Seenivasa Nagar, Andipatti, Theni District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEGAD-2026-20260404101810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14073/0/d9aec7c242/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegadeesan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Palanisamy",
+        "address": "D.no.12/45-A1 Vinayakar Kovil Street, Seenivasa Nagar, Andipatti, Theni District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEGAD-2026-20260404101810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8364/0/6e5e8d91c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeyamurugan.m.p",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Pethanasamy",
+        "address": "3/56, East Street, T.silukkuvarpatty, Rajagopalan Patty Post, Andipatty Taluk, Theni District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEYAM-2026-20260406070520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10253/0/3a35218bf6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuppaiya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Karuppaiya",
+        "address": "D.no.1 J.j.nagar, Kondamanaickanpatti, Andipatti Taluk, Theni District",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUP-2026-20260404103319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14017/0/27d69d62d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuppiah.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Karuppiah",
+        "address": "D.no.1 J.j.nagar, Kondamanaickanpatti, Andipatti Taluk, Theni District",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUP-2026-20260404103319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8115/0/3ecea43574/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Logandurai.c",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Chinnathevar",
+        "address": "W18, Kothanar Street, Melagudalur, Uthamapalayam Taluk",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LOGAN-2026-20260406065525.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9405/0/b075ce3366/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Logirajan.a",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Angathevar",
+        "address": "D.no.86 Muthanampatti , Andipatti Post And Taluk, Theni District",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LOGIR-2026-20260404090657.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8130/0/8cbcb8e802/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maharajan.a",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Angathevar",
+        "address": "40, Vaigaidam Road, Pappammalpuram, Andipatti, Theni District.",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAR-2026-20260406062334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8496/0/394d78bada/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohammed Rukman.m",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Mohammed Abbas",
+        "address": "Mariamman Kovil Street, Allinagaram, Theni Taluk, Theni District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260406072000.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11018/0/047442edf3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Neelakannan.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Thangaraj",
+        "address": "No.69, West Street, Karisalpatti, Shanmugasundrapuram Post, Andipatti Taluk, Theni District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NEELA-2026-20260406060314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8653/0/b1b2b7d2bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nivetha.c",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Nanthankumar.m",
+        "address": "No.111 Thangamani Street, Kumananthozhu Post,  Andipatti Taluk, Theni District",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NIVET-2026-20260330060156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/50/0/e107e0b179/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Packiaraj.k.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Surulimuthu.k",
+        "address": "No.3/85, East Street, Karisalpatti, Shanmugasundarapuram Post, Andipatti Taluk,Theni District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PACKI-2026-20260404095404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8321/0/11fdae4dd9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Packiaraj.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Surulimuthu.k",
+        "address": "No.3/85, East Street, Karisalpatti, Shanmugasundarapuram Post, Andipatti Taluk,Theni District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PACKI-2026-20260404095404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16241/0/f139961698/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandi.v",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Vasudevan.k",
+        "address": "Valluvar Colony Thottam, Karuvelnayakkanpatti, Theni Taluk, Theni District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANDI-2026-20260404100027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8335/0/725d7f9679/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandidurai.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Palanichamy",
+        "address": "D.no.1/222, Seetharamdass Nagar, Vaigai Road, Andipatti Taluk,. Theni District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANDI-2026-20260404103819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8126/0/31ba85a5f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radhika.p",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Pandi",
+        "address": "No.260 Kkr Nagar, 12Th Street, Theni Allinagaram, Theni District",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RADHI-2026-20260404100901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8350/0/fc33dc95ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramkumar.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Balamurugan",
+        "address": "South Street, Karisalpatti, Andipatti, Shanmugasundrapurm Post",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMKU-2026-20260406072924.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Tishon Bavan.l",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Logirajan.a",
+        "address": "D.no.391 K.vilakku, Muthanampatti, Andipatti Post And Taluk, Theni District",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TISHO-2026-20260404090931.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8213/0/de328754ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanda.c",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Chellapandian.s",
+        "address": "D.no.12B, Sriram Avenue, Cave Temple Near, Thiruparangundram, Madurai District",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260404094418.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8301/0/020a6f6edf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veerasangili",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Palrasu",
+        "address": "4/69, North Street, T.bomminaickanpatti, Andipatti Taluk",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260406054940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9559/0/2a5435b981/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayaraj.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Andipatti",
+        "father_husband_name": "Rajavel",
+        "address": "Jothinagar Street, Kanniappapillaipatti Post, Andipatti Taluk, Theni District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIJAY-2026-20260404102639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8105/0/345d55e8ce/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Nilakkottai",
+    "count": 21,
+    "candidates": [
+      {
+        "name": "A.alappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "A.ammavasi",
+        "address": "10/22, East Street, Goundanpatti, Pallapatti Post, Nilakottai Taluk, Dindigul District - 624201",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AALA-2026-20260406043324.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9939/0/d655c81a73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.rajadeepika",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "R.ayyanar",
+        "address": "4/300, Ration Shop West Street, Alagampatti, Jambuduraikottai, Dindigul - 624206",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAJ-2026-20260406022937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10302/0/4944409378/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.r.tamilselvan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "C.rajapandi",
+        "address": "2/815A, Kannimarkovil Street, Gandhi Nagar, Batlagundu, Dindigul - 624202",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRT-2026-20260406020243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9104/0/75f706a522/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Kamatchi",
+        "address": "1/16/38, Gandhi Nagar, Batlagundu, Nilakottai, Dindigul - 624202",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHELL-2026-20260406054104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8811/0/dc6a517ae1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.kailai Rajan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "R.dorai Rajan",
+        "address": "Door No.03, Raja Street, Santhosh Nagar, Aanaiyur, Madurai-17",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DKAI-2026-20260330054935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/621/0/e564e09f63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.anbalagan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Gurunathan",
+        "address": "8.4.77, Batlagundu Main Road, Nilakottai, Dindigul District",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANB-2026-20260406113852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8374/0/2c330549e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kavitha Rani",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "G.anbalagan",
+        "address": "8-4-77 Vathalagundu Main Road, Nilakottai, Dindigul District-624208",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAV-2026-20260406115942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9449/0/29200004ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.manoharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "M.a.muniyandi",
+        "address": "44, Sathiya Moorthi Cross Street, Meenambalpuram, Madurai-625002",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260404024105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6300/0/c7833adebc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vijayapandian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "P.mani",
+        "address": "7-1-128, Nehru Street, Nilakottai - 624208",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJ-2026-20260406044422.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8463/0/66a3f06e02/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.perumal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Nagan",
+        "address": "7-1-65, Narasiman Colony, Nilakottai, Dindigul-624208",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPER-2026-20260406041213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8567/0/5298db2442/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Periyasamy",
+        "address": "2/25, Kaliyamman Kovil Street, Dindigul West Taluk, Dindigul District - 624005",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260406045716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9486/0/7c693b6387/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.nagajothi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "K.perumal",
+        "address": "94 1, West Street, Sillalapatti, Ammaiyanaickanur, Nilakottai, Dindigul District - 624201",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PNAG-2026-20260406031751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8473/0/0bd28d905c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sankar",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "S.ponnaiah",
+        "address": "10/123, East Street, Goundanpatti, Pallapatti Post, Nilakottai Taluk, Dindigul District - 624201",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAN-2026-20260406014949.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8565/0/b3ed28199b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvam",
+        "party": "Republican Party Of India (A)",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Pandi",
+        "address": "N.kovilpatti, 2/180, Colony Street, Nuthulapuram Village, Nilakottai Taluk, Dindigul District - 624208",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSEL-2026-20260406052638.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9668/0/1b812a7bbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ayyanar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Raman",
+        "address": "4/300, Ration Shop West Street, Jambuduraikottai Post, Alagampatti, Dindigul - 624206",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAYY-2026-20260406021529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9612/0/1d809a77e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajalakshmi.m",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Karuppaiah.p",
+        "address": "4/418, South Street, Pillayarnatham Po, Pillayarnatham, Nilakottai, Dindigul-624219",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAL-2026-20260402013025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5035/0/ca90537578/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.karuppaiah",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Subramani",
+        "address": "4/16, Kulanthaipatti, Seelapady Post, Dindigul East Taluk, Dindigul District - 624005",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAR-2026-20260406050829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10305/0/e4aa163c56/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.nagajothi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "S.sakthivel",
+        "address": "76, Perumalkovilpatti, Viralimayanpatti Post, Nilakottai Taluk, Dindigul District-624220",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAG-2026-20260406124845.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9002/0/e18ab1442c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sakthivel",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "Samiyappan",
+        "address": "93, Perumalkovilpatti, Viralimayanpatti Post, Nilakottai Taluk, Dindigul District - 6242220",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAK-2026-20260406012628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9624/0/5e3966a256/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.thenmozhi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "V.s.s.sekar",
+        "address": "6-2-29, Madurai Main Road, Nilakottai",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STHE-2026-20260404010231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6809/0/66286f7325/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.s.s.sekar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nilakkottai",
+        "father_husband_name": "V.s.savarikoothan",
+        "address": "6-2-29, Madurai Mainroad, Nilakottai",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSS-2026-20260404034652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6453/0/b29995a6c2/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

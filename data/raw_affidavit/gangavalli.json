@@ -1,0 +1,323 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Gangavalli",
+    "count": 21,
+    "candidates": [
+      {
+        "name": "Abirami. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Neduncheralathan",
+        "address": "3/86, East Mariyamman Koil St, Sarvai Post, Thalaivasal Tk, Salem Dt - 636121",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABIRA-2026-20260330042427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/34/0/b6e211bc97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajithkumar. A",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Arumugam. P",
+        "address": "42, Indra Nagar, Gangavalli Post And Tk Salem Dt - 636105",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJITH-2026-20260406052403.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9469/0/2422f0fac7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajithkumar. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Arumugam. P",
+        "address": "42, Indra Nagar, Gangavalli Post And Tk Salem Dt - 636105",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJITH-2026-20260406052403.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13026/0/68421f12a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbazhagan. S",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Sithan. M",
+        "address": "Adidravidar Street, Puthiragoundan Palayam, Pethanayakkan Palayam Tk, Salem Dt-636119",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAZ-2026-20260404043344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6383/0/ca3aadf281/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnan. P",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Palani. M",
+        "address": "D.no. 2/19, Kilaku Kadu, Mannayakkanpatti, Vazhapadi Po  And Tk, Salem Dt. 636115.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAK-2026-20260402040830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5458/0/fdab105610/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnadurai. K",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Kunndu",
+        "address": "1/184, Adidravidar Street, Kudamalai Village, Gangavalli Tk, Salem Dt-636105",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHINN-2026-20260406053403.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10325/0/b6470876f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanapal. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Sellamuthu",
+        "address": "3/74, Madhakovil Street, Govindampalayam Post, Thalaivasal Tk, Salem Dt-636101",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHANA-2026-20260406043259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9900/0/cf7a4f275a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunachitran. K.c",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Chinnadurai. K",
+        "address": "1/184, Adidravidar Street, Goodamalai Village, Gangavalli Tk, Salem Dt-636105",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GUNAC-2026-20260406054307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9013/0/d9cab154d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunaprakash. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Duraisami. R",
+        "address": "3/74, Mariyamman Kovil Street, Govindampalayam Po, Thalaivasal Tk, Salem Dt-636101",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GUNAP-2026-20260406044534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8542/0/a573448bd5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Subbu",
+        "address": "110, Adidravidar Street, Kattu Kottai Po, Thalaivasal Tk,  Salem Dt - 636121",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260404052949.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6997/0/06a82e64e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaviarasan. T",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Thandavan",
+        "address": "2/91, Ambedkar Street, Thedavur Po, Gangavalli Tk, Salem Dt - 636116",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIA-2026-20260406055125.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9725/0/7609d8337a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaviarasan. T.t",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Thandavan",
+        "address": "2/91, Ambedkar Street, Thedavur Po, Gangavalli Tk, Salem Dt - 636116",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIA-2026-20260406055125.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15274/0/d445c5f6a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manjuladevi. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Manikandan",
+        "address": "4/87, Pallar Street, Kattukottai Po, Thalaivasal Tk, Salem Dt- 636121",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANJU-2026-20260406061416.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9670/0/6c4d5680e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marimuthu. S",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Sellamuthu. M",
+        "address": "Oomakoundampatty, Kanjanayakkanpatti Village, Chemmandapatti Post, Kadayampatty Tk, Salem Dt - 636309",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIM-2026-20260406051454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8723/0/0e86d758ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nallathambi. A",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Angamuthu",
+        "address": "3/38, A.d.colony, Govindampalayam Po, Thalaivasal Tk, Salem Dt -  636101",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NALLA-2026-20260402034927.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5308/0/2e10b1aaaf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekaran. N",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Nallathambi. A",
+        "address": "3/38A, A.d.colony, Govindampalayam Po, Thalaivasal Tk, Salem Dt-636101.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260404051016.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7431/0/5a13b403b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Sellamuthu. N",
+        "address": "3/55, Colony Street, Govindampalayam Po, Thalaivasal Tk, Salem Dt-636101",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406050354.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10026/0/4a35dc366c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shreejan Balki. S.b",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Balakrishnan. V",
+        "address": "D-18, Krishna Nagar, Phase Ii, Sankari Tk, Salem Dt- 637301",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHREE-2026-20260404050457.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Shreejan Balki. S.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Balakrishnan. V",
+        "address": "D-18, Krishna Nagar, Phase Ii, Sankari Tk, Salem Dt- 637301",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHREE-2026-20260404050457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13195/0/77a2a0adde/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sujatha. V",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Balakrishnan. V",
+        "address": "D-18, Krishna Nagar, Phase Ii, Sankari Tk, Salem Dt - 637301",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUJAT-2026-20260404044846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7772/0/a706eba9f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilarasan. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gangavalli",
+        "father_husband_name": "Thangavel",
+        "address": "1/188, Ricemill Street, Godamalai Po, Gangavalli Tk, Salem Dt - 636105",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406045700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9468/0/939a75569d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

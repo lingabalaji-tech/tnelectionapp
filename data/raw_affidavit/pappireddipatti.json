@@ -1,0 +1,573 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Pappireddipatti",
+    "count": 37,
+    "candidates": [
+      {
+        "name": "Archana Tamilaruvi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Tamilaruvi",
+        "address": "Door No.15A, Rangasamy Udaiyar Street, Kadathur Village And Post, Pappireddipatti Taluk, Dharmapuri District-635303",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARCHA-2026-20260402032953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15388/0/4d12ef0760/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Archana. T.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Tamilaruvi",
+        "address": "15A, Rangasmy Udaiyar Street, Kadathur Village And Post, Pappireddipatti Taluk, Dharmapuri District-635303",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARCHA-2026-20260402032953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5227/0/f5c39ade3f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ayyakannu. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Kali",
+        "address": "D.no. 511, Ambedkar Street, Molaiyanoor Village  And Post, Pappireddipatti Taluk, Dharmapuri District-636904",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AYYAK-2026-20260402015703.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5075/0/a6f6262cec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Rajamani",
+        "address": "Door No.3-310, M.savuloor Village, Mittanoolahalli Post, Dharmapuri Taluk And District-636704.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406053049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15484/0/3dac1b3481/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan. R.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Rajamani",
+        "address": "Door No.3-310, M.savuloor Village, Mittanoolahalli Post, Dharmapuri Taluk And District-636704.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406053049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10093/0/03ede93f97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan. R.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Rajamani",
+        "address": "Door No.3-310, M.savuloor Village, Mittanoolahalli Post, Dharmapuri Taluk And District-636704.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406053049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13116/0/3aef2a32f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chennakrishnan. V",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Venkatraman",
+        "address": "Door No. 1-73, Valaithottam Village, Kolagampatti Post, Harur Taluk, Dharmapuri District-636903.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHENN-2026-20260406045838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15209/0/9c6833f51b/",
+          "https://voterlist.co.in/affidavit-download/15209/1/c0fd46884b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chennakrishnan. V.",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Venkatraman",
+        "address": "Door No. 1-73, Valaithottam Village, Kolagampatti Post, Pappireddipatti Taluk, Dharmapuri District-636903.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHENN-2026-20260406045838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9601/0/3ef5429423/",
+          "https://voterlist.co.in/affidavit-download/9601/1/d14f5ba5ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnasamy. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Palanisamy",
+        "address": "Door No. 4-35, S Kottavur Village, Semmandakuppam, Kuppur Post, Dharmapuri Taluk, Dharmapuri District-636704.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHINN-2026-20260406124102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15588/0/4eccfab2aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnasamy. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Palanisamy",
+        "address": "Door No. 4-35, S Kottavoor Village, Semmandakuppam, Kuppur Post, Dharmapuri Taluk And District-636704.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHINN-2026-20260406124102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10261/0/4ab190f55c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan. S",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Subramani",
+        "address": "Door No. 70, Keel Street, Nathamedu, Mottankurichi Village And Post, Pappireddipatti Taluk, Dharmapuri District-635302.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260404125453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16170/0/a3b6bc5db5/",
+          "https://voterlist.co.in/affidavit-download/16170/1/712723e88f/",
+          "https://voterlist.co.in/affidavit-download/16170/2/eb0a078154/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan. S.",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Subramani",
+        "address": "Door.no. 70, Keel Street, Nathamedu, Mottankurichi Village And Post, Pappireddipatti Taluk, Dharmapuri District-635302.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260404125453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6706/0/47e1d881e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jamunarani. M",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Muthuraman",
+        "address": "Door No.2-167, Linganayakanahalli Village, Venkatatharahalli Post, Pappireddipatti Taluk, Dharmapuri District-635303.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAMUN-2026-20260404030618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16136/0/5f064e9d49/",
+          "https://voterlist.co.in/affidavit-download/16136/1/383c344fb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jamunarani. M.",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Muthuraman",
+        "address": "Door. No.2-167, Linganayakanahalli Village, Venkatatharahalli Post, Pappireddipatti Taluk, Dharmapuri District-635303.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAMUN-2026-20260404030618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6667/0/e78c619f5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayakumar. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Manickam",
+        "address": "Door No. 137-2, Keel Street, Nathamedu Village, Mottankurichi Post, Pappireddipatti Taluk, Dharmapuri District-635302.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAK-2026-20260406042833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9556/0/4a645f4ef8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamatchi. S.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Shanmugam",
+        "address": "41, Thindalanur Village, Kadathur Post, Pappireddipatti Taluk, Dharmapuri District-635303.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAMAT-2026-20260402040803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5453/0/cb6c6e87ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maragatham Vetrivel",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Vetrivel",
+        "address": "Door No.10, New Tiruppattur Road, Mathikonpalayam, Dharmapuri Taluk, Dharmapuri District-636702.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARAG-2026-20260406014322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15595/0/16d3622794/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maragatham Vetrivel. V.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Vetrivel",
+        "address": "Door No.10, New Thiruppathur Road, Mathikonpalayam, Dharmapuri Taluk And District-636702.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARAG-2026-20260406014322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10270/0/0978abf240/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthi. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Periyannan",
+        "address": "Door. No. 1-118, Dhasanampatti Village, Akkamanahalli Post, Dharmapuri Taluk, Dharmapuri District-636704.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOORT-2026-20260406010924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14919/0/e1f5eb9341/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthi. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Periyannan",
+        "address": "Door. No. 1-118, Dhasanampatti Village, Akkamanahalli Post, Dharmapuri Taluk And District-636704.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOORT-2026-20260406010924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9039/0/8da02d8257/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Sivalingam",
+        "address": "Door No. 4-287, B.thurinjipatti Village And Post, Pappireddipatti Taluk, Dharmapuri District-635301.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404014924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16061/0/8e2f47e046/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Sivalingam",
+        "address": "Door.no. 4-287, B.thurinchipatti Village And Post, Pappireddipatti Taluk, Dharmapuri District-635301.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404014924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6562/0/b057cd2c4e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Niresh Kumar. V.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Vetrivel",
+        "address": "Door No. 11A, Kaliyappan Street, Mathikonpalayam, Dharmapuri Taluk And District-636701.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NIRES-2026-20260406022019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9825/0/10cbead440/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniappan. P",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Perumalgoundar",
+        "address": "Door No. 285, Molaiyanur Village  And Post, Pappireddipatti Taluk, Dharmapuri District-636904.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAL-2026-20260402124502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16321/0/b15931b78b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniappan. P.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Perumalgoundar",
+        "address": "D.no. 285, Molaiyanoor Village  And Post, Pappireddipatti Taluk, Dharmapuri District-636904",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAL-2026-20260402124502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4984/0/acf5fd0aa3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniappan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Raman",
+        "address": "Door No. 2-126A, Komathampatti Village, Nallasenahalli Post, Nallampalli Taluk, Dharmapuri District-636804.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260404034559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15952/0/55097126af/",
+          "https://voterlist.co.in/affidavit-download/15952/1/b2c440ea24/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniyappan. R.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Raman",
+        "address": "Door No. 2-126A, Komathampatti Village, Nallasenahalli Post, Nallampalli Taluk, Dharmapuri District-636804.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260404034559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6437/0/ffb9cae855/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poovarasu",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Kaligounder",
+        "address": "Door No. 3-203, Savulupatti Village, Naickenkottai Post, Tiruppattur Main Road, Dharmapuri Taluk, Dharmapuri District-635202.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOVA-2026-20260406122434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15433/0/f265c92226/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poovarasu. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Kaligounder",
+        "address": "Door No. 3-203, Savulupatti Village, Naickenkottai Post, Thirupathur Main Road, Dharmapuri Taluk And District-635202.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOVA-2026-20260406122434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9993/0/6031bae27c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poovarasu. K.",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Kaligounder",
+        "address": "Door No. 3-203, Savulupatti Village, Naickenkottai Post, Thirupathur Main Road, Dharmapuri Taluk And District-635202.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOVA-2026-20260406122434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11228/0/169ea92e64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Sekar",
+        "address": "Door No.4-272, Ramiyanahalli Village And Post, Pappireddipatti Taluk, Dharmapuri District-635302.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260404021313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16236/0/8da580a726/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish. S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Sekar",
+        "address": "Door. No.4-272, Ramiyanahalli Village And Post, Pappireddipatti Taluk, Dharmapuri District-635302.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260404021313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6794/0/9232704c63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaprakasam. R.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Ramasamy",
+        "address": "Door. No.1-192, Asthagiriyur Village, Obilinaickanahalli Post, Pappireddipatti Taluk, Dharmapuri District-635303.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAP-2026-20260404023909.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6283/0/efeabbe2c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilraj. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Kannu",
+        "address": "Door No. 39, Kethureddipatti Village And Post, Pappireddipatti Taluk, Dharmapuri District-635302.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406025345.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15058/0/d037770bf2/",
+          "https://voterlist.co.in/affidavit-download/15058/1/0b44f85ea1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilraj. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Kannu",
+        "address": "Door No. 39, Kethureddipatti Village And Post, Pappireddipatti Taluk, Dharmapuri District-635302.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406025345.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9289/0/b32f1fdfcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thilagavathi. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Balamurugan. R",
+        "address": "Door No.3-310, M.savuloor, Mittanoolahalli Post, Dharmapuri Taluk, Dharmapuri  District-636704.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THILA-2026-20260409081038.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16309/0/7fb7bc46fa/",
+          "https://voterlist.co.in/affidavit-download/16309/1/dd772692f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thilagavathi. S.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pappireddipatti",
+        "father_husband_name": "Balamurugan. R.",
+        "address": "D.no.3-310, M.savuloor, Mittanoolahalli Post, Dharmapuri Taluk And District-636704.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THILA-2026-20260402030012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5122/0/2a2b7c9a1b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

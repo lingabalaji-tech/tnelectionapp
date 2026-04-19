@@ -1,0 +1,651 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Pudukkottai",
+    "count": 43,
+    "candidates": [
+      {
+        "name": "A. Radhakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Adaikalam",
+        "address": "No.28, Gandhinagar 1St Street, Pudukkottai Taluk, Pudukkottai District, 622001",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAD-2026-20260406115615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12153/0/cf04bd4162/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Rajasekar",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Anbalagan",
+        "address": "No.329/272 V.o.c Nagar, Kundrandarkovil Post, Kulathur Taluk, Udaiyalipatti, Pudukkottai District 622502",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAJ-2026-20260404063730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7309/0/de4ef317cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Subaresh Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Amalaseviyar",
+        "address": "No. 437, Indira Nagar 1St Street, Mettupatti, Thirukattalai Post, Pudukkottai Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUB-2026-20260406115959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15248/0/40cd39318d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Subareshraja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Amalaxavier",
+        "address": "No. 437, Indira Nagar 1St Street, Mettupatti, Thirukattalai Post, Pudukkottai Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUB-2026-20260406115959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12229/0/a884994d3e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Govindasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Chinnu",
+        "address": "No.2641, Seenivasa Nagar 1St Street, Industrial Estate Post, Pudukkottai 622004",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CGOV-2026-20260406102607.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12433/0/94a686dc96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Karuppaiah",
+        "party": "All India Forward Bloc",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Chithambaram",
+        "address": "No. 26, Thiruvalluvar Nagar 2Nd Street, Pudukkottai, Pudukkottai District 622001",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKAR-2026-20260404080503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7481/0/66250e3f53/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Karuppaiah",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Chinnu",
+        "address": "No.319, Laksmipuram, Perungalur Post, Pudukkottai District. 622203",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKAR-2026-20260406113911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11895/0/60d259445c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Ramachandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Chinnaiya",
+        "address": "No.21, Lakshmipuram 2Nd Street, Pudukkottai Town, Pudukkottai District 622001",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAM-2026-20260406114754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12004/0/b4b83f77b2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Dheshnamoorthy",
+        "address": "No. 8/1, Kovilpatti Road, Thirukokarnam Post, Pudukkottai Town, Pudukkottai District 622002",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRAM-2026-20260406115424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12116/0/34ebf0f1eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. V. Muthuraja",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "K. Vairakkannu",
+        "address": "No.6001, J.n Nagar, Annachathiram, Kadaiyakudi Post, Pudukkottai 622003",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRV-2026-20260406113310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11821/0/2687e00380/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Ramalingam",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Elango",
+        "address": "No. F9, New Diamond Nagar East, Arimalam Road, Pudukkottai Town, Pudukkottai District 622003",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERAM-2026-20260404065109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7832/0/bddfe66314/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhilarasi Vijayendran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Vijayendran",
+        "address": "407, Rajalakshmi Illam, Sathiyamoorthi Nagar, Pudukkottai Taluk, Pudukkottai District. 622001",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260330060411.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14055/0/9b22c3d718/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhilarasi.v",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Joan Kishore.a",
+        "address": "407, Rajalakshmi Illam, Sathiyamoorthi Nagar, Pudukkottai Taluk, Pudukkottai District. 622001",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260330060411.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Arivazhagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Govindan",
+        "address": "No. 515/112, Poondi, Sammattividuthi Post, Pudukkottai Taluk, Pudukkottai District 622301",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GARI-2026-20260406115022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12054/0/5680ba8ba6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Duraisaravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Ganesh",
+        "address": "T.s. No. 4357, D.no. 129/1, South 2Nd Street, Pudukkottai Town, Pudukkottai District 622001",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GDUR-2026-20260406115906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12209/0/ef67811830/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Manimegalai",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Ganesan",
+        "address": "No.7/956, Nadu Theru, Thoppukollai, Kuppakudi Post, Alangudi Taluk, Pudukkottai District - 622301",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMAN-2026-20260404083116.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Muthuraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Govindaraj",
+        "address": "No. 199, North Street, Kallukkaranpatti Pudur, Ganapathipuram Post, Pudukkottai District 622203",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMUT-2026-20260406115704.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12175/0/8089117872/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gayathri",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "N. Ramachandran",
+        "address": "No.196, South Street Pudunagar, Thurusupatti, Gandarvakottai Taluk, Pudukkottai District. 613301",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GAYAT-2026-20260406104341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11988/0/a56ab5505a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Dhanagopal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Kaliyappan",
+        "address": "T.s. No. 4775, Ayyanarapuram 1St Street, Pudukkottai 622001",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDHA-2026-20260406115138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12063/0/d71f1c4891/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Kailasakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Karunakaran",
+        "address": "1/161, Kalabam, Karambakudi Taluk, Pudukkottai District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAI-2026-20260330061240.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/100/0/200706431f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Murugesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Karuppaiah",
+        "address": "176, Malaiyappa Colony, Poongudi Village, Vellanur Post, Kulathur Taluk, Pudukkottai District - 622501",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMUR-2026-20260402054414.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5877/0/ac147ca4ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Rengan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Karuppaiah",
+        "address": "No.22, Bharathi Nagar, Kattiyavayal, 9A Nathampannai, Rajagopalapuram Post, Pudukkottai Taluk, Pudukkottai District - 622003",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KREN-2026-20260406114544.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11978/0/0a0ccc8013/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Rengan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Karuppaiah",
+        "address": "No.22, Bharathi Nagar, Kattiyavayal, 9A Nathampannai, Rajagopalapuram Post, Pudukkottai Taluk, Pudukkottai District - 622003",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KREN-2026-20260406114544.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12990/0/ad5a5bfbd7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.m. Shariff",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Kalith",
+        "address": "No.114, Nizam Colony, Pudukkottai 622001",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMS-2026-20260402060534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16361/0/1931bf8d3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.m.shariff",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Kalith",
+        "address": "No.114, Nizam Colony, Pudukkottai 622001",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMS-2026-20260402060534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5713/0/b3b5ff03cf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kangatharan .P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Paramasivam",
+        "address": "No. 90, Keelatheru, Soorakadu, Soorakadu Post, Karambakudi Taluk, Pudukkottai District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANGA-2026-20260406114305.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11949/0/da219e0932/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. A. Muthukumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "M. Arumugam",
+        "address": "T.s. No. 4448, East 4Th Street, Pudukkottai",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAM-2026-20260406114116.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11916/0/b33c8dfada/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Rajakumari",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Dr. V. Muthuraja",
+        "address": "No.6001, J.n Nagar, Kadaiyakudi Post, Pudukkottai 622003",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406113713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11882/0/fdd214e84f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Ramachandran",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Narayanasamy",
+        "address": "No.196, South Street Pudunagar, Thurusupatti, Gandarvakottai Taluk, Pudukkottai District. 613301",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAM-2026-20260406113039.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11788/0/19bbd1dca9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premalatha Ponvasinathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Ponvasinathan",
+        "address": "2/292, Seethapatti, Malaikudipatti Post, Easwaran Kovil, Illupur Taluk, Pudukkottai District - 622102",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMA-2026-20260404084303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8174/0/751c143beb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Nagadevi",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "E. Ramalingam",
+        "address": "No. F9, New Diamond Nagar East, Arimalam Road, Pudukkottai Town, Pudukkottai District 622003",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RNAG-2026-20260404071024.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7223/0/d3f3625e97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ramachandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Ragunathan",
+        "address": "No. 676-B3, Rajalakshmi Valagam, East Main Street, Pudukkottai Town, Pudukkottai District 622001",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406115522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15155/0/fcf628b7ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Rengaraja",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Rengasamy",
+        "address": "No.1/246, Voc Nagar, Machuvadi. Pudukkottai Taluk, Pudukkottai District 622004",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RREN-2026-20260404074730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7029/0/7c913dc51b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Raman",
+        "address": "Plot No. 96, Sri Ragavendra Nagar, Kavinadu West, Thiruvappur, Pudukkottai Taluk, Pudukkottai District - 622003",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSIV-2026-20260402055112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5909/0/01caebe0ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Chandran",
+        "address": "No. 13/2, Rajagopalapuram 4Th Street, Pudukkottai 622003",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406115236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12077/0/76412d10fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran .C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Chandran",
+        "address": "No. 13/2, Rajagopalapuram 4Th Street, Pudukkottai 622003",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406115236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15101/0/112500f897/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran .R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Ragunathan",
+        "address": "No. 676-B3, Rajalakshmi Valagam, East Main Street, Pudukkottai Town, Pudukkottai District 622001",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406115522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12138/0/9b225ef7c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Mohamed Yousuf",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Syed Ibrahimsa",
+        "address": "Ts.no.4591, East 4Th Street, Pudukkottai. 622001",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOH-2026-20260402062711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5820/0/c5f51f7a68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Niyaz Ahamed",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Sahabudeen",
+        "address": "No.2946, East 3Rd Street, Pudukkottai 622001",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNIY-2026-20260404073334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7911/0/7883dd4363/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Selvaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Shanmugam",
+        "address": "No.41, Plot No.78, Kumaran Nagar, Thirukkokarnam Post, Pudukkottai 622002",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEL-2026-20260402063652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5867/0/d76614000d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilnathan .B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Balusamy",
+        "address": "D.no. 5, Golden Nagar, Annavasal, Illuppur Taluk, Pudukkottai District 622101",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406115330.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12090/0/66e9663947/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Muthuraja",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "K. Vairakkannu",
+        "address": "No.6001, J.n Nagar, Annachathiram, Kadaiyakudi Post, Pudukkottai 622003",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRV-2026-20260406113310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12934/0/0c78c66a80/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.r. Jayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pudukkottai",
+        "father_husband_name": "Rangasamy",
+        "address": "No. 7, Mariamman Kovil Street, Thirukokarnam Post, Pudukkottai 622002",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VRJ-2026-20260407120624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12197/0/d7e7c12462/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

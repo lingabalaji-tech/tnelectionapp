@@ -1,0 +1,392 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Chengam",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "A Poongodi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Arunkumar",
+        "address": "No.185, Rajaveethi , Pinjur Village And Post Chengam Taluk -606709",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APOON-2026-20260404090022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8224/0/0f944c118b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.bharathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Adhimoolam",
+        "address": "No.1/705, Mariyamman Kovil Street, Sakkarathamadai Village Tiruvannamalai Taluk  -606811",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.chidambaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Adhimoolam",
+        "address": "No.377, Krishnapuram Junction Road, Velavan Nagar, Alaputhur Village, Pudupattu Post, Chengam Taluk ,Tiruvannamalai District-606710",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ACHI-2026-20260406115252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15232/0/27ef0830f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.chidhambaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Adhimoolam",
+        "address": "No.377, Krishnapuram Junction Road, Velavan Nagar, Alaputhur Village, Pudupattu Post, Chengam Taluk ,Tiruvannamalai District-606710",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.m.anand",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Ayyavu",
+        "address": "No.501, Hig-78, Tnhb, Tamarai Nagar, Tiruvannamalai Taluk And District - 606603",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "B Suganya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Bharathidhasan",
+        "address": "No.340/137A, Thiyagi Annamalai Nagar, Tiruvannamalai Corporation, Tiruvannamalai Taulk And District-606601",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "C Selvan",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Chinnaiyan",
+        "address": "187,Main Raod , Se.andapattu Village , Thanipadi Post , Thandarampattu Taluk , Tiruvannamalai Dt -606708",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSELV-2026-20260404083656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8120/0/9f00b18916/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.malathi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Christopher Raj",
+        "address": "No.202, Samuthiram Kalani, 3Rd Street, Tiruvannamalai Town And Taluk-606601",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMAL-2026-20260406112517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15361/0/133bd37f3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Dhilipkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "B Dhandayuthapani",
+        "address": "No.333 Ambethkar Nagar , Sanikkavadi Village And Post , Polur Taluk , Tiruvannmalai Dt -606803",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DDHIL-2026-20260404092907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8236/0/aadbb58a88/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.divya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "K.ganesan",
+        "address": "No.181, Adi Dravidar Kudiyiruppu Nedunkavadi Village, Thandrampet Tk,606707",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GDIV-2026-20260330043444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/93/0/b6a4b56583/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J Shoba",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "M Venkatesan",
+        "address": "No.592,Mariyamman Kovil Street , Kumarasamypalayam ,  Valaiyampattu Village And Post Chengam-606701",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JSHOB-2026-20260404092350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8197/0/884cf085ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.shoba",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "M.venkatesan",
+        "address": "No.592, Mariyamman Kovil  Street,Kumarasamy Palayam, Valaiyambattu Village  Po, Chengam - 606701.",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JSHO-2026-20260330041142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/566/0/ecaee59dff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Bharathidhasan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Kannan",
+        "address": "No.340/137A, Thiyagi Annamalai Nagar, Tiruvannamalai Corporation, Tiruvannamalai Taluk And District 606601",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K Manikandan",
+        "party": "Makkal Sananayaga Kudiyarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Kathavarayan",
+        "address": "No.524, New Colony, Chellanguppam Village And Post ,Tiruvannamalai Dt -606755",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMANI-2026-20260404082250.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K Murugesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "K Kattaiyan",
+        "address": "No.19,Pillaiyar Kovil Street , Unnamalaipayam Village , Pudurchengam Post , Chengam Taluk.- 606705",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMURU-2026-20260404080819.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.boobalan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Kanniyappan",
+        "address": "No.456, Durgaiyamman Kovil Street, Palaiya Kalani, Kilkuvalaivedu Village And Post, Vandavasi Taluk, Tiruvannamalai District-604404",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.malathi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Krishtofer Raj",
+        "address": "No.202, Samuthiram Kalani, 3Rd Street, Tiruvannamalai Town And Taluk-606601",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.velu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Kandhan",
+        "address": "No.788/1, Valluvar Street, Valavachanur Village, Thandrampet Taluk, Tiruvannamalai District-606703",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M Bharathi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "M.p.giri",
+        "address": "No.251, Perumpakkam Village, Pandidhapattu Post, Chengam Taluk, Tiruvannamalai District -606603",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.mugilarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Manokaran",
+        "address": "No.02, Ambethkar Nagar, Kilpennathur Town And Taulk, Tiruvannamalai-District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.p.giri",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Periyathambi",
+        "address": "No.251, Perumpakkam Village, Pandidhapattu Post, Chengam Taluk, Tiruvannamalai District - 606603",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.raman Masilamani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Munusamy",
+        "address": "No.101,Vedhasalai , Kulasekarapuram, Chinnamaiya Nagar, Virungampakkam, Chennai - 600092",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramki",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Muniyandi",
+        "address": "No.1240, Ambethkar Nagar, New Colony, Sathanur Village And Post, Thandrampet-606706",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvam",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Panjan",
+        "address": "No.107, Thongan Colony, Palaiya Quilam Village And Post, Chengam Taluk, Tiruvannamalai District-606710",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Panjan",
+        "address": "No.107, Thongan Colony, Palaiya Quilam Village And Post, Chengam Taluk, Tiruvannamalai District-606710",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSEL-2026-20260406103802.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15050/0/7a9136b731/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.velu",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Samikannu",
+        "address": "No.724, Tiruvalluvar Nagar, Thukkapettai  Village , Chengam - Taluk , Tiruvannamalai District -606709",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vijay",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "Selvam",
+        "address": "No.328, 4Th Street, Kambattu Village, Thandarampet Taluk, Tiruvannamalai District-606753",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T.prasannalakshmi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengam",
+        "father_husband_name": "S.velu",
+        "address": "No.724,Tiruvalluvar Nagar, Thukkapettai Village, Chengam Taluk, Tiruvannamalai-District, 606709",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TPRA-2026-20260406080419.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      }
+    ]
+  }
+}

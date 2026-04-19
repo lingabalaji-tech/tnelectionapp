@@ -1,0 +1,371 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Orathanadu",
+    "count": 24,
+    "candidates": [
+      {
+        "name": "A. Ajeshkannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Arunachalam",
+        "address": "No. 171/79 B, South Street, Pachur, Orathanadu Taluk, Thanjavur District, Pin-614902",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJESH-2026-20260330010420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15862/0/4adb9a3194/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajesh Kannan A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Arunachalam",
+        "address": "No. 171/79B, South Street, Pachur, Orathanadu Taluk, Thanjavur District, Pin-614902",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJESH-2026-20260330010420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/479/0/ee3ff461cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amirthalingam K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Kuppusamy",
+        "address": "54, East Street, Urantharayankudikadu, Orathanadu Taluk,  Thanjavur District, Pin-614625",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMIRT-2026-20260404032508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6118/0/5336135849/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Gunasekaran",
+        "party": "Thamizh Desiya Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Chinnayan",
+        "address": "432, South Street, Kasanadu Thekkur, Naduvur -Po,  Orathanadu Taluk, Thanjavur District, Pin-614904",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GUNAS-2026-20260406061741.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15431/0/0f13bc2cf5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. K. Arvind",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Kalyanasundaram",
+        "address": "818, Azhagarasan Nagar, Thanjavur-Nagai Road, Thanjavur  Taluk, Thanjavur District, Pin-613001",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRAR-2026-20260402010739.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16356/0/ef0f13ef95/",
+          "https://voterlist.co.in/affidavit-download/16356/1/99a317c6e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.arvind K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Kalyanasundaram",
+        "address": "No.818, Azhagarasan Nagar, Nagai Road, Thanjavur, Thanjavur District, Pin-613001",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRAR-2026-20260402010739.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5008/0/3979d8dc03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eganathan G",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Gopal",
+        "address": "28, North Street,  Palamputhur, Orathanadu Taluk, Thanjavur District, Pin-614625",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EGANA-2026-20260330023324.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/71/0/f8e73d056d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasekaran C",
+        "party": "Thamizh Desiya Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Chinnayan",
+        "address": "432, South Street, Kasanadu Thekkur, Orathanadu Taluk, Thanjavur District, Pin-614904",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GUNAS-2026-20260406061741.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9991/0/f8ea059ef0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanagaraj M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Murugaiyan",
+        "address": "173/173, Colony Street, Kandithampattu, Thanjavur District, Pin -614904",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANAG-2026-20260402122602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5107/0/cccf44d006/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Kanagaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Murugaiyan",
+        "address": "173/173, Colony Street, Kandithampattu, Thanjavur District, Pin -614904",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANAG-2026-20260402122602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14868/0/c7776f46da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Sekar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Manickam",
+        "address": "14, Kavalkara Street, Orathanadu Taluk, Thanjavur District, Pin-614625",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260406035017.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15230/0/6f7c36f3f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Selvaraj",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Murugaiyan",
+        "address": "744, Ambal Nagar, Vedhavijayapuram, Pappanadu, Orathanadu Taluk, Thanjavur District, Pin-614626",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404010834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15696/0/b54997248b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mogana K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Kalyanasundaram",
+        "address": "No.818, Azhagarasan Nagar, Nagai Road, Thanjavur, Thanjavur District, Pin-613001",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOGAN-2026-20260402014205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5052/0/4af8c07768/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Vaithilingam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Rengasamy",
+        "address": "335, South Street, Thelungankudikadu, Orathanadu Taluk, Thanjavur District, Pin-614625",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAITH-2026-20260406030311.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15283/0/0e19f68f4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rameshkumar S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Sellappan",
+        "address": "1514, Vandaiyar Street, Poyyundarkottai, Orathanadu Taluk, Thanjavur District, Pin-614902",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406033233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8976/0/5cd8c301a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.thirumurugan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Sathasivam",
+        "address": "217, Kandiyan Street, Ambalapattu North, Orathanadu Taluk, Thanjavur District, Pincode-614626",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260330020243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16673/0/46379e2bd1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar M",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Manickam",
+        "address": "14, Kavalkara Street, Orathanadu, Thanjavur District, Pin-614625",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260406035017.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9627/0/a6d74bebbb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj M",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Murugaiyan",
+        "address": "744, Ambal Nagar, Vedhavijayapuram, Pappanadu, Orathanadu Taluk, Thanjavur District, Pin-614626",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404010834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6083/0/bd9aaa507f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Vijayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Thangarasu",
+        "address": "1/1058, South Street, Nanjikottai Vallundanpattu, Nanjikottai Post, Thanjavur Taluk, Thanjavur District ,  Pin-613006",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406122144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15374/0/e84efa77fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumangai S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Sekar M",
+        "address": "14, Kavalkara Street, Orathanadu, Thanjavur District, Pin-614625",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260406040551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10317/0/10ed9f9b08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumurugan S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Sathasivam",
+        "address": "217, Kandiyan Street, Ambalapattu North, Orathanadu Taluk, Thanjavur District, Pincode-614626",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260330020243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/632/0/9e2ed8f54a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaithilingam R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Rengasamy",
+        "address": "335, South Street, Thelungankudikadu, Orathanadu Taluk, Thanjavur District, Pin-614625",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAITH-2026-20260406030311.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9737/0/e97f53160f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Veeramani",
+        "address": "8/3 Sedatheru, Orathanadu, Thanjavur District, Pin-614625",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406124408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10313/0/7cafe8c6c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Orathanadu",
+        "father_husband_name": "Thangarasu",
+        "address": "1/1058, South Street, Nanjikottai Vallundanpattu, Nanjikottai Post, Thanjavur Taluk, Thanjavur District ,  Pin-613006",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406122144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9896/0/e4d4b5ae58/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

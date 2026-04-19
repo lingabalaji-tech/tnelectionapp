@@ -1,0 +1,645 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Uthiramerur",
+    "count": 43,
+    "candidates": [
+      {
+        "name": "A.sivakumar",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Amulraj",
+        "address": "68 , Raja Street, Sri Kumaran Textiles Opposite, Walajabad, Kancheepuram-631605",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASIV-2026-20260406091046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12030/0/dc121217e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbu.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Venkatesan",
+        "address": "12B/84 ,Upperikulam Street, Big Kancheepuram,Kancheepuram District",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANBU-2026-20260410101259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16108/0/f521b6bba8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.s.masilamani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Balakrishnan",
+        "address": "No:34, Bajanai Koil Street,Kaithandalam, Village , Ozhaiyur Post , Uhtiramerur Taluk, Kancheepuram District - 603107",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSM-2026-20260330043510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/95/0/f066cd15e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.devarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Chinnappan",
+        "address": "1 Kattukollai Street, Arugunkundram Village , Thirumukkudal Post , Uthiramerur Taluk, Kancheepuram District-631606",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CDEV-2026-20260404031533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6784/0/f26fe01fca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Cittibabu.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Raman",
+        "address": "No.215,Kovil Street,Karuveppampoondi ,Uthiramerur Taluk-631603",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CITTI-2026-20260410101016.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16502/0/e910f44eeb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.abathasagayam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Devarajan",
+        "address": "No 2/2 Karuneekar Street, Kavanathandalam Village  Post , Walajabad Taluk, Kancheepuram District -631603",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DABA-2026-20260404125451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6634/0/7e09cd8b60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.jakirusan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Dhavuthkhan",
+        "address": "No.35, Vazhai Thottam Street, Uthiramerur, Uthiramerur Taluk, Kanchipuram District-603406",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DJAK-2026-20260406083102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11273/0/47222dcd75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devarajan.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Chinnappan",
+        "address": "1 Kattukollai Street, Arugunkundram Village , Thirumukkudal Post , Uthiramerur Taluk, Kancheepuram District-631606",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CDEV-2026-20260404031533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16230/0/2b95812f88/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Deventhiramoorthy.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Subramani",
+        "address": "No.54, Indira Nagar, Walajabad, Walajabad Taluk, Kancheepuram District -631605",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDEV-2026-20260402020640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16443/0/61456fdaa0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasekar.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Venkitesan",
+        "address": "No.4, Selliyamman Koil Street,  Vedal Village, Melperamanallur Post, Walajabad Taluk, Kancheepuram District- 631502",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GUNAS-2026-20260410100912.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16487/0/0af1eb2cf6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.mageswari",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Jayaraman",
+        "address": "No.1,Loganathan Street, Chitathur Village, Vedanthangal Post, Maduranthakam Taluk , Chengalpet District-603314",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMAG-2026-20260402045635.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "J.munirathinam",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Janakiraman",
+        "address": "No.3/88 Patturoja Street,Araneri Village , Kanchipuram-602106",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMUN-2026-20260402044258.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Jakirusan.d",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Dhavuthkhan",
+        "address": "No.35, Vazhai Thottam Street, Uthiramerur, Uthiramerur Taluk, Kanchipuram District-603406",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DJAK-2026-20260406083102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15481/0/b4b48dfcd0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.baskaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Kothandaraman",
+        "address": "No 17, Ricemill Street Melputhur Village, Assor Post, Walajabad Taluk",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KBAS-2026-20260406093611.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11954/0/0de1cb3552/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kamalakannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Kanniyappan",
+        "address": "27, Thiruvalluvar Street, Veliyur Village ,Kancheepuram  Taluk And District",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAM-2026-20260406064214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10095/0/29fdfce440/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.s.vasantharani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "K.sundar",
+        "address": "No.29, Bazzar Street, Salavakkam, Uthiramerur Taluk, Kancheepuram District-603107",
+        "gender": "Female",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSV-2026-20260404123042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6513/0/1af0cc7e85/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sundar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "S.c.kannan",
+        "address": "No.29, Bazzar Street, Salavakkam, Uthiramerur Taluk, Kancheepuram District-603107",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSUN-2026-20260404120950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6379/0/282f54d282/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamalakannan.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Kanniyappan",
+        "address": "No.27, Thiruvalluvar Street, Veliyur Village, Kancheepuram Taluk, Kancheepuram District- 631501",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAM-2026-20260406064214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15486/0/39b1c0ee12/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.anbarasu",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Mathi",
+        "address": "No 114,Mettu Colony Street,Aarpakkam Post ,Walajabad Taluk , Kancheepuram District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANB-2026-20260406080322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11085/0/de2f855635/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.j.arockiyasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Joseph",
+        "address": "No 1/43, Thandari Kootroad, Manampathy Kandigai, Uthiramerur Taluk , Kancheepuram District- 603403",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJA-2026-20260330015926.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/622/0/30d7abedbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kannivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Munusamy",
+        "address": "14/34, Bhavaji Street, Periya Kancheepuram, Kancheepuram District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAN-2026-20260406072014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11024/0/38e0c1b01b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.mohanasundari",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Munirathnam",
+        "address": "No.3/88 Patturoja Street,Araneri Village , Kanchipuram-602106",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMOH-2026-20260402050337.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.paulraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Malarmannan",
+        "address": "No 65 Rettai Vadai Street, Orikkai, Kancheepuram Taluk , Kancheepuram District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPAU-2026-20260406095457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12504/0/ab86ddb868/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.venkatraman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Mani",
+        "address": "No 33, Middle Street, Peranakkavoor Village, Uthiramerur Taluk, Kancheepuram District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260406085945.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11418/0/e3630a902d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Magesh Kumar.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "N.thanigaimalai",
+        "address": "Plot No 5, Vasantha Avenue , Abdulkallam Street, Velingapattarai, Orikkai,Kancheepuram Taluk And District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMAG-2026-20260406092630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15652/0/1fc00a90cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mageshkumar.p",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Perumal",
+        "address": "No.57 Mariyamman Kovil Street, Periyanatham Village, Melparamananallur Post, Walajabad Taluk, Kancheepuram.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAGES-2026-20260410101550.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15118/0/38667dfb48/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maheswari.j",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Jayaraman",
+        "address": "No.1,Loganathan Street, Chitathur Village, Vedanthangal Post, Maduranthakam Taluk , Chengalpet District-603314",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMAG-2026-20260402045635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16485/0/2c42186cdb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maram Masilamani.b.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Balakrishnan",
+        "address": "No:34, Bajanai Koil Street, Kaithandalam Village, Ozhaiyur Post , Uhtiramerur Taluk, Kancheepuram District -603107",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSM-2026-20260330043510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16564/0/adb7c05015/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Munirathinam.j",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Janakiraman",
+        "address": "No.3/88, Pattu Roja Street, Araneri Village, Ponthur Post ,  Kancheepuram-602 106",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMUN-2026-20260402044258.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16437/0/468cd4e3ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.vadivel",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Nagavel",
+        "address": "178, Mettu Street , Nerkundram Village , Anambakkam Post, Uthiramerur Taluk, Kancheepuram District-603107",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NVAD-2026-20260330053231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/195/0/1b818dbee0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.mageshkumar",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Perumal",
+        "address": "Old No 186, Athankarai Street, New No 57, Mariyamman Koil Street, Periyanatham Village Melperamanallur  Post Walajabad Taluk , Kancheepuram District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAG-2026-20260406074035.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10967/0/9d9597a636/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.cittibabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Raman",
+        "address": "No.215,Kovil Street,Karuveppampoondi ,Uthiramerur Taluk-631603",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RCIT-2026-20260402024827.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manimaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Rani",
+        "address": "26, Bajanai Koil Street, Eluppapattu Village, Kancheepuram Taluk And District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406070336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10122/0/ab0f5fc546/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.devendramoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Subramani",
+        "address": "No.54, Indira Nagar, Walajabad, Walajabad Taluk, Kancheepuram District -631605",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDEV-2026-20260402020640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5334/0/0116c1ea1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarala Raji",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Raji",
+        "address": "No 30-A Mandukannieswarar Koil Street Kancheepuram",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAL-2026-20260406101241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12061/0/94fed7f3cf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar.a",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Amulraj",
+        "address": "68 , Raja Street, Sri Kumaran Textiles Opposite, Walajabad, Kancheepuram-631605",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SIVAK-2026-20260410101814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15052/0/b430bffba5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sridhar",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Subramaniyan",
+        "address": "140 Bramminar Street Malayangakulam, Uthiramerur Taluk Kancheepuram District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIDH-2026-20260406102207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12352/0/4b4e18e8b2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundar.k",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "S.c.kannan",
+        "address": "No.29, Bazzar Street, Salavakkam, Uthiramerur Taluk, Kancheepuram District-603107",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSUN-2026-20260404120950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15906/0/387d8dff1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.magesh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "N.thanigaimalai",
+        "address": "Plot No 5, Vasantha Avenue , Abdulkallam Street, Velingapattarai, Orikkai,Kancheepuram Taluk And District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMAG-2026-20260406092630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12536/0/77fa6f4871/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.anbu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Venkatesan",
+        "address": "12B/84 ,Upperikulam Street,Big Kancheepuram,Kancheepuram District",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VANB-2026-20260404030337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6621/0/d8b8884358/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.gunasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Venkitesan",
+        "address": "No.4, Seliyamman Koil Street, Vedal Village,Melperamnallur Post , Walajabad Taluk, Kancheepuram District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VGUN-2026-20260402024642.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.umapathy",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "Varadhan",
+        "address": "No 56C ,V.o.c Street, Pallavaramedu West,Kancheepuram ,Kancheepuram District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VUMA-2026-20260406081545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10623/0/99b405e937/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.v.munikrishnan",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthiramerur",
+        "father_husband_name": "V.venkataraman",
+        "address": "227B, Rettiyar Street, Kallankuthu Village, Marudhadu Post ,Vandavsi Taluk,Tiruvannamalai District-604405",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVM-2026-20260402041043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5471/0/ea0d032b09/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

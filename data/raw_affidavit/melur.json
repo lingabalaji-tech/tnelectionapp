@@ -1,0 +1,416 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Melur",
+    "count": 27,
+    "candidates": [
+      {
+        "name": "A.maduraiveeran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Alagan",
+        "address": "275/5,Anna Nagar,Ariyurpatti,Saruguvalaiyapatti,Melur,Madurai-625109",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MADUR-2026-20260409010848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16261/0/eafa508062/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.ramasunaram",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "P.ashokan",
+        "address": "4/18,4/20,Musundahiripatty,Vellaripatty,Melur,Madurai-625122",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAM-2026-20260406062800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8994/0/ca15bd98aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.ramasunaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "P.ashokan",
+        "address": "4/18,4/20,Musundahiripatty,Vellaripatty,Melur,Madurai-625122",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAM-2026-20260406062800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10335/0/65de37945a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.ramasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "P.ashokan",
+        "address": "4/18,4/20,Musundahiripatty,Vellaripatty,Melur,Madurai-625122",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAM-2026-20260406062800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14001/0/29cc5f09ef/",
+          "https://voterlist.co.in/affidavit-download/14001/1/f8414cc1f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.soniagandhi",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Balamurugan",
+        "address": "1/166,Nayathanpatti,Ambalakaran Patti,Melur,Madurai-625109",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSON-2026-20260404032718.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6157/0/7d2e03312d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.mohanram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Chinnaiah",
+        "address": "3/99,Nayakkan Patti,Alagar Kovil,Madurai-625001",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CMOH-2026-20260402022830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5438/0/ea69cbbe84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "C.chinnaose",
+        "address": "1/99,Maruthur,Therkkutheru,Melur,Madurai-625122",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAM-2026-20260404050936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7399/0/b08fdcd804/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.arumugam Alias Arumugaraja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Kattayan",
+        "address": "279/41,Jothi Nagar,Pudusukkampatty,Melur,Madurai-625106",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARU-2026-20260406060711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9023/0/b9c7b4c24e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.manikandaprabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Kodukiri",
+        "address": "27A,Alagar 4Th Street,Old Sukkampatti,Melur,Madurai-625106",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAN-2026-20260404052048.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7844/0/a766597e2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.meyyar",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "M.kaliyan",
+        "address": "4/281 Sumathipuram Semminipatti Village Melur Taluk Madurai 625102",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMEY-2026-20260330024210.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/101/0/dbc679842c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sethuraman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Karuppanan",
+        "address": "2/88,T.ayyanarpuram,Thiruvathavur,Madurai-625110",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSET-2026-20260406021212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9451/0/3875062ff8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kottaikumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Ramachandran",
+        "address": "B23 Yamuna Homes 3Rd Floor 4Th Street Parameswari Nagar Adyar Chennai 600020",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KOTTA-2026-20260330025656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/640/0/db43635024/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.balamurugan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Mani",
+        "address": "1/136,Nayathanpatti,Ambalakaranpatti,Melur,Madurai-625109",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBAL-2026-20260404050242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7076/0/33a0d378c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.elavarasan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Muthaiyan Ambalam",
+        "address": "3/24,Thiruvathavur Post,Melur,Madurai-625110",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MELA-2026-20260406032858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8847/0/c40938d3f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.murugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Meenakshi Sundaram",
+        "address": "2/39,Vannam Paraipatti,Melur Taluk,Madurai-625109",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMUR-2026-20260404031156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6724/0/a01d8d2113/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.panneerselvam",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "V.s.manimuthu",
+        "address": "31/4,Manthai South Street,Kottampatty,Melur Taluk ,Madurai-625103",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPAN-2026-20260406055037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9669/0/831b9c0ab4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maduraiveeran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Alagan",
+        "address": "275/5,Anna Nagar,Ariyurpatti,Saruguvalaiyapatti,Melur,Madurai-625109",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MADUR-2026-20260404010354.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6823/0/54d3895717/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahathma Srinivasan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Selvamani",
+        "address": "55,Anna Main Road,Mgr Nagar,Chennai-600078",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAT-2026-20260406061313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9587/0/0e2d30516f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maruthu",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Rajendean",
+        "address": "276/5,Anna Nagar,Ariyurpatti, Saruguvalayapatti,Melur,Madurai-625109",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARUT-2026-20260404045655.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8079/0/668ec9a617/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.ashokan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Pitchai Alias Ramsundaram",
+        "address": "4/20,Musundagiripatti,Vellaripatti,Melur,Maduri-62512",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PASK-2026-20260406062107.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10312/0/067512b12c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.periyapullan (A) Selvam",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Periyapullan",
+        "address": "2/97,A.valayapatti,Alagarkovil Post,Melur,Madurai-625301",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPER-2026-20260406031553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15659/0/f136e20e6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.periyapullan Alias Selvam",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Periyapullan",
+        "address": "2/97,A.valayapatti,Alagarkovil Post,Melur,Madurai-625301",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPER-2026-20260406031553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10422/0/3c3da5b4fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.viswanathan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "N.perumal",
+        "address": "B076-Casa Grand Elan,Thazhampur,Chengalpattu-600130",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVIS-2026-20260406054111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8830/0/fb0e8d37d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.mathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Rathinam",
+        "address": "3/285 Mela Street,Thiruvathavoor Post,Melur-625110",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAT-2026-20260402010444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5005/0/92d97736c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.boopathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Sivadanam",
+        "address": "48/85,Alagar Nagar 5Th Street,K.pudur,Madurai-625007",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SBOO-2026-20260402024649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5520/0/4db62a442f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.mahadevan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "S.subbaiah Ambalam",
+        "address": "15A,Manthai Street,Nondikovilpatti,Melur,Madurai-625106",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAH-2026-20260406055933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10433/0/83679b7641/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Soniagandhi",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Melur",
+        "father_husband_name": "Balamurugan",
+        "address": "1/166,Nayathanpatti,Ambalakaran Patti,Melur,Madurai-625109",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSON-2026-20260404032718.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15754/0/da67a354c4/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

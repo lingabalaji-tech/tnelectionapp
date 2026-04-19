@@ -1,0 +1,1022 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Radhapuram",
+    "count": 67,
+    "candidates": [
+      {
+        "name": "A. Daniel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Annapandi",
+        "address": "14/240, Csi Kovil Street, Leppaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ADAN-2026-20260404122658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11471/0/df661d2649/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Vijaya",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Appavu",
+        "address": "14/90A, Main Road, Block No.14, Leppaikudieruppu, Mahendragiri Post, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIJ-2026-20260406023111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11419/0/7ece2a90e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.daniel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Annapandi",
+        "address": "14/240, Csi Kovil Street, Leppaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ADAN-2026-20260404122658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6479/0/712c2247a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.i.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Azhaganantham",
+        "address": "38, Chathiram Theru, Karunkulam, Radhapuram Taluk, Tirunelveli District-627114",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AIM-2026-20260402024331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5506/0/d81150b85e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.vijaya",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Appavu",
+        "address": "14/90A, Main Road, Block No.14, Leppaikudieruppu, Mahendragiri Post, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIJ-2026-20260406023111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10389/0/acb0d797e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amalan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Pious Nadar",
+        "address": "59B, Rc School South Street, Panagudi, Radhapuram Taluk, Tirunelveli District-627109",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAMA-2026-20260404025919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14050/0/4837188133/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anand Prasad",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Murugan",
+        "address": "41, Matha Kovil Street, Panagudi, Radhapuram Taluk, Tirunelveli District -627 109.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260330043403.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/82/0/0a255ee3c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ramesh Kannan",
+        "address": "105U, Kesavaneri Road, Vallioor -627117, Radhapuram Taluk, Tirunelveli District.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANA-2026-20260330040645.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11524/0/132f5d1566/",
+          "https://voterlist.co.in/affidavit-download/11524/1/5f043b9095/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananthi.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ramesh Kannan",
+        "address": "105U, Kesavaneri Road, Vallioor -627117, Radhapuram Taluk, Tirunelveli District.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANANT-2026-20260408060216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14117/0/bfd5a8fcaa/",
+          "https://voterlist.co.in/affidavit-download/14117/1/719604e252/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Appavu.m",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Muthu Velayutha Perumal",
+        "address": "90A, Main Road, Block No.14, Lebbaikudieruppu,Mahendragiri Post, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAPP-2026-20260406013919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13980/0/4c9a96c2c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Durairaj",
+        "address": "14/277, Oodai Street, Lebbaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DARU-2026-20260404125501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14059/0/d0c4467b52/",
+          "https://voterlist.co.in/affidavit-download/14059/1/2ee4f3df70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Palavesamuthu Nadar",
+        "address": "11/13, East Street, Srirenganarayanapuram,Chettikulam, Radhapuram Taluk, Tirunelveli District-627106",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAK-2026-20260406023827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8632/0/d58f74b608/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnan.s.p",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Palavesamuthu Nadar",
+        "address": "11/13, East Street, Srirenganarayanapuram,Chettikulam, Radhapuram Taluk, Tirunelveli District-627106",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BALAK-2026-20260408065557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13899/0/f4f9cb3903/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Arunraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Durairaj",
+        "address": "14/277, Oodai Street, Leppaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DARU-2026-20260404125501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11482/0/d82a121225/",
+          "https://voterlist.co.in/affidavit-download/11482/1/cad675936c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Girija",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thamaraipandian",
+        "address": "12/92-3, North Street, Sivasubramaniyapuram, Koliyankulam Post - 627 116, Tirunelveli District.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DGIR-2026-20260330024444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10810/0/a3e5432a7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.arunraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Durairaj",
+        "address": "14/277, Oodai Street, Leppaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DARU-2026-20260404125501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6718/0/3860d625aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.girija Thamaraipandian",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thamaraipandian",
+        "address": "12/92-3, North Street, Sivasubramaniyapuram, Koliyankulam Post - 627 116, Tirunelveli District.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DGIR-2026-20260330024444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/114/0/876d2f751e/",
+          "https://voterlist.co.in/affidavit-download/114/1/86b4784a9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Daniel.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Annapandi",
+        "address": "14/240, Csi Kovil Street, Lebbaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ADAN-2026-20260404122658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14039/0/1f98139a83/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Sathish Christopher",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Kamaraj",
+        "address": "No.2,3, 3Rd Cross Street, Sivanthipatti Road, Maharajanagar, Palayamkottai, Tirunelveli-627011",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRSA-2026-20260404023753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6270/0/123873a828/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.sathish Christopher",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Kamaraj",
+        "address": "No.2,3, 3Rd Cross Street, Sivanthipatti Road, Maharajanagar, Palayamkottai, Tirunelveli-627011",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRSA-2026-20260404023753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14025/0/7b1b148950/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Essakkiammal",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thanesh Perinba Selvan",
+        "address": "6, North Street, Kamatchi Nager, Palayamkottai, Tirunelveli-627011",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EESS-2026-20260406124118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11361/0/bb7b34cc87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.essakkiammal",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "J.dhanesh Perinba Selvan",
+        "address": "6, North Street, Kamatchi Nager, Palayamkottai, Tirunelveli-627011",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EESS-2026-20260406124118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10269/0/bd5e8af697/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Essakkiammal.e",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thanesh Perinba Selvan",
+        "address": "6, North Street, Kamatchi Nager, Palayamkottai, Tirunelveli-627011",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ESSAK-2026-20260408070304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13996/0/1cbdf20ff2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Nanthini Kumari",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Senthilvel",
+        "address": "5/10M,5/3, Kallathivilai Street, Koodankulam, Radhapuram Taluk, Tirunelveli District - 627 106.",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNAN-2026-20260330031713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/253/0/431be96389/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Girija Thamaraipandian.d",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thamaraipandian",
+        "address": "12/92-3, North Street, Sivasubramaniyapuram, Koliyankulam Post - 627 116, Tirunelveli District.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GIRIJ-2026-20260408062357.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14105/0/7bf0f7359f/",
+          "https://voterlist.co.in/affidavit-download/14105/1/926dd933ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.jesurajendran",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Jebamalai Mariyan",
+        "address": "10/246, Soosaipandiyapuram, Kumaragiri, Pudukottai, Tuticorin-628103",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJES-2026-20260402121748.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5100/0/7e75aac04a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jesurajendran.j",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Jebamalaimariyan",
+        "address": "10/246, Soosaipandiyapuram, Kumaragiri, Pudukottai, Tuticorin-628103",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJES-2026-20260402121748.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14100/0/31347897d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeyagopal.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Narayanaraj",
+        "address": "9/123, West Street, Sankarankudieruppu, Puthukulam Panchayat, Sathankulam Taluk, Tuticorin District-628704",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NJEY-2026-20260402014021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14084/0/4bce9c16a6/",
+          "https://voterlist.co.in/affidavit-download/14084/1/05152cfe73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeyalakshmi",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Balakrishnan",
+        "address": "11/13, East Street, Srirenganarayanapuram, Chettikulam, Radhapuram Taluk, Tirunelveli District-627106",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEYAL-2026-20260406031428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10277/0/56d927fe82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeyaraj.p V S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ponnusamy",
+        "address": "114A, Nallasamarian Nagar, Vadakku Valliyur, Radhapuram Taluk, Tirunelveli District-627117",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVSJE-2026-20260406071205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13902/0/c105854dc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Vijayakumar Kailasam",
+        "address": "14/55A, Narayanasamy Kovil Street, Lebbaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VKAR-2026-20260404014701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16044/0/ebad6f4f27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Vijayakumar Kailasam",
+        "address": "14/55A, Narayanasamy Kovil Street, Lebbaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VKAR-2026-20260404014701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14044/0/cd92298eac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kingsly Isac Jebaraj.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Suvishesaraj",
+        "address": "8/250E, Annai Indiragandhi Street, Kavalkinaru,Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKING-2026-20260402033709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14083/0/9c0d202425/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kingsly Isacc Jebaraj.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Suvishesaraj",
+        "address": "8/250E, Annai Indiragandhi Street, Kavalkinaru, Perungudi Village,Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKING-2026-20260402033709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16399/0/4d17040dff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Appavu",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Muthu Velayutha Perumal",
+        "address": "90A, Main Road, Block No.14, Leppaikudieruppu,Mahendragiri Post, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAPP-2026-20260406013919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10111/0/c68723334e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vanthana",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thangadurai",
+        "address": "4/228, Tirunangai Colony, Narasinganallur, Tirunelveli",
+        "gender": "Third",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVAN-2026-20260406072116.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Muthukumar",
+        "address": "3/345, Pilomi Nager, Veerapandianpattinam, Tuticorin-628216",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAL-2026-20260406063429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13948/0/56c0850642/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi Muthukumar",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Muthukumar",
+        "address": "3/345, Pilomi Nager, Veerapandianpattinam, Tuticorin-628216",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAL-2026-20260406063429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9510/0/8fac4a05a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Lakshmanan",
+        "address": "5/18A, Kanavilai Street, Avaraikulam, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406050358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11249/0/ebaaf1f6f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Subramanian",
+        "address": "82/2, Middle Street, Pazhavoor, Radhapuram Taluk, Tirunelveli District-627144",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406051144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10508/0/4a1d3412e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan.a.i",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Azhaganantham",
+        "address": "38, Chathiram Theru, Karunkulam, Radhapuram Taluk, Tirunelveli District-627114",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AIM-2026-20260406084412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14007/0/4086eca093/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan.l",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Lekshmanan",
+        "address": "5/18A, Kanavilai Street, Avaraikulam, Radhapuram Taluk, Tirunelveli District-627133",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406050358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10041/0/40480c4e6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Subramanian",
+        "address": "82/2, Middle Street, Pazhavoor, Radhapuram Taluk, Tirunelveli District-627144",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406051144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8464/0/afea9ccbfa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan.p",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Palaiya Achari",
+        "address": "8/215, Kamaraj Street, Chettikulam, Radhapuram Taluk, Tirunelveli District-627120",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUR-2026-20260402044654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14092/0/3ddb2b2d09/",
+          "https://voterlist.co.in/affidavit-download/14092/1/84db0a38df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.jeyagopal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Narayanaraj",
+        "address": "9/123, Sankarankudieruppu, Puthukulam Panchayat, Sathankulam Taluk, Tuticorin District-628704",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NJEY-2026-20260402014021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5049/0/dd0ccba675/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nanthini Kumari",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Senthilvel",
+        "address": "5/10M,5/3, Kallathivilai Street, Koodankulam, Radhapuram Taluk, Tirunelveli District - 627 106.",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNAN-2026-20260330031713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11521/0/bc604583a7/",
+          "https://voterlist.co.in/affidavit-download/11521/1/eb1b039311/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Oliver Anton Navamani. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Selvaraj",
+        "address": "23, Vivasaya Bank Street, Panagudi, Radhapuram Taluk, Tirunelveli District-627109",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OLIVE-2026-20260406064428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10252/0/462c19b18d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Oliver Anton Navamoni. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Selvaraj",
+        "address": "23, Vivasaya Bank Street, Panagudi, Radhapuram Taluk, Tirunelveli District-627109",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OLIVE-2026-20260406064428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11347/0/b90e558d92/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Amalan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Pious Nadar",
+        "address": "59C, Rc School South Street, Panagudi, Radhapuram Taluk, Tirunelveli District-627109",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAMA-2026-20260404025919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11476/0/bb882cd4d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Amalan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Pious Nadar",
+        "address": "59B, Rc School South Street, Panagudi, Radhapuram Taluk, Tirunelveli District-627109",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAMA-2026-20260404025919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13244/0/f49f7dc457/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.amalan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "P.pious Nadar",
+        "address": "59C, Rc School South Street, Panagudi, Radhapuram Taluk, Tirunelveli District-627109",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAMA-2026-20260404025919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6582/0/2ae0874e70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.murugan",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Balaiya Achari",
+        "address": "8/215, Kamaraj Street, Chettikulam, Radhapuram Taluk, Tirunelveli District-627120",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUR-2026-20260402044654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5358/0/27e1ff9a64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pon Santhana Kumaran.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ramalingam",
+        "address": "14/70, East Street, Lebbaikudieruppu, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPON-2026-20260406065113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13919/0/34e7f31743/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pvs Jeyaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ponnusamy",
+        "address": "114A, Nallasamarian Nagar, Vadakku Valliyur, Radhapuram Taluk, Tirunelveli District-627117",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVSJE-2026-20260406071205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8747/0/99f4e49cea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ananthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ramesh Kannan",
+        "address": "105U, Kesavaneri Road, Vallioor -627117, Radhapuram Taluk, Tirunelveli District.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANA-2026-20260330040645.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/505/0/2196261216/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Pon Santhana Kumaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ramalingam",
+        "address": "14/70, East Street, Lebbaikudieruppu, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPON-2026-20260406065113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9024/0/a24967d58c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ponnu",
+        "address": "6/40, Tiruvalluvar Street, Pazhavoor, Radhapuram Taluk, Tirunelveli District-627114",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAN-2026-20260406051738.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8991/0/f6fd5a7ea2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Ponnu",
+        "address": "6/40, Tiruvalluvar Street, Pazhavoor, Radhapuram Taluk, Tirunelveli District-627114",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJAN-2026-20260408070405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13918/0/76a2bdc0c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Kingsly Isacc Jebaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Suvishesaraj",
+        "address": "8/250E, Annai Indiragandhi Street, Kavalkinaru,Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKING-2026-20260402033709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5261/0/e4c2992c0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Kingsly Isac Jebaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Suvishesaraj",
+        "address": "8/250E, Annai Indiragandhi Street, Kavalkinaru,Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKING-2026-20260402033709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11498/0/86f1f763f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sundarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Soundirakani",
+        "address": "13/72A, Kamarajar Street, Periyanayagipuram, Kavalkinaru Panchayat, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260404020605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11483/0/6f5aab8e01/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvan.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thangamuthu Nadar",
+        "address": "300/5, Thirumalai Building, Kalipalayam, Onnipalayam Road, Vellamadai, Coimbatore-641110",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSEL-2026-20260406121109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13973/0/b6ee6b1df4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundarajan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Soundarakani",
+        "address": "13/72A, Kamarajar Street, Periyanayagipuram, Kavalkinaru Panchayat, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260404020605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6726/0/66dfb0b50a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Selvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thangamuthu Nadar",
+        "address": "300/5, Thirumalai Building, Kalipalayam, Onnipalayam Road, Vellamadai, Coimbatore-641110",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSEL-2026-20260406121109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11072/0/7693f049b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.selvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Thangamuthu Nadar",
+        "address": "300/5, Thirumalai Building, Kalipalayam, Onnipalayam Road, Vellamadai, Coimbatore-641110",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSEL-2026-20260406121109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9650/0/0d3136287a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.karthick",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Vijaya Kumar",
+        "address": "14/55A, Narayanasamy Kovil Street, Leppaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VKAR-2026-20260404014701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6545/0/576d05f0b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.karthik",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Radhapuram",
+        "father_husband_name": "Vijayakumar Kailasam",
+        "address": "14/55A, Narayanasamy Kovil Street, Leppaikudieruppu, Perungudi Post, Radhapuram Taluk, Tirunelveli District-627105",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VKAR-2026-20260404014701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11473/0/3e27abe34f/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

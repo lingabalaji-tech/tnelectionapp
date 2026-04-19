@@ -1,0 +1,1191 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Tiruvannamalai",
+    "count": 80,
+    "candidates": [
+      {
+        "name": "A.adithyapalanisamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Athimulam",
+        "address": "24 Manickavasagar Kcvil Street,Adiannamalai,Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AADI-2026-20260406031303.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.elumalai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Arumugam",
+        "address": "98A, Pillaiyar Kovil Street, Adaiyur Village, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AELU-2026-20260406051519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8786/0/5a10ebb03b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.marikkannu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Elumalai",
+        "address": "94/16 Kariyan Chetti Street,Tiruvannamalai,Tiruvannamalai District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAR-2026-20260404074401.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.nakkiran",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Arumugam",
+        "address": "312/187 M.i.g 8Th Street,Thamarai Nagar Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAK-2026-20260404063820.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Adhithya Palanisamy. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Athimulam",
+        "address": "24,Manickavasakar Koil Street,Adiannamalai, Tiruvannamalai - 606604",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AADI-2026-20260406031303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13984/0/d4dc21b9ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananth. A. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Ayyavu",
+        "address": "501, Hig-78, Tnhb, Thamarai Nagar, Tiruvannamalai",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANANT-2026-20260406092900.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14700/0/7d39e79d74/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananth. A.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Ayyavu",
+        "address": "501, Hig-78, Tnhb, Thamarai Nagar, Tiruvannamalai",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANANT-2026-20260406092900.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13896/0/ca727b648f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananth.a.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Ayyavu",
+        "address": "9/40,41, Brindhavan Nagar Main Road, Brindhavan Nagar, Madambakkam,  Tambaram Taluk, Chengalpattu District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANANT-2026-20260406092900.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11712/0/43b4a6dcaa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbalagan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Murugesa Udaiyar",
+        "address": "739, Kundrakudi Adigalar Nagar, Vettavalam Road, Tiruvannamalai",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANB-2026-20260406105528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13956/0/ecaabc2dcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arul Anand. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Vasudevan",
+        "address": "31/12, Gandhi Nagar, 10Th Street, Tiruvannamalai -606601",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VARU-2026-20260406055142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13958/0/8e507c6151/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arul Arumugam",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Arumugam",
+        "address": "1196-8,1St Cross,3Rd Main N.t.r Nagar.,Mukandapalli,Hosur,Krishnagiri District - 635126",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULA-2026-20260406033008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13910/0/c27d3e6750/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arul. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Krishnan",
+        "address": "2/10, Mariyamman Kovil Street, Tiruvannamalai Town - 606601",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARU-2026-20260406095808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13889/0/05a1940256/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arularumugam",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Arumugam",
+        "address": "1196-8 First Cross,3Th Main Road,N.t.r Nagar,Mookandapalli Village Krishnagiri District",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULA-2026-20260406033008.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "B.kothandapani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Balaraman",
+        "address": "333, Ambedkar Nagar Gengaiyammankovil Street, Sanikkavadi Village And Post, Polur Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BKOT-2026-20260402051337.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Benny Rajan. C.j",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Joseph",
+        "address": "1675, Astalakshmi Nagar, So.kilnachipattu,Tiruvannamalai - 606611",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CJBEN-2026-20260402054134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14096/0/1b82a38bf9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C J Benny Rajan",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Joseph",
+        "address": "1675, Ashtalakshmi Street, So.kilnachipattu Village, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CJBEN-2026-20260402054134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5858/0/c01fa23e4f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.elumalai",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Chinnakannu",
+        "address": "351-A, Pillaiyar Kovil Street, Kuppam Village, Narasingapuram Post, Chetpet Taluk And Tiruvannamalai District",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CELU-2026-20260406061915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8555/0/eb3cd5277c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.elumalai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Chinnarasu",
+        "address": "Pillaiyar Kovil Street, Melsirupakkam Puthur , Kilsirupakkam Post, Thandrampattu Taluk And Tiruvannamalai District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CELU-2026-20260406053316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10233/0/b95aa51ead/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.v.kumaran",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "E.v.velu",
+        "address": "53, Pillaiyar Kovil Street, Se Gudalur, Serpapattu Post, Thandarampattu Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EVK-2026-20260406070806.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8538/0/9ecde88801/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.v.velu",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Ethirajilu",
+        "address": "53, Pillaiyar Koyil Street, Se Gudalur, Thandarampattu Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EVV-2026-20260406064552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8655/0/65f0453925/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Arumugam",
+        "address": "98A, Pillaiyar Koil Street, Adaiyur , Tiruvannamalai",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AELU-2026-20260406051519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13907/0/7d23b14645/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. A S/O Arumugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Arumugam",
+        "address": "98A, Pillaiyar Koil Street, Adaiyur , Tiruvannamalai",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AELU-2026-20260406051519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14793/0/f7e6532589/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Chinnakulanthai",
+        "address": "434, Venugopalapuram, So.kilnachipattu , Tiruvannamalai",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CELU-2026-20260406101805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13954/0/f7b299fe20/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. C",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Chinnakannu",
+        "address": "351-A, Pillaiyar Koil Street, Kuppam Village ,Narasingapuram Post, Chetpat Taluk, Tiruvannamalai District-606902",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ELUMA-2026-20260409080318.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15534/0/db8bb5d256/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. C  S/O Chinnakuzhanthai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Chinnakulanthai",
+        "address": "434, Venugopalapuram, So.kilnachipattu , Tiruvannamalai",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CELU-2026-20260406101805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15251/0/9c15da7979/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. C S/O Chinnarasu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Chinnarasu",
+        "address": "Pillaiyar Kovil Street, Melsirupakkam Puthur , Thandrampattu Taluk",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CELU-2026-20260406053316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15576/0/68f93e488d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai.c",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Chinnakannu",
+        "address": "351-A,Pillaiyar Koil Street,Kuppam Village,Narasingapuram Post,Chetpat Taluk,Tiruvannamalai District 606902",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CELU-2026-20260406061915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13983/0/0a8b5133d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.arul",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Krishnan",
+        "address": "2/10, Mariyamman Koil Street, Tiruvannamalai Town, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARU-2026-20260406095808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11664/0/c8ff2b2e7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.ramesh",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Kuselan",
+        "address": "46,Pillaiyar Kovil Theru, Unnamalai Palayam, Chengam Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAM-2026-20260406100557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11868/0/1c71887496/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.velu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Kannan",
+        "address": "378, Pillaiyar Kovil Street, Kuppam Village, Narasingapuram Post, Chetpet Taluk , Tiruvannamalai District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406110253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12370/0/337ed5870e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan P",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Pandurangan",
+        "address": "519/2 Mel Veethi, Thalaiyampallam Village, Nariyapattu Post, Tiruvannamalai Taluk And Dist.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260330035454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/422/0/98398cc530/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan. P",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Pandurangan",
+        "address": "519/2 Mel Veethi,Thalaiyampallam Village,Tiruvannamalai Taluk",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260330035454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14116/0/adea3a5ae0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kothandapani. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Balaraman",
+        "address": "333 Ambedkar Nagar, Sanikkavadi Village And Post,Polur Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BKOT-2026-20260402051337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14080/0/f49f519c52/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.anbalagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Murugesa Udaiyar",
+        "address": "739, Kundrakudi Adigalar Nagar, Vettavalam Road, Tiruvannamalai Town, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANB-2026-20260406105528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12250/0/d5d8ee78a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramadass",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Murugan",
+        "address": "140A/217 Palla Street, Theethanadapattu Village,Chengam Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAM-2026-20260406042702.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramadass",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Murugan",
+        "address": "140A/217 Palla Street, Theethanadapattu Village,Chengam Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAM-2026-20260406042702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13945/0/d6c35149a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.salam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Majith",
+        "address": "20 Gorimettu 1St Street,Tiruvannamalai Town, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAL-2026-20260406073006.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11446/0/5f6d09c130/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "C.n.mani",
+        "address": "84A Kilnathur Colony,Vettavalam Salai,Tiruvannamalai,Tiruavannamalai District",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260404072117.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vignesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Manjunathan",
+        "address": "11/6 V.o..c Nagar 11Th Street, Tiruvannamalai, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIG-2026-20260404070517.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Maheswari. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Kandasami",
+        "address": "740/11, 2Nd Street, Samuthiram Village, Nallavanpalayam Post, Tiruvannamalai-606603",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAH-2026-20260406111112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15565/0/63649c272a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maheswari.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Kandasami",
+        "address": "740/11, 2Nd Street, Samuthiram Village, Nallavanpalayam Post, Tiruvannamalai 606603",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAH-2026-20260406111112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13988/0/2a77ebbf0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malli. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sankar",
+        "address": "201, Pey Gopuram 3Rd Street, Tiruvannamalai",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAL-2026-20260406075938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13939/0/46c84ebc2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marikkannu. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Elumalai",
+        "address": "94/16 Kariyan Chetti Street, Tiruvannamalai - 606601",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAR-2026-20260404074401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15738/0/3fbf959d1e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marikkannu.e",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Elumalai",
+        "address": "94/16 Kariyan Chetti Street, Tiruvannamalai - 606601",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAR-2026-20260404074401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14016/0/a1e868722b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthy. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Pachaiyappan",
+        "address": "7, Pillaiyar Kovil Street, Durgainammiyandal, Village  Tiruvannamalai-606606",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOORT-2026-20260408065128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15020/0/0efa804eca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthy.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Pachaiyappan",
+        "address": "7, Pillaiyar Kovil Street, Durgainammiyandal, Village  Tiruvannamalai 606606",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOORT-2026-20260408065128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13932/0/26e7cb9f44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.palani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Natesan",
+        "address": "168/1A,  Nalkalmandabam Street, Kovilmarimangalam Village, Thenmathimangalam Post,Kalasapakkam Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPAL-2026-20260406090620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10745/0/db4a36be43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nakkiran. A",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Arumugam",
+        "address": "312/187, Mig, 8Th Street,Thamarai Nagar,Tiruvannamalai",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAK-2026-20260404063820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14036/0/ceb035952c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.d.hariprasath",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Panchamurthy",
+        "address": "169 Mariyamman Koil 12Th Street,Tiruvannamalai, Tiruvannamalai Managaram",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PDH-2026-20260404082920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8347/0/c8b99c2430/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Pachaiyappan",
+        "address": "7, Pillaiyar Kovil Street, Durgainammiyandal, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMOO-2026-20260406104359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11999/0/fbde1b7115/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palani. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Natesan",
+        "address": "168/1A,  Nalkalmandabam Street, Kovilmathimangalam Village, Thenmathimangalam Post,Kalasapakkam Taluk, -606908",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPAL-2026-20260406090620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14870/0/3418b6970e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palani.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Natesan",
+        "address": "168/1A,  Nalkalmandabam Street, Kovilmarimangalam Village, Thenmathimangalam Post,Kalasapakkam Taluk, -606908",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPAL-2026-20260406090620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13913/0/f08d902e86/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.maheswari",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Kandasami",
+        "address": "740/11, 2Nd Street, Samuthiram Village, Nallavanpalayam Post, Tiruvannamalai Taluk And District",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAH-2026-20260406111112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12463/0/ad68024544/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raj. S",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sanmugam",
+        "address": "518, Kanji Road East ,Adaiyur, Tiruvannamalai Taluk",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404080341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15994/0/14c96534d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raj.s",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sanmugam",
+        "address": "518,Kanji Road East,Adaiyur,Tiruvannamalai Taluk",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404080341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14040/0/92b1184fce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Veeramuthu",
+        "address": "20 Thalayari Street, Nariyapattu Village And Post, Tiruvannamalai  606811",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJA-2026-20260409102950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16404/0/78eb81ca9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Veeramuthu",
+        "address": "20 Thalayari Street, Nariyapattu Village And Post,Tiruvannamalai  606811",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAJ-2026-20260402043644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14085/0/0e2e238c87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Varadharajan",
+        "address": "32/106, Anaikatti Street, Tiruvannamalai -606601",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406102730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15582/0/a89d983ad9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Varadharajan",
+        "address": "32/106, Anaikatti Street, Tiruvannamalai -606601",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406102730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13994/0/e61e2f1c15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.malli",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sankar",
+        "address": "201, Pey Gopuram 3Rd Street, Tiruvannamalai Town, Tiruvannamalai Taluk And District",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAL-2026-20260406075938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10942/0/a8e86a94e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.raj",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sanmugam",
+        "address": "518 Kanji Road East,Adaiyur,Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404080341.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ranganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sevi",
+        "address": "627, Mariyamman Kovil Street, Chinnapaliyapattu Village, Ayyampalayam Post, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAN-2026-20260406084103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10685/0/e1ec9c42fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vijayakumar",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sivalingam",
+        "address": "1071 Road Street,Seerampalayam Village, Melsolankuppam Post, Kalasapakkam Taluk Tiruvannamalai District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIJ-2026-20260404065314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7898/0/85c23416af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Salam .M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Majith",
+        "address": "20, Gori Medu, 1St Street, Tiruvannamalai - 606601",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAL-2026-20260406073006.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14012/0/4652574bf6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.arul Anand",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Vasudevan",
+        "address": "31/12, Gandhi Nagar, 10Th Street, Tiruvannamalai Town, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VARU-2026-20260406055142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9792/0/e5370cd39e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Veeramuthu",
+        "address": "20, Thaliyari Street, Nariyapattu Village And Post, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAJ-2026-20260402043644.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Varadharajan",
+        "address": "32/106, Anaikatti Street, Tiruvannamalai Town, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406102730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12474/0/aee170ef1d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.velu",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Viswanathan",
+        "address": "12, Bajanai Kovil Street, Vandavasi Town, Vandavasi Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVEL-2026-20260406094042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12060/0/057d1519f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. E. V",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Ethirajilu",
+        "address": "Se.gudalore Village,Serpapet Post,Thandrampet Taluk,Tiruvannamalai District-606753",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EVV-2026-20260406064552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14006/0/91dff5edaa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. E.v",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Ethirajilu",
+        "address": "Se.gudalore Village, Serpapet Post, Thandrampet Taluk,Tiruvannamalai District-606753",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VELU-2026-20260409080528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15635/0/3c6c8889da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Kannan",
+        "address": "378, Pillaiyar Kovil Street, Kuppam Village, Narasingapuram Post, Chetpet Taluk,Tiruvannamalai District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406110253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15442/0/181afe7015/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. V",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Viswanathan",
+        "address": "12, Bajanai Kovil Street, Vandavasi Town, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVEL-2026-20260406094042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13938/0/fac41e63f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Kannan",
+        "address": "378, Pillaiyar Kovil Street, Kuppam Village, Narasingapuram Post, Chetpet Taluk",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406110253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13974/0/49a0233870/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "C.n.mani",
+        "address": "84 A, Kilnathur Colony, Vettavalam Road,Tiruvannamalai - 606601",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260404072117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16048/0/4634f2ef7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "C.n.mani",
+        "address": "84 A, Kilnathur Colony, Vettavalam Road,Tiruvannamalai - 606601",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260404072117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14045/0/59b9e0b573/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sundaram",
+        "address": "15/6 Karikalan Street, Tiruvannamalai, Tiruvannamalai Taluk And District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIGNE-2026-20260330044551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/223/0/bd2df3f4a7/",
+          "https://voterlist.co.in/affidavit-download/223/1/6265ade173/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Manjunathan",
+        "address": "11/6 Voc Nagar, 11Th Street, Tiruvannamalai-606603",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIG-2026-20260404070517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15765/0/39ab5d5f6c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh. S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sundaram",
+        "address": "15/6 Karikalan Street, Tiruvannamalai - 606601",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIGNE-2026-20260330044551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14104/0/ba8511b9e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Manjunathan",
+        "address": "11/6 V.o..c Nagar 11Th Street,Tiruvannamalai 606603",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIG-2026-20260404070517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14020/0/01b46db77b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar. S",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruvannamalai",
+        "father_husband_name": "Sivalingam",
+        "address": "1071 Road Street, Seerampalayam Village, Melsolankuppam Post, Kalasapakkam Taluk, Tiruvannamalai District 606901",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIJ-2026-20260404065314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14063/0/fbbdd327cc/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

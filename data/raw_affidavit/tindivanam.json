@@ -1,0 +1,490 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Tindivanam",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "Arjunan P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Ponnusamy",
+        "address": "31, Mariyamman Koil Street, Vadakottipakkam Village, Alathur Post, Marakkanam Taluk, Viluppuram District 604303",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARJUN-2026-20260406023442.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8482/0/142fe9c604/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arjunan. P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Ponnusamy",
+        "address": "No.31, Mariyamman Koil Street, Vadakottipakkam Village,  Alathur Post, Marakkanam Taluk, Viluppuram District-604303.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARJUN-2026-20260409090952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14665/0/8ca6c4780e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumai Selvam A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Ayyavu M",
+        "address": "565, New Colony, Kizhedaiyalam Village  Post, Tindivanam Taluk, Viluppuram District-604302",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUMA-2026-20260406055409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10038/0/3901fa0946/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumai Selvam. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Ayyavu. M",
+        "address": "No.565, New Colony, Keezhedaiyalam Village  Post, Tindivanam Taluk. Viluppuram  District - 604302.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUMA-2026-20260406055409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15453/0/82051e1e95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandaran. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Ayyavu. K",
+        "address": "No.2/69, Mariyamman Kovil Street, Vadakottippakkam Village, Alathur Post, Marakkanam Taluk, Viluppuram District-604303.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260402032540.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16370/0/361711976b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandran A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Ayyavu K",
+        "address": "2/69, Mariyamman Koil Street, Vadakottipakkam Village, Alathur Post, Marakkanam Taluk, Villupuram Dist-604303",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260402032540.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5216/0/5b303b03a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devakumaran E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Elumalai",
+        "address": "292/3, Mariyamman Kovil Street, Endur Village, Brammadesam Post, Marakkanam Taluk, Viluppuram District-604301",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVAK-2026-20260406055605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10205/0/046c438d45/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devakumaran. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Elumalai",
+        "address": "No.292/3, Mariyamman Kovil Street, Enthur Village, Brammadesam Post, Marakkanam Taluk, Viluppuram District-604301.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVAK-2026-20260406055605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15557/0/3e1cd85490/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durkali N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Natarajan",
+        "address": "45, Muthumariyamman Kovil Street, Manur Village, Attur Post, Tindivanam Taluk, Viluppuram District-604307",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURKA-2026-20260406053616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8455/0/8f3b0c6a0b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durkali. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Natarajan",
+        "address": "No.45, Muthumariyamman Kovil Street, Manur Village  Post, Tindivanam Taluk, Viluppuram District-604001.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURKA-2026-20260406053616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14654/0/fb0d3e06a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhildeepa S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Sakthivel S",
+        "address": "16, Krishna Nagar Main Road,Nethaji Avenue, Nerkunram, Ambattur Taluk,Tiruvalluvar Dist-600107",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260406022732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10186/0/e51670d830/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan A",
+        "party": "Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Avani M",
+        "address": "51, Vinayagar Kovil Street, Anumanthai Village  Post Marakkanam Taluk, Villupuram Dist-604304",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260404031825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6818/0/5d8365a06d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan. A",
+        "party": "Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Avani. M",
+        "address": "No.51, Vinayagar Kovil Street, Anumanthai Village  Post, Marakkanam Taluk. Viluppuram District- 604303.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAN-2026-20260409091010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16253/0/a35c179332/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugaiyan C",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Chinnaraj V",
+        "address": "420, Mariyamman Kovil Street, Molasur Village, Tindivanam, Villupuram Dist-604102",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404121350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6403/0/6731be3393/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pachimuthu P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Pandiyan K",
+        "address": "19, Singarathoppu, Gidangal-2, Tindivanam, Viluppuram - 604001",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PACHI-2026-20260330054650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/604/0/ce3de79884/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pachimuthu. P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Pandiyan. K",
+        "address": "No.19, Singarathoppu, Gidangal-2, Tindivanam Taluk, Viluppuram District  604001.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PACHI-2026-20260409085902.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16667/0/ed6e75d37a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pon.sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Ponnusamy R",
+        "address": "206, Mariyamman Koil Street, Atchippakkam Village  Post, Tindivanam Taluk, Viluppuram District-604101",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONS-2026-20260406054233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8930/0/b9a2e10b8f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Settu",
+        "address": "93, Muthumariyamman Kovil Street, Vanniper Village, Brammadesam Post, Marakkanam Taluk, Viluppuram District-604301",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAR-2026-20260406052801.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9848/0/20f656a8b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramneshwaran V",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Venu",
+        "address": "47, 2Nd Cross Street, Anna Nagar, Marakkanam Road, Tindivanam, Tamil Nadu - 604001",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMNE-2026-20260330064504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/255/0/a6491bbde0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramneshwaran. V",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Venu",
+        "address": "No.47, 2Nd Cross Street, Anna Nagar Marakkanam Road, Tindivanam Taluk, Viluppuram District -604001.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMNE-2026-20260409085953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16600/0/4deb5d6e2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Subramaniyan P",
+        "address": "16, Krishna Nagar Main Road,Nethaji Avenue, Nerkunram, Ambattur Taluk,Tiruvalluvar Dist-600107",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTH-2026-20260406022324.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10000/0/39a2fe1762/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Subramaniyan. P",
+        "address": "No.16, Krishna Nagar, Main Road, Nethaji Avenue, Nerkundram,  Ambathur Taluk, Tiruvallur District-600107.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAKTH-2026-20260409090932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15437/0/5686409b63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vanjinathan C",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Chakkarabani P",
+        "address": "7, Aps Nagar, Virattikkuppam Road, Villuppuram, Villuppuram Dist-605602",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VANJI-2026-20260404040928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6760/0/1f4679d3c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vanjinathan. C",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Chakkarabani. P",
+        "address": "No.7, A.p.s Nagar, Virattikuppam Road, Viluppuram Taluk  District -605602.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VANJI-2026-20260404040928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16213/0/bfce04c2b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vanni Arasu",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Rathinasamy",
+        "address": "6, Pillaiyar Kovil Main Road, Tharkas, Varatharajapuram, Kuntrathur Taluk,Kanchipuram Dist-600044",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VANNI-2026-20260404012932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6312/0/a501f36d0b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalapathy A",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Arikrishnan",
+        "address": "30, Indhira Nagar, Marakkanam Road, Tindivanam, Viluppuram - 604001",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260330061728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/140/0/ef58e8723b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalapathy. A",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Arikrishnan",
+        "address": "No.30, Indira Nagar, Marakkanam Road, Tindivanam Taluk, Viluppuram District. 604001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260330061728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16573/0/16c9a70fa0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaya A",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Arjunan",
+        "address": "31, Mariyamman Koil Street, Vadakottipakkam Village, Alathur Post, Marakkanam Taluk, Viluppuram District 604303",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406054721.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9291/0/dea846114d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Settu",
+        "address": "1, Perumal Kovil Street, Gidangal-2, Tindivanam, Tindivanam Taluk, Viluppuram District-604001",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260406053122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10128/0/097b808ed5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Settu",
+        "address": "No.1, Perumal Kovil Street, Gidangal-2, Tindivanam Taluk, Viluppuram District-604001.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VINOT-2026-20260409091034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15514/0/0e740d7d95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Viswanathan S A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Angamuthu S",
+        "address": "3/9, Pillayarroad, Alathur Village And Post, Marakkanam Taluk, Villupuram District 604303",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VISWA-2026-20260402125155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4991/0/186724ee3b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Viswanathan. S.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tindivanam",
+        "father_husband_name": "Angamuthu. S",
+        "address": "No. 3/9, Pillaiyar Road, Aalathur Village  Post, Marakkanam Taluk, Viluppuram District-604303.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VISWA-2026-20260409090023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16328/0/16fbc08c64/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

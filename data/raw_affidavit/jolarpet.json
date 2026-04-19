@@ -1,0 +1,415 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Jolarpet",
+    "count": 27,
+    "candidates": [
+      {
+        "name": "Chenna Kesavan C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Chendrayan",
+        "address": "No.5/52, Venugopal Vattam, Kuthandakuppam, Natrampalli Taluk, Tirupathur District.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHENN-2026-20260406063306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13015/0/186fbe4cf1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chennakesavan C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Chendrayan",
+        "address": "No.5/52, Venugopal Vattam, Kuthandakuppam, Natrampalli Taluk, Tirupathur District.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHENN-2026-20260406063306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9361/0/8b89631419/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chenrayan A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Appunu",
+        "address": "No.443, Elarapatti Colony, Athurkuppam Post, T.c.s.mill Via, Natrampalli Taluk, Tirupathur District- 635815",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHENR-2026-20260404010541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6846/0/34ceac3cab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chitra M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Munisamy",
+        "address": "No.7/98, Veppalnatham, Paniyandapalli, Natrampalli Taluk, Tirupathur District- 635653",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHITR-2026-20260404015646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6623/0/d2b3870958/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gandhi P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Perumal",
+        "address": "No.2/74, Chinnakandhili, Tirupathur Taluk, Tirupathur District- 635901",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANDH-2026-20260406051609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8872/0/8b0062acb4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalasthiri S",
+        "party": "All India Uzhavargal Uzhaippalargal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Sivaperuman",
+        "address": "No.1/1, Periya Udayamuthur Village, Udayamuthur Post, Tirupathur Taluk, Tirupathur District- 635652",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAS-2026-20260402031533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5185/0/5a627d56a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamatchi S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Singaravel",
+        "address": "No.3/147, Ellapalli Village, Vettapattu Post, Natrampalli Taluk, Tirupathur District- 635852",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAMAT-2026-20260404035203.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6777/0/a1ec86a6f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Chithambaram",
+        "address": "Konerikuppam Pudur Village, Pullaneri Post, Natrampalli Taluk, Tirupathur District- 635851",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260406124821.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10412/0/19af592563/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Mohanraj",
+        "address": "No.1/261, Near T.v. Station, Pachal Post, Tirupathur Taluk, Tirupathur District- 635602",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAVIT-2026-20260406123508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9786/0/41b0bf5e0c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavithadhandapani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Dhandapani",
+        "address": "No.66/4, Sriragavendhira Nagar, Pachal, Pachal Post, Tirupathur Taluk, Tirupathur District- 635601",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260406034235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9336/0/bd3dc865e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamoorthy D",
+        "party": "Makkal Nala Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Dhodathamman",
+        "address": "No.105/4A2, Thendral Nagar, Elagiri Village, Jolarpet Via, Tirupathur Taluk, Tirupathur District- 635852",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260404120142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6354/0/9a1ad2eaf1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohanraj R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Ramamoorthy",
+        "address": "No.4/72, Sunnambukuttai Village, Mallapalli Post, Natrampalli Taluk, Tirupathur District- 635854",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260402024716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5524/0/cfc096af77/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Munisamy C",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Chinnathambi",
+        "address": "No.7/98, Veppalnatham, Paniyandapalli, Natrampalli Taluk, Tirupathur District- 635653",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNIS-2026-20260404013433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6392/0/d826f0ffd2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palani C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Chinnathambi",
+        "address": "Kittan Vattam, Vellanaikkaneri, Sorakkayalnatham, Natrampalli Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406054646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9253/0/ee8681b5be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priya K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Rajesh",
+        "address": "No.7/32, Annasagaram, Paniyandapalli Post, Natrampalli Taluk, Tirupathur District-635651",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRIYA-2026-20260406045200.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9065/0/ac6fc967d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran V.r.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Raji",
+        "address": "No.121, Vattakollai, Vettapattu, Natrampalli Taluk, Tirupathur District- 635854",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406032514.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8710/0/7211be6a64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar T.k",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Krishnan",
+        "address": "No.2/515, Indira Nagar, Melachamangalam Village, Achamangalam Post, Tirupathur Taluk, Tirupathur District- 635651",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANKA-2026-20260406060239.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15497/0/acf107bafd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar T.k.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Krishnan",
+        "address": "No.2/515, Indira Nagar, Melachamangalam Village, Achamangalam Post, Tirupathur Taluk, Tirupathur District- 635651",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANKA-2026-20260406060239.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10104/0/31f33a0bf7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasi Reka Y",
+        "party": "Makkal Arasial Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Yogaraj",
+        "address": "A R Police Quarters Back Side, Pachal, Tirupathur, Tamilnadu - 635602",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIR-2026-20260330025406.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/141/0/014039adce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasirekha K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Elango",
+        "address": "Door No.s4, Vijaya Raja Flats, Nesamani Nagar, 1St Street, Perumbakkam, Chennai- 600 100",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIR-2026-20260330043427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/86/0/e99899705a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthamilselvan M",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Masilamani",
+        "address": "No.800, Mamudimanapalli, Patchur Post, Natrampalli Taluk, Tirupathur District- 635854",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SENTH-2026-20260406025251.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8915/0/ed6484917b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar V C",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Chinnathambi",
+        "address": "Mel Theru, Thuraiyeri Village, Chettiyappanur Post, Vaniyambadi Taluk, Tirupathur- 635751",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAK-2026-20260330051142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/331/0/4e2b525edd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sumathi J",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Jayagopi",
+        "address": "No.294, Selvam Nagar, Venkateswara Nagar, Tirupathur Taluk, Tirupathur District- 635601",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SUMAT-2026-20260404024742.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6325/0/328f812bd7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangaraj P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Paramanathan",
+        "address": "No.7/1, Parandapalli Village And Post, Natrampalli Taluk, Tirupathur District- 635651",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404122646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6473/0/7411efce78/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeramani H",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Anumuthan",
+        "address": "No.75, Malaiyamman Kovil Vattam, Yelagiri Village, Tirupathur Taluk, Tirupathur District- 635853",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VEERA-2026-20260406060609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9951/0/2aa821ee3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeramani K.c.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Chinnaraj",
+        "address": "No.1, Gandhi Road, Idayampatty, Jolarpet, Tirupathur Taluk, Tirupathur District.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VEERA-2026-20260406020537.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8658/0/e1a5f480d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jolarpet",
+        "father_husband_name": "Raja",
+        "address": "No.4/182, Makkanoor Village And Post, Tirupathur Taluk, Tirupathur District- 635651",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406040635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10355/0/39e026e0f8/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

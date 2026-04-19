@@ -1,0 +1,724 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Singanallur",
+    "count": 48,
+    "candidates": [
+      {
+        "name": "A.akbar Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Abdul Raheem",
+        "address": "141/142, G.m Nagar, Ukkadam Bypass, Coimbatore - 641001.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AAKB-2026-20260404112227.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.ayoob Riyas",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Akbar Sulthan",
+        "address": "171-432, G M Nagar, 1St Street, South Ukkadam, Coimbatore - 641001.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AAYO-2026-20260404111431.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.mounakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Aruchamy",
+        "address": "63/13, Iyyer Layout 13Th Street, Singanallur, Coimbatore - 641005.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMOU-2026-20260407015609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11539/0/3d153f8157/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Akbar Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Abdul Raheem",
+        "address": "141/142, G.m Nagar, Ukkadam Bypass, Coimbatore - 641001.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AAKB-2026-20260404112227.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15832/0/31c9fc394d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ayoob Riyas",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Akbar Sulthan",
+        "address": "171-432, G M Nagar, 1St Street, South Ukkadam, Coimbatore - 641001.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AAYO-2026-20260410041948.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15818/0/b5f2d17df9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.janani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Durairaj",
+        "address": "215, Elango Nagar 3Rd Street, Avaramplaayam, Coimbatore - 641006.",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DJAN-2026-20260406115336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12094/0/2926d17456/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.k.rajkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "G.karuppusamy",
+        "address": "1/25, Chinna Gurusamy Layout, Singanallur, Coimbatore - 641005.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260407120851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14611/0/fa02ce519e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.nehruji",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Gunasekaran",
+        "address": "19/1, Thachan Thootam, East Street 5, Neelikonampalayam, Coimbatore - 641033",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNEH-2026-20260330055848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/29/0/df5128d6bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.geetha",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "K.r.jayaram",
+        "address": "6-1, Jeeva Nagar, Vilankurichi, Coimbatore - 641035.",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JGEE-2026-20260406090140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10549/0/d5448673fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Janani.d",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Durairaj",
+        "address": "215, Elango Nagar 3Rd Street, Avaramplaayam, Coimbatore - 641006.",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DJAN-2026-20260406115336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15119/0/c93ee78222/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kumar Babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "12/1, Ramar Kovil Street, R.g Pudur, Chinniyampalayam, Coimbatore - 641062.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKUM-2026-20260406110043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12336/0/7a5b86ec5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.r.jayaram",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "K.rangasamy",
+        "address": "6-1, Jeeva Nagar, Vilankurichi, Coimbatore - 641035.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRJ-2026-20260406075026.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10645/0/c424518434/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.rajkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "G.karuppusamy",
+        "address": "1/25, Chinna Gurusamy Layout, Singanallur, Coimbatore - 641005.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260407120851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11580/0/7fa87e8002/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.s.sri Giri Prasath",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "K.sivashanmugam",
+        "address": "No.2/8, Venkataswamy Street, Mayor  Chitti Babu Street, Spurtank Road, Chetpet, Chennai - 600031.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSS-2026-20260404035455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6522/0/ea50ba1687/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Nagarajan",
+        "address": "125, Sowdammankovil Street, Ondipudur, Coimbatore - 641016.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKAR-2026-20260404110615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15806/0/4091b3b2a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ashok Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Manoharan",
+        "address": "42/31, Venugopal Layout, Avaramaplayam, Coimbatore - 641004.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASH-2026-20260406111447.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12506/0/d50ad73980/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.rajkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "C.mani",
+        "address": "6B, Annai Therasa Street, Kutty Naidu Layout, Uppilipalayam, Coimbatore - 641015.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260407013358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11526/0/92b8b10f1a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Monika Darshini.m",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "K.s.sri Giri Prasath",
+        "address": "No.2/8, Kungumalaya, Venkataswamy Street,  Mayor Chitti Babu Street, Spurtank Road, Chetpet, Chennai - 600031.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MONIK-2026-20260404070625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7085/0/52528b1766/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan.o",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Ovili",
+        "address": "5/583, Bodithimmampalayam, Kuppepalayam, Annur Taluk, Coimbatore - 641107.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OMUR-2026-20260404105157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15788/0/59b0002db2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.karthik",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Nagarajan",
+        "address": "125, Sowdammankovil Street, Ondipudur, Coimbatore - 641016.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKAR-2026-20260404110615.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N.r.appathurai",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Nachimuthu Gounder",
+        "address": "410/352, Vijayalakshmi Layout, Sanganoor, Ganapathy, Coimbatore - 641006.",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRA-2026-20260406065210.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9137/0/7303e885ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.rajasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "M.nagappan",
+        "address": "74 C, Pillaiyar Kovil Street, Singanallur, Coimbatore - 641005.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260407121910.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14615/0/ebfb750c4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.subramanian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Natchimuthu",
+        "address": "42/57, Uppiliyar Street 1, Singanallur, Coimbatore - 641005.",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSUB-2026-20260407011154.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11637/0/5ae8bca13d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nehruji Gunasekaran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Gunasekaran",
+        "address": "19/1, Thachan Thootam, East Street 5, Neelikonampalayam, Coimbatore - 641033",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNEH-2026-20260330055848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15833/0/ff9311b48d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "O.murugan",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Ovili",
+        "address": "5/583, Bodithimmampalayam, Kuppepalayam, Annur Taluk, Coimbatore - 641107.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OMUR-2026-20260404105157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8151/0/741b8dbadb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.tamilselvi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "C.palanisamy",
+        "address": "38/A, Brindhavan Colony, Seenivasa Nagar, Uppilipalayam, Coimbatore - 641015.",
+        "gender": "Female",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PTAM-2026-20260407014711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11533/0/3e84b70be8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.uma",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Paramasivam",
+        "address": "No.85, 7Th Cross, Thirumagal Nagar, Peelamedu Pudur, Coimbatore - 641004.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PUMA-2026-20260404103547.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8123/0/863cb8913d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prem",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Nandagopal",
+        "address": "2, Periyar Nagar, Masakalipalayam, Coimbatore - 641015.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREM-2026-20260406103416.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11742/0/be02299036/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manikanda Prabhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "S.rajendran",
+        "address": "34-A, Srinivasa Nagar, Uppilipalayam, Coimbatore - 641015.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260407125533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11626/0/f7730fec75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manikandabrabhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "S.rajendran",
+        "address": "34-A, Srinivasa Nagar, Uppilipalayam, Coimbatore - 641015.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260407125533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14627/0/9b24ddff8e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "M.nagappan",
+        "address": "74 C, Pillaiyar Kovil Street, Singanallur, Coimbatore - 641005.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260407121910.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11595/0/0f80a16f18/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "C.mani",
+        "address": "6B, Annai Therasa Street, Kutty Naidu Layout, Uppilipalayam, Coimbatore - 641015.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260407013358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14594/0/74de394133/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.m.sarveswaran",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Maruthsala Thevar",
+        "address": "Bd2, Orchid Eleganz Apartment, Thevar Thottam, Kannapiran Mill Road, Sowripalayam - 641028.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMS-2026-20260404025643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6551/0/d3e1cb9da9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.s.sundharam",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Subramaniam",
+        "address": "No.49, Perumal Kovil Street, Ramanathapuram, Coimbatore - 641045.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSS-2026-20260404083244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8092/0/12068b1a47/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.satheesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Sundarajan",
+        "address": "3, Dhamodharasamy Layout, Neelikonampalayam, Coimbatore - 641033.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAT-2026-20260330064753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/266/0/0c38e2c4dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarveswaran",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Maruthsala Thevar",
+        "address": "Bd2, Orchid Eleganz Apartment, Thevar Thottam, Kannapiran Mill Road, Sowripalayam - 641028.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMS-2026-20260404100531.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16050/0/0fed8964c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaji Perumal",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Perumal",
+        "address": "149, A D Colony, Peelamedu, Coimbatore - 641004.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAJ-2026-20260404031835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16257/0/b882f5090e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaji.p",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Perumal",
+        "address": "149, A D Colony, Peelamedu, Coimbatore - 641004.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAJ-2026-20260404031835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6822/0/96910347e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinidhi",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Venkatesamohan",
+        "address": "46, 50 Feet Road, Krishnasamy Nagar, Ramanathapuram, Coimbatore - 641045.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINI-2026-20260406094947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11682/0/617328b316/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subaramanian.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Natchimuthu",
+        "address": "42/57, Uppiliyar Street 1, Singanallur, Coimbatore - 641005.",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSUB-2026-20260407011154.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14630/0/d5b9f18fe5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tahir Hussain",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Rahim",
+        "address": "No.36, Ilahi Nagar, Karumbukadai, Kuniyamuthur, Coimbatore - 641008.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAHIR-2026-20260406072206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11126/0/de34f7ee84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thahir Hussain",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Rahim",
+        "address": "No.36, Ilahi Nagar, Karumbukadai, Kuniyamuthur, Coimbatore - 641008.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAHIR-2026-20260406072206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15295/0/6f5bf812ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Uma Paramasivam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Paramasivam",
+        "address": "No.85, 7Th Cross, Thirumagal Nagar, Peelamedu Pudur, Coimbatore - 641004.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PUMA-2026-20260404103547.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15748/0/76b1ee71b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.balamurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Veerapandian",
+        "address": "39, Pallikuda Street, Sivagiri Taluk, Thenkasi",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBAL-2026-20260402063145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5845/0/8000688006/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.srinidhi",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Venkatesamohan",
+        "address": "46, 50 Feet Road, Krishnasamy Nagar, Ramanathapuram, Coimbatore - 641045.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINI-2026-20260406094947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14667/0/9e09f20226/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Murugesh",
+        "address": "16/6, 5Th Street, Iyyer Layout, Singanallur, Coimbatore - 641005.",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260407012412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11648/0/dbbe211661/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Ayyasamy",
+        "address": "22/19, R.v.l Colony, West, Uppilipalayam, Coimbatore - 641015.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260407123439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11608/0/a8fa114326/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vivekkumar T",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Singanallur",
+        "father_husband_name": "Thangavelu",
+        "address": "85/143A, M G R Nagar, Ondipudhur, Coimbatore  - 641016",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIVEK-2026-20260402051040.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5570/0/a1234dfbcf/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sattur",
+    "count": 43,
+    "candidates": [
+      {
+        "name": "Ajith Kumar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Subbiramaniyan",
+        "address": "1/183-2, Agraharam Street, Ethirkottai Post, Vembakottai Taluk, Virudhunagar District 626131",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJITH-2026-20260406073037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11659/0/fff00537b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajith. M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Marimuthu",
+        "address": "119/3, Nataraja Theatre Road, Sattur, Virudhunagar District 626203",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJITH-2026-20260406063327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9395/0/f102eadfb7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajithkumar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Subbiramaniyan",
+        "address": "1/183-2, Agraharam Street, Ethirkottai Post, Vembakottai Taluk, Virudhunagar District 626131",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJITH-2026-20260406073037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10492/0/42f15e951f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Alexander. T.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Dharmar",
+        "address": "6/25, T.kottaiyur, Thayilpatti, Sivakasi Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ALEXA-2026-20260330054820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/626/0/281c376bcd/",
+          "https://voterlist.co.in/affidavit-download/626/1/52a829ceac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anandharaja. D.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Dharmar",
+        "address": "2/141/55-6, Pasumpon Nagar-2, Thayilpatti, Sivakasi Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260330052351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/435/0/37a0219dcc/",
+          "https://voterlist.co.in/affidavit-download/435/1/ef6a476b81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugathai E",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Sudalaimuthu",
+        "address": "51-4 Pasumpon Nagar 3Rd Mile Thoothukudi 628008",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/204/1775197208RAG00232jpg.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7289/0/7ff6656c98/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugathai.e",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Sudalai Muthu",
+        "address": "51-4 Pasumpon Nagar 3Rd Mile Thoothukudi 628008",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/204/1775197208RAG00232jpg.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14033/0/16ee6b930c/",
+          "https://voterlist.co.in/affidavit-download/14033/1/657eea0c51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakkiraja",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Karuppasamy",
+        "address": "51-4N Pasumpon Nagar 3Rd Mile Thoothukudi Tamilnadu 628008",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/204/1775206753WhatsAppImage2026-04-02at63308PM.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7143/0/b5e4568374/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakkiraja. K",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Karuppasamy",
+        "address": "51-4N Pasumpon Nagar 3Rd Mile Thoothukudi Tamilnadu 628008",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/204/1775206753WhatsAppImage2026-04-02at63308PM.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12563/0/259b331141/",
+          "https://voterlist.co.in/affidavit-download/12563/1/971b2a2480/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Arumugam",
+        "address": "1/288 D14, Vayakattu Theru, Samusigapuram Village, Rajapalayam Taluk",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260406074741.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11305/0/9edd643029/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kadarkarai Raj. A",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Alagarsamy",
+        "address": "2/4, South Street, Venkatachalapuram, Sattur - 626203",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KADAR-2026-20260406064311.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11930/0/0d8ebdce53/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kadarkarairaj. A",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Alagarsamy",
+        "address": "2/4, South Street, Venkatachalapuram, Sattur - 626203",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KADAR-2026-20260406064311.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10130/0/c32bba1631/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaliraj. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Marikannan",
+        "address": "1/244, East Street, Venkatachalapuram, Sattur Taluk, Virudhunagar District 626203",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALIR-2026-20260404065204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7862/0/15071e7e65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamala Vel Selvan. P",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Puthirasigamani",
+        "address": "2/257-D, State Bank Colony, Sengamalanachiyarpuram, Sivakasi - 626124",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAMAL-2026-20260404070133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12561/0/07bc48b927/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamalavelselvan. P",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Puthirasigamani",
+        "address": "2/257-D, State Bank Colony, Sengamalanachiyarpuram, Sivakasi - 626124",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAMAL-2026-20260404070133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6932/0/5c290f7ad6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahendran. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Muthuraj",
+        "address": "1/70, Vinayagar Kovil Steet, Muthusamypuram, Kangerseval, Vembakottai Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHEN-2026-20260404064437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7573/0/bae34601fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahesh Kumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Muthuramalingam",
+        "address": "4/688, Kattanajseval, Thayilpatti Post, Sivakasi Taluk, Virudhunagar District - 626128",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHES-2026-20260406071826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12105/0/8918382b70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maheshkumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Muthuramalingam",
+        "address": "4/688, Kattanajseval, Thayilpatti Post, Sivakasi Taluk, Virudhunagar District - 626128",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHES-2026-20260406071826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10975/0/5f1551d5d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manivasagam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Samaiyan",
+        "address": "3/40, Mangulam, Kurandi Post, Kariapatti Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIV-2026-20260406075329.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10652/0/724843bbbe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manivasagam.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Samayan",
+        "address": "3/40, Mangulam, Kurandi Post, Kariapatti Taluk, Virudhunagar District - 626115",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIV-2026-20260406075329.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13905/0/de54812440/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayakannan. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Varatharajan",
+        "address": "1/152, Kaliamman Kovil Street, O.mettupatti, Sattur Taluk - 626203",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAYAK-2026-20260406070915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8489/0/ddefabd987/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayakkannan. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Varatharajan",
+        "address": "1/152, Kaliamman Kovil Street, O.mettupatti, Sattur Taluk - 626203",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAYAK-2026-20260406070915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11680/0/b97bff2438/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mutharasan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Muthupanidan",
+        "address": "315/5, Melakunnagudi, Cholapuram, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHA-2026-20260404073438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7968/0/d852e6105f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthukannu. C",
+        "party": "Tamilaga Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Chellaiah",
+        "address": "1/92. Middle Street, Nallanchettipatti, Golwarpatti, Chettudaiyanpatti, Virudhunagar District -626203",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260402042334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5159/0/6626d5f9fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nainar Naganthran",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Nainar Thevar",
+        "address": "540/1A1B, St.marys Street, Perumalpuram, Tirunelveli District-627007",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAINA-2026-20260404062836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6941/0/bbe752214c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nainar Nagenthran",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Nainar Thevar",
+        "address": "540/1A1B, St.marys Street, Perumalpuram, Tirunelveli District-627007",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAINA-2026-20260404062836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12207/0/22d7644beb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Narmada Nandhakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Nandhakumar",
+        "address": "10/52, West Street, Meenatchiyapuram, Chokkalingapuram Post, Rajapalayam Taluk, Virudhunagar District-626108",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NARMA-2026-20260402040124.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5368/0/54f2610db0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nirmala. K",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Kadarkarairaj",
+        "address": "2/4, South Street, Venkatachalapuram, Sattur - 626203",
+        "gender": "Female",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NIRMA-2026-20260406064658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8426/0/200f7fce02/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh Kumar. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Balasubbiramanian",
+        "address": "1/12, West Street, Ethikottai, Vembakottai Taluk, Virudhunagar District 626131",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260404072938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14057/0/e7d7b299a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rameshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "1/12, Melatheru, Ethikottai, Vembakottai Taluk",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260404072938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7802/0/253b1d2474/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rameshkumar. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "1/12, Melatheru, Ethikottai, Vembakottai Taluk",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260404072938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13266/0/8e2aad48aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Ponnaiah",
+        "address": "1/153, Middle Street, Kilavikulam, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406080337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11091/0/700a89dc72/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthamil Selvi. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Sundarraj",
+        "address": "119/3, Nataraja Theatre Road, Sattur, Virudhunagar District 6262034",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406063858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12282/0/9ab078ebca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthamil Selvi. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Sundarraj",
+        "address": "119/3, Nataraja Theatre Road, Sattur, Virudhunagar District 626203",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406063858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13959/0/89762b8395/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthamilselvi. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Sundarraj",
+        "address": "119/3, Nataraja Theatre Road, Sattur, Virudhunagar District 6262034",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406063858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9794/0/36b4fcdb2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thanga Durai. P",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Ponraj",
+        "address": "5/76, North Street, North Semmapudur, Eattayapuram Taluk, Thoothukudi District 628720",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404062222.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12567/0/2c165634a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thanga Mariappan. J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Jeyavelpandian",
+        "address": "544, Periyar Nagar, Sattur, Virudhunagar District 626203",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404063852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12564/0/b751ffa64b/",
+          "https://voterlist.co.in/affidavit-download/12564/1/c682779acb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangadurai. P",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Ponraj",
+        "address": "5/76, North Street, North Semmapudur, Eattayapuram Taluk, Thoothukudi District 628720",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404062222.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7909/0/75dffb31f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangamariappan. J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Jeyavelpandian",
+        "address": "544, Periyar Nagar, Sattur, Virudhunagar District 626203",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404063852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7377/0/c01afcf556/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velmurugan. S",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Subbiah",
+        "address": "49, Kalingapatti, Sinthuvampatti, Sattur Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VELMU-2026-20260406073439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10673/0/a70bf097a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Mariappan",
+        "address": "1/47, Middle Street, E.duraisamypuram, Vembakottai Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260404071944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7473/0/f44c06f3a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Govindan",
+        "address": "10/66, Meenatchiyapuram, Psk Nagar Post, Rajapalayam - 626108",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJEN-2026-20260330061514.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/113/0/a2653960de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijendran. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sattur",
+        "father_husband_name": "Govindan",
+        "address": "10/66, Meenatchiyapuram, Psk Nagar Post, Rajapalayam - 626108",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJEN-2026-20260330061514.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12236/0/09ba495917/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

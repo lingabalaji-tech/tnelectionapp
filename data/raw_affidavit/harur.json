@@ -1,0 +1,609 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Harur",
+    "count": 39,
+    "candidates": [
+      {
+        "name": "Anitha. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Nisar Ahamed",
+        "address": "Door No:46/47- E.b. Colony,Thiyagi Theerthgiriyar Co-Operative Society  Opposite,Bharthipuram,Collectorate Post,Dharmpuri Taluk And District - 636 705.",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANITH-2026-20260402020809.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15360/0/5d2a9a9e7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anitha. A.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Nisarahamed",
+        "address": "46/47- Eb Colony,Thiyagi Theerthgiriyar Cooprative Shop Opposite,Bharthipuram,Collectrate Po,Dharmpuri Dt",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANITH-2026-20260402020809.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5054/0/4abc5306bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuthammal. S",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Sinthanai Selvan",
+        "address": "Door No.328-1,Ambethkar Street, Vtc Menasi Village And Post,Pappireddipatty Taluk,Dharmapuri District.636 904.",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARUT-2026-20260409075246.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15606/0/2409b21154/",
+          "https://voterlist.co.in/affidavit-download/15606/1/91482b3644/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuthammal. S.",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Sinthanai Selvan",
+        "address": "Door No.328-1,Ambethkar Street, Vtc Menasi Village And Post,Pappireddipatti Taluk,Dharmapuri District.636 904",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARUT-2026-20260406124857.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10290/0/e671698ebe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kuppuraj",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kannan",
+        "address": "Door No.1/29,Nariyanahalli Village,Ward1,Thumbalahalli Post, Karimangalam Taluk,Dharmpuri District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUPPU-2026-20260404044617.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7670/0/a0d273fed3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kuppuraj. K",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kannan",
+        "address": "Door No.1/29,Nariyanahalli Village,Ward-1,Thumbalahalli Post, Karimangalam Taluk,Dharmpuri District,Tamilnadu-635 205.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUPPU-2026-20260404044617.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16103/0/7985639658/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kuppuraj. K.",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kannan",
+        "address": "Door No.1/29,Nariyanahalli Village,Ward-1,Thumbalahalli Post, Karimangalam Taluk,Dharmpuri District,Tamilnadu-635 205",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUPPU-2026-20260404044617.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8401/0/8f799693fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manila. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Samikannu. M",
+        "address": "Door No.87,Adimalaiputhur, Pattukonampatti Post, Pappireddipatti Taluk,Dharmapuri District- 636 905",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIL-2026-20260404013604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15930/0/c72d878f10/",
+          "https://voterlist.co.in/affidavit-download/15930/1/384dcb242c/",
+          "https://voterlist.co.in/affidavit-download/15930/2/4b35135336/",
+          "https://voterlist.co.in/affidavit-download/15930/3/ee8f2a2386/",
+          "https://voterlist.co.in/affidavit-download/15930/4/7af3ef9e08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manila. S.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Samikannu. M.",
+        "address": "Door No.87,Adimalaiputhur Village, Pattukonampatti Post, Pappireddipatti Taluk,Dharmapuri District",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIL-2026-20260404013604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6412/0/62b7a982ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marikannu. C",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Chinnathambi",
+        "address": "Door No:197,Elavadai,Elavadai Post,Harur Taluk,Dharmapuri District.-635 305",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MARIK-2026-20260409075311.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15745/0/10a3a094e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marikannu. C.",
+        "party": "Indhia Kudiarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Chinnathambi",
+        "address": "197,Elavadai,Elavadai Post,Harur Taluk,Dharmapuri District.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIK-2026-20260404032650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6150/0/6c366abfc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marikannu. C.",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Chinnathambi",
+        "address": "197,Elavadai,Elavadai Post,Harur Taluk,Dharmapuri District.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIK-2026-20260404032650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6985/0/f8cccf4e82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mariyappan. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Gopal",
+        "address": "4/20,Kumarampatti Village,Mampatti Post,Harur Taluk,Dharmapuri District.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIY-2026-20260404040649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16188/0/93aa00ee3c/",
+          "https://voterlist.co.in/affidavit-download/16188/1/f975bef590/",
+          "https://voterlist.co.in/affidavit-download/16188/2/e01f54ca69/",
+          "https://voterlist.co.in/affidavit-download/16188/3/ebd5680501/",
+          "https://voterlist.co.in/affidavit-download/16188/4/787943b7e2/",
+          "https://voterlist.co.in/affidavit-download/16188/5/6ee0d326f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mariyappan. G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Gopal",
+        "address": "4/20,Kumarampatti Village,Mampatti Post,Harur Taluk,Dharmapuri District.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIY-2026-20260404040649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6731/0/e0bd293da9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nehru. G",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Govindhan. A",
+        "address": "Door No.117,M.thoppampatti Village,Elavadai Post,Harur Taluk,Dharmapuri District - 635 305",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NEHRU-2026-20260406014205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15451/0/ec0afe18a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nehru. G.",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Govindhan. A.",
+        "address": "117,M.thoppampatti Village,Elavadai Post,Harur",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NEHRU-2026-20260406014205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10033/0/a03ee68cdb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthipan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Poosari",
+        "address": "4Th Ward,Rajapannai,Ambethkar Nagar,Harur Post And Taluk,Dharmapuri District- 636 903.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PARTH-2026-20260402020829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16369/0/237f57a8da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthipan. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Poosari",
+        "address": "4Th Ward,108 Ambethkar Nagar,Harur Po, Dharmapuri Dt",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5017/0/254d9ad294/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rakesh. K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kalaivanan. V",
+        "address": "Door No:119,Ward No: 14,Theerthamalai Road, Harur Taluk, Dharmapuri District-636 903.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAKES-2026-20260404010415.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16266/0/1d23fb084c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rakesh. K.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kalaivanan. V.",
+        "address": "119,Ward Number 14,Theerthamalai Road, Harur Taluk, Dharmapuri District-636903",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAKES-2026-20260404010415.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6828/0/58587f8804/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampath. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Chinnasamy",
+        "address": "Door No.76,Sooraptti, Sandhapatti Post, Harur Taluk, Dharmapuri District. 635 305.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMPA-2026-20260406041433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15654/0/4f1c353341/",
+          "https://voterlist.co.in/affidavit-download/15654/1/7eeb23f2b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampath. C.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Chinnasamy",
+        "address": "Door No.76,Sooraptti, Sandhapatti Post, Harur Taluk, Dharmapuri District.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMPA-2026-20260406041433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10414/0/cd31314a73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampath. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kuppan",
+        "address": "Elavadai Village And Post, Harur Taluk,Dharmapuri District. - 635 305.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMPA-2026-20260409075354.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14924/0/fe0fd005f5/",
+          "https://voterlist.co.in/affidavit-download/14924/1/8c8ebf5d93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampath. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kuppan",
+        "address": "Elavadai Village And Post, Harur Taluk,Dharmapuri District.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMPA-2026-20260406042711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9050/0/f00012a9b0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampathkumar. V",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Vediyappan",
+        "address": "Door No:2/588,Poiyapatti Village And Post, Harur Taluk, Dharmapuri District..636 906.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMPA-2026-20260406024903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14902/0/51660882c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampathkumar. V.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Vediyappan",
+        "address": "2/588,Poyyapatti Village And Post, Harur Taluk, Dharmapuri District..636 906",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMPA-2026-20260406024903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9003/0/124836261e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarala. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Shanmugam. A",
+        "address": "Door No: 3/1009,Harisana Street,Poyyapatti Village And Post,Harur Taluk,Dharmpuri District",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAL-2026-20260406022624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15523/0/c2e123316a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarala. S.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Shanmugam. A.",
+        "address": "Door No: 3/1009,Harisana Street,Poyyapatti Village And Post,Harur Taluk,Dharmpuri District",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAL-2026-20260406022624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9720/0/caf2d99517/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarala. S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Shanmugam. A.",
+        "address": "Door No: 3/1009,Harisana Street,Poyyapatti Village And Post,Harur Taluk,Dharmpuri District",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAL-2026-20260406022624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12426/0/06a0720297/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam. A",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Annamalai",
+        "address": "Door No:3/1009,Harisan Street,Poiyapatti Village And Post, Harur Taluk, Dharmapuri District - 636 906",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANMU-2026-20260406020713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14847/0/7c82fce944/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam. A.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Annamalai",
+        "address": "Door No.3/1009,Harisana Street,Poyyapatti Village And Post, Harur Taluk, Dharmapuri District",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANMU-2026-20260406020713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8898/0/e2dced9789/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Theerthamalai",
+        "address": "172,17Th Ward,Ambethkar Nagar, Harur Post And Taluk,Dharmpuri District.636 903",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHANM-2026-20260406012604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15135/0/3a8390cbe1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam. T.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Theerthamalai",
+        "address": "172,17Th Ward,Ambethkar Nagar, Harur Post And Taluk,Dharmpuri District.636 903",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHANM-2026-20260406012604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9450/0/49c5540b28/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudhanthirapriya. S.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Sampathkumar",
+        "address": "2/588,Poyyapatti Village And Post,Harur Taluk,Dharmapuri District.636 906",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SUDHA-2026-20260406030428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9460/0/e987cfe693/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangavel. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kaliyappan",
+        "address": "Door No.2/292,Kongarapatti Village And Post,Karimangalam Taluk,Dharmapuri District.635 202.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THANG-2026-20260409075329.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14832/0/146d1268b8/",
+          "https://voterlist.co.in/affidavit-download/14832/1/7b23ebe9a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangavel. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kaliyappan",
+        "address": "2/292,Kongarapatti Village And Post,Karimangalam Taluk,Dharmapuri District.635 202",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THANG-2026-20260406010817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8867/0/a79e425131/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh",
+        "party": "Bharat Jan Chikitsa Party",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kuppusamy",
+        "address": "113/1,Reddiyar Thottam, Kamaraj Nagar,Uthangarai Taluk,Krishnagiri District.635 207",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260406041538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9950/0/a959eb6b3e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh (A) Dr. V.k. Swamy",
+        "party": "Bharat Jan Chikitsa Party",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Kuppusamy",
+        "address": "113/1,Reddiyar Thottam, Kamaraj Nagar,Uthangarai Taluk,Krishnagiri District.635 207",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260406041538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13097/0/146a17647c/",
+          "https://voterlist.co.in/affidavit-download/13097/1/d604a50227/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vidhubala. R.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Harur",
+        "father_husband_name": "Rakesh",
+        "address": "15Th Ward,Ambethkar Nagar,Harur Taluk,Dharmapuri District. 636 903",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIDHU-2026-20260406043728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9932/0/13137ba46b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

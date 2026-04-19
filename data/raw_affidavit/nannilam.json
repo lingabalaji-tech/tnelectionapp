@@ -1,0 +1,655 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Nannilam",
+    "count": 43,
+    "candidates": [
+      {
+        "name": "A. Saravanan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Annamalai",
+        "address": "G1 , 4Th Cross, Pravin Apartment, Voc Nagar, Thanjavur -613 007",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAR-2026-20260406010136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8815/0/eee37c8149/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharathimohan.  K.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Soundrarajan",
+        "address": "602, M1G, Neithal New Housing Unit, Thanjavur Taluk, Thanjavur District 613 005",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSB-2026-20260406062553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12930/0/903544c0c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Shanmugaraja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Dhatchinamoorthi",
+        "address": "96, Mela Athitravidar Street, Naduvacherry, Visalur, Tiruvarur District 610 101",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSHA-2026-20260406122633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10039/0/f73ee18fea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devanathan T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Thiyagarajan",
+        "address": "73, Uppu Kadai Street, Sannanallur, Nannilam Taluk, Tiruvarur District 609 504",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TDEV-2026-20260406013335.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13083/0/faaabc2fc7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devi S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Senthilkumar",
+        "address": "3/135 Ukkadai Street, Sithadi Village, Sithadi Post, Kudavasal Taluk, Tiruvarur District 612 604",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVIS-2026-20260330042633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/49/0/f77effc006/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "I. Salimohamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Ismail",
+        "address": "28, Sudukadu Vazli Nadapu, Valangaiman Taluk, Tiruvarur District 612 804",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ISAL-2026-20260406083351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11365/0/061eeba5a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Mohumed Riyas",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Kamaludeen",
+        "address": "6/2, Main Road, Layam, Valangaiman Taluk, Tiruvarur District 612 804",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOH-2026-20260406075348.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10674/0/46e6d200fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Rajesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "P.kannaiyan",
+        "address": "49, South Street, Kottur, Kurunkulam Post, Nannilam Taluk, Tiruvarur District - 609 608",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260404125616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6741/0/f6294c9ce7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Tamilmani",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "N.kaliyamoorthy",
+        "address": "1/90, Maruthamanikkam Street, Perumpannaiyur, Kudavasal Taluk, Tiruvarur District 612 603",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KTAM-2026-20260406070905.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8447/0/1be9f3b24a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.s.bharathimohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Soundrarajan",
+        "address": "602, M1G, Neithal New Housing Unit, Thanjavur Taluk, Thanjavur District 613 005",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSB-2026-20260406062553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8837/0/b192a1e68f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamaraj. R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Rajagopal",
+        "address": "33/70 Gopalasamuthiram North Street, Mannargudi, Tiruvarur District 614 001",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAM-2026-20260406025520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13022/0/b3d10359d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.  Nijam Mohaideen",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Mohammed Nainar",
+        "address": "76G/201, Mela Pallivasal Street, Sengottai Post, Tenkasi District 627 809",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNIJ-2026-20260404032532.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6122/0/c99275eba8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Tamilselvan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Murugaiyan",
+        "address": "3/139, Mathaku Street, Melaramansethi, Seethakkamangalam, Kudavasal Taluk, Tiruvarur District 612 604",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTAM-2026-20260406021356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9538/0/26d6870853/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Mubarak",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "M. Shahul Hameed",
+        "address": "5/121, Sappani Aalim East Street, Melapalayam, Palayamkotai, Tirunelveli 627 005",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMS-2026-20260404024418.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13120/0/1001e81d60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohumed Riyas. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Kamaludeen",
+        "address": "6/2, Main Road, Layam, Valangaiman Taluk, Tiruvarur District 612 804",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOH-2026-20260406075348.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12927/0/9dbb863ca7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Shanmugasundaram",
+        "address": "72/1, South Street, Killiyur, Kudavasal Taluk, Tiruvarur District 609 405",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAG-2026-20260406072755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13130/0/8526a53624/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhakaran. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "G. Selvam",
+        "address": "1/45, Kaliyamman Koil Street, Sarkuneswarapuram, Kudavasal Taluk, Tiruvarur District 609 501",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPRA-2026-20260404015149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13245/0/dce354997e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.   Ravi Chandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Raja Manickam",
+        "address": "205, Matha Kovil Street, Vayalur Post, Kudavasal Taluk, Tiruvarur District 612 201",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAV-2026-20260406101522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12156/0/89d062cba8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Kamaraj",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Rajagopal",
+        "address": "33/70 Gopalasamuthiram North Street, Mannargudi, Tiruvarur District 614 001",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAM-2026-20260406025520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9433/0/6384f9f3c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Rajasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Rasu",
+        "address": "411, Nadu Street, Oothukadu Post, Valangaiman Taluk, Tiruvarur District 612 701",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260404050038.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7011/0/66c2ef94f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ravichandran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Rajamanickam",
+        "address": "1/205, Mathakovil Street, Vayalur Post, Kudavasal Taluk, Tiruvarur District 612 201",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAV-2026-20260406042007.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9005/0/7c99213e57/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Sankar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Ramalingam",
+        "address": "79 Kila Street, Thirukkandiswaram, Sannanallur, Nannilam Taluk, Tiruvarur District 609 504",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAN-2026-20260406115123.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8386/0/2d9c6f89c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. S",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Subramaniyan",
+        "address": "12 C11, Depot Road, Mannargudi, Tiruvarur District 614 001",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404043629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13025/0/47630c5900/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Rasu",
+        "address": "411, Nadu Street, Oothukadu Post, Valangaiman Taluk, Tiruvarur District 612 701",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260404050038.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13176/0/c68708c2aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "P.kannaiyan",
+        "address": "49, South Street, Kottur, Kurunkulam Post, Nannilam Taluk, Tiruvarur District - 609 608",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260404125616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13286/0/6645047252/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravi  Chandran. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Raja Manickam",
+        "address": "205, Matha Kovil Street, Vayalur Post, Kudavasal Taluk, Tiruvarur District 612 201",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAV-2026-20260406101522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13038/0/e927d39f23/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravichandran. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Raja Manickam",
+        "address": "205, Matha Kovil Street, Vayalur Post, Kudavasal Taluk, Tiruvarur District 612 201",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAV-2026-20260406101522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15170/0/8f4912e7a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Nagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Shanmugasundaram",
+        "address": "72/1, South Street, Killiyur, Kudavasal Taluk, Tiruvarur District 609 405",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAG-2026-20260406072755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11339/0/d555d9c68e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Prabhakaran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "G. Selvam",
+        "address": "1/45, Kaliyamman Koil Street, Sarkuneswarapuram, Kudavasal Taluk, Tiruvarur District 609 501",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPRA-2026-20260404015149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6585/0/063b5e6c9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Raja",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Subramaniyan",
+        "address": "12 C11, Depot Road, Mannargudi, Tiruvarur District 614 001",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404043629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7360/0/3b7740d9b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Salimohamed. I",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Ismail",
+        "address": "28, Sudukadu Vazli Nadapu, Valangaiman Taluk, Tiruvarur District 612 804",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ISAL-2026-20260406083351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13133/0/712e3a58f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Ramalingam",
+        "address": "79 Kila Street, Thirukkandiswaram, Sannanallur, Nannilam Taluk, Tiruvarur District 609 504",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAN-2026-20260406115123.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13002/0/507e27d9ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugaraja. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Dhatchinamoorthi",
+        "address": "96, Mela Athitravidar Street, Naduvacherry, Visalur, Tiruvarur District 610 101",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSHA-2026-20260406122633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13107/0/cee7e4332b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaraman. T",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Thangaiyan",
+        "address": "3/303, South Street, Kothankudi, Arasavanankadu, Tiruvarur Taluk, Tiruvarur District 612 603",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSIV-2026-20260406090430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12914/0/a98a47ec14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Veeramani",
+        "address": "301, Main Road, Pathiniyapuram, Anaikuppam Post, Saliperi, Nannilam Taluk, Tiruvarur District 610 105",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUR-2026-20260406093233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12948/0/3de505d4be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Swathi N. Gopal",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Narayanaswamy",
+        "address": "57, North Street, Nannilam, Tiruvarur District 610 105",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SWATH-2026-20260406044959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8978/0/ef9878f0b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Devanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Thiyagarajan",
+        "address": "73, Uppu Kadai Street, Sannanallur, Nannilam Taluk, Tiruvarur District 609 504",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TDEV-2026-20260406013335.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9824/0/8cc2bcb8b0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Sivaraman",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Thangaiyan",
+        "address": "3/303, South Street, Kothankudi, Arasavanankadu, Tiruvarur Taluk, Tiruvarur District 612 603",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSIV-2026-20260406090430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10651/0/9ae4639d37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilselvan. M",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Murugaiyan",
+        "address": "3/139, Mathaku Street, Melaramansethi, Seethakkamangalam, Kudavasal Taluk, Tiruvarur District 612 604",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTAM-2026-20260406021356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13040/0/f2bf8e4838/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thenmozhi D",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Dilipkumar",
+        "address": "263 Otha Veedu Street, Deepamangalam, Anaikuppam Post, Nannilam Taluk, Tiruvarur District 610 105",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THENM-2026-20260330032502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/295/0/06131004f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thenmozhi Dilipkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Dilipkumar",
+        "address": "263 Otha Veedu Street, Deepamangalam, Anaikuppam Post, Nannilam Taluk, Tiruvarur District 610 105",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THENM-2026-20260330032502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13126/0/051c6143b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "Veeramani",
+        "address": "301, Main Road, Pathiniyapuram, Anaikuppam Post, Saliperi, Nannilam Taluk, Tiruvarur District 610 105",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUR-2026-20260406093233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11853/0/60cf1a156b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.m.s. Mohamed Mubarak",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nannilam",
+        "father_husband_name": "M. Shahul Hameed",
+        "address": "5/121, Sappani Aalim East Street, Melapalayam, Palayamkotai, Tirunelveli 627 005",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMS-2026-20260404024418.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6346/0/5f74b8894a/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

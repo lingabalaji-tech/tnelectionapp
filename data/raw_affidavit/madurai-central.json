@@ -1,0 +1,395 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Madurai Central",
+    "count": 26,
+    "candidates": [
+      {
+        "name": "Abdul Hakeem  K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Kaja Maideen",
+        "address": "227, Mela Theru, Manappachery, Melur Taluk, Madurai District, Madurai-625103",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABDUL-2026-20260330022137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/25/0/fbd10097e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajmalkan  K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Kaja  Maideen",
+        "address": "1-227, East Street, Manappaseri,Melur, Madurai-625003",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJMAL-2026-20260404041546.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajmalkan  K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Kaja  Maideen",
+        "address": "1-227, East Street, Manappaseri,Melur, Madurai-625003",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJMAL-2026-20260404041546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13298/0/e8005e6b7e/",
+          "https://voterlist.co.in/affidavit-download/13298/1/fcfb270122/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Avadainathan  V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Venkatachalam",
+        "address": "3/37,Ashok Nagar 3Rd Street, Kochadai, Madurai-625016",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVADA-2026-20260404025650.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan  R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Ramasamy",
+        "address": "78,Alagar Kovil Road, Melur,Madurai-625016",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260404044244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7555/0/1162dce1a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Guru Karthick T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Deiventhiran",
+        "address": "3/10A Athi Paraskthi Nagar Thiruppalai Madurai 625014",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GURUK-2026-20260406061120.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9360/0/07478ef64d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madhar Badhurudeen",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Samsuddin",
+        "address": "173A,Bharathi Salai,Chepauk,Triplicane,Chennai-600005",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MADHA-2026-20260409050630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16246/0/8659864e2d/",
+          "https://voterlist.co.in/affidavit-download/16246/1/e85875702b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madhar Badhurudeen  S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Samsuddin",
+        "address": "173A,Bharathi Salai,Chepauk,Triplicane,Chennai-600005",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MADHA-2026-20260404021521.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6806/0/76cfb7dd2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maheswaran K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Krishnan",
+        "address": "33A, Ponnagaram Broadway, Madurai - 625016.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHES-2026-20260330013630.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Manivannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Nadimuthu",
+        "address": "Flat 121, Sangam Appartments, Berakka Road, Kilpauk, Chennai - 600010",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANIV-2026-20260409061702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15693/0/3a631a0766/",
+          "https://voterlist.co.in/affidavit-download/15693/1/c35072deb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manivannan  N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Nadimuthu",
+        "address": "Flat 121, Sangam Appartments, Berakka Road, Kilpauk, Chennai - 600010",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIV-2026-20260404010832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6081/0/e517d454dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Sathik K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Kamal Deen",
+        "address": "W15 Sungam Street Cumbum 625516",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260406021642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9664/0/3e2a8a9a73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanivel Thiaga Rajan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Palanivel Rajan",
+        "address": "No 2 Vallabhai Road Chokkikulam Madurai 625002",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406044624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8651/0/c1a40f4254/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Ramalingam",
+        "address": "Door No 547 Sundarapuram Colony Thalaivaipatti Athur Vattam Palaniyapuri Salem Tamilnadu 636108",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406045724.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9493/0/cf551f1e42/",
+          "https://voterlist.co.in/affidavit-download/9493/1/683d4bcf1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Periyakaruppan",
+        "address": "Door No 6A Thiruvika Street Kamarajar Ist Cross Street Madurai 625009",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJKU-2026-20260406055842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10347/0/0242267b2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramar Pandi  T",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Thanga Raj",
+        "address": "Heera Nagar, Thoppu Colony, Madurai-625001",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAR-2026-20260402021022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5356/0/b9f9ea0a6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakkaravarthy P",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Palanisamy",
+        "address": "33 Kannathasan Main St, S S Colony Madurai 625016",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKKA-2026-20260406041033.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8513/0/8880d4fab8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saleem",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Mohammed Yasin",
+        "address": "Plot No-210, Arunachalam Appartment 2Nd Floor, S.s.colony, Madurai -625016",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SALEE-2026-20260409061337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16320/0/6941eda7b4/",
+          "https://voterlist.co.in/affidavit-download/16320/1/32d4b4f0cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saleem  M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Mohammed Yasin",
+        "address": "Plot No-210, Arunachalam Appartment 2Nd Floor, S.s.colony, Madurai -625016",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SALEE-2026-20260402030353.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Samiullah Shariff Y",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Yusif Shariff",
+        "address": "19 9 1 Abdul Karim Street Thiruvallikeni Chennai 600005",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMIU-2026-20260406024043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8806/0/264b72e348/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvi R",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Ramesh",
+        "address": "1/368/1.1St Cross St, Siva Nagar North Ramasamy Nagar, Thiruppalai Madurai 625014",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVI-2026-20260406043101.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9775/0/505a1e8a1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Siva Rama Krishnan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Kishnamoorthi P",
+        "address": "27/2 Ramnagar Padasalai 1St Street Karimedu Madurai 625016",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAR-2026-20260406025442.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9391/0/9aadf32c1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaperumal V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Villairam",
+        "address": "Door No1/5264 Rosalpatti Viruthunagar 626001",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAP-2026-20260406053921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8626/0/a828bbfe4c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundar  C",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Chithambaram",
+        "address": "No-2,Leith Castle North Street, Foreshore Estate Santhome Raja Annamalaipuram, Chennai - 600028",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260404015307.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh P K",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Kanthan",
+        "address": "10 C Jawahar 1St Street S S Colony South Madurai 625016",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406051536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8819/0/8d8ca154c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeradurai S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai Central",
+        "father_husband_name": "Sudalai Muthu",
+        "address": "A11/1, Housing Board Colony West Quaters, K.k.nagar, Madurai - 625020",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260404045720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6901/0/9ed6feef92/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Hosur",
+    "count": 27,
+    "candidates": [
+      {
+        "name": "Anjappa. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Goopalliyappa",
+        "address": "D.no.1/97, Nandimangalam Village  And Post, Hosur",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANJAP-2026-20260406085725.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11318/0/53c10265c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Babu Lal. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Abdul Jabar",
+        "address": "D.no.66/2, Kurubatti, Mathigiri Post, Hosur",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BABUL-2026-20260406075221.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10563/0/ad4a4467ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnareddy. P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Pappireddy",
+        "address": "D.no.b4/3, Tamil Nadu Hosuing Board, Bagalur Road, Hosur",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAK-2026-20260406081837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10743/0/29647bf665/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devappa",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Errappa",
+        "address": "4/113, Titan Road, Chinna Elasagiri, Sipcot Post, Hosur-635126.",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVAP-2026-20260330061722.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/137/0/8f6a609d14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devappa.y",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Yerrappa",
+        "address": "4/113, Titan Road, Chinna Elasagiri, Sipcot Post, Hosur-635126.",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVAP-2026-20260330061722.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15725/0/b8f14b1f86/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.shanmugam.a.r.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Ramalingam",
+        "address": "D.no.42/C9, Near Anna Nagar, Police Quarters, Hosur-635109",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260404065853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16289/0/2c65191aa1/",
+          "https://voterlist.co.in/affidavit-download/16289/1/df0f54db63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Mani.k.p.",
+        "address": "11B, Kcc Nagar, Sampath Chettiyar Layout, Hosur.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260402064034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5887/0/e76519162c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lokesh.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Venkataraman",
+        "address": "D.no.94, Kalekunda, Hosur-635109",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LOKES-2026-20260404072036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7531/0/5eae88ad80/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maheshkumar.k",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Kumaresan",
+        "address": "409/1, Vivekanantha Nagar, Zuzuvadi, Hosur-635126",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHES-2026-20260330060414.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/55/0/bb94b7095f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mariya Francis.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Savuriyar",
+        "address": "98A, Poonapalli Village, Bethabelagondapalli Post, Hosur",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIY-2026-20260402065256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5938/0/755b70bf15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Masood.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Syed Ghouse",
+        "address": "Plot. No.168-A, Bismillah Nagar, Alasanatham Road, Hosur-635109",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASOO-2026-20260404075307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7190/0/8e35ed7336/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pattabirama. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Chinnasamy",
+        "address": "D.no.76-A1, New Number - 483, Parvathi Nagar, Hosur.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PATTA-2026-20260406084459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10854/0/8b0d4de931/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponnumani.r",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Ramesh Babu",
+        "address": "D.no.782, Perandapalli Village, Moranapalli, Hosur",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONNU-2026-20260406074338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11143/0/93cceba4fb/",
+          "https://voterlist.co.in/affidavit-download/11143/1/793a524283/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Pappaiya",
+        "address": "303/11B, Bathalapalli, Kumudhepalli Post, Hosur.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260402054800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5894/0/ecc18eddf5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramappa.t",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Thippan Alias Muniyan",
+        "address": "4/792,Silibilimangalam Village, Thallikothanur Post, Denkanikottai Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAP-2026-20260402061145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5764/0/104cdd3e84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramappa.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Thippan Alias Muniyan",
+        "address": "4/792,Silibilimangalam Village, Thallikothanur Post, Denkanikottai Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMAP-2026-20260406102139.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13328/0/0870851e95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramasamy.g.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Chinnappan",
+        "address": "D.no.3/106, Govinda Agraharam Village, Begapalli, Hosur.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAS-2026-20260406073524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10721/0/bae3078d50/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Jyothi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "P. Balakrishnareddy",
+        "address": "D.no.b4/3, Tamil Nadu Hosuing Board, Bagalur Road, Hosur",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJYO-2026-20260406082614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11045/0/5a70f1a142/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanakumar. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Aathimulam",
+        "address": "D.no:3/159-3, Kamaraj Street, Kottai, Bagalur Post, Hosur.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406085157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11123/0/e03a527644/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathya.s.a.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Appukuttan.p.k.",
+        "address": "D.no.126, Appavu Nagar, Thally Road, Hosur-635109.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHY-2026-20260404062936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6972/0/dc2d7e0573/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam.a.r.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Ramalingam",
+        "address": "D.no.42/C9, Near Anna Nagar, Police Quarters, Hosur-635109",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260404065853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8067/0/138a4ac961/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sharavanakumar. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Aathimulam",
+        "address": "D.no:3/159-3, Kamaraj Street, Kottai, Bagalur Post, Hosur.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406085157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12263/0/a331e98ca1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Stalin.r",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Ravichandran.s",
+        "address": "2/502-6,Govindapa Building, Teachers Colony, Bagalur Circle, Belathur Post, Hosur-635124",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STALI-2026-20260330054339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/561/0/d1fc41fe2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sugumaran.t",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Thandavan",
+        "address": "Hig - 164, Phase - 10, Rayakottai Hudco, Hosur.",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGUM-2026-20260406091828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12316/0/8e32aee1a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Surya. Y",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Yellappa",
+        "address": "D.no:7/9, Plot No.13, Kurnchi Nagar, Andhivadi, Mathigiri, Hosur.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURYA-2026-20260406093008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11766/0/ff3d5725a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vendarkarasan.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Sakthikrishnan",
+        "address": "D.no.46/-1, Ram Nagar, Astc Pallam, 2Nd Cross, Hosur-635109",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENDA-2026-20260404080447.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7463/0/cc85aaf1a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay Kumar. R",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Hosur",
+        "father_husband_name": "Ragavendra",
+        "address": "D.no.590/A1, Maruthi Nagar, Berigai Post, Shoolagiri Taluk.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406083834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10610/0/9a5d3beb91/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

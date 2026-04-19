@@ -1,0 +1,610 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Krishnagiri",
+    "count": 40,
+    "candidates": [
+      {
+        "name": "A.chellakumar",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Arunachalam",
+        "address": "25/12, 8Th Cross Street, Shenoy Nagar, Chennai 600030.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ACHE-2026-20260406044145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9410/0/c3b0c3d5f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.krishnakumar",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Arunachalam",
+        "address": "W-699, 1St Street, D Sector, Anna Nagar West Extension, Chennai - 600101.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKRI-2026-20260406051449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8713/0/0999de3009/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Advocate.muthaiah.s",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Srinivasan",
+        "address": "9/7, Mottaiyan Street, Tindivanam, Villupuram District, Tamilnadu - 604001",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUT-2026-20260330052312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13386/0/8b6f7f0293/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Advocate.muthaiah.s.",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Srinivasan",
+        "address": "9/7, Mottaiyan Street, Tindivanam, Villupuram District, Tamilnadu - 604001",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUT-2026-20260330052312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16633/0/ffa736a609/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashokkumar..k",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "5/190, Thiruvalluvar Nagar,  2Nd Cross Street, Krishnagiri District - 635001.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASH-2026-20260404052030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13171/0/e8e5a23c42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashokkumar.k",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "5/190, Thiruvalluvar Nagar,  2Nd Cross Street, Krishnagiri District - 635001.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASH-2026-20260404052030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15752/0/db761f8f1e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.kavitha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "M.saravanan",
+        "address": "86/67A1, Vediyappan Kovil Street, Anna Nagar, Papparapatti, Krishnagiri Taluk And District, Tamilnadu-635001.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKAV-2026-20260402040314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5408/0/838f02081c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandra Mohan.k.m.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "K.k.mani",
+        "address": "No.1, 2Nd Street, Shanthi Nagar, Krishnagiri Post, Krishnagiri Taluk And District - 635001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMC-2026-20260404100904.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13336/0/ffe7df4486/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandramohan.k.m.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "K.k.mani",
+        "address": "No.1, 2Nd Street, Shanthi Nagar, Krishnagiri Post, Krishnagiri Taluk And District - 635001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMC-2026-20260404100904.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16415/0/be95c83692/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellakumar.a",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Arunachalam",
+        "address": "25/12, 8Th Cross Street, Shenoy Nagar, Chennai 600030.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ACHE-2026-20260406044145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13019/0/0e1b10bb6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.venkateshraja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Eswarappagounder",
+        "address": "M-302, 2Nd Phase, 3Rd Cross, Tamilnadu Housing Board, Krishnagiri Taluk And District.",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EVEN-2026-20260406062339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8507/0/a220535ab8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.rajeshkannan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Gandhi",
+        "address": "5/207-A, Ramanathan Kottai, Thimmapuram, Krishnagiri - 635112.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAJ-2026-20260406050543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10120/0/3c98124604/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.ashokkumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Krishnamurthy",
+        "address": "5/190, Thiruvalluvar Nagar,  2Nd Cross Street, Krishnagiri District - 635001.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASH-2026-20260404052030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6992/0/d3e2d8bf65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.m.chandramohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "K.k.mani",
+        "address": "No.1, 2Nd Street, Shanthi Nagar, Krishnagiri Post, Krishnagiri Taluk And District - 635001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMC-2026-20260402034255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5285/0/735f4075bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.srinivasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "M.krishnan",
+        "address": "Mel Anjaneyar Kovil Street, Newpet, Krishnagiri-635001.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSRI-2026-20260404024523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6393/0/40c365752e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaresan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Munusamy",
+        "address": "3/350, Subetharmedu Village, Kattinayanapalli Post, Krishnagiri District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKUM-2026-20260402041905.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13369/0/2210ace90c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.subramanian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Loganathan",
+        "address": "433, Mittahalli Village And Post, Kaveripattinam, Krishnagiri Taluk And District - 635112.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LSUB-2026-20260406053136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10146/0/1c11ff7dd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kumaresan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Munusamy",
+        "address": "3/350, Subetharmedu Village, Kattinayanapalli Post, Krishnagiri District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKUM-2026-20260402041905.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5560/0/ee27096260/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.manjunath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Madhaiyan",
+        "address": "84, 1St Bypass Road, Denkanikottai Taluk, Krishnagiri District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260406055150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9840/0/c4a8b2bb87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.nanjundan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Muninanjan",
+        "address": "1, Mariyamman Kovil Street, Denkanikottai Taluk, Krishnagiri District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAN-2026-20260406054136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8864/0/a06735e0f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Baskaran",
+        "address": "118A, Keelpaiyur Village, Paiyur Post, Krishnagiri Taluk And District - 635112.",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAL-2026-20260404050409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7131/0/0e561ebca8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mangammal",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Yuvaraj",
+        "address": "1/170, Periyar Nagar, Thumbalahalli, Kendiganahalli, Karimangalam, Dharmapuri - 635205.",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANGA-2026-20260406033913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9215/0/5917e7a5c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mukundhan.p",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "K.r.pandiyan",
+        "address": "32-1-28A, Boganapalli Village, Rayappan Street, Ward 18, Krishnagiri - 635001.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUK-2026-20260404021954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13299/0/228b09ff5d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthulakshmi Veerappan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Veerappan",
+        "address": "171-9, Four Road, Pottaneri, Mettur, Salem District - 636453.",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUT-2026-20260406042548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13017/0/37e2fcb709/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nanjundan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Muninanjan",
+        "address": "1, Mariyamman Kovil Street, Denkanikottai Taluk, Krishnagiri District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAN-2026-20260406054136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12936/0/6c332c5946/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.mukundhan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "K.r.pandiyan",
+        "address": "32-1-28A, Boganapalli Village, Rayappan Street, Ward 18, Krishnagiri - 635001.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUK-2026-20260404021954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6847/0/1a9abf1441/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.ravi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "T.perumal",
+        "address": "4/66, Keelpaiyur, Paiyur Post, Kaveripattinam, Krishnagiri District.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAV-2026-20260404053622.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7206/0/03cc5d53fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeshkannan.g",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Gandhi",
+        "address": "5/207-A, Ramanathan Kottai, Thimmapuram, Krishnagiri - 635112.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAJ-2026-20260406050543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13119/0/3c8c28b0c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.muthaiah",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Srinivasan",
+        "address": "9/7, Mottaiyan Street, Tindivanam, Villupuram District, Tamilnadu - 604001",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUT-2026-20260330052312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/409/0/f36bfd2322/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sivakumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "M.sivaraj",
+        "address": "No.26I/1, Banakara Street, Krishnagiri.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSIV-2026-20260404030832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6695/0/b27cc024a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Singaravelan Viswanathan",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "T.k.vishwanathan",
+        "address": "2/44, V.s.k.n Nagar, Errahalli, Kaveripattinam, Krishnagiri Taluk And District - 635112.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIN-2026-20260404044023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13233/0/726df401d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar.s",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "M.sivaraj",
+        "address": "No.26I/1, Banakara Street, Krishnagiri.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSIV-2026-20260404030832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13271/0/8a7613a457/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivan.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Chinnasamy",
+        "address": "1/287, K.v.kovil Kottai, Sokkadi Village, Moramadugu Post, Krishangiri Taluk And District - 635122.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAN-2026-20260406061131.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9385/0/8aa6775786/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinivasan.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "M.krishnan",
+        "address": "Mel Anjaneyar Kovil Street, Newpet, Krishnagiri-635001.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSRI-2026-20260404024523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13213/0/583abb8877/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramanian.l",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Loganathan",
+        "address": "433, Mittahalli Village And Post, Kaveripattinam, Krishnagiri Taluk And District - 635112.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LSUB-2026-20260406053136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13123/0/c3b56d3cdd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suganthi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Partheepan",
+        "address": "74A/Na, Anna Nagar, Mathur Post, Pochampalli Taluk, Krishnagiri District - 635203",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGAN-2026-20260330054535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/585/0/0023be78df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suguna",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "K.r.pandiyan",
+        "address": "32-1-28A, Boganapalli Village, Rayappan Street, Ward 18, Krishnagiri - 635001.",
+        "gender": "Female",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGUN-2026-20260404025922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6586/0/70c8e37f89/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.muthulakshmi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Veerappan",
+        "address": "171-9, Four Road, Pottaneri, Mettur, Salem District - 636453.",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUT-2026-20260406042548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9382/0/c0b4a75a6c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.singaravelan",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "T.k.vishwanathan",
+        "address": "2/44, V.s.k.n Nagar, Errahalli, Kaveripattinam, Krishnagiri Taluk And District - 635112.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIN-2026-20260404044023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7498/0/1e368d2d15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkateshraja.e",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Krishnagiri",
+        "father_husband_name": "Eswarappa Gounder",
+        "address": "M-302, 2Nd Phase, 3Rd Cross, Tamilnadu Housing Board, Krishnagiri Taluk And District.",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EVEN-2026-20260406062339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12884/0/d0b6c0c82d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Pollachi",
+    "count": 27,
+    "candidates": [
+      {
+        "name": "A. Logaprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Alagarraj",
+        "address": "1/392, Ramapattanam, Pollachi - 642005",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ALOG-2026-20260406060848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9209/0/e3d8dae359/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.m. Aruchamy",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Manthiri",
+        "address": "No 1/33 - Ambetkar Teru, N.chandrapuram, Pollachi, Sinna Negamam, Coimbture",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CMA-2026-20260402023708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5470/0/cad9b27d04/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Arun Prasath",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Ganesan",
+        "address": "D.no. 11/3, Alagappa Layout, Venkatesa Colony, Pollachi  642001",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GARU-2026-20260406034651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9491/0/6bad9f4667/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Arun Prasath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Ganesan",
+        "address": "D.no. 11/3, Alagappa Layout, Venkatesa Colony, Pollachi  642001",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GARU-2026-20260406034651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13030/0/b2d3f796be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Ramanathan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "C D Ganesh",
+        "address": "11/3, Alagappa Layout, Venkatesa Colony, Pollachi - 642001",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAN-2026-20260404022333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14735/0/db5f81cc50/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Jothilakshmi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Pollachi V. Jayaraman",
+        "address": "1-211, Mariamman Kovil St, Thippampatty Village, Pollachi Tk",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJOT-2026-20260404015016.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6567/0/cdf84ab9c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Nithyanandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "P. Krishnan",
+        "address": "14, M.v.g Nagar, Kovai Main Road, Achipatti, Pollachi",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KNIT-2026-20260406012734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9663/0/8a6d0f3037/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Nithyanandhan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Krishnasamy",
+        "address": "232/1, Marappettai Street, Udumalai Road, Pollachi - 642001",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KNIT-2026-20260402014330.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4981/0/8dee5fc249/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Ramaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Kaliyappan",
+        "address": "5 - Athiyur, Pollachi 642110",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAM-2026-20260406055021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9615/0/c4ee7e2b0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Arun Prakash",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Mylsamy",
+        "address": "Thalakkarai Thottam, R. Ponnapuram, Pollachi, Coimbatore - 642002",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MARU-2026-20260404050310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6390/0/2dab33841e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jayaprathap",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Marimuthu",
+        "address": "1/219, Vadasithur, Pollachi - 641202",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406040819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10434/0/6b9a7a3098/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jayaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Malaiyakgounder",
+        "address": "1/138B, Dharapuram Road, Unjavelampatti, Pollachi 642003",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406055842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10339/0/ddcfb63bb7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jayaraman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "K. Marimuthu",
+        "address": "1/112, Mannur Post, Pollachi - 642005",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406123901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10201/0/5dbefddf14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Murugavel",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "S. Marimuthu",
+        "address": "3/60A, Mariyamman Kovil Street, Vellalapalayam, Pollachi - 642120",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMUR-2026-20260406023144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10405/0/6d0c813540/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Senthil Kumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Narayanasamy",
+        "address": "88/59, Tharmalingam Street, Venkatesa Colony, Pollachi, Coimbatore - 642001",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSEN-2026-20260330023237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15517/0/42f9130c30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Vanitha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Nithiyanandhan",
+        "address": "232/1, Marappettai Street, Udumalai Road, Pollachi - 642001",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NVAN-2026-20260402011716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5019/0/a0e816d319/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.senthil Kumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Narayanasamy",
+        "address": "88/59, Tharmalingam Street, Venkatesa Colony, Pollachi, Coimbatore - 642001",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSEN-2026-20260330023237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/62/0/0dc3cda660/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Nagaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Ponnusamy",
+        "address": "Door No.13, Jublee Kinaru Street, Pollachi",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PNAG-2026-20260406050408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10059/0/3c16a774bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pollachi V. Jayaraman",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Varadharaj",
+        "address": "1-211, Mariamman Kovil North St, Thippampatty Post, Pollachi T.k",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POLLA-2026-20260404125755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7947/0/c749fa6b5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pollachi. V. Jayaraman",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Varadharaj",
+        "address": "1-211, Mariamman Kovil North St, Thippampatty Post, Pollachi T.k",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POLLA-2026-20260404125755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6770/0/6562cd1cf8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Sri Krishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "K. Raju",
+        "address": "No. 84, Palakkadu Road, Pollachi",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSRI-2026-20260406030207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9675/0/8a995eba29/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramanathan G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "C D Ganesh",
+        "address": "11/3, Alagappa Layout, Venkatesa Colony, Pollachi - 642001",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAN-2026-20260404022333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6091/0/ab8350b9d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Jeyaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Shanmugasundaram",
+        "address": "1/34, Nalluthukuli, Pollachi, Coimbatore - 642005",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJEY-2026-20260406015256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8708/0/a1481edd0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Surya Prakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Venkatachalam",
+        "address": "9/1, Chellakumar Street, Vadugapalayam, Pollachi",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURYA-2026-20260406061817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10042/0/3affab8cd9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Nithyanantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Thiyagarajan",
+        "address": "Door No. 9B, Arumugam Chettiyar Street, Periya Negamam, Pollachi Taluk",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TNIT-2026-20260406125947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8748/0/d8b62e3c15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Velusamy",
+        "address": "2/148, Panapatti, Pollachi - 641201",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VKAR-2026-20260406043644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10162/0/1167cd2e93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Prem Kumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pollachi",
+        "father_husband_name": "Velusamy",
+        "address": "D.no.5, Sakthi Garden, Panikkampatti, Pollachi",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPRE-2026-20260406042505.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9344/0/9dc8235c94/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

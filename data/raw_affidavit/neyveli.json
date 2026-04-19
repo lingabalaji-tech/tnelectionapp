@@ -1,0 +1,460 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Neyveli",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "A.balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Arumugam",
+        "address": "2/A, Navalar Street, Block-30, Neyveli Township,Kurinjipadi-607807",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABAL-2026-20260330042828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/52/0/c6e7cbaa69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.susithra",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Anand",
+        "address": "Old No 9/126, New No 6/126, South Street, Melakuppam, Vridhachalam-607802",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUS-2026-20260406065016.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8924/0/3b3b895e36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anand.k",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Kaliyaperumal",
+        "address": "Old No 9/126, New No 6/126, South Street, Melakuppam, Vridhachalam Taluk-607802",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KANA-2026-20260409062237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16122/0/2b6c6ebb94/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbarasan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Sivagnanam",
+        "address": "B-31, B Block, Block -1, Cr Colony , Neyveli-1",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260402124923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4988/0/5592b4a3aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.veeramani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Boopathy",
+        "address": "45,West Street, Velankuppam Road, Kadampuliyur, Panruti-607103",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVEE-2026-20260330044812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/206/0/db28bfc153/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaji.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Arumugam",
+        "address": "2/A, Navalar Street, Block-30, Neyveli Township,Kurinjipadi-607807",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABAL-2026-20260330042828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5114/0/c733cfaeb0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.kalaichelvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Chandrasekar",
+        "address": "275, Main Road, Vadakuthu And Post, Kurinjipadi Taluk",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKAL-2026-20260406052005.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9194/0/ef9ee07f49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.m.karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Muthukumarasamy",
+        "address": "24,First Main Road Rehabilitation Center,Indra Nagar,Neyveli,Kurinjipadi Taluk-607801",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CMK-2026-20260406072050.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10121/0/ecf62b8aa7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chezhiyan.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Gunasekaran",
+        "address": "No.470,North Street, Melmampattu, Panruti Taluk-607103",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GCHE-2026-20260406063057.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15006/0/52cba633c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.chezhian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Gunasekaran",
+        "address": "470,North Street, South Melmampattu,Kadampuliyur Post, Panruti Taluk-607103",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GCHE-2026-20260406063057.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9197/0/e24db1a2ac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jothimurugan.v",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Velmurugan",
+        "address": "46, Akilan Street, Block-30, Neyveli-7",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JOTHI-2026-20260402045608.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5449/0/3888b32873/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.anand",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Kaliyaperumal",
+        "address": "Old No 9/126, New No 61126, South Street, Melakuppam, Vridhachalam, Cuddalore",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANA-2026-20260404015846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6640/0/e0e7b82a0c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.mayakrishnan",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "531,Mariyamman Kovil Street, Keezhakollai, Marungur, Cuddalore,Panruti -607103",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAY-2026-20260330040156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/468/0/bcbedbe42f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan.c.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Muthukumarasamy",
+        "address": "No.24,1St Main Street,Nlc Rehablitation Centre,Indra Nagar,Neyveli,Kurinjipadi Taluk-607801",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CMK-2026-20260409061829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15508/0/88cb51e545/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.p.s.sivasubramaniyan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Sivachidhambaram",
+        "address": "434-A, Kulakkarai Street, Muthandikuppam, Perperiyankuppam Post, Panruti Taluk-607805",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPS-2026-20260406062314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8467/0/57c3b9f2f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sathiyaseelan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Mani",
+        "address": "729, Ambethkar Nagar, Pathirakottai And Post, Panruti Taluk",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAT-2026-20260406070457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10208/0/8514b159d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Karthikeyan",
+        "address": "400,West Street,Keezhur,Kurinjipadi Taluk-607302",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406065927.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9763/0/7453a9bad4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manimaran.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Pazhanisamy",
+        "address": "308/1, Purangani Road, Kadampuliyur Post,Panruti Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIM-2026-20260406050402.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10051/0/ec2bbcb7b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayakrishnan.k",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "531,Mariyamman Kovil Street, Keezhakollai, Marungur, Cuddalore,Panruti -607103",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAY-2026-20260330040156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6074/0/3456417375/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabu.p",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Palanisamy",
+        "address": "545, Nadukattupalayam, Middle Street,Keezhiruppu Post, Panruti-607103",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABU-2026-20260402050924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5170/0/0852ea9fd0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.angayarkanni",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Rajendran",
+        "address": "New No 305, Old No 299, 1/102, East Street, Sorathur Village And Post, Panruti Taluk, Cuddalore District-607805",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANG-2026-20260406055751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10306/0/b12b98146a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.rajendran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Rajangam",
+        "address": "No.50,Seepili Street, Sorathur Village And Post, Panruti Taluk,Cuddalore District-607805",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260406060809.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9142/0/c73ade00e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran.r",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Rajangam",
+        "address": "No.50,Seepili Street, Sorathur Post, Panruti Taluk-607805",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RRAJ-2026-20260409062309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14967/0/06081aedb3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saba.rajendran",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Sabapathy",
+        "address": "New No 305, Old No 299, 1/102, East Street, Sorathur Village And Post, Panruti Taluk, Cuddalore District-607805",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SABA-2026-20260406054440.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9150/0/8ee7a810e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathiyaseelan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Mani",
+        "address": "No.729, Ambethkar Nagar, Pathirakottai Post, Panruti Taluk-607102",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSAT-2026-20260409062334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15559/0/71ab3d2125/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinivasan.r",
+        "party": "Tamil Telugu National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Ramachandran",
+        "address": "7/13,New Amarnjipuram,Radhakrishnan Nagar,Tondiarpet,Chennai-600081",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINI-2026-20260402013139.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5041/0/1fe4043e3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.rajarajacholan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Thirumalvalavan",
+        "address": "310, West Street, Puliyurkattusagai, Puliyur Post, Kurinjipadi Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TRAJ-2026-20260406052938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9998/0/30fd636fcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.thirumalvalavan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Thirunavukkarasu",
+        "address": "310, West Street, Puliyur Kattusagai, Puliyur Post,Kurinjipadi Taluk",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TTHI-2026-20260406053655.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8495/0/f5c4a20d22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumalvalavan.t",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Thirunavukkarasu",
+        "address": "No.310, West Street, Puliyur Kattusagai, Puliyur Post,Kurinjipadi Taluk-607301",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TTHI-2026-20260406053655.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14669/0/cfb4c646a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeramani.b",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Neyveli",
+        "father_husband_name": "Boopathy",
+        "address": "45,West Street, Velankuppam Road, Kadampuliyur, Panruti-607103",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVEE-2026-20260330044812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5574/0/81e24145f4/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

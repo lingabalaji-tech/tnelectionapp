@@ -1,0 +1,237 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Udhagamandalam",
+    "count": 15,
+    "candidates": [
+      {
+        "name": "A.dharuman",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "L. Ari",
+        "address": "3/111, Ebbanadu Village, The Nilgiris, Tamilnadu - 643206",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ADHA-2026-20260406060306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8617/0/590c0738e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bhojarajan.m",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "H.r. Muthaiah",
+        "address": "29, Sait Lane, Kotagiri Post, The Nilgiris - 643217",
+        "gender": "Male",
+        "age": "79",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBHO-2026-20260406053551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15685/0/ef6b179f9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ibrahim.r",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Rabik Ali",
+        "address": "72,73,74, Sangamam Nagar, Phase 3, Sangamam Nagar, Pothanur, To Chettipalayam Road, Coimbatore - 641201",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RIBR-2026-20260404042205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15019/0/ab612092d7/",
+          "https://voterlist.co.in/affidavit-download/15019/1/ff162b5471/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Bhojarajan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "H.r. Muthaiah",
+        "address": "29, Sait Lane, Kotagiri Post, The Nilgiris - 643217",
+        "gender": "Male",
+        "age": "79",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBHO-2026-20260406053551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10464/0/844e0a47c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manian.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "M.raman",
+        "address": "3/26-A,Maragal Village, Anikorai Post, Thuneri Panchayat, The Nilgiris-643206",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIA-2026-20260402015313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5068/0/c189933e93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Narayanan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Raman",
+        "address": "38/2 Anandagiri, Bluemantas School Road, The Nilgiris, Udhagamandalam, 643001",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NNAR-2026-20260406075457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10726/0/7a58ea4e1a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Subair",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Nachappan",
+        "address": "11/266A, Near Post Office, Cherambadi, Cherambadi Post, Pandalur Taluk, The Nilgiris - 643205",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSUB-2026-20260406073444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10678/0/8cfc33c335/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pavithra",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Mohanraj",
+        "address": "3/68 P5 Pine City, Vallipuram, Tiruppur - 638103",
+        "gender": "Female",
+        "age": "24",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAVIT-2026-20260406061759.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10003/0/038918ee55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ibrahim",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Rabik Ali",
+        "address": "72,73,74, Sangamam Nagar, Phase 3, Sangamam Nagar, Pothanur, To Chettipalayam Road, Coimbatore - 641201",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RIBR-2026-20260404042205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6161/0/81814a7e0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ragupathy B",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Beeman",
+        "address": "59, Government  College Quarters, Opposite Shadi Mahal, Udhagamandalam, Nilgiris-643 002",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAGUP-2026-20260330042407.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/31/0/130fc1e8ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ragupathy.b",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Beeman",
+        "address": "59, Government  College Quarters, Opposite Shadi Mahal, Udhagamandalam, Nilgiris-643 002",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAGUP-2026-20260330042407.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16555/0/1463490853/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Bheema Gowder",
+        "address": "5-121, Uyilatty Village, Kukkalthorai, Kotagiri, Kukkal, The Nilgiris-643217",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406012256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9467/0/f129809a44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran.b",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Bheema Gowder",
+        "address": "5-121, Uyilatty Village, Kukkalthorai, Kotagiri, Kukkal, The Nilgiris-643217",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406012256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15142/0/8a5880197a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saveetha R",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Raja",
+        "address": "2/11 Mariammal Koil Street, Irur, Perambalur, Tamilnadu - 621109",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAVEE-2026-20260404125513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6725/0/3b2a171e0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saveetha.r",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udhagamandalam",
+        "father_husband_name": "Raja",
+        "address": "2/11 Mariammal Koil Street, Irur, Perambalur, Tamilnadu - 621109",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAVEE-2026-20260404125513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16185/0/efcef4ff0b/",
+          "https://voterlist.co.in/affidavit-download/16185/1/855093588b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

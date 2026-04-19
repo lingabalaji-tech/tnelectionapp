@@ -1,0 +1,396 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Thiruporur",
+    "count": 26,
+    "candidates": [
+      {
+        "name": "A.selvaraj",
+        "party": "Mannin Maithargal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "C.arumugam",
+        "address": "No.1047, Kamarajar Street, Santhanampet Village, Manamathi Post Thiruporur Taluk -603 105",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASEL-2026-20260402050948.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5565/0/1f8dd82997/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ambeth Rajan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Rajangam",
+        "address": "No. 403, 4Th Floor, C-Wing, Puravankara Apartment 748, Five Furlong Road, Guindy -Chennai-32.",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMBET-2026-20260330071117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/339/0/88e21b8947/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.vijayaraj",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "M.p.balakrishnan",
+        "address": "Plot No.174, Hill View Residency, Ganapathi Nagar, Vandalor, Chengalpattu  600 048",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVIJ-2026-20260402053959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5851/0/3cd5efa514/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Panneerselvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Dhanabal",
+        "address": "No.1/162, Vinayagar Kovil Street, Venbedu, Chengalpattu District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DPAN-2026-20260406085747.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11325/0/c270535b67/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Purushothaman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Dhanasekaran",
+        "address": "No.3/45, Thulukanathamman, Periyar Nagar, Ellalur, Chengalpattu District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DPUR-2026-20260404083657.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8122/0/ecf998be27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.suresh",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Desingu",
+        "address": "No.294, Vaikuntha Nagar, Pon Vilaintha Kalathur, Chengalpattu - 603405",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSUR-2026-20260404082252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7936/0/1942f85037/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.vinothkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Devadoss",
+        "address": "7/60A Mariamman Koil Street,Pooiluppai, Karumbakkam,Thiruporur Taluk,  Chengalpattu-603108",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVIN-2026-20260330064100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/240/0/79ea80486c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.d.vinoth Kumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Devadoss",
+        "address": "7/60A Mariamman Koil Street,Pooyiluppai, Karumbakkam,Thiruporur Taluk,  Chengalpattu-603108",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVIN-2026-20260330064100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16598/0/a6a29a1d79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.victor John",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "D. Jacob",
+        "address": "No.92, Oothukattamman Kovil Street, Chinnama Nagar, Kelambakkam Post, Thaiyur, Thiruporur -603 103",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JVIC-2026-20260402055915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5664/0/59ebaa4bc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Balu",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Kaliyaperumal",
+        "address": "J-75A, Plot No. 1993, 3Rd Street, 15Th Main Road, Anna Nagar, Chennai  - 600 040",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KBAL-2026-20260406082214.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Elumalai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Kaali",
+        "address": "No.2, Mettu Street, Kalavakkam, Thiruporur Taluk, Chengalpattu District",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KELU-2026-20260404084946.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8200/0/150f2208e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.porcheziyan",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Kumaravel",
+        "address": "No.19/3, Muthumariyamman Koil Street, Thenkodi Village, Thiruvadisoolam Post, Chengalpattu Taluk  District  603108",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPOR-2026-20260404090718.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8240/0/a9eedae64b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L. Elumalai",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Loganathan",
+        "address": "No.2/228, Mettu Street, Kayar Village, Thiruporur Taluk, Chengalpattu District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LELU-2026-20260406093409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11887/0/42bc0e75f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Andrews",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Manogaran",
+        "address": "No. 3/85, Chelliyamman Koil Street, Thandalam, Thiruporur",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAND-2026-20260404085840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8221/0/fa7c93c41e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Elumalai",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Marimuthu",
+        "address": "No.3/78, Pallikuda Street, Kayar, Thiruporur Taluk, Chengalpattu 603 110",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MELU-2026-20260404091540.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8253/0/cb53d248ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Nandagopal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "P.mathiyazagan",
+        "address": "No.134, Kanniyamman Koil Street, Pazhaveli, Chengalpattu District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAN-2026-20260404092346.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8266/0/ee386ee7fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.rajendhran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "N. Nagaraj",
+        "address": "Plot No. 5, Sheeradi Nagar, Melakottaiyur, Chengalpattu District  600127",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAJ-2026-20260406072637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11294/0/26199970bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.s.eakambaram",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Singaram",
+        "address": "No.157, Pillaiyar Koil Street, Periya Nenmeli Village, Perur Post, Thiruporur Taluk, Chengalpattu District  603 104",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSE-2026-20260406102922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12534/0/41a666b43f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Gnanasekaran",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Raman",
+        "address": "No. 6, Perumal Koil Street, Erikarai Street, Pallikaranai, Chennai  600 100",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGNA-2026-20260406074945.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11396/0/023185246f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Panneerdoss",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "P. Raman",
+        "address": "No. 6, Perumal Koil Street, Erikarai Street, Pallikaranai, Chennai  600 100",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPAN-2026-20260404074031.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Gnanasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Sugarbramman",
+        "address": "No.2/84, Eswaran Koil Street, Paiyanur, Chengalpattu District  603 104",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGNA-2026-20260406104027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11885/0/21eeb689dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Meshak",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Samuval",
+        "address": "No.3/15, Pattinathaman Koil Street, Thaiyur, Thiruporur Taluk Chengalpattu District  603 103",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMES-2026-20260404072118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7560/0/713cc63f4f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sreevatsasree",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "B. Vijayaraj",
+        "address": "No. 9A, Devaraj Pillai Street, West Tambaram, Tambaram Taluk, Chengalpattu",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSRE-2026-20260406100359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11831/0/f4db906025/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.mohana Sundharam",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "K.selvaraj",
+        "address": "No.4/58, Ambedkar Street, Pooyiluppai Village, Krumbakkam, Chengalpattu-603108.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOH-2026-20260330075131.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/457/0/6ef4d6b98a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V M Chandiran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Margabandu",
+        "address": "No.9, Ondi Colony Road, Manickapuram, Kollacheri Kundrathur, Chennai  600 069",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMCHA-2026-20260406095128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12381/0/c48a0498d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Desappan",
+        "party": "Samata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruporur",
+        "father_husband_name": "Viswanathan",
+        "address": "No. 117, Singaravelar 10Th Street, Kadalur Chinnakuppam Village, Cheyyur Taluk, Chengalpattu District",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VDES-2026-20260406080145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11022/0/80ce9539ba/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

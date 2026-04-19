@@ -1,0 +1,625 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Palani",
+    "count": 41,
+    "candidates": [
+      {
+        "name": "Anbarasu R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Ramalingam",
+        "address": "18/324, Sathya Nagar, Palani-624 601",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260404120023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6341/0/da73c8f4bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbarasu. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Ramalingam",
+        "address": "324, 5Th Street, Sathya Nagar, Palani, Palani Taluk, Dindigul District-624 601",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260404120023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15541/0/207764cbab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashokkumar G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Gunasekaran P",
+        "address": "176, Thiruvalluvar Cross Street, Anna Nagar, Palani-624 601",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHOK-2026-20260402025252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5543/0/4336b795b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashokkumar. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Gunasekaran",
+        "address": "176, Thiruvalluvar Cross Street, Anna Nagar, Palani , Palani Taluk,  Dindigul District-624 601",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHOK-2026-20260402025252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16532/0/38a9f9bca6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balachandran M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Murugan",
+        "address": "13Th Ward, Reddiyarpatti, Colony-2, Kannivadi Post,Dindigul-624705",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAC-2026-20260406061205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9421/0/2395843103/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balachandran. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Murugan",
+        "address": "13Th Ward, Reddiyarpatti, Colony-2, Kannivadi Post,Dindigul Taluk, Dindigul District-624705",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BALAC-2026-20260409104733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15123/0/fb27a59876/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Praveen Kumar. M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Magudeeswaran",
+        "address": "No.181, Kaliyamman Kovil Street, Adivaram, Palani, Palani Taluk, Dindigul District-624 601",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRAVE-2026-20260409104415.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16252/0/8ff8c1d9c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayakumar T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Thavamani",
+        "address": "69, Vivegananthar Street, Goundan Kulam, Palani-624 601",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAK-2026-20260406024440.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8968/0/18347d8c6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayakumar. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Thavamani",
+        "address": "69, Viveganandhar Street, Goundan Kulam, Palani, Palani Taluk, Dindigul District-624 601",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAK-2026-20260406024440.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14886/0/b07c9cded9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaja A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Abdul Sathar",
+        "address": "37, Perumal Kovil Street, Periyakalayaputhur, Palani-624 615",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAJAA-2026-20260406010024.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8775/0/1fdeb472f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamalakannan S",
+        "party": "Communist Party Of India (Marxist)",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Subburaj",
+        "address": "117, T.k.n.puthur, Ayakudi, Palani-624 613",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAMAL-2026-20260406022435.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10074/0/94172d6199/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Perumal",
+        "address": "1 St Ward, Otter Street, Old Ayakudi, Palani-624 613",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406013303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9816/0/fd719a1de6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kuppuswamy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Kuppuchamy",
+        "address": "Puliyamarathuset, Varathamanathi Post, Balasamuthiram, Palani-624 610",
+        "gender": "Male",
+        "age": "88",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUPPU-2026-20260406014307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8418/0/17340ba59b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madheswari",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Lakshmi",
+        "address": "83, Ambatkar Street, Adivaram, Palani-624 601",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MADHE-2026-20260404045122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7900/0/f8b8423e65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madheswari. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Ramar",
+        "address": "83, Ambedhkar Street, Adivaram, Palani, Palani Taluk, Dindigul District -624 601",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MADHE-2026-20260409103816.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16199/0/d10e2d329a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Magudeeswaran P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Pethik Kudumpan",
+        "address": "246, Chinnakalayamputhur, Palani-624 615",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAGUD-2026-20260404013530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6409/0/fe048685c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugeswari",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Balan",
+        "address": "03, Barathi Anna Nagar, Perumalmalai,  Kodaikanal",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260330024832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/131/0/dac581748f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugeswari B",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Balan",
+        "address": "942, Barathi Anna Nagar, Vilpatty,   Kodaikanal",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260330024832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14000/0/4483d56544/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugeswari. B",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Balan",
+        "address": "942, Barathi Anna Nagar, Vilpatty,   Kodaikanal Taluk, Dindigul District",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260330024832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15612/0/7f00b1400f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nachimuthu S",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Subramani",
+        "address": "36B Garden, Nandhavanampatti, Ayakudi, Palani-624 613",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NACHI-2026-20260402023719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5473/0/a429d8951a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nachimuthu. S",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Subramani",
+        "address": "36B Garden, Nanthavanappatty, Ayakudi Post, Palani Taluk,  Dindigul District-624 613",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NACHI-2026-20260402023719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16494/0/64d989d4f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagalakshmi M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Palanisami",
+        "address": "Pallangi, Kombai, Kodaikanal",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAL-2026-20260404045643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8068/0/d7ea5f52b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandi N",
+        "party": "Communist Party Of India (Marxist)",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Nallusamy",
+        "address": "78/2, Thirumalaisamypuram, Nagalnagar, Dindigul-624 003",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANDI-2026-20260404121513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6408/0/77f28d4654/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandi. N",
+        "party": "Communist Party Of India (Marxist)",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Nallusamy",
+        "address": "78/2, Thirumalaisamypuram, Nagal Nagar, Dindigul Taluk, Dindigul District-624 003",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANDI-2026-20260404121513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14639/0/afbf5eac71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Periyasamy M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Murugan",
+        "address": "5/379, Gandhi Nagar, Kannumeikipatty, Karikali, Gujiliyamparai-624 730",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PERIY-2026-20260406030805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9963/0/a473c84080/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveenkumar M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Magudeswaran",
+        "address": "No.181, Kaliyamman Kovil Street, Adivaram, Palani-624 601",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260404010331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6816/0/b42ed14e42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveenkumar R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Ramalingam",
+        "address": "3/66-C, N.d.nagar, V.k.mills, Chinnakalayamputhur, Palani-624 615",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260404050323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7106/0/fee5d704af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveenkumar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Ramalingam",
+        "address": "3/66-C, N.d.nagar, V.k.mills, Chinnakalayamuthur, Palani Taluk, Dindigul District-624 615",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260404050323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15802/0/5909637e87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramamoorthi G",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Ganesan",
+        "address": "2/175, Adalur, Adalur Post, Dindigul-624212",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAM-2026-20260406055446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10094/0/6007bed824/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramamoorthi. G",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Ganesan",
+        "address": "2/175, Adalur, Adalur Post, Dindigul Taluk, Dindigul District-624212",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAM-2026-20260406055446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15485/0/2809e1a6d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravimanoharan K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Kuppusamy",
+        "address": "Puliyamarathu Set, Varadhamanathi Post, Balasamuthiram, Palani-624 610",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIM-2026-20260404041148.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6801/0/48aa346453/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravimanoharan. K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Kuppusamy",
+        "address": "Puliyamarathu Set, Varadhamanathi Dam Post, Balasamuthiram, Palani Taluk, Dindigul Districrt-624 610",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAVIM-2026-20260409104014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15666/0/0dae0f45f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rubi Dineshbabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Sivasangaran",
+        "address": "D4, Housing Board, Sivagirippatty, Palani-624 601",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RUBID-2026-20260404044419.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7605/0/b3631ebcb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thannasiappan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Periyakaruppanagounder",
+        "address": "4/119 Andipatty, Palani 624 621",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANN-2026-20260406064156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10054/0/25acc5bcca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thannasiappan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Periya Karuppana Gounder",
+        "address": "4/119 , Vinayagar Kovil Thottam, Andipatti, Palani Taluk, Dindigul District -624 621",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THANN-2026-20260409114536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15462/0/343aa93ec5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumalaisamy B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Balan",
+        "address": "103 A Kattabomman Street,Palani 624601",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260406063158.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9245/0/1045c3d1c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumalaisamy. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Balan",
+        "address": "103 A, Kattapomman Street,Palani, Palani Taluk, Dindigul District-624601",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THIRU-2026-20260409093805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15033/0/4f3a44e3d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaikkaldurai",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Kulandaivel",
+        "address": "Manjanakarar Street, New Ayakudi, Palani-624 613",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAIKK-2026-20260406021140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9417/0/831212a08c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaykkaldurai K",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Kulandaivel",
+        "address": "412, Manjanakarar Street, New Ayakudi, Palani-624 613,",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAIKK-2026-20260406021140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13942/0/58cf9bf3d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaykkaldurai. K",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Kulandaivel",
+        "address": "412, Manjanakarar Street, New Ayakudi, Palani  Taluk, Dindigul District-624 613",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAIKK-2026-20260406021140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15122/0/500c44ee0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palani",
+        "father_husband_name": "Magudeswaran",
+        "address": "No.181, Kaliyamman Kovil Street, Adivaram, Palani-624 601",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404012334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6229/0/19b9c0c007/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ambasamudram",
+    "count": 31,
+    "candidates": [
+      {
+        "name": "A.sathiya Bhama",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Ariyanayakam",
+        "address": "E33,5Th Cross Street, Tvs Nagar Palayamkottai, Tirunelveli",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAT-2026-20260404041120.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6792/0/afd9ef4e9a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sorimuthu",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "S.arumugaperumal",
+        "address": "12,Indira Ninaivu Kudiyiruppu,Kothankulam,Gopalasamuthram,Cheranmahadevi-627451,",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASOR-2026-20260406082649.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.esakki Subaya",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "S.esakki Pandian",
+        "address": "31/70, Utchimahakali Amman Koil Street, Pirancheri, Gopalasamudram,Cheranmahadevi Taluk,Tirunelveli-627451",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRES-2026-20260404052957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7012/0/af86ea5014/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.v.sivasankaran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Vellaisamy",
+        "address": "111/8C Indra Nagar Sendurai Salai, Natham Dindigul",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRV-2026-20260330032546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/298/0/7db0133d69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakki Pandi.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Kannaiya Thevar",
+        "address": "17B,North Village Street,Brammadesam,Ambasamudram Taluk",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAKK-2026-20260406102053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12314/0/65f6fa3852/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakkimuthu.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Muthuraj",
+        "address": "16/1,Gandhi Nagar,6Th Street,Pathamadai-627453",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAKK-2026-20260406104811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12089/0/ca330826da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.immanuel Pon Thiraviaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "P.jeyabalan",
+        "address": "97/1, Csi Kovil Street, Venkatrengapuram, Tiruneveli-627152",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JIMM-2026-20260406074124.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Jahir Hussain.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Abdul Majith",
+        "address": "93D, Ayyanarkulam, North Street, Ambasamudram-627401",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAHIR-2026-20260404055837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6936/0/514ffa1c2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.mallika",
+        "party": "Makkal Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "P.muthusamy",
+        "address": "30/29",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAL-2026-20260404060641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7260/0/e62c3944b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mariammal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Mayandi",
+        "address": "61,Kammalar Street,Ambasamudram-627401",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIA-2026-20260406112040.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N.balasubramanian",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Natarajan",
+        "address": "212-5, Psp Nagar, Bank Street , Korampallam",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NBAL-2026-20260330040102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/455/0/0e3e0991d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.subbiah",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "S.piramanayagam",
+        "address": "3/75C, Main Road Keela Earmalpuram, Manimutharu,Ambasamudram-627421",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSUB-2026-20260404055008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7809/0/fc654edb15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandaram.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Krishnan",
+        "address": "5/13A,Asarmar Street,Brammadesam,Ambasamudram-627413",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANDA-2026-20260406105244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12192/0/0f328d1c9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.esaikannan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "K.rajendran",
+        "address": "19,South Colony Nadutheru, Urkad, Ambasamudram",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RESA-2026-20260404033728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6321/0/efcd7396aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.muthu Kumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "M.ramachandran",
+        "address": "C2/266 Gandhi Street,Manakavalampillai Nagar,Palayamkottai,Tirunelveli-627002",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMUT-2026-20260406081739.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sankara Pandian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "P.s.ramiah",
+        "address": "41,Uchimahaliamman Kovil Street,Prancheri,Gopalasamuthiram-627451",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAN-2026-20260406112727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11747/0/e56d16e359/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rahmath Malik.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Kithar Mahideen",
+        "address": "61/1, St Akkar Salai, Pillaiyar Kovil Street, Kalidaikuruchi, Tirunelveli",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAHMA-2026-20260404073354.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7929/0/ae5d76355f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.anandaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Sankararamalingam",
+        "address": "92A, Asath Street, Cheranmahadevi",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANA-2026-20260402022316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5410/0/4678f27ad4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.aravind Samy",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "I.seenikumar",
+        "address": "3/66,Sekilar  Street,Agasthiyarpatti,Sivanthipuram,Tirunelveli-627428",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARA-2026-20260406090009.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.esakkidurai",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "E.subaya",
+        "address": "21,Soundara Pandian Street, Ashok Nagar, Chennai-600083",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SESA-2026-20260404054330.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7483/0/5bddfb8148/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "S.sekar",
+        "address": "120, North Street, Mudappalam,Ambasamudram",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAN-2026-20260402023243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5462/0/c8f86f4d43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.rajagopal",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Sankaran",
+        "address": "E33, 5Th Cross Street, Tvs Nagar, Palayamkottai, Tirunelveli",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404034950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6467/0/8938852e92/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sam Sunder Singh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Samuvel Duraipandian",
+        "address": "112,North Street,Idyankulam,Tirunelveli",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAM-2026-20260406084704.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.selvakumar",
+        "party": "Magadh Congress Of Inda",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "K.sivanthimuthu",
+        "address": "32A, Middle Street, Thiruviruthanpulli",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEL-2026-20260402020728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5339/0/b20ad99601/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankara Subramanian",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Velu Samy",
+        "address": "4/67,Manur Block-4,Lakshmipuram South Street,Tirunelveli-627201",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260406111428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12499/0/6ce3c24cdc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sheik Syed Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Diwan Pakkir Mydeen",
+        "address": "150/72,Kayithemillath Street,Cheranmahadevi",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHEIK-2026-20260406093253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11857/0/3cc8c285c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subbiah Konar.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Arumuga Konar",
+        "address": "5/44,Poundi Street,Sattupathu,Ambasamudram-627416",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBBI-2026-20260406102526.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12429/0/afdff975e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Abubacker",
+        "address": "168 Kottaivilaipatti Road,Sankarapandiyapuram,Vikramasingapuram,Tirunelveli-627425",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDA-2026-20260406110304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12374/0/d8818e3a3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Basha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Varisai Maideen",
+        "address": "8B, Kulathadi Street, Pathamadai, Kesavasamudram, Cheranmahadevi",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDB-2026-20260406080359.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Uma Jothi .R",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Rajamani",
+        "address": "2/274,Kanganangkulam,Thiruviruthanpulli,Cheranmahadevi-627414",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UMAJO-2026-20260406101513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12146/0/c35a5da9ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.p.durai",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Ambasamudram",
+        "father_husband_name": "Veldurai",
+        "address": "2/274,Kanganankulam,Thiruviruthanpulli,Cheranmahadevi-627414",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPD-2026-20260406094258.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12140/0/3ea3095c2d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

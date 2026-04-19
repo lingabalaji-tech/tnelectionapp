@@ -1,0 +1,596 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Pennagaram",
+    "count": 39,
+    "candidates": [
+      {
+        "name": "Ajith Kumar. S.",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Sivakumar. V.",
+        "address": "2/67, Chinnakadamadai, Manjanayakkanahalli Village, Kalappampadi Post, Pennagaram Taluk, Dharmapuri District - 636811",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJITH-2026-20260406030825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9969/0/a323082b51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Annamalai. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Muniraj",
+        "address": "5/309, Alamarathur Village, Perumbalai Post, Pennagaram Taluk, Dharmapuri District - 636811",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANNAM-2026-20260406011043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9094/0/f062ca3414/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunkumar. G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Govindan",
+        "address": "6/65, Rangapuram Village, Rangapuram Post, Pennagaram Taluk, Dharmapuri District - 636813",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARUNK-2026-20260406101237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11998/0/8bfd4a0340/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elavarsan. A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Andiyappan",
+        "address": "9/160, Oddanur Village, Neruppur Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELAVA-2026-20260404010613.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6850/0/583bc18529/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. K. M. Tamilkumaran",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Mani. G. K.",
+        "address": "270/1, Sakthi Theatre Road, P.n. Patti Town Panchayath, Mettur R.s, Karumalaikoodal, Mettur Taluk, Salem District - 636402",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406063911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15326/0/e7d3f0cc2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gajendran. S.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Sendrayan",
+        "address": "1/53A, Nachanur Village, Senganur Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GAJEN-2026-20260406013842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10088/0/5efbacee27/",
+          "https://voterlist.co.in/affidavit-download/10088/1/2bdf484f53/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gnanaselvam. S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Sivaprakasam",
+        "address": "2/274, Muthaiyan Kovil Kadu, Nagamarai Village, Nagamarai Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNANA-2026-20260406104140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11909/0/1af5c53124/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan. K.",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Krishnan",
+        "address": "6D/64B, Ward 15, Appavu Nagar, 5Th Street, Kumarasamy Pettai Post, Dharmapuri Taluk, Dharmapuri District - 636701",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260406124552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10336/0/0bbddf6e2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick. A.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Arichandiran",
+        "address": "1/633, Sathiram, Koothapadi Village, Hogenakkal Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406021308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9490/0/d763671796/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick. A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Arichandiran",
+        "address": "1/633, Sathiram, Koothapadi Village, Hogenakkal Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406021308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13029/0/93053b749e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnan. M. K.",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Kuppa Gounder",
+        "address": "5/89, Mel Street, Mangapatti Village, Makkanur Post, Pennagaram Taluk, Dharmapuri District - 636809",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406075401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10688/0/63ba61d557/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnan. M. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Kuppa Gounder",
+        "address": "5/89, Mel Street, Mangapatti Village, Makkanur Post, Pennagaram Taluk, Dharmapuri District - 636809",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406075401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12932/0/2af69d7299/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Murugan",
+        "address": "1/36, Kalappampadi Village, Kalappampadi Post, Pennagaram Taluk, Dharmapuri District - 636811",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260406023939.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8709/0/08181786b2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mani. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Ponnusamy",
+        "address": "198, Sekkumedu, Pennagaram Town, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANI-2026-20260406033702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9113/0/b7499d4a87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manivannan. S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Subramaniyan",
+        "address": "1/1A, Aanaikallanur Village, Noolahalli Post, Pennagaram Taluk, Dharmapuri District - 636813",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIV-2026-20260406103635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11808/0/601de36f2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manoharan. K. A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Appiyan",
+        "address": "3/63A, Koorkampatti Village, Eriyur Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANOH-2026-20260404043720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7398/0/6328a78174/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniyammal",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Thirupathi",
+        "address": "2/249/8 Mangalapatti, K.chettihalli, Palacode, Dharmapuri - 636809",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PALAN-2026-20260330032506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/232/0/1ec2c620d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniyammal. T.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Thiruppathi",
+        "address": "2/49/8, Mangalapatti, K.chettihalli, Palacode Taluk, Dharmapuri District- 636809",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PALAN-2026-20260330032506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6068/0/ee70e35009/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poomani. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Perumal. M",
+        "address": "4/123, Kondasamanahalli Village, Dhandukaranahalli Post, Palacode Taluk, Dharmapuri District - 636808",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOMA-2026-20260330055049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/631/0/0c43791e00/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pradeepa. M.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Kottu Saravanan",
+        "address": "Godupatti Village, Vattuvanahalli Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRADE-2026-20260330051943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/391/0/a6a6527d15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Muthusamy",
+        "address": "4/357, Pattakaran Kottai Village, Sunjalnatham Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTT-2026-20260402025836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5947/0/d653ca3810/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saktthivel. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Muthusamy",
+        "address": "4/357, Pattakaran Kottai Village, Sunjalnatham Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTT-2026-20260402025836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5563/0/ff99750408/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanankumar. V.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Venu",
+        "address": "2/236, Avvai Nagar, Paruvathanahalli Village, Noolahalli Post, Pennagaram Taluk, Dharmapuri District - 636813",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260404022615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6134/0/e50a018456/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanankumar. V.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Venu",
+        "address": "2/236, Avvai Nagar, Paruvathanahalli Village, Noolahalli Post, Pennagaram Taluk, Dharmapuri District - 636813",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260404022615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13166/0/29685e3a22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathiya. R. C.",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Tamilkumaran. G. M.",
+        "address": "270/1, Nehru Nagar, Sakthi Theatre Road, P.n. Patti Town Panchayat, Mettur Dam, Mettur Taluk, Salem District - 636402",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406065106.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9001/0/6040682e55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Poomalai",
+        "address": "4/151, Ajjanahalli Village, Ajjanahalli Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406072857.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11390/0/283316d314/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam. V.",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Venkatraman",
+        "address": "1/93, Padi Village, Padi Post, Palacode Taluk, Dharmapuri District - 636809",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406060251.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8608/0/75d5313e16/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam. V.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Verappa",
+        "address": "9/78/B, Oddanur Village, Nagamarai Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406081949.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10816/0/8b36426f6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraji. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Perumal",
+        "address": "3/66 Kombadiyur Village, Perumbalai Post, Pennagaram Taluk, Dharmapuri District - 636811",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406083907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10634/0/46978510c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sendrayan. G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Govindhan",
+        "address": "2/337, Puliyamarathur Village, Bathrahalli Post, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENDR-2026-20260406121534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9753/0/9f04478810/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilarasan. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Muthu. P.",
+        "address": "1/522, Samiyar Kottai Village, Manjanayakkanahalli Post, Pennagaram Taluk, Dharmapuri District - 636813",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260404051630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7693/0/a89daf5201/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilkumaran. G. M.",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Mani. G. K.",
+        "address": "270/1, Nehru Nagar, Sakthi Theatre Road, P.n. Patti Town Panchayat, Mettur Dam, Mettur Taluk, Salem District - 636402",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406063911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9821/0/f700b5c01f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilselvi. S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Singaravelan. R.",
+        "address": "2/202B, P. S. Murugesan Colony, Papparapatti Post, Pennagaram Taluk, Dharmapuri District - 636809",
+        "gender": "Female",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260404030602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6657/0/681f27d791/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thavamani. C.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Chinnaparsuraman",
+        "address": "4/140-1, Thalapallam Village, Bikkampatti Post, Pennagaram Taluk, Dharmapuri District - 636813",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAVA-2026-20260404014046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6448/0/9f60c82573/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumurugan. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Periyathambi",
+        "address": "3/99A, Ramiyampatti, Mallikuttai Post, Karimangalam Taluk, Dharmapuri District - 635205",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260402034733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5302/0/d61bdd4314/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumurugan. P.",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Periyathambi",
+        "address": "3/99A, Mariyamman Kovil Street, Ramiyampatti, Mallikuttai Post, Karimangalam Taluk, Dharmapuri District - 635205",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260402034733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5801/0/f1d5e1fe2d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veerappan. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Mari",
+        "address": "5/35, Godupatti Village, Dhasampatti Post, Pavalanthur, Pennagaram Taluk, Dharmapuri District - 636810",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260406054236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8945/0/762c2e7df8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vil Krishnan. R.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Raji",
+        "address": "3/259A, Nimmangarai Village, Mallikuttai Post, Karimangalam Taluk, Dharmapuri District - 635205",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VILKR-2026-20260402012004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5021/0/8835244334/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vilkrishnan. R.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pennagaram",
+        "father_husband_name": "Raji",
+        "address": "3/259A, Nimmangarai Village, Mallikuttai Post, Karimangalam Taluk, Dharmapuri District - 635205",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VILKR-2026-20260402012004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5223/0/e894e68f3c/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

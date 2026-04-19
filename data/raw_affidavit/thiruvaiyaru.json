@@ -1,0 +1,498 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Thiruvaiyaru",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "Abiman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Chinnaiah",
+        "address": "13 , Nanjikottai R.v , Lakshmi Nagar , Thanjavur - 613006",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABIMA-2026-20260409111903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15317/0/ce489cf78e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abiman Ragunath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Chinnaiah",
+        "address": "13 , Nanjikottai R.v , Lakshmi Nagar , Thanjavur - 613006",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABIMA-2026-20260406013441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9802/0/e7b007d125/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arjun S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Suyambu R",
+        "address": "1 /70 , Mathur Thotti , Mathur West , Thanjavur Taluka And District - 614206",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARJUN-2026-20260404033056.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6209/0/d07f093e63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bhuvaneswari M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Manikandan M",
+        "address": "2/280 , Mela Street , Sanoorapatti , Sengipatti , Budalur Tk , Thanjavur - 613402",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHUVA-2026-20260406021956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9809/0/83b4cbb447/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai . Chandrasekaran",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Duraiayya Pandurar",
+        "address": "1103 , Christhuva Vellala Street , Kandiyur , Thiruvaiyaru Taluka , Thanjavur 613202",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DURAI-2026-20260330044951.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/509/0/0ea9c7466a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai. Chandrasekaran",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Duraiayya Pandurar",
+        "address": "1103 , Christhuva Vellala Street , Kandiyur , Thiruvaiyaru Taluka , Thanjavur District 613202",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DURAI-2026-20260406125817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16655/0/f931ab5519/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai. Senthilnathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Dhurai Raj",
+        "address": "3/43 , North Street , Koonampatti , Pallayapatti South , Budhalur Taluk , Thanjavur 613402",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SENTH-2026-20260406010240.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16612/0/dcce5b3c55/",
+          "https://voterlist.co.in/affidavit-download/16612/1/12ebe5a7a1/",
+          "https://voterlist.co.in/affidavit-download/16612/2/773391dd20/",
+          "https://voterlist.co.in/affidavit-download/16612/3/97ef66c76d/",
+          "https://voterlist.co.in/affidavit-download/16612/4/fe7010782e/",
+          "https://voterlist.co.in/affidavit-download/16612/5/f6124ee882/",
+          "https://voterlist.co.in/affidavit-download/16612/6/6c9662941c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Er.s. Arjun",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Suyambu R",
+        "address": "1 /70 , Mathur Thotti , Mathur West , Thanjavur Taluka And District - 614206",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARJUN-2026-20260406012917.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15781/0/d396208833/",
+          "https://voterlist.co.in/affidavit-download/15781/1/3087051113/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaindhraeswaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Jayapal",
+        "address": "9 - 3 , Ashok Nagar , Sarfoji Collage Post , Thanjavur",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAI-2026-20260409111949.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15076/0/cf169d32bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaindhraewaran J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Jayapal",
+        "address": "9 - 3 , Ashok Nagar , Sarfoji Collage Post , Thanjavur",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAI-2026-20260406063259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9331/0/5efa507ea6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannaki R",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Karthikeyan V",
+        "address": "304 / 1 , Nadu Theru , Thiruchidavalanthai , Koothur , Thiruvaiyaru Tk , Thanjavur",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260406062043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10266/0/72e35d3b4c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karpakam S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Thangadurai R",
+        "address": "37 / 1 - D , South Veethi , Thiruvaiyaru , Thanjavur - 613204",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARPA-2026-20260406084253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10794/0/ff1bd18e87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan V",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Velu Mavaliyar",
+        "address": "304 / 1 , Nadu Theru , Thiruchidaivalanthai , Koothur , Thiruvaiyaru , Thanjavur",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406042347.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9258/0/b62b13fad5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Madhiyalagan A",
+        "address": "2/280 , Mela Theru , Sanoorapatti , Sengipatti , Budalur Tk , Thanjavur",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260404081316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7697/0/04c3243b5b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mathi. Manikandan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Madhiyalagan A",
+        "address": "2/280 , Mela Theru , Sanoorapatti , Sengipatti , Budalur Tk , Thanjavur",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260404081316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15665/0/abe846d95b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan C",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Chinnathambi",
+        "address": "63 , Ayyanar Kovil Street , Thiruvaiyaru Tk , Thanjavur - 613204",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260406022938.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Rajkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Ramadoss",
+        "address": "26 , Akilandapuram , Thiruvaiyaru Tk , Thanjavur - 613204",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJKU-2026-20260406035448.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15329/0/887e90e0ec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Sathiyanarayanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Ramamoorthy R",
+        "address": "39 / 6 , Raja Nagar , Thiruvaiyaru , Thanjavur - 613204",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406040947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14645/0/6fc593e5f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekaran S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Samuthiramoorthi",
+        "address": "No.226 , Nadutheru , Murukkangudi , Kondaivattanthidal Village , Thanjavur Taluk And District",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260404035841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6587/0/5e026e37f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekaran. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Samuthiramoorthi",
+        "address": "No.226 , Nadutheru , Murukkangudi , Kondaivattanthidal Village , Thanjavur Taluk And District",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJAS-2026-20260406012941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16082/0/3238cedb6b/",
+          "https://voterlist.co.in/affidavit-download/16082/1/9504541bc2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Ramaiyah",
+        "address": "Vadakku Kudiyana Street , Sathanur V And P , Thillaistanam Via , Thiruvaiyaru Taluka",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260402044029.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5297/0/2dabe02238/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Ramadoss",
+        "address": "26 , Akilandapuram , Thiruvaiyaru Tk , Thanjavur - 613204",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJKU-2026-20260406035448.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9826/0/cf8dd54e6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vijayakumar",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Santhanam",
+        "address": "No 899 , Jeeva Nagar , Budalur - Po , Thanjavur - 613602",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIJAY-2026-20260406010739.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16543/0/23b95c9d16/",
+          "https://voterlist.co.in/affidavit-download/16543/1/6f47cfe9ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathiyanarayanan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Ramamoorthy R",
+        "address": "39 / 6 , Raja Nagar , Thiruvaiyaru , Thanjavur - 613204",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406040947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8432/0/90080f1543/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilnathan D",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Dhurai Raj",
+        "address": "3/43 , North Street , Koonampatti , Pallayapatti South , Budhalur Taluk , Thanjavur 613402",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260330050816.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/314/0/b04a23dffa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thennarasu P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Panneerselvam",
+        "address": "245 , Rajagri Padugai , Thiruchennam Poondi , Budalur Tk , Thanjavur - 613105",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THENN-2026-20260404081650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7470/0/65e42c238b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Venu",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Varatharajan V",
+        "address": "54, 4 Th Street , Thenkarai , Sevappanayakkanvari ,  Srinivasapuram , Thanjavur - 613009",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENUV-2026-20260406083628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14657/0/0fe2e25d37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. Karthikeyan",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Velu Mavaliyar",
+        "address": "304 / 1 , Nadu Theru , Thiruchidaivalanthai , Koothur , Thiruvaiyaru , Thanjavur",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARTH-2026-20260409111929.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15041/0/3e23c1c5a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venu V",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Varatharajan V",
+        "address": "54, 4 Th Street , Thenkarai , Sevappanayakkanvari ,  Srinivasapuram , Thanjavur - 613009",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENUV-2026-20260406083628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10507/0/5578342c6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaya B",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Babu T",
+        "address": "25 , Annai Savithri Nagar , Rajaji Nagar Ext. , Thanjavur - 613005",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404040858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6756/0/70ce781ed2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaya Babu",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Babu T",
+        "address": "25 , Annai Savithri Nagar , Rajaji Nagar Ext. , Thanjavur - 613005",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIJAY-2026-20260406013303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16210/0/112897bf78/",
+          "https://voterlist.co.in/affidavit-download/16210/1/3ad6f3b070/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar S",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruvaiyaru",
+        "father_husband_name": "Santhanam",
+        "address": "No 899 , Jeeva Nagar , Budalur - Po , Thanjavur - 613602",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260402025740.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5561/0/60b211e16c/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

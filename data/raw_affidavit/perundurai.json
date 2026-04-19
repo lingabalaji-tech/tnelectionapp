@@ -1,0 +1,561 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Perundurai",
+    "count": 37,
+    "candidates": [
+      {
+        "name": "Arunachalam R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Rangasamy",
+        "address": "63, Kannavelampalayam, Mullampatti Post, Perundurai  Erode - 638 107",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNA-2026-20260406072159.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11121/0/139fe0c979/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunachalam. V. P",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Palanisamy Gounder",
+        "address": "731,  Uzhavan Nagar, Chennimalai Road, Perundurai,   Erode - 638052",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARUNA-2026-20260410122747.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16434/0/014aa64bd1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Loganathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Chinnasamy",
+        "address": "2/100, Nalligoundenpalayam Pirivu, Ingur - 638052, Perundurai, Erode District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CLOG-2026-20260330042057.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/648/0/1f1b24267b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Prabhakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Dhanaraj",
+        "address": "197, Brough Nagar, Nichampalayam Po Thingalur, Perundurai Tk Erode  638 055",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DPRA-2026-20260402062735.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5822/0/f9c1451ddf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eswaran. P",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "K. Palanisamy",
+        "address": "1/23-1, Alamedu, Mullampatti Post Perundurai, Erode   638107",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ESWAR-2026-20260410122647.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16482/0/22bd66b673/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "George Stephen A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Arumairajan",
+        "address": "4/297 Pandiyan Street, Kampuliyampatti Perundurai 638056",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GEORG-2026-20260406082723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11101/0/5535a1ba02/",
+          "https://voterlist.co.in/affidavit-download/11101/1/ec5ca0e0d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "George Stephen. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Arumairajan",
+        "address": "4/297, Pandiyan Street, Kampiliampatti Perundurai, Erode - 638056",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GEORG-2026-20260410123013.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15263/0/867987c586/",
+          "https://voterlist.co.in/affidavit-download/15263/1/a3665c9dea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ingur. C. Loganathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Chinnasamy",
+        "address": "2/100, Nalligoundenpalayam Pirivu, Ingur Perundurai,  Erode  638052",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/INGUR-2026-20260410122617.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16567/0/8250721a05/",
+          "https://voterlist.co.in/affidavit-download/16567/1/4f2f612f6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayakumar. S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "P.c. Subramani",
+        "address": "2/14, Shanmugapuram, Ponmudi Po Perundurai, Erode - 638056",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAK-2026-20260410122728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15857/0/3ddd82e081/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaprakash. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Kittan",
+        "address": "27,  Harijana Colony, Ricemill Pudur, Nallampatti, Perundurai, Erode-638057",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAP-2026-20260410123032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15982/0/b496e06d68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Jayaprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Kittan",
+        "address": "27, Harijana Colony, Ricemill Pudur, Nallampatti, Perundurai, Erode-638057",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KJAY-2026-20260404063949.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7422/0/c1da6e918b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Sekar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Kittan",
+        "address": "2/118, Kasipillampalayam,  Kambuliyampatti Post, Perundurai, Erode  638 056",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEK-2026-20260402055256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5921/0/67fabdd07f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madeshwari V",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Thoppu Venkatachalam Alias N.d.venkatachalam",
+        "address": "186/14, R.s.road, Thoppupalayam, Perundurai-638 052",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MADES-2026-20260406075027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11428/0/2048c29c56/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nirenjan A.v.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "V.p. Arunachalam",
+        "address": "731,  Uzhavan Nagar, Chennimalai Road,  Perundurai -638 052 Erode.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NIREN-2026-20260404062831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6931/0/9a1180c0c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Eswaran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "K. Palanisamy",
+        "address": "1/23-1, Alamedu, Mullampatti Post Perundurai Tk,  Erode   638 107",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PESW-2026-20260402054519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5881/0/26b3f801c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Murugan",
+        "address": "3, Panikkampalayam North, Perundurai-638052 Erode",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406070357.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10150/0/70c6f0ce68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Murugan",
+        "address": "3, Panikkampalayam North, Perundurai, Erode - 638052",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PALAN-2026-20260410122935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15530/0/cb58f10f4d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Shanmugapriya",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Jayakumar",
+        "address": "2/14, Shanmugapuram, Ponmudi Po Perundurai  638 056",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSHA-2026-20260402070543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5706/0/44c8b93e3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.d. Ashok Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "R. Duraisamy",
+        "address": "46, Chettithottam, Anna Nagar, Kangayampalayam, Kasthuripalayam, Uthukkuli - 638 751 Tiruppur.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDA-2026-20260404061629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7666/0/b43edee32c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravi C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Chandhira Perumal",
+        "address": "452/5, Harijana Colony, Kalliyamputhur, Vijayamangalam, Perundurai -638056",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIC-2026-20260406071156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8717/0/55ba1e63c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Jayakumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "P.c. Subramani",
+        "address": "2/14, Shanmugapuram, Ponmudi Po Perundurai  638 056",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJAY-2026-20260402065712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5653/0/712d22e1fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Santhosh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Shanmugam",
+        "address": "12, Kalliampudur Road, Perundurai, Erode   638 052",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAN-2026-20260402063914.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5880/0/a517ff1cc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhosh. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Shanmugam",
+        "address": "12,  Kalliampudur Road, Perundurai, Erode   638052",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANTH-2026-20260410122850.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15426/0/92678de3b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraju M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Maran",
+        "address": "25/20 Perumapalayam, Mullampatti Post Perundurai-638107",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406065906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9727/0/e44812177d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraju. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Maran",
+        "address": "25/20 Perumapalayam, Mullampatti Post Perundurai, Erode - 638107",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVA-2026-20260410122914.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14692/0/2f3d10b30b/",
+          "https://voterlist.co.in/affidavit-download/14692/1/a8dd8e8c25/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvarasu M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Maran",
+        "address": "25/20 Perumapalayam, Mullampatti Post Perundurai-638107",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406065906.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthosh Krishnan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Singaram",
+        "address": "24, Velliampathi, Aadhiyur, Kunnathur, Tiruppur - 638 103",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260404065842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8062/0/9f6ed3dbcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthosh Krishnan. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Singaram",
+        "address": "24, Velliampathi, Aadhiyur, Kunnathur, Tiruppur - 638103",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHANT-2026-20260410122815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16285/0/c31a9256ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thoppu Venkatachalam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Deivasikamani Gounder",
+        "address": "186/14, R.s.road, Thoppupalayam, Perundurai-638 052",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THOPP-2026-20260404054959.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Thoppu Venkatachalam (Alias) N.d. Venkatachalam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Deivasikamani Gounder",
+        "address": "186/14, R.s.road, Thoppupalayam, Perundurai, Erode  - 638052",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THOPP-2026-20260410122709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16025/0/aa10ad6c84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Manoj",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Viswanathan",
+        "address": "90/21/1,  V.c.v. Nagar, Panikkampalayam Road, Perundurai - 638 052",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMAN-2026-20260330044928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/305/0/24324cd2f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.p. Arunachalam",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Palanisamy Gounder",
+        "address": "731, Uzhavan Nagar, Chennimalai Road, Perundurai,  Erode.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPA-2026-20260402052731.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Valarmathi P",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Palanisamy",
+        "address": "3/72, Matha Kovil Street, Ellispettai, Pallapalayam, Erode - 638116",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VALAR-2026-20260406055644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10251/0/91e6969736/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Valarmathi. P",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Palanisamy",
+        "address": "3/72,  Matha Kovil Street, Ellispettai, Pallapalayam, Erode - 638116",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VALAR-2026-20260410122834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15583/0/eae666e754/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalam C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Chinnasamy Gounder",
+        "address": "2/118, Puthuthottam, Chinniyampalayam, Kunnathur, Uthukuli Tiruppur - 638103",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406081217.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalam C",
+        "party": "Independent Nationalist Front",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Chinnasamy Gounder",
+        "address": "2/118, Puthuthottam, Chinniyampalayam, Kunnathur, Uthukuli Tiruppur - 638103",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406081217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11457/0/962d887ded/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalam. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perundurai",
+        "father_husband_name": "Chinnasamy Gounder",
+        "address": "2/118, Puthuthottam, Chinniyampalayam, Kunnathur, Uthukuli,  Tiruppur - 638103",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260410122954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14653/0/e7fd23712b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Peravurani",
+    "count": 25,
+    "candidates": [
+      {
+        "name": "Abinaya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Chandra Kandeeban",
+        "address": "2/66, North Street, Kurichi, Pattukkottai-Tk, Thanjavur-Dt-614 602",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABINA-2026-20260404053432.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7158/0/8391f31799/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulmurugan. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Tamilselvan",
+        "address": "1-14C, Vathalaikkadu, Pookkollai Po, Peravurani-Tk, Thanjavur Dt-614 804",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULM-2026-20260404043537.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7340/0/7b2cff2fde/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashokkumar. N",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Narayanasamy",
+        "address": "77-D-1, K.k.nagar, Sethu Road, Peravurani, Peravurani -Tk, Thanjavur-Dt-614 804",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHOK-2026-20260406070241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10021/0/82161b6467/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bhuvana Maniyarasan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Maniyarasan.j",
+        "address": "4-245, Karikalan Street, Pokkan Viduthi South, Thiruchitrambalam West, Pattukkottai Tk, Thanjavur Dt-614 628.",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHUVA-2026-20260330031110.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/219/0/5be44376d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrakandeeban. D",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Dhanabalan",
+        "address": "2/66, North Street, Kurichi, Pattukkottai-Tk, Thanjavur-Dt-614 602",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260406125635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8638/0/621487faf9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chithiravelu. G",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Ganesan",
+        "address": "2/133, Pallar Street, Mariyamman Kovil, Vattathikkottai, Thiruvonam-Tk, Thanjavur-Dt-614 628",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHITH-2026-20260406102141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12346/0/b8b56a0766/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.chandrakandeeban",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Dhanabalan",
+        "address": "2/66, North Street, Kuruchi, Pattukkottai Taluk, Thanjavur District-614 602",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260406125635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14734/0/a36b1bd1b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dinesh. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Nachimuthu",
+        "address": "291/A, Melakudiyiruppu, Mudukadu, Mudukadu-Po,Peravurani-Tk, Thanjavur-Dt-614 612",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DINES-2026-20260406044607.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Elango. G",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Govindarajan",
+        "address": "37, Hospital Road, Peravurani, Peravurani Tk, Thanjavur-Dt-614 804",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELANG-2026-20260406053155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10156/0/19a7e465dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.chithiravelu",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Ganesan",
+        "address": "2/133, Pallar Street, Mariyamman Kovil, Vattathikkottai, Thiruvonam Taluk, Thanjavur District-614 628",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHITH-2026-20260406102141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15412/0/bdcc8f3ef0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Govi.elango",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Govindarajan",
+        "address": "37, Hospital Road, Peravurani,  Thanjavur-Dt-614 804",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELANG-2026-20260406053155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15533/0/4fdaa8555f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Thangappan",
+        "address": "73, South Street, Old Peravurani, Peravurani-Tk, Thanjavur-Dt-614 804",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATAR-2026-20260406014312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10262/0/7c0faff6db/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natarajan Thangappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Thangappan",
+        "address": "73, South Street, Old Peravurani, Peravurani-Tk, Thanjavur-Dt-614 804",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATAR-2026-20260406014312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13131/0/ed4fdb8485/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Neiveli Sasikumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Rengan. P",
+        "address": "168, Mullupudi Kollai, Neiveli Thenpathi, Thiruvonam Taluk, Thanjavur District-614 628",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIK-2026-20260404040022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16110/0/5c85c4db13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parimala. A",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Ashokkumar. N",
+        "address": "77-D-1, K.k.nagar, Sethuroad, Peravurani, Peravurani-Tk, Thanjavur-Dt- 614 804",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARIM-2026-20260406071755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10953/0/03cbec7a4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pasumaibhoomi Natarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Thangappan",
+        "address": "73, South Street, Old Peravurani, Peravurani-Taluk, Thanjavur District-614 804",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATAR-2026-20260406014312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15589/0/40d50cf92e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ravi",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Ramaiya",
+        "address": "5/31, Neiveli Vadapathi,  Orathanadu Taluk, Thanjavur District-614 628",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVI-2026-20260406094822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15316/0/c1729409a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rama Ravi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Vinoth Kumar. S",
+        "address": "86, Sanikkadu, Kundakavayal, Aranthangi, Pudukkottai Dt- 614 616",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAR-2026-20260330044245.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/176/0/ca00848581/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravi. R",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Ramaiya",
+        "address": "5/31, Neiveli Vadapathi, Neiveli Vadapathi Po, Orathanadu Taluk, Thanjavur-Dt-614 628",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVI-2026-20260406094822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12287/0/42bb987e93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sargunam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Thiruvengadam",
+        "address": "105-62A Arugan Street Kalathur Patukkottai Taluka Kalathur East Thanjavur 614804",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/177/1775108062WhatsAppImage2026-04-02at103324AM.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11751/0/aba7eaae68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikumar. R",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Rengan. P",
+        "address": "168, Mullupudi Kollai, Neiveli Thenpathi, Thiruvonam Tk, Thanjavur Dt-614 628",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIK-2026-20260404040022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6625/0/54ba0fe054/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathya. V",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Elango",
+        "address": "37, Hospital Road, Peravurani, Peravurani Tk, Thanjavur-Dt-614 804",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHY-2026-20260406060732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9060/0/886b0029de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.arulmurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Tamilselvan",
+        "address": "1-14C, Vathalaikkadu, Pookkollai Post, Peravurani-Taluk, Thanjavur District-614 804",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULM-2026-20260404043537.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14775/0/c18775cf7c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "U.uthayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Ulaganathan",
+        "address": "D.no.1043, Adidravidar Street, Neiveli Vadapathi, Orathanadu Taluk, Thanjavur District-614 628",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UTHAY-2026-20260406082241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15071/0/7eb0d9d7ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Uthayakumar. U",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Peravurani",
+        "father_husband_name": "Ulaganathan",
+        "address": "1043, Adidravidar Street, Neiveli North, Orathanadu Taluk, Thanjavur Dt-614 628",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UTHAY-2026-20260406082241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10929/0/90a1e3d484/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

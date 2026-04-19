@@ -1,0 +1,591 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Bodinayakanur",
+    "count": 40,
+    "candidates": [
+      {
+        "name": "Ashif Mowlana",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "S.sarbutheen",
+        "address": "112/1 Pallivasal Street,Seelaiyampatti,Theni",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHIF-2026-20260406124555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10342/0/b9a92bde05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balasubramani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Rengasamy",
+        "address": "1491, Veerapandi Road, Thappukundu, Thadicheri Po, Theni Dt.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/200/1774872836img2026011222073876.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5490/0/3dd3aeff42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balasubramani.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Rengasamy",
+        "address": "1491, Veerapandi Road, Thappukundu, Thadicheri Po, Theni Dt.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BALAS-2026-20260410015934.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15522/0/d357001994/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.baluchamy",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Chinnappan",
+        "address": "292,Vivekanathar Street,Nadaraj Nagar,Madurai",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CBAL-2026-20260406021421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9565/0/fe95970ef3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.baluchamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Chinnappan",
+        "address": "292,Vivekanathar Street,Nadaraj Nagar,Madurai",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CBAL-2026-20260406021421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13045/0/3ea60dfd8a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.mallaiyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "M. Chokkalingam",
+        "address": "2W-244,Soundeeswari Nagar,B.renganathapuram,Melachokkanathapuram,Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CMAL-2026-20260404115340.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekaran.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "R.subramaniya Pillai",
+        "address": "10,Vaniyar Street, Chinna Kadai Veethi, Vadugapatti,Periyakulam,Theni",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CHAND-2026-20260410013913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15838/0/31d7dbb41f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.pandikumar.s",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Ponnammal Subramani",
+        "address": "924W, Vinobaji Nagar Second Street, Near Vithaikal Education Centre, Bodinayakanur.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRPA-2026-20260410015214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15812/0/d201ad8ebb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.karuppaiah",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Gopal",
+        "address": "Soudamman Kovil Street,Silamalai,Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GKAR-2026-20260406014923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8511/0/f5192a5495/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gowtham.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Rajendran",
+        "address": "11-1-19,Main Road,Upparpatti,Veerapandi",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGOW-2026-20260406025401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15069/0/05c22aa749/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.velraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Kaliappan",
+        "address": "290,Ramakrishnapuram,Pottipuram,Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406122248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9936/0/9c8cd7d9c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.vijayaragavan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Kumar.e",
+        "address": "16/22W,Pudhu Street,Kulalarpalayam,Bodinayakanur",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVIJ-2026-20260406024005.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalaiarasu.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Srinivasagam",
+        "address": "Moovendar Illam 414, Natarajan Salai,Ponnappa Nadar Nagar,Nagercoil,Kanniyakumari District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAL-2026-20260330013353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14922/0/3cf246b030/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuppaiah.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Gopal",
+        "address": "Soudamman Kovil Street,Silamalai,Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARUP-2026-20260410015655.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14678/0/ff7a582ef6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karupputhurai.p",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Pathineatan.p",
+        "address": "119,Kalliyamman Kovil Street,Kottur,Theni",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUP-2026-20260406022728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10181/0/b1f1f46a34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ashok Thayalan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "K.murugan",
+        "address": "13,East Street,Erranampatti,Pottipuram,Thimminayakanpatti,Uthamapalayam,Theni",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASH-2026-20260402021630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5379/0/56e68bb7e5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.raja",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "K.mani",
+        "address": "2-1-101/2-1-62,Maravar Street,Sedapatti,Vadugapatti,Periyakulam,Theni",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406121012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9617/0/21e39aaea3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.padmanabhan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Narayanasamy",
+        "address": "88,Thirunagar,Sivagiripatti,Palani,Dindugal",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPAD-2026-20260406020015.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N.soorya Prasad",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "V.t.narayanasamy",
+        "address": "32 W4,Panchayat Office Street,Govindanagaram,Theni",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSOO-2026-20260406115739.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9423/0/11d667e69d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagananthini.v",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Prakash.s",
+        "address": "48A,6Th Street,Forest Road,Theni",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAN-2026-20260404122601.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagananthini.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Prakash.s",
+        "address": "48A,6Th Street,Forest Road,Theni",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAN-2026-20260404122601.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13226/0/42eaf2565a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Narayanasamy V.t.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "P.n.v.thiruvengadam",
+        "address": "32/W4,Panchayat Office Street,Govindhanagaram,Theni",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VTN-2026-20260404010453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15701/0/a438f119be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "O.panneerselvam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "M.ottakarathevar",
+        "address": "145/70,South Agraharam,Thenkarai,Periyakulam,Theni",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OPAN-2026-20260406010410.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8888/0/d9a21d1a95/",
+          "https://voterlist.co.in/affidavit-download/8888/1/d2695a1f37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvamurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "S.pandiyarajan",
+        "address": "40/40,Tvkk Nagar-2, Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSEL-2026-20260404015155.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "S.pownraj",
+        "address": "103,Mayana Salai,Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSUR-2026-20260404013836.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Padmanabhan.n",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Narayanasamy",
+        "address": "88,Thirunagar,Sivagiripatti,Palani,Dindugal",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPAD-2026-20260406020015.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14897/0/e77c0224e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandikumar",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Subramani",
+        "address": "924W, Vinobaji Nagar Second Street, Near Vithaikal Education Centre, Bodinayakanur.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/200/1775265988PP.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6242/0/bc6ab91469/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Panneerselvam.o",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "M.ottakarathevar",
+        "address": "145/70,South Agraharam,Thenkarai,Periyakulam,Theni",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OPAN-2026-20260406010410.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14842/0/8514ccf0e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prakash.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Sekar.r",
+        "address": "48A,6Th Street,Forest Road,Theni,",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAKA-2026-20260404121158.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.gowtham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "R.rajendran",
+        "address": "11-1-19,Main Road,Upparpatti,Veerapandi",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGOW-2026-20260406025401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9315/0/4cca2d9597/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja.m",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Mani",
+        "address": "2-1-101/2-1-62,Maravar Street,Sedapatti,Vadugapatti,Periyakulam,Theni",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406121012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15224/0/1b4acbad3e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.chandrasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Subramaniya Pillai",
+        "address": "10,Vaniyar Street, Chinna Kadai Veethi, Vadugapatti,Periyakulam,Theni",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SCHA-2026-20260404113734.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kalaiarasu",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Srinivasagam",
+        "address": "Moovendar Illam 414, Natarajan Salai,Ponnappa Nadar Nagar,Nagercoil,Kanniyakumari District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAL-2026-20260330013353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/535/0/d66ce3f496/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.lakshmanan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "M.s.sowdayan Chettiar",
+        "address": "259/102,Sowdamman Kovil Street,Rasingapuram,Theni",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SLAK-2026-20260406012256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9474/0/1b909125cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanakumar.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Veluchamy",
+        "address": "196,West Street,Govindanagaram,Theni",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSAR-2026-20260406024708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14931/0/def2c55b7c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvamurugan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Pandiyarajan",
+        "address": "40/40,Tvkk Nagar-2, Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVA-2026-20260410015510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16086/0/343ff92bc0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.kannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "K.thayumanavan",
+        "address": "6-3-2,Bazanai Madath Street,Kenguvarpatti,Periyakulam,Theni",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TKAN-2026-20260406013633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9994/0/8cb8c3be46/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.saravanakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "R.veluchamy",
+        "address": "196,West Street,Govindanagaram,Theni",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSAR-2026-20260406024708.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.t.narayanasamy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "P.n.v.thiruvengadam",
+        "address": "32/W4,Panchayat Office Street,Govindhanagaram,Theni",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VTN-2026-20260404010453.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Velraj.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bodinayakanur",
+        "father_husband_name": "Kaliappan",
+        "address": "290,Ramakrishnapuram,Pottipuram,Bodinayakanur,Theni",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406122248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15397/0/55925c6478/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Paramathi-Velur",
+    "count": 41,
+    "candidates": [
+      {
+        "name": "Aakash R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Ramachandran",
+        "address": "151/4, Patchakavundan Valasu, Solasiramani Post, Paramathi Velur Taluk, Namakkal - 637210",
+        "gender": "Male",
+        "age": "21",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AAKAS-2026-20260406045508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9275/0/55d64c5979/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aravind M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Mani K",
+        "address": "2/263, Selllappampalayam, Goundipalayam Post, Nallur, Paramathi Velur Taluk, Namakkal - 637203",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAVI-2026-20260402020536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5330/0/b3772b6308/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bakkiam P",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Panneerselvam",
+        "address": "1/86, Abirami Garden, 85, R.komarapalayam, Rasipuram Taluk, Namakkal - 637403",
+        "gender": "Female",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BAKKI-2026-20260404025144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6493/0/99bc0c8749/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaji R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Radhakrishnan",
+        "address": "119/2, Nallu Colony, Paramathi Velur, Namakkal - 638182",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAJ-2026-20260404022600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6132/0/f7790876a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopalan G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Gurunathan",
+        "address": "35, Arundathiyar Street, Maravapalayam, Paramathi Post, Paramathi Velur Taluk, Namakkal - 637207",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPAL-2026-20260406125251.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8448/0/6666261413/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kandasamy S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Shanmugam",
+        "address": "2/184, Arunthathiyar Street, Pillur Post, Paramathi Velur Taluk, Namakkal - 637206",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANDA-2026-20260406010448.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8907/0/b4ed286f29/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Raju",
+        "address": "25, Kudi Street, Maravapalayam, Paramathi Post, Paramathi Velur Taluk, Namakkal - 637207",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406061508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9770/0/4f71e88431/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Latha A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Amuthavel",
+        "address": "51/1, Arijana Street, Vengarai Post, Paramathi Velur Taluk, Namakkal - 637208",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LATHA-2026-20260406043424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9987/0/a32ceafca6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manojkumar M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Muthusamy",
+        "address": "2/122, Arunthathiyar Colony, Melapatti, Koodachery Post, Paramathi Velur Taluk, Namakkal - 637206",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANOJ-2026-20260404015559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6620/0/591b24304f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthi M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Marimuthu",
+        "address": "13, Thannasi Kovil Medu, Koppanampalayam, Pandamangalam Post, Paramathi Velur Taluk, Namakkal - 637208",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOORT-2026-20260404021244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6787/0/f7f12c9ddc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthiy K S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Subbanna Goundar",
+        "address": "1/125F, Kudi Street, Kothamangalam, Paramathi Velur Taluk, Namakkal - 637213",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOORT-2026-20260406014356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8429/0/2c72e1d416/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Mani",
+        "address": "69, Kamarajar Street, Pothanur, Paramathi Velur Taluk, Namakkal  District- 638181",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURTH-2026-20260404023707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15821/0/10de3f189a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murthi M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Mani",
+        "address": "69, Kamarajar Street, Pothanur, Paramathi Velur Taluk, Namakkal - 638181",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURTH-2026-20260404023707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6256/0/6ccf7c92c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nandakumar A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Arumugam",
+        "address": "111A, Vettukattupudur, Paramathi Velur Taluk, Namakkal - 638182",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NANDA-2026-20260406031138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10113/0/1a0f06796f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Selvarasu",
+        "address": "2/97-1, Kolathupalayam, Nadanthai Post, Paramathi Velur Taluk, Namakkal - 637206",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406121037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9623/0/f0ddb297e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parameshwari S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Senthilkumar",
+        "address": "2/236, Kuppampalayam Road, Kavetipatti Post, Namakkal - 637003",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARAM-2026-20260406054424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9125/0/b2bd7b7649/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prathap K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Kandasamy",
+        "address": "1/145, West Street, Nanjai Edayar, Mohanur Taluk, Namakkal - 638182",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRATH-2026-20260406122628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10032/0/23d4b8260c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Ramasamy",
+        "address": "1/15, Marukkalampatty, Velagoundampatty, Tiruchengode Taluk, Namakkal - 637212",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAR-2026-20260406124053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10247/0/182916de7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar N",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Nandhakumar",
+        "address": "111A, Vettukattupudur, Paramathi Velur, Namakkal - 638182",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJKU-2026-20260404042637.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Raman S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Sadaiyan",
+        "address": "177, Indira Colony, Punjai  Edayar Kilmugam, Paramathi Velur Taluk, Namakkal - 638182",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAN-2026-20260406070620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10328/0/c3a7681480/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raman V",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Vellaiyan",
+        "address": "2/386, New Arisana Colony, Pilikkalpalayam, Paramathivelur Taluk, Namakkal - 637213",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAN-2026-20260404011332.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6131/0/fea10a0c64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramasamy N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Nallan",
+        "address": "2/156, Mettupalayam, Pillaikalathur, Pillur Post, Paramathi Velur Taluk, Namakkal - 637206",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAS-2026-20260330013801.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/540/0/1e3d09b037/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Ponnusamy",
+        "address": "17/34, Arunthathiyar Street, Pothanur , Paramathi Velur Taluk, Namakkal - 638181",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406060353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8705/0/b7b0051efb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Rajagopal",
+        "address": "339, South Street, Velagoundampatti, Tiruchengode Taluk, Namakkal - 637212",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406053105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10100/0/7892a1e977/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjith K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Kandhasamy",
+        "address": "120, Pavadi Street, Sarkar Manapalli, Mohanur Taluk, Namakkal - 637017",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260406112853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8369/0/576d228e8b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sabarishwaran S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Sridharan",
+        "address": "4/60-1, Gandhi Nagar, Veeranampalayam, Paramathi Velur Taluk, Namakkal - 638181",
+        "gender": "Male",
+        "age": "24",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SABAR-2026-20260406025934.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9608/0/e0b562c374/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Subramaniyan",
+        "address": "1/160, Rasapuramedu, Koppanampalayam, Pandamangalam Post, Paramathi Velur Taluk, Namakkal - 637208",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260404054749.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7700/0/3124b1747d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Chinnappan",
+        "address": "6/5, West Street, Kallipalayam, Vengarai Post, Paramathi Velur Taluk, Namakkal - 637208",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260406115600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9377/0/04af8570f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Shanmugam",
+        "address": "39/1, Muniyagoundampalayam, Koppanampalayam, Paramathi Velur Taluk,  Namakkal - 637208.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260406022519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10098/0/f9d56cc446/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Varathappan",
+        "address": "4/44, Thalakkarai, Kolaram Post, Paramathi Velur Taluk, Namakkal - 637201",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260406065436.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9312/0/e885f685e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvarasu S",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Sengodan",
+        "address": "2/122, Sekkupatty, Kodhur, Paramathi Velur Taluk, Namakkal - 637212",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404013331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6375/0/aaa0c13df0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shailaja",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Vadivel",
+        "address": "4/187,  Chinnampalayam, Sithampoondi Post, Paramathi Velur Taluk, Namakkal - 637210",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAIL-2026-20260406012234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9459/0/9210f0cbe5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaselvi P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Raja",
+        "address": "2/66, Muniyagoundampalayam, Koppanampalayam, Paramathi Velur Taluk, Namakkal - 637208",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAS-2026-20260406024527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9011/0/f6472a2a0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudharsan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Kathirvel",
+        "address": "9/4, Mettupudhur, Koothampoondi, Pullagoundampatty Post, Tiruchengode Taluk, Namakkal - 637202",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406052129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9276/0/fa118b1b5d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Rasu",
+        "address": "6/61, Arunthathiyar Street, Unjapalayam Post, Punjai Idayar Keelmugam, Mohanur Taluk, Namakkal - 638182",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406063856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9785/0/e723e57c6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangarasu M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Murugesan",
+        "address": "4/27, Arunthathiyar Street, Ulagapayam, Paramathi Velur, Namakkal - 637201",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260406051147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8485/0/90d5a37500/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vairamani M",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Moorthiy K S",
+        "address": "1/125F, Kudi Street, Kothamangalam, Paramathi Velur Taluk, Namakkal - 637213",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAIRA-2026-20260406021058.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9390/0/2be6572cb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vighneshwaren P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Parimalam",
+        "address": "52/113, Bajanai Mada Street, Paramathi, Paramathi Velur Taluk, Namakkal - 637207",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIGHN-2026-20260406062617.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8886/0/b1b4534fa0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay Suryabhalaaji K R",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Raman",
+        "address": "327A, Anna Nagar, R.s.road,Vadamadurai, Vedajandur Taluk,Dindugal District - 624802",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406033401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14906/0/fee0b5d0c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Ayyavu",
+        "address": "2/155, Anna Nagar, Kabilarmalai Post, Paramathi Velur Taluk, Namakkal - 637204.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406050242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9946/0/5a0f471644/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaysuryabalaji K R",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Paramathi-Velur",
+        "father_husband_name": "Raman",
+        "address": "327A, Anna Nagar, Vadamadurai, Dindugal - 624802",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406033401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9020/0/ea28b28345/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

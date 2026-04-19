@@ -1,0 +1,670 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kalasapakkam",
+    "count": 44,
+    "candidates": [
+      {
+        "name": "Agri Krishnamurthy. S S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Sundaresan",
+        "address": "285, Annai Illam, Elathur Village And Post, Kalasapakkam Taluk, Tiruvannamalai District 606906",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AGRIK-2026-20260410122759.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15398/0/f04d9f1f4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Agri Krishnamurthy. Ss",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Sundaresan",
+        "address": "285, Annai Illam, Elathur Village And Post, Kalasapakkam Taluk, Tiruvannamalai District 606906",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGRIK-2026-20260406072356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11206/0/09a681874b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Agri. Krishnamurthy. Ss",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Sundaresan",
+        "address": "285, Annai Illam, Elathur Village And Post, Kalasapakkam Taluk, Tiruvannamalai District 606906",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGRIK-2026-20260406072356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13094/0/4ae289b3a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aravindhan K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Krishnamurthy",
+        "address": "285, Annai Illam, Elathur Village And Post, Kalasapakkam Taluk, Tiruvannamalai District 606906",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAVI-2026-20260406073306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10586/0/bc09f1cd65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaji .P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Pachaiyappan",
+        "address": "31/1, Old Pallikooda Street, Su.andapattu Village And Post, Tiruvannamalai Taluk And District 606 808",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAL-2026-20260402063824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6875/0/ef7b65ab34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaji. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Pachaiyappan",
+        "address": "31/1, Old Pallikooda Street, Su.andapattu Village And Post, Tiruvannamalai Taluk And District 606 808",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAL-2026-20260402063824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11509/0/4b4fed0941/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran .R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ramalingam",
+        "address": "1/1 Anna Salai Street, Navambattu Village, Allikondapattu Post, Tiruvannamalai Taluk And District 606 753",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBAS-2026-20260402063220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6874/0/04c7a6ff29/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ramalingam",
+        "address": "1/1, Anna Salai Street, Navambattu Village, Allikondapattu Post, Tiruvannamalai Taluk And District 606 753",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBAS-2026-20260402063220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11507/0/2a7341c021/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Deiveegan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ponmudi",
+        "address": "49, Perumal Koil Street, Kandiyankuppam Village, Velaiyampakkam Post, Tiruvannamalai Taluk And District 606 811",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEIVE-2026-20260402062112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11503/0/738f3e4911/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Deiveegan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ponmudi",
+        "address": "49, Perumal Koil Street, Kandiyankuppam Village, Velaiyampakkam Post, Tiruvannamalai Taluk And District 606 811",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEIVE-2026-20260402062112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5805/0/7d5e117f11/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai . P",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Palani",
+        "address": "84, North Street, Padi Agraharam Village  Post, Chengam Taluk, Tiruvannamalai District 606 705",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELUMA-2026-20260402070102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5675/0/4c50c47bbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai .T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Thonthi Kowndar",
+        "address": "21/26, Pillayar Koil Street, Su.andapattu Village And Post, Tiruvannamalai Taluk And District 606808",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELUMA-2026-20260404125455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6710/0/e782e32c51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. P",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Palani",
+        "address": "84, North Street, Padi Agraharam Village And Post, Chengam Taluk, Tiruvannamalai District 606 705",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELUMA-2026-20260402070102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11360/0/6ef23694c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Subramani",
+        "address": "123, Mel Street, Periyakilambadi Village And Post, Tiruvannamalai Taluk And District 606802",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELUMA-2026-20260406075915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10932/0/93d3435c59/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Thonthi Kowndar",
+        "address": "21/26, Pillayar Koil Street, Su.andapattu Village And Post, Tiruvannamalai Taluk And District 606808",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELUMA-2026-20260404125455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8405/0/15afec33f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indhumathi. E",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Elumalai",
+        "address": "84, North Street, Padi Agraharam Village  Post, Chengam Taluk, Tiruvannamalai Dist. 606 705",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/INDHU-2026-20260402070624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5710/0/ef49dc0c3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamaraj. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Govindasamy",
+        "address": "202, Kulathu Mettu Street, Eraiyur Village And Post, Chengam Taluk, Tiruvannamalai District 606704",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAMAR-2026-20260406080420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11147/0/c60cb6d876/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kothandapani .B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Balaraman",
+        "address": "333, Ambethkar Nagar, Sanikkavadi Village And Post, Polur Taluk, Tiruvannamalai District 606803",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KOTHA-2026-20260404023320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6215/0/c6d3bd0087/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kothandapani. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Balaraman",
+        "address": "333, Ambethkar Nagar, Sanikkavadi Village And Post, Polur Taluk, Tiruvannamalai District 606803",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KOTHA-2026-20260404023320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8390/0/0689391131/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamurthy. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Mannu",
+        "address": "416/1, Ramasamipuram, Melpalur Village, Kilpalur Post, Kalasapakkam Taluk, Tiruvannamalai District 606908",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406084557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10892/0/4206d3998d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamurthy. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Rangasamy",
+        "address": "1/58, Main Road, Kadaladi Village And Post, Kalasapakkam Taluk, Tiruvannamalai District 606908",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406083744.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10584/0/6f2e9ab8ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamurthy. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Subramani",
+        "address": "370/5, Ricemill Street, Pazhankoil Village And Post, Kalasapakkam Taluk, Tiruvannamalai District 606751",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KRISH-2026-20260406085556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11133/0/9f8b51c05f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalingam. G",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ganesan",
+        "address": "1046, Pillayar Koil Street, Viswanathapuram H/O Alathur Village, Chengam Taluk, Tiruvannamalai District 606702",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAL-2026-20260406092508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12522/0/ce1d911d5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Kuppusamy",
+        "address": "79, Tank Street, Su.andapattu Village And Post, Tiruvannamalai Taluk And District 606 808",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260402064537.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5914/0/00cc9b2651/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Pachaiyappan",
+        "address": "31/1, Old Pallikooda Street, Su.andapattu Village And Post, Tiruvannamalai Taluk And District 606 808",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAL-2026-20260402063824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5873/0/568a64cf90/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Baskaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ramalingam",
+        "address": "1/1 Anna Salai Street, Navambattu Village, Allikondapattu Post, Tiruvannamalai Taluk And District 606 753",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBAS-2026-20260402063220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5850/0/105e8190cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja .N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Narayanasamy",
+        "address": "2/170, Pillayar Koil Street, Thoppanandal Village, Kidampalayam Post, Kalasapakkam Taluk, Tiruvannamalai District 606901",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJA-2026-20260404014615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6530/0/abf1ffe15b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Narayanasamy",
+        "address": "2/170, Pillayar Koil Street, Thoppanandal Village, Kidampalayam Post, Kalasapakkam Taluk, Tiruvannamalai District 606901",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJA-2026-20260404014615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8400/0/984e241b97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthi. T",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Thiruvenkadam",
+        "address": "228, New Street, Periyakilambadi Village And Post, Tiruvannamalai Taluk And Distirct 606802",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTH-2026-20260406075414.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10703/0/4015777474/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhakumaran. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Annamalai",
+        "address": "12/24, Nachamalai Village, Eriyur Mathura , Kovilandur Post, Jamunamarathur Taluk, Tiruvannamalai District 631 102",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANTH-2026-20260402064957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11513/0/2782f38109/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhakumaran.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Annamalai",
+        "address": "12/24, Nachamalai Village, Eriyur Mathura , Kovilandur Post, Jamunamarathur Taluk, Tiruvannamalai Dist 631 102",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANTH-2026-20260402064957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5927/0/cd5cbd6502/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Krishnan",
+        "address": "81, First Street, Pavithiram Village And Post, Tiruvannamalai Taluk And District 606806",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406073807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10829/0/96fca0dbe5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. P.s.t",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Thiruvenkadam",
+        "address": "288, New Street, Periyakilambadi Village And Post, Tiruvannamalai Taluk And District 606802",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406074613.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13108/0/4120b91988/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. T",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Thiruvenkadam",
+        "address": "288, New Street, Periyakilambadi Village And Post, Tiruvannamalai Taluk And District 606802",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406074613.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11251/0/e5ce2c87b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. V",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Vediyappan",
+        "address": "172, Pillayar Koil Street, Vasudevanpattu Village, Chengam Taluk, Tiruvannamalai District 606704",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406081350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10556/0/58165f54f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathya. V",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Vijayakumar",
+        "address": "774, Balakrishna Nagar, Vengikkal Village And Post, Tiruvannamalai Taluk And Distirict 606604",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHY-2026-20260406071539.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10844/0/b6135df957/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seetha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Sivanandam",
+        "address": "734 Ganesapuram Ladavaram Village Kalasapakkam Taluk Tiruvannamalai District 606751",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEETH-2026-20260330040842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/536/0/2e5de88ac1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seetha Sivanandam. P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Sivanandam",
+        "address": "734 Ganesapuram Ladavaram Village Kalasapakkam Taluk Tiruvannamalai District 606751",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEETH-2026-20260330040842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4940/0/43eeec3594/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Gunasekaran",
+        "address": "6/957, Kalangal Street, Kadaladi Village And Post, Kalasapakkam Taluk, Tiruvannamlai District 606908",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406083021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11226/0/5942556a7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suman. M",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Mahalingam",
+        "address": "1046, Pillayar Koil Street, Viswanathapuram H/O Alathur Village, Chengam Taluk, Tiruvannamalai District 606702",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUMAN-2026-20260406091236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12126/0/ca4831422b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. R",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ramalingam",
+        "address": "2/246, Kammalar Street, Kappalur Village, Kalasapakkam Taluk, Tiruvannamalai District 606751",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260404121656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8396/0/c0767db15e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh.r",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Ramalingam",
+        "address": "2/246, Kammalar Street, Kappalur Village, Kalasapakkam Taluk, Tiruvannamalai District 606751",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260404121656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6426/0/50dff4c58d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamaraikodi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Parasuraman",
+        "address": "301 Kotta Santhu Street Panaiolaipadi Village Chengam Taluk Tiruvannamalai District 606705",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMA-2026-20260330041814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/630/0/564688b1bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamaraikodi. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kalasapakkam",
+        "father_husband_name": "Parasuraman",
+        "address": "301 Kotta Santhu Street Panaiolaipadi Village Chengam Taluk Tiruvannamalai District 606705",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMA-2026-20260330041814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4941/0/70ac972de3/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

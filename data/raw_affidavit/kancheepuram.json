@@ -1,0 +1,439 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kancheepuram",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "A. Somasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Appadurai",
+        "address": "104/142, Palla Theru, Sirukaveripakkam, Kancheepuram - 631 502.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASOM-2026-20260406122236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9929/0/20838ccae2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amudha Suresh",
+        "party": "Apni Janta Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Suresh",
+        "address": "No.92A, 2Nd Cross Street, M.g.r Road, Gangaiyamman Nagar, Nerkundram, Chennai - 600 107.",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUDH-2026-20260404093550.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8285/0/89d018a6c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Dillibabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Chandrasekar",
+        "address": "No.5, M.g.r Nagar, Muthiyalpettai, Walajabad Taluk.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CDIL-2026-20260406010630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8688/0/0f58e45fda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Abathsagayam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "G. Devarajan",
+        "address": "No.2/2, Karunigar Theru, Kavanthandalam Village And Post, Walajabad Taluk, Kancheepuram - 631 603.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DABA-2026-20260406033608.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9063/0/2a0ce622c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durgadevi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Hariprasad",
+        "address": "No.3, Muthusamy Nagar, Murugappa Salai, Orikkai, Kancheepuram",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURGA-2026-20260330071817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/372/0/f9c0294cd7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Dhakshnamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "J.elumalai",
+        "address": "No.14C, C.s.m Street, Pillaiyarpalayam, Kancheepuram 631 501.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EDHA-2026-20260409094025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16355/0/d501a7a767/",
+          "https://voterlist.co.in/affidavit-download/16355/1/79a2ac25de/",
+          "https://voterlist.co.in/affidavit-download/16355/2/2e1d470c65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.dhakshnamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "J.elumalai",
+        "address": "No.14C, C.s.m Theru, Pillaiyarpalayam, Kancheepuram - 631 501.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EDHA-2026-20260402091804.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5977/0/c127c649ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Govindharaj",
+        "address": "No.5B, Mandukanneesh Warar Koil Theru,  Kancheepuram - 631 502..",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBAB-2026-20260404091717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8256/0/7383969c6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gnanamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Dhanapal",
+        "address": "31, Nethaji Nagar, Kancheepuram - 631 501.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNANA-2026-20260406123721.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10151/0/84bd932d1d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "K.mohan",
+        "address": "No.49,Thiruvegamban Theru, Pillaiyarpalayam, Kancheepuram.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBAL-2026-20260402093913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14079/0/0ac109c100/",
+          "https://voterlist.co.in/affidavit-download/14079/1/ac3d335c51/",
+          "https://voterlist.co.in/affidavit-download/14079/2/1c1171c502/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Meganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "S.munusamy",
+        "address": "No.28/409, Anna Nagar, Orikkai, Kancheepuram 631 502.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMEG-2026-20260402100131.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15072/0/c1e5edd45d/",
+          "https://voterlist.co.in/affidavit-download/15072/1/5446c647b4/",
+          "https://voterlist.co.in/affidavit-download/15072/2/fe0d4cd0b9/",
+          "https://voterlist.co.in/affidavit-download/15072/3/3839ec7acd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Nandhakumar",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "T.murugan",
+        "address": "No.10, Pillaiyar Koil Theru, Sirunavalpattu Village, Brammadesam Post, Vembakkam Taluk, Thiruvannamalai District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAN-2026-20260404062353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13929/0/2b5aa7ed20/",
+          "https://voterlist.co.in/affidavit-download/13929/1/482b8f0cdb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Somasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "S. Mani",
+        "address": "21C, Mandabam Street, Pillaiyarpalayam, Kancheepuram - 631 501.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSOM-2026-20260406121229.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9688/0/acffa75c60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "K.mohan",
+        "address": "No.49,Thiruvegamban Theru, Pillaiyarpalayam, Kancheepuram.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBAL-2026-20260402093913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5981/0/a20e6229e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.meganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "S.munusamy",
+        "address": "No.28/409, Anna Nagar, Orikkai, Kancheepuram - 631 502.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMEG-2026-20260402100131.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5982/0/04c940f43d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.nandhakumar",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "T.murugan",
+        "address": "No.10, Pillaiyar Koil Theru, Sirunavalpattu Village, Brammadesam Post, Vembakkam Taluk, Thiruvannamalai District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAN-2026-20260404062353.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.s. Sugumar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "M. Subramani",
+        "address": "No.12A, Thanthoni Amman Koil Theru, Muttavakkam Village, Baluchettichathiram, Kancheepuram - 631 551.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSS-2026-20260404090246.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8229/0/986a0bb940/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nithya Sugumar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "M.s. Sugumar",
+        "address": "No.12A, Thanthoni Amman Koil Theru, Muttavakkam Village, Baluchettichathiram, Kancheepuram - 631 551.",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NITHY-2026-20260404083408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8101/0/8e4b3e60a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Venkatesan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Palani",
+        "address": "52, Mahavishnu Salai, Jem Nagar, Sevilimedu, Kancheepuram.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVEN-2026-20260406050618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10155/0/989c914c16/",
+          "https://voterlist.co.in/affidavit-download/10155/1/38d2de9da6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.v. Ranjithkumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Ragavan Veerasamy",
+        "address": "No.84, Keezh Theru, Muthiyalpettai, Walajabad Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVR-2026-20260402084236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14075/0/195705b92b/",
+          "https://voterlist.co.in/affidavit-download/14075/1/4950e2c7dc/",
+          "https://voterlist.co.in/affidavit-download/14075/2/0284fcf288/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.v.ranjithkumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Ragavan Veerasamy",
+        "address": "No.84, Keezh Theru, Muthiyalpettai, Walajabad Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVR-2026-20260402084236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5956/0/9dfe8528f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Naresh Bharathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "D. Selvadurai",
+        "address": "No.345, Rudrakottishwarar Koil Theru, Konerikuppam, Kancheepuram.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAR-2026-20260404092824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8272/0/e34c78a766/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Balaji",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "T. Venkatesan",
+        "address": "No.88/27A, Kullappan Street, Big Kancheepuram.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBAL-2026-20260406013810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10046/0/c379626ebc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Naresh",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "C. Vengadesan",
+        "address": "No.25D/51, Kamarajar Nagar, Kancheepuram - 631 501.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VNAR-2026-20260404092242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8264/0/8aae76ba9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Somasundaram",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Vinayagam",
+        "address": "No.9, 1St Street, Vedhachalam Nagar, Sevilimedu, Kancheepuram - 631 501.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSOM-2026-20260406012207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8849/0/1b332881eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Somasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Vinayagam",
+        "address": "No.35A, Puthupalayam Street, Pillaiyarpalayam , Kancheepuram 631 501.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSOM-2026-20260409094337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15625/0/e43cfc0214/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.somasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Vinayagam",
+        "address": "35A, Puthu Palayam Theru, Pillaiyarpalayam, Kancheepuram - 631 501.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSOM-2026-20260406010950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10351/0/3f2ee3afb0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetriselvi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kancheepuram",
+        "father_husband_name": "Srikanth P.j.",
+        "address": "226, Periya Theru, Magaral, Kancheepuram - 631603",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VETRI-2026-20260330063614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/226/0/1ebfe0bde8/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

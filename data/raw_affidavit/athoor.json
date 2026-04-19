@@ -1,0 +1,372 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Athoor",
+    "count": 24,
+    "candidates": [
+      {
+        "name": "A. Muniappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Ayyachamy",
+        "address": "116, Pillaiyar Palayam, Dindigul West Taluk, Dindigul - 624 001",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUN-2026-20260406080814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11295/0/06085a5e43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Viswanathan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Arumugam",
+        "address": "32 Nagalingam Street, Sedapatti, Sithyankottai, Athoor Taluk - 624708",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIS-2026-20260404084434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8178/0/e4712f4a43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arokiasamy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Chinnappanservai",
+        "address": "Kondamanaicanpatti, Pappanampatti Post, Silvarpatti, Dindigul West Taluk Dindigul 624622",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROKI-2026-20260404085250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8207/0/4b6bbc8eed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Nagendran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Chinnanan",
+        "address": "Plot No. 74 Selvi Illam, Perumal Nagar Extension, Chettinaickenpatti, Dindigul West Taluk, Dindigul - 624004",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CNAG-2026-20260404092833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8273/0/ace9b309ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Nagendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Chinnanan",
+        "address": "Plot No. 74 Selvi Illam, Perumal Nagar Extension, Chettinaickenpatti, Dindigul West Taluk, Dindigul - 624004",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CNAG-2026-20260404092833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13256/0/dfc7f39805/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Nagaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Duraipandi",
+        "address": "1/11/3 Kaivinai Nagar, Second Street, Ragal Nagar, Adiyanuthu, Dindigul - 624003",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DNAG-2026-20260406080148.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11029/0/fe29f1b760/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Sankar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Dhandapani",
+        "address": "Thethupatti Thottam, Thethupatti, Dindigul - 624705",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260330052544.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6070/0/0e8b540903/",
+          "https://voterlist.co.in/affidavit-download/6070/1/9700f32d49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Sankar",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Dhandapani",
+        "address": "Thethupatti Thottam, Thethupatti, Dindigul - 624705",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260330052544.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8330/0/4a15b3bd05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. A. Simon Justin",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "A. Amalorpavam",
+        "address": "1/20- 1/68 Anupapatty, Sindalagundu, Dindigul, 624002",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRA-2026-20260330055650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/24/0/1335dc2c43/",
+          "https://voterlist.co.in/affidavit-download/24/1/331e3cf1db/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "I. Periasamy",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Irulappan Servai",
+        "address": "35/28 2Nd Street, Durairaj Nagar, West Govindapuram, Dindigul West Taluk - 624001",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IPER-2026-20260404081859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7833/0/1a97ac8704/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Jayaprakash",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Kanesan",
+        "address": "3/385, West Street, Indra Colony, Kattakamanpatti Post, Nilakottai Taluk - 624 202",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KJAY-2026-20260406091709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12272/0/700def1d6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Kathiresan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Kannusamy",
+        "address": "140/7 Surekkapatty, Palaya Kannivadi, Tharumatthu Patty Post, Dindigul -624705",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KKAT-2026-20260402023107.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5405/0/d035586758/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Natarajan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Kandasamy",
+        "address": "147 North Vellalar Street, Athoor Taluk,  Athoor - 624 701",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KNAT-2026-20260406075616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10822/0/d4b9a4f1ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Velmurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Kudalingam",
+        "address": "257, Aringar Anna Nagar, Ngo Colony, Balakrishnapuram, Dindigul East Taluk - 624 005",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406092353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12470/0/06b8967332/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Visvanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Kamatchi",
+        "address": "24A, East Street, K. Pudukttai, Dindigul West Taluk - 624 622",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVIS-2026-20260406082600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11038/0/fdb1af48a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Krishnamoorthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Maruthai Servai",
+        "address": "6/23, New No. 21/23 North Street, Kummapatti, Hanumantharan Kottai Post",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKRI-2026-20260406090049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10503/0/8b819db9c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Periyasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Murugan",
+        "address": "166-2 Kaliamman Koil Street, Ammapatti, Dindigul West Taluk, Dindigul -624622",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPER-2026-20260404090249.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8230/0/17f58a3f81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.k. Nagendran",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Karuppaiah Servai",
+        "address": "Ol No. 12/279, New No 3/299, A. Ramanathapuram, Nadupatti Post , Athoor Taluk - 624 302",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKN-2026-20260406081501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10593/0/e6509e4fca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Kalaiselvi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "C. Nagendran",
+        "address": "Plot No. 74, Selvam Illam, Perumal Nagar Extension, Chettinaickenpatti, Dindigul West Taluk - 624004",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKAL-2026-20260404091933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8260/0/158c3e147e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Joseph Selvaraj",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Pitchai Muthu",
+        "address": "4/95 Saveriyar Street, N. Panjampatti Athoor Taluk, Dindigul - 624303",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PJOS-2026-20260404093715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8290/0/36e2844373/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Manivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "S. Pandi",
+        "address": "3/71, Anaipatti,  Kottapatti Post, Dindigul West Taluk - 624002",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260406092953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11755/0/cd959027bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Bala Murugan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Subbaiah",
+        "address": "12-19/14 West Street, A. Ramanathapuram, A. Nadupatti Post, Athoor Taluk - Dindigul - 624302",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SBAL-2026-20260404094721.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8307/0/243a09b072/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Karthigaiselvan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Saravanamurugan",
+        "address": "2-4 T.pudupatti, Pudupatti Post, Dindigul West, 624705",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAR-2026-20260402051215.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5576/0/745d6b1b8a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Athoor",
+        "father_husband_name": "Dhandapani",
+        "address": "Thethupatti Thottam, Thethupatti, Dindigul - 624705",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260330052544.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/428/0/af2c91e90a/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

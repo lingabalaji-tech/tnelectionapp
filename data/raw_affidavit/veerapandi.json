@@ -1,0 +1,732 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Veerapandi",
+    "count": 48,
+    "candidates": [
+      {
+        "name": "A.k. Tharun",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Kasiviswanathan",
+        "address": "50/5, R.t. Nagar, Reddiyur, Salem - 636004",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKT-2026-20260406014901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8481/0/8f4121276c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbazhagan. P",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Ponnusamy",
+        "address": "1/85, Vanniyar Theru, Gajalnaickenpatti Post, Salem - 636201",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANB-2026-20260402023352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13358/0/dd94204631/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Brama Moorthi. M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Mariyappan",
+        "address": "7-1/159, Pattappan Kovil Street, Elampillai, Salem -637502.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBRM-2026-20260406060351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12905/0/5650944bd4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bramamoorthi. M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Mariyappan",
+        "address": "7-1/159, Pattapan Kovil Street, Elampillai, Salem-637502.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BRAMA-2026-20260410121920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14759/0/31de3367b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Ranganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Devaraj",
+        "address": "D.no.5/194, Koppan Street, Nalikkalpatti, Salem - 636201.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRAN-2026-20260406064028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9974/0/79c68d2b7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Tamilarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Devaraj",
+        "address": "D.no.5-494, Arunthathoyar Street, Koopan Street, Kozhinjipatty, Nazhikalpatti, Salem - 636201.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DTAM-2026-20260406045901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9620/0/b9171893f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devendhiraprabu. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Mohanraj",
+        "address": "Door No.5/202, Keela Kadu, Attavanai Poolavari, Poolavari Po, Salem -636010.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDEV-2026-20260404010036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13292/0/0fa02a5c99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Indrajithguptha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Gajendran",
+        "address": "10/256. Kaliamman Kovil Street, P. Nattamangalam, Amanikondalampatti, Salem - 636010.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GIND-2026-20260406073417.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10661/0/afe6d9144c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.vijayakumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Ganesan",
+        "address": "6/21, Erikadu, S. Papparapatti, Salem South Taluk, Salem 637501.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GVIJ-2026-20260404063130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7027/0/de81bd4ba1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopi. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Rathinavel",
+        "address": "8/55, Angannan Street, Panamarathupatti, Salem - 636204",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGOP-2026-20260406075357.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12928/0/8e64e50e67/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopinath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Balasubramani",
+        "address": "125 Q.a Agaram Colony, Nethimedu, Annathanapatti, Salem636002",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPIN-2026-20260404061428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7567/0/6971016d54/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopinath. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Balasubramani",
+        "address": "125 Q.a Agaram Colony, Nethimedu, Annathanapatti, Salem636002",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPIN-2026-20260404061428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13239/0/d84bd2ea60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indrajith Guptha. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Gajendran",
+        "address": "Door No.10/256, Kaliyamman Kovilstreet, P.nattamangalam, Salem South,  Salem District-636010",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GIND-2026-20260406073417.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14797/0/e077bdca7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indrajithguptha. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Gajendran",
+        "address": "10/256. Kaliamman Kovil Street, P. Nattamangalam, Amanikondalampatti, Salem - 636010.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GIND-2026-20260406073417.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12918/0/fe3c810b84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayavel. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Murugesan",
+        "address": "5/79, Vaniyar Street, Attavanai Pulaveri, Pulaveri Po, Salem- 636010.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260404012600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13193/0/e7d1392f09/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sakthivel",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Kanthan",
+        "address": "2-79A, Adi Dravidar Street, Thirumalaigiri, Salem 636 307.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAK-2026-20260404060015.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7037/0/66e0d06bfa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthi. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Ramalingam",
+        "address": "Old No.4/4, New No.12/226-1, Tharkadu,  Poolavari, Neikarapatty Post, Salem - 636010.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAR-2026-20260406072027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13046/0/6cb4ff7bb6/",
+          "https://voterlist.co.in/affidavit-download/13046/1/aed21e9463/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha. M.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "M.s.palanivel",
+        "address": "New No.34, Old No.925, H-Block, 17Th Main Road, Anna Nagar West, Chennai  - 600040",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPK-2026-20260404054538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13242/0/12c2d2fcf1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Brma Moorthi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Mariyappan",
+        "address": "7-1/159, Pattappan Kovil Street, Elampillai, Salem -637502.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBRM-2026-20260406060351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8696/0/be7857ccf7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Murugesan",
+        "address": "1/124, Lakshmanoor, Akkarapalayam Post, Veerapandi Via, Salem - 636308.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSEN-2026-20260406053717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8516/0/e125ec7cd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.devendhiraprabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Mohanraj",
+        "address": "Door No.5/202, Keela Kadu, Attavanai Poolavari, Poolavari Po, Salem -636010.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDEV-2026-20260404010036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6793/0/db9cdb5ef7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.jayavel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Murugesan",
+        "address": "5/79, Vaniyar Street, Attavanai Pulaveri, Pulaveri Po, Salem- 636010.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260404012600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6251/0/b8fd209f0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.p.kavitha",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "M.s.palanivel",
+        "address": "New No.34, Old No.925, H-Block, 17Th Main Road, Anna Nagar West, Chennai  - 600040",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPK-2026-20260404054538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7594/0/cd54f089d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.s.palanivel",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Sabapathi",
+        "address": "New No.34, Old No.925, H-Block, 17Th Main Road, Anna Nagar West, Chennai  600040",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSP-2026-20260404052808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6907/0/da1115f3ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sakthivel",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Munusamy",
+        "address": "4/68A, Kamarajar Nagar, S.kollapatty Post, Vattamuthampatty, Salem - 636030.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAK-2026-20260406011828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9323/0/3793e0667e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Sureya",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "A.k. Tharun",
+        "address": "50/5. R.t. Nagar, Reddiyur, Salem - 636004.",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSUR-2026-20260406024612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9019/0/a87ace0e49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Vaidesswara Prasad",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Nagarajan",
+        "address": "1/179, Svp Nagar, Chinna Poosariyur, Maramangalathupatti, Salem - 636030.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NVAI-2026-20260406051618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8892/0/55e0881106/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Anbazhagan",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Ponnusamy",
+        "address": "1/85, Vanniyar Theru, Gajalnaickenpatti Post, Salem - 636201",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANB-2026-20260402023352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5464/0/24e8aa4f21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Manonmani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Sivakumar",
+        "address": "1/14, Parappatti, Salem South Taluk, Salem - 636203",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260406040159.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10138/0/3285dcb69c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Palanisamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Palanisamy",
+        "address": "4/37, Pasuvanathampatty, Earvadi Post, Mallur Via, Salem - 636203",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAL-2026-20260406043012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9682/0/3af4b22bf9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Palanisamy",
+        "address": "4/37, Pasuvanathampatty, Earvadi Post, Mallur Via, Salem - 636203",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAL-2026-20260406043012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13062/0/742c3216d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanivel. M.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Sabapathi",
+        "address": "New No.34, Old No.925, H-Block, 17Th Main Road, Anna Nagar West, Chennai  600040",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSP-2026-20260404052808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13160/0/c5deb60379/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhu. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Veerappan",
+        "address": "D.no. 3/215, Asaripattari, Kammalapatty, Salem - 636202.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPRA-2026-20260406070352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13122/0/21812ced5a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Gopi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Rathinavel",
+        "address": "8/55, Angannan Street, Panamarathupatti, Salem - 636204",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGOP-2026-20260406075357.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10679/0/4dbdb0ffb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Karthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Ramalingam",
+        "address": "Old No.4/4, New No.12/226-1, Tharkadu,  Poolavari, Neikarapatty Post, Salem - 636010.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAR-2026-20260406072027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11032/0/932230551a/",
+          "https://voterlist.co.in/affidavit-download/11032/1/97a01942de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeshkumar. S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "S.selvaraj",
+        "address": "Door No.9/3, Pazhakkara Veethi, Attayampatti,  Salem  South Taluk, Salem - 637501.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260330052817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15056/0/8bb2bb447b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeshkumar. S.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "S.selvaraj",
+        "address": "Door No.9/3, Pazhakkara Veethi, Attayampatti, Salem  South Taluk, Salem District, Tamil Nadu   637501..",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260330052817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13001/0/f7f67b0ad0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranganathan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Devaraj",
+        "address": "D.no.5/194, Koppan Street, Nalikkalpatti, Salem - 636201.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRAN-2026-20260406064028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13098/0/879fc8414a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Rajeshkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "S.selvaraj",
+        "address": "Door No.9/3, Pazhakkara Veethi, Attayampatti, Salem  South Taluk, Salem District, Tamil Nadu   637501..",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260330052817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/453/0/6d86607d59/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sri Balaji Sugumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Sivakumar",
+        "address": "1/2/19-1, Parappati, Salem South Taluk, Salem - 636203",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSRI-2026-20260406032502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8702/0/a137238896/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel. M",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Munusamy",
+        "address": "4/68A, Kamarajar Nagar, S.kollapatty Post, Vattamuthampatty, Salem - 636030.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAK-2026-20260406011828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13006/0/ed354ee829/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Murugesan",
+        "address": "1/124, Lakshmanoor, Akkarapalayam Post, Veerapandi Via, Salem - 636308.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSEN-2026-20260406053717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12885/0/84a7aa9cb8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Siva",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Mariyappan",
+        "address": "7-1/159, Pattappan Kovil Street, Elamplillai, Salem - 637502.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVA-2026-20260406062538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8812/0/97653975a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sri Balaji Sugumar. S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Sivakumar",
+        "address": "1/2/19-1, Parappati, Salem South Taluk, Salem - 636203",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSRI-2026-20260406032502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12906/0/32fb95e62c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilarasan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Devaraj",
+        "address": "D.no.5-494, Arunthathoyar Street, Koopan Street, Kozhinjipatty, Nazhikalpatti, Salem - 636201.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DTAM-2026-20260406045901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13050/0/6f3d6c48b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tharun. A.k",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Kasiviswanathan",
+        "address": "50/5, R.t. Nagar, Reddiyur, Salem - 636004",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKT-2026-20260406014901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12883/0/32a35b9fc2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Prabhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Veerappan",
+        "address": "D.no. 3/215, Asaripattari, Kammalapatty, Salem - 636202.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPRA-2026-20260406070352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10141/0/badc12d683/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaidesswara Prasad. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Veerapandi",
+        "father_husband_name": "Nagarajan",
+        "address": "1/179, Svp Nagar, Chinna Poosariyur, Maramangalathupatti, Salem - 636030.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NVAI-2026-20260406051618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12943/0/f5ed5a9aaf/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

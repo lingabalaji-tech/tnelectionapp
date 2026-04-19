@@ -1,0 +1,715 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Bargur",
+    "count": 47,
+    "candidates": [
+      {
+        "name": "A Pagutharivu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Alagesan",
+        "address": "274, Kollroor, Anchoor - Po, Bargur -Tk, Krishnagiri",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APAGU-2026-20260402064256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5896/0/c9eb5ed89e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Sudhakar",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Ashokan Bairappan",
+        "address": "234, Surankuttai Village, Mallinayanapalli- Po, Bargur -Tk ,Krishnagiri-Dt",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUDH-2026-20260406031350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10230/0/90aea462a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Sudhakar",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Ashokan Bairappan",
+        "address": "234, Surankuttai Village, Mallinayanapalli- Po, Bargur -Tk ,Krishnagiri-Dt",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUDH-2026-20260406031350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15575/0/70b7048c4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anitha Mayaperumal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Mayaperumal",
+        "address": "3/394A, Maya Nagar, Katinayanapalli, Sri Devaraj Mahal Opposite, Chennai Road, Krishnagiri - 635001",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANIT-2026-20260402020437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16438/0/a0af7e2a43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Geetha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Chinnadurai",
+        "address": "216, Pillaiyar Kovil Street, Athiganoor- Po, Bargur -Tk, Krishnagiri -Dt 635203",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CGEET-2026-20260402124817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4987/0/172e8877be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Kavitha Govindarasan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "E C Govindarasan",
+        "address": "3/72, Emakkalnatham - Vill And Post, Bargur-Tk, Krishnagiri-Dt",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKAVI-2026-20260404015056.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6578/0/f86be3ec0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Govindan (En) Govindarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Duraisamy",
+        "address": "7/69, Sentharapalli Vill, Anchoor -Po, Bargur -Tk, Krishnagiri-Dt,635203",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DGOVI-2026-20260404053802.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7274/0/ef7db6d180/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Mathiazhagan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Devaraj Gounder",
+        "address": "58-B, Gandhi Nagar, Basheer Mohammed Layout, Krishnagiri, 635001",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMATH-2026-20260402012941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5033/0/e1e5cc4b21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Sivasankaran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Duraisamy",
+        "address": "329, Ikothapalli Vill And Post, Bargur Tk, Krishnagiri-635203",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSIVA-2026-20260406020820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9296/0/00a441ef84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Govindarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Duraisamy",
+        "address": "7/69, Sentharapalli Vill, Anchoor -Po, Bargur -Tk, Krishnagiri-Dt,635203",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DGOVI-2026-20260404053802.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15908/0/dd7fdf59ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Mathiazhagan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Devaraj Gounder",
+        "address": "58-B, Gandhi Nagar, Basheer Mohammed Layout, Krishnagiri, 635001",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMATH-2026-20260402012941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16386/0/a8bc041e13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Sivasankaran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Duraisamy",
+        "address": "329, Ikothapalli Vill And Post, Bargur Tk, Krishnagiri-635203",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSIVA-2026-20260406020820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15060/0/d629f5a3c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E C Govindaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Chennaiyachetti",
+        "address": "24/27, Kothur, Bargur, Krishnagiri-635104",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ECGOV-2026-20260404055834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6930/0/2da0092ecc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E C Govindarasan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Chennappa Naidu",
+        "address": "3/72, Emakkalnatham Vill And Po, Bargur -Tk, Krishnagiri-Dt,635104",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ECGOV-2026-20260404012113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6176/0/bf8fb0dca1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E Muralidharan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Elayappan",
+        "address": "41-A, Vediyappan Kovil Street, Krishnagiri Town, Krishnagiri-635001",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EMURA-2026-20260406125314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8480/0/be4f3bf93c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Muralidharan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Elayappan",
+        "address": "41-A, Vediyappan Kovil Street, Krishnagiri Town, Krishnagiri-635001",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EMURA-2026-20260406125314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14664/0/e072213634/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.c. Govindaraje",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Chennaiyachetti",
+        "address": "24/27, Kothur, Bargur, Krishnagiri-635104",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ECGOV-2026-20260404055834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15722/0/615c6a4f44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.c. Govindarasan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Chennappa Naidu",
+        "address": "3/72, Emakkalnatham Vill And Po, Bargur -Tk, Krishnagiri-Dt,635104",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ECGOV-2026-20260404012113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15764/0/ddf70914df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Govindasamy",
+        "address": "Kavakattiyur -Vill, Arasampatti- Po, Pochampalli -Tk, Krishnagiri -Dt, 635201",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSIVA-2026-20260402122328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5104/0/fbf60311c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J Krishnamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Janarthanan",
+        "address": "68, Melkottai, Madepalli, Bargur -Tk, Krishnagiri -Dt",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JKRIS-2026-20260406042907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9600/0/d8c6e0108b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Anitha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Mayaperumal",
+        "address": "3/394A, Maya Nagar, Katinayanapalli, Sri Devaraj Mahal Opposite, Chennai Road, Krishnagiri - 635001",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANIT-2026-20260402020437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5082/0/54c93ac9e5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Annadurai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Kathavarayan",
+        "address": "1/143D, Nagampatti Vill, Via-Mathur, Madarahalli -Po,Bargur -Tk,Krishnagiri -Dt, 635203",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260330045349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/239/0/c638e1058f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K M Soundararajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Munika Naiyudu",
+        "address": "2/1, Kondireddipatti -Vill, Antheripatti -Po, Pochampalli-Tk, Krishnagiri -Dt",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMSOU-2026-20260406014115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10167/0/b313580942/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K M Vijaya",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "D Mathiazhagan",
+        "address": "58 B, Gandhi Nagar, Basheer Mohammed Layout, Krishnagiri -635001",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMVIJ-2026-20260402014635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5061/0/e2a069f93a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Annadurai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Kathavarayan",
+        "address": "1/143D, Nagampatti Vill, Via-Mathur, Madarahalli -Po,Bargur -Tk,Krishnagiri -Dt, 635203",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260330045349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16597/0/883a1f39a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavinkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Selvam",
+        "address": "1/464/34A, Sathyasai Nagar, 2Nd Cross Street, Kattikanapalli, Krishnagiri-635002",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIN-2026-20260330050947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/321/0/5063cee6c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavinkumar. S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Selvam",
+        "address": "1/464/34A, Sathyasai Nagar, 2Nd Cross Street, Kattikanapalli, Krishnagiri-635002",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIN-2026-20260330050947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15825/0/77adc56eef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Nedunchezlian",
+        "party": "Periyar Ambedkar Munnetra Kazhagam (Pamk)",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Munimathan",
+        "address": "Mig No : 8, Dr.br.ambethkar House, Tnhb, Bargur -635104",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNEDU-2026-20260402043421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5246/0/79baa70664/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Vignesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Muthuraman",
+        "address": "4/294A, Santhakarambu, Venkatasamuthiram - Po, Bargur - Tk, Krishnagiri -Dt, 635104",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIGN-2026-20260402023928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5478/0/02837f2cc4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Nedunchezlian",
+        "party": "Periyar Ambedkar Munnetra Kazhagam (Pamk)",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Munimathan",
+        "address": "Mig No : 8, Dr.br.ambethkar House, Tnhb, Bargur -635104",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNEDU-2026-20260402043421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16389/0/7f64ec71ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mani K",
+        "party": "All India Youth Development Party",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Kaliyappan",
+        "address": "1/410, Veppalampatti -Vill, Santhur -Po, Pochampalli-Tk, Krishnagiri-Dt, 635206",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260404024421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6351/0/29ac925020/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mani. K",
+        "party": "All India Youth Development Party",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Kaliyappan",
+        "address": "1/410, Veppalampatti -Vill, Santhur -Po, Pochampalli-Tk, Krishnagiri-Dt, 635206",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260404024421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15885/0/b658b742dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manivannan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Raja",
+        "address": "1/192A, Guttur Vill, Amballi -Po, Bargur- Tk, Krishnagiri - Dt",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIV-2026-20260402045108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5400/0/d2cd2cb22f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mathesh. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Sivapu Raja",
+        "address": "212, Veeramalai Vill, Pochamaplli- Tk, Krishnagiri -Dt, 635204",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMADE-2026-20260402021640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16460/0/ce2d90f20d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mithun M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Madhaiyan",
+        "address": "57B, Sanjay Nagar, Majeethgollahalli Vill, Ikothpalli, Bargur -Tk, Krishnagiri -Dt",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MITHU-2026-20260406012103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9416/0/6b58655e24/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Padma M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Manokaran",
+        "address": "61/36, Thiruvannamalai Road, Puthupettai, Krishnagiri-635001",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PADMA-2026-20260406122920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10080/0/5b3e33c570/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveen",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Anbalagan",
+        "address": "150/1, Mariyamman Kovil Street, Ganesh Nagar, Bargur,Krishnagiri -Dt",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260330053119.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/481/0/b4ba2745dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Gurupatham",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Ramanathan",
+        "address": "4/127, Vetrilai Thottam, Orappam -Po, Bargur -Tk,Krishnagiri-Dt",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGURU-2026-20260404124731.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6629/0/e97e40911b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Gurupatham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Ramanathan",
+        "address": "4/127, Vetrilai Thottam, Orappam -Po, Bargur -Tk,Krishnagiri-Dt",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGURU-2026-20260404124731.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13255/0/ccd4fe8343/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Madesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Sivapu Raja",
+        "address": "212, Veeramalai Vill, Pochamaplli- Tk, Krishnagiri -Dt, 635204",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMADE-2026-20260402021640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5382/0/0cd36109f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Albert Francis Xavier",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Susairaj",
+        "address": "5/20, Sundanapalli, Sadhanapalli- Po, Orappam, Barugur -Tk. Krishangiri-Dt",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SALBE-2026-20260404121214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6391/0/86686f1690/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Sasikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Seenivasan",
+        "address": "8/52, Durais Nagar, Bargur, Krishnagiri-Dt,635104",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSASI-2026-20260404020624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6736/0/6adcf353ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Albert Francis Xavier",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Susairaj",
+        "address": "5/20, Sundanapalli, Sadhanapalli- Po, Orappam, Barugur -Tk. Krishangiri-Dt",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SALBE-2026-20260404121214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15917/0/c873587522/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sasikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Seenivasan",
+        "address": "8/52, Durais Nagar, Bargur, Krishnagiri-Dt,635104",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSASI-2026-20260404020624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16192/0/44a9a98486/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathishkumar",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Murugesan",
+        "address": "1/180, Kokkankottai Vill, Kendiganahalli -Po, Karimangalam -Tk, Dharmapuri -Dt,635205",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406121349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9719/0/b3df160ddc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V G Krishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Govindan",
+        "address": "823/2, Vandikarankottai, Deveerahalli Po, Pochampalli-Tk,Krishnagiri-Dt",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGKRI-2026-20260404031209.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6737/0/324a612256/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Govindaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bargur",
+        "father_husband_name": "Varadhappan",
+        "address": "2/240, Seemanoor, Achamangalam -Po, Bargur -Tk, Krishnagiri- Dt,635108",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGOVI-2026-20260402065705.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5651/0/39245dc8bf/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

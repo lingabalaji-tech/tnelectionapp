@@ -1,0 +1,371 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Alangulam",
+    "count": 24,
+    "candidates": [
+      {
+        "name": "A Subash  Chandra Bose",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Arumugam",
+        "address": "9/136, Peramani, Pappankulam, Tenkasi, Tamilnadu -627423",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUBA-2026-20260402033824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5265/0/a4e680b9dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Udhayakumar",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Arunachalam",
+        "address": "1/78-1 , Thamarai Street, Kidarakulam,Alangulam Taluk, Tenkasi District - 627854",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AUDHA-2026-20260406051513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8771/0/95a78105b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arockia Charles",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Selvaraj",
+        "address": "12, Paripaul Street, Singamparai, Mukkudal, Cheranmahadevi Taluk, Tirunelveli - 627601",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROCK-2026-20260404030843.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6699/0/48e6e2f92f/",
+          "https://voterlist.co.in/affidavit-download/6699/1/d41c260497/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumuga Pandian J  Alais Rocket Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Jegadeesan",
+        "address": "3/35-North Street, Block 3, Anaikudi, Idaiyangudi, Tisaiyanvillai Taulk, Tirunelveli",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUMU-2026-20260330041439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/599/0/cd0297188d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Hari Nadar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Arunachalanadar",
+        "address": "No.189, Part- 2, Mela Ilandaikulam, Manur Taluk, Tirunelveli - 627951",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIN-2026-20260402042501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5182/0/6ed4818df0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeyanthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Subramanian",
+        "address": "9/15, 2Nd Cross Ambai Road, Alangulam , Alangulam Taluk, Tenkasi District - 627851",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEYAN-2026-20260406095848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11689/0/7e38e87ba4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Arunkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Kanagaraj",
+        "address": "Pillaiyar  Kovil Street, Kalathimadam, Kuthapanjan, Tenkasi District - 627851",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUN-2026-20260404020553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6719/0/c64823b94d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K R P Prabakaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "K R Paul Durai",
+        "address": "55/9, Amma Illam, Alangulam Road, Jj Nagar, Keelapavoor - 627806- Tenkasi District.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRPPR-2026-20260406021828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9713/0/538b3e073f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madasamy",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Nagaiahdevar",
+        "address": "5D Kamaraj Nagar Sankarnagar Tirunelveli 627357",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/223/177526783301jpg-1-Edited.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11349/0/da77b9add0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mariyaselvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Ilayaraja",
+        "address": "220, South Street, Nalankurichi, Maranthai Village, Alangulam Taluk, Tenkasi District - 627851.",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIY-2026-20260406100952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11991/0/8a8cf9ee71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Shunmugam",
+        "address": "2/113, Santhanamariamman Kovil Street, Kasiyapuram, Alangulam Taluk, Tenkasi District - 627853",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406054107.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8820/0/33bed24067/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Shunmugam",
+        "address": "2/113, Santhanamariamman Kovil Street, Kasiyapuram, Alangulam Taluk, Tenkasi District - 627853",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406054107.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11806/0/7dee3d211e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Namma Doctor Emmanuel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Rajamani",
+        "address": "5F1 Ruby Manor, 26Th Cross Street, Maharaja Nagar, Palayamkottai,  Tirunelveli - 627011",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAMMA-2026-20260402125547.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4995/0/ec9f434073/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paul Manoj Pandian",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "P H Pandian",
+        "address": "No.175,Karisalpatti , Karisalpatti Post, Block No.4, Odaikarai, Govindaperi, Cheranmahadevi, Tirunelveli - 627414.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAULM-2026-20260406032207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8603/0/368b6cc67a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Kotherimohideen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Rahmathulla",
+        "address": "3-14A Puthumanai North Street, Madaliyarpatti, Pottalpudur Post, Tenkasi District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKOTH-2026-20260406094653.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12259/0/5312db17eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Paulraj",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Ramasamy",
+        "address": "67/1- North Street, Sivagamipuram, Keelapavoor Part-I Village, Alangulam Taulk, Tenkasi District - 627806",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPAUL-2026-20260330024929.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/135/0/5f36a086dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Duraipandi",
+        "address": "3/339,B-Kaliamman Nagar,Poolangulam,Alangulam Taluk,Tenkasi District -627415",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406013500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9930/0/a8403da6dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subbulakshmi M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Madasamy",
+        "address": "5D Naranammalpuram Town Punchayat Ward 14 Kamaraj Nagar Sankarnagar Tirunelveli 627357",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/223/1775208161photo.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10609/0/b7aef46e5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T  Marikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Theivanathan",
+        "address": "1/135, Amman Kovil Street, Poolankulam, Alangulam Taluk, Tenkasi District.",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMARI-2026-20260406071906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11004/0/7a81680b4e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "U Aravind",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Udhyasuriyan",
+        "address": "1/70, Bharathi Ninaivu Nagar, Kilakadaiyam, Tenkasi District - 627415",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UARAV-2026-20260404043404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6395/0/10597e503d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Muthukumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Velraj",
+        "address": "28/8 Sengunthar Pillaiyar Kovil Street,  Keelapavoor, Alangulam Taluk, Tenkasi District",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUTH-2026-20260406064409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10207/0/e864926295/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Saravanan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Venkatesh",
+        "address": "1/191 Vethalasamy Kovil Nagar, North Poolankulam, Poolankulam- 627415 Alangulam Taluk- Tenkasi District.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSARA-2026-20260406062250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10449/0/15de845d52/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vibin Chakkaravarthy",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "Vaikundaraja",
+        "address": "12/45A , Mariamman Kovil Street, Alangulam.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIBIN-2026-20260402015521.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5072/0/494a255d44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "W Jayson",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangulam",
+        "father_husband_name": "S Wilson",
+        "address": "6/356, Chruch Street, Suvisehapuram, Adaikalapattam Post - 627808",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/WJAYS-2026-20260402053418.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5643/0/dd660a5499/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

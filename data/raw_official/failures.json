@@ -1,0 +1,16 @@
+[
+  "Chennai: HTTP Error 404: Not Found",
+  "Kanchipuram: <urlopen error [Errno 11001] getaddrinfo failed>",
+  "Kallakurichi: HTTP Error 404: Not Found",
+  "Cuddalore: HTTP Error 503: Service Temporarily Unavailable",
+  "Nagapattinam: Remote end closed connection without response",
+  "Tiruvarur: <urlopen error [Errno 11001] getaddrinfo failed>",
+  "Thanjavur: <urlopen error [Errno 11001] getaddrinfo failed>",
+  "Pudukkottai: HTTP Error 404: Not Found",
+  "Sivaganga: HTTP Error 404: Not Found",
+  "Madurai: HTTP Error 404: Not Found",
+  "Ramanathapuram: <urlopen error [Errno 11001] getaddrinfo failed>",
+  "Thoothukudi: <urlopen error [Errno 11001] getaddrinfo failed>",
+  "Tenkasi: HTTP Error 404: Not Found",
+  "Kanyakumari: <urlopen error [Errno 11001] getaddrinfo failed>"
+]

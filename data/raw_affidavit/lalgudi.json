@@ -1,0 +1,778 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Lalgudi",
+    "count": 53,
+    "candidates": [
+      {
+        "name": "A Jegan Salamondoss",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Anthonsamy",
+        "address": "No.93, Anthoniyar Kovil Street, Melaperungavur, Keelaperungavurpost Lalgudi Taluk, Tiruchirappalli District-621218",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JEGAN-2026-20260406111034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12887/0/4e5a8d270f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Amalan Savarimuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "T. Anthonisamy",
+        "address": "No.36, Arumuga Nagar, 6Th Street, Sekkalai, Karaikudi Taluk, Sivagangai District  630002.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AAMA-2026-20260409121119.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14925/0/7d1e48ad1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Jegan Salamondoss",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Anthonsamy",
+        "address": "No.93, Anthoniyar Kovil Street, Melaperungavur, Keelaperungavur Post, Lalgudi Taluk, Tiruchirappalli District-621218.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AJEGA-2026-20260409121324.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14686/0/06e66f40ca/",
+          "https://voterlist.co.in/affidavit-download/14686/1/095b51df77/",
+          "https://voterlist.co.in/affidavit-download/14686/2/f0fe889dc0/",
+          "https://voterlist.co.in/affidavit-download/14686/3/3cc2c0b314/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.amalan Savarimuthu",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "T.anthonisamy",
+        "address": "36 Arumuga Nagar 6Th Street Sekkalai Karaikudi Taluk Sivagangai District - 630002",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.amalan Savarimuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "T.anthonisamy",
+        "address": "36, Arumuga Nagar, 6Th Street, Sekkalai, Karaikudi Taluk, Sivagangai District  630002",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AAMA-2026-20260406110428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12971/0/e73304fc1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.patrick Browning",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Anthonisamy",
+        "address": "5/125 Mela Street Sirumayangudi East Mettuppatti Post Lalgudi Taluk Tiruchirappalli - 621706",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanamoorthy .R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "D. Ramanathan",
+        "address": "2/154, Main Road, Thirumanamedu Post, Lalgudi Taluk, Tiruchirappalli  621218.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANA-2026-20260409121700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15199/0/64386b245a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanamoorthy.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Ramanathan",
+        "address": "2/154 Main Road Thirumanamedu Post Lalgudi Taluk Tiruchirappalli -621218",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Yesudoss",
+        "party": "Tamilaga Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "C. Esak",
+        "address": "No.177, Indira Colony, Pandaravadai Tharanur, Lalgudi Taluk, Tiruchirappalli District  621712.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EYES-2026-20260330031424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16595/0/3c5537fcf8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.yesudoss",
+        "party": "Tamilaga Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Esak",
+        "address": "Door No 177 Indira Colony Pandaaravadai Thaaraanur Lalgudi Taluk Trichy Disrict",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EYES-2026-20260330031424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/234/0/a7ea95ea2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegan Salamon Doss",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Anthonisamy",
+        "address": "93 Anthoniyar Kovil Street Melaperungavur Lalgudi Taluk Tiruchirappalli District - 621218",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Jinnah Jakeer Hussain",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Asarali Jinnah",
+        "address": "No23 Anna Nagar Poovalur Road Siruthaiyur Lalgudi Post Trichy District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JINNA-2026-20260404065521.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7523/0/ee90e91602/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Josephin",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Ravi",
+        "address": "306 Keela Street Konnaikudi Jangamarajapuram Lalgudi Taluk Tiruchirappalli - 621702",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Dharmaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Kaliyan",
+        "address": "No.412, Malaiyappapuram Angarai,  Lalgudi Taluk, Tiruchirappalli  621703.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KDHA-2026-20260409121439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14884/0/6a1c34b1da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Immaculate Mary",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "K. Kamaraj",
+        "address": "3/55, Mariyamman Kovil Street, Neikuppai, Lalgudi, Tiruchirappalli  621111.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KIMM-2026-20260404070836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15796/0/a8cffd692b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Kandan",
+        "address": "No.121, Ayyan Vaikkal Karai, Pambaramsuthi, Manthurai Post, Lalgudi Taluk, Tiruchirappalli  621703.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KSEN-2026-20260409120851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14883/0/3d0bb56588/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.dharmaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Kaliyan",
+        "address": "412 Malaiyappapuram Angarai Lalgudi Taluk Tiruchirappalli - 621703",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.immaculat Mary",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Kamaraj",
+        "address": "3/55 Mariyamman Koil Street Meikuppai Lalgudi Taluk Tiruchirappalli - 621111",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KIMM-2026-20260404070836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7098/0/3337a1c8a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.immaculate Mary",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "K.kamaraj",
+        "address": "3/55, Mariyamman Koil Street, Neikuppai, Lalgudi Taluk, Tiruchirappalli  621111.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KIMM-2026-20260404070836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13183/0/efe69335f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.senthil Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Kandan",
+        "address": "121, Ayyan Vaikkal Karai, Pambaramsuthi, Manthurai Post, Lalgudi Taluk, Tiruchirappalli - 621703",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KSEN-2026-20260406105825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12957/0/912c213bcf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Kandhan",
+        "address": "121 Ayyan Vaikkal Kari Pambaramsuthi Manthurai Post Lalgudi Taluk Tiruchirappalli - 621703",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ku Pa Krishnan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Paramasivam",
+        "address": "2/12 Mela Kuzhumani Kuzhumani Post Tiruchirappalli - 639103",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KUPAK-2026-20260404070539.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7718/0/9447457775/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Leemarose",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "S.martin",
+        "address": "No 135/1 Thiruvalluvar Street Vellakinar Pirivu G .N.mills  Post Coimbatore - 641029",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Leemarose Martin",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "S.martin",
+        "address": "135/1, Thiruvalluvar Street, Vellakkinar Pirivu, G.n.mills Post, Coimbatore  641029.",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LEEMA-2026-20260406105501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13003/0/e887d91618/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Krishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Manickam",
+        "address": "2/165, Keela Street, Koppavalli, Athikudi Post, Lalgudi Taluk, Tiruchirappalli  621702.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MKRI-2026-20260409121909.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15479/0/f41cb59e93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Rameshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Murugesan",
+        "address": "No.144, Rottu Theru, Main Road, Manakkal West, Lalgudi Taluk, Tiruchirappalli  621601.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAM-2026-20260409114859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16004/0/61225db5cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.krishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Manickam",
+        "address": "2/165 Keela Street Koppalvalli Athikudi Post Lalgudi Taluk Tiruchirappalli - 621702",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramesh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Murugesan",
+        "address": "No.144, Rottu Theru, Main Road, Manakkal West, Lalgudi Taluk, Tiruchirappalli  621601",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAM-2026-20260404070328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13231/0/7d1d63236e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.rameshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Murugesan",
+        "address": "No.144 Rottu Theru Main Road Manakkal West Lalgudi Taluk Tiruchirappalli - 621601",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAM-2026-20260404070328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7460/0/c4299e85b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mansoor Alikhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Abdul Salam",
+        "address": "Door No 21/11 Thirukumarapuram 4Th Street Arumbakkam Chennai - 600 106",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANSO-2026-20260330051008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/324/0/590f866c1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Abubakkar Siddiq",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Maideen",
+        "address": "19/8 Gorimedu Kooni Bazar Tiruchirappalli - 620001",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAM-2026-20260404071535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7815/0/a4ae48065d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Veeran",
+        "address": "D4 Housing Unit Salai Road Uraiyur Tiruchirappalli- 620003",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260404065801.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7703/0/85cbcc5080/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Madhan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Nesamanoghar",
+        "address": "5/105, North Street, Nedungur Post, Lalgudi Taluk, Tiruchirappalli District  621105.",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NMAD-2026-20260330032510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16610/0/b9d8581643/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.madhan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Nesamanoghar",
+        "address": "Door No 5/105 North Street Nedunkur Lalgudi Taluk Trichy District",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NMAD-2026-20260330032510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/291/0/43b311d1b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Elanchezhiyan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Panneer Selvam",
+        "address": "2/16, Sathambadi, Pallividai Post, Samayapuram Via, Lalgudi Taluk, Tiruchirappalli District  621112.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PELA-2026-20260409121220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15529/0/1d089a7ef5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Saravanan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Palanisamy",
+        "address": "C-28, J.j Nagar, Edamalaipatti Pudhur, Tiruchirappalli  620012.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSAR-2026-20260409121555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15015/0/c0aa8a56e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.elanchezhiyan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "V.panner Selvam",
+        "address": "2/16 Sathambadi Pallividai Post Samayapuram Via Lalgudi Taluk Tiruchirappalli District - 621112",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Palanisamy",
+        "address": "C-25 J.j Nagar Edamalaipatti Pudur Tiruchirappalli - 620012",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.saravanan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Palanisamy",
+        "address": "C-28, J.j Nagar, Edamalaipatti Pudhur, Tiruchirappalli  620012",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSAR-2026-20260406111336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12994/0/f696ea8aad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvakumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Periyasamy",
+        "address": "1/379 Main Road Natarajapuram Konnaikudi Post Lalgudi Taluk Tiruchirappalli - 621702",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSEL-2026-20260404071109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7393/0/f20b0232ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pratheeba",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Stephen Thangaraj",
+        "address": "5/240 Keela Street Mettupatti Lalgudi Taluk Tiruchirappalli -621706",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Dineshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "R. Rajendran",
+        "address": "1/21, Ramanujapuram, Kudiyana Theru, Sozhapuram Post, Kumbakonam Taluk, Thanjavur District  612503.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RDIN-2026-20260409121010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15231/0/2cd1f0fdbc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ponsilambu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "M. Rajkumar",
+        "address": "116A, New Street, Collector Office, Periyamilaguparai, Tiruchirappalli West Taluk  620001.",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RPON-2026-20260409122057.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14860/0/72e1d41fb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Tamilarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Ramasamy",
+        "address": "4/226, South Street, Peruvallapur, Lalgudi Taluk, Tiruchirappalli District  621651.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RTAM-2026-20260402030529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16314/0/35d200f476/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.dineshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "R.rajendran",
+        "address": "1/21 Ramanujapuram Kudiyana Theru Sozhapuram Post Kumbakonam Taluk Thanjavur District - 612503",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ponsilambu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "M.rajkumar",
+        "address": "116A New Street Collector Office Periyamilagu Parai Tiruchirappalli - 620001",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.tamilarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Ramasamy",
+        "address": "4/226 South Street Peruvalappur Lalgudi Taluk Trichy District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RTAM-2026-20260402030529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5125/0/4fea0f37d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Parivallal",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "C. Thangavel",
+        "address": "No.1/35, North Street,  North Makilambadi, Lalgudi Taluk, Tiruchirappalli-621111.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TPAR-2026-20260404065952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15719/0/2c743dbd2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.chinnaraja",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Thangavel",
+        "address": "1/35 North Makilambadi North Street Lalgudi Taluk Tiruchirappalli - 621111",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TCHI-2026-20260404070137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7111/0/7718626cdd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.parivallal",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Thangavel",
+        "address": "1/35 North Makilambadi North Street Lalgudi Taluk Tiruchirappalli - 621111",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TPAR-2026-20260404065952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6918/0/8bfe4e11e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Muthusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Veeran",
+        "address": "D4, Housing Unit, Salai Road, Uraiyur, Tiruchirappalli  620003.",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260404065801.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16118/0/81355b08a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.muthusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Veeran",
+        "address": "D4, Housing Unit, Salai Road, Uraiyur, Tiruchirappalli  620003.",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260404065801.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13257/0/1fbdda7f30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vibbin Richerd B",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Lalgudi",
+        "father_husband_name": "Benjamin",
+        "address": "17 Srivatsa Residence No 10 Mettupplayam Road Goundar Mills Thudiyalur Coimbatore - 641029",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      }
+    ]
+  }
+}

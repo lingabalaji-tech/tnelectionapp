@@ -1,0 +1,326 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Musiri",
+    "count": 21,
+    "candidates": [
+      {
+        "name": "C.palanisamy",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "P.chinnaian",
+        "address": "1/55, Roja Nagar, M.puthur, Thottiyam Taluk, Tiruchirappalli District, 621 203.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CPAL-2026-20260404062135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7877/0/9162fea443/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Bakiyalakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "K. Ashokkumar",
+        "address": "3/673, South Reddy Street, Pillaiyar Patti, Thanjavur District-613403",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBAK-2026-20260330024839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/134/0/ee7d0748fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.ramesh",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Jaganathan",
+        "address": "Door No.197, Kudi Street, Marachipatti, Thottiyam Taluk, Tiruchirappalli District, 621 215.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JRAM-2026-20260406083355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11368/0/d35639b7fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayakamali.y",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "N.yoganathan",
+        "address": "No.9, East Ambalakkara Street, M.karuppampatti, Musiri Taluk, Tiruchirappalli District, 621 210",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAK-2026-20260406090019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11454/0/0a5ab1af03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.ashokkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "M.kaliyaperumal",
+        "address": "3/673, South Reddy Street, Pillaiyarpatti Post, Thanjavur District, 613 403",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASH-2026-20260406091446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12210/0/ba0bf3d136/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.dhivya",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "T.kathiresan",
+        "address": "Door No.4/40-2, North Street, Appanallur, Thottiyam Taluk, Tiruchirappalli District, 621 208",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDHI-2026-20260404054405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7504/0/b43bf405d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.chinnaiyan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Muthusamy",
+        "address": "Door No.6/113, Pallar Street, Chinnakodunthurai, Kodunthurai, Musiri Taluk, Tiruchirappalli District, 621 202.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MCHI-2026-20260406080300.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11068/0/7f28955b84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vignesh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "C.muthu",
+        "address": "No.42, Balaji Nagar-2, Angarai, Lalgudi Taluk, Tiruchirappalli District, 621 703",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIG-2026-20260406065546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9440/0/8d558c7a25/",
+          "https://voterlist.co.in/affidavit-download/9440/1/7bff3619cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malarmannan.m",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Mahamuni",
+        "address": "272, Colony Nagar, Arangoor,Thottiyam Taluk, Tiruchirappalli-621215",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALAR-2026-20260330013928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/548/0/c172b6c4b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.s.kalairaja",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "N.selvaraj",
+        "address": "13C, North East Extension, Thillai Nagar, Tiruchirappalli District, 620 018.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSK-2026-20260406074422.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11164/0/09356a318b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.s.karunairaaja",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "N.selvaraj",
+        "address": "13C, North East Extension, Thillai Nagar, Tiruchirappalli District, 620 018.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSK-2026-20260406071956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11013/0/07bd360511/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.santhoshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Nallendran",
+        "address": "No.6/6, Pallar Street, P.k.salakkadu, Mettupalayam Post, Musiri Taluk, Tiruchirappalli District, 621 210.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSAN-2026-20260406093809.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11990/0/bddf207831/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.yoganathan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Nallusamy",
+        "address": "No.3, West Ambalakkara Street, M.karuppampatty, Musiri Taluk, Tiruchirappalli District, 621 210",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NYOG-2026-20260404051948.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7788/0/a80ff3ebac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Loganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Palanivel",
+        "address": "1/79, Kalathumedu, Neiveli Post, Musiri Taluk, Tiruchirappalli District, 621 217",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PLOGA-2026-20260402030507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5143/0/ba72b46cc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.loganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Palanivel",
+        "address": "1/79, Kalathumedu, Neiveli Post, Musiri Taluk, Tiruchirappalli District, 621 217",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PLOGA-2026-20260402030507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8088/0/48043acc6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.loganathan M.sc.m.phil.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Palanivel",
+        "address": "Door No.1/79, Kalathumedu, Neiveli Post, Musiri Taluk, Tiruchirappalli District-621 217.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PLOGA-2026-20260402030507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16324/0/fbd820a302/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Perumal",
+        "address": "No.137/1, Colony, Morupatty, Mettupalayam Post, Musiri Taluk, Tiruchirappalli District, 621 210",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSEL-2026-20260406092741.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11674/0/52adec1a02/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.anandhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Rethinasamy",
+        "address": "67/52, South Kallar Street, Musiri Taluk, Tiruchirappalli District, 621 211",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANA-2026-20260406084643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10921/0/fa4be6364e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.k.manoharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "S.kandasamy",
+        "address": "Door No.11/24, Sabapathi Nadar Street, Kulithalai Taluk, Karur District, 639 104.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKM-2026-20260406081921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10783/0/16dfe78a7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.venkateshwaran",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Sevugan",
+        "address": "4/25, Middle Street, Mahadevi Post, Musiri Taluk, Tiruchirappalli District, 621 214.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEN-2026-20260404060439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7207/0/2b8321821a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Musiri",
+        "father_husband_name": "Subramanian",
+        "address": "1/38, Kamatchipatti, Velakkanatham Post, Musiri Taluk, Tiruchirappalli District, 621 217",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260402125511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4994/0/3a85d5fe0c/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

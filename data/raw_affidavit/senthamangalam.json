@@ -1,0 +1,445 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Senthamangalam",
+    "count": 29,
+    "candidates": [
+      {
+        "name": "A Balamugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Ayyasamy",
+        "address": "1/263, Arangasivankundru, Nadukombai, Nadukombai, Namakkal-637404",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406083153.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15520/0/398690abc2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamugan A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Ayyasamy",
+        "address": "1/263, Arangasivankundru, Nadukombai, Nadukombai, Namakkal-637404",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406083153.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11296/0/45797da558/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Chandrasekaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chinnagoundar",
+        "address": "16/65/33 Pudhuvaluvpatti, Ariyurnadu, Kolli Hills Taluk,Namakkal District",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260406055700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14680/0/c6d94c77b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Jaganathan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chinnasamy",
+        "address": "5/133, Melmenur ,Pongampatty Post, Bail Nadu, Kolli Hills Taluk, Namakkal District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAGAN-2026-20260404014428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16021/0/bf14e43669/",
+          "https://voterlist.co.in/affidavit-download/16021/1/2937b3d329/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Suthan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chandran",
+        "address": "18/22, Karaiyankattupatti, Vazhavanthinadu, Kolli Hills Taluk, Namakkal District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406081404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14704/0/c295ffbf28/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekar P",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Ponnusamy",
+        "address": "21-3, Sothankuttupatti, Kelakku Valavu Post , Ariyur Nadu, Kolli Hills Taluk  Namakkal District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260404024650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6435/0/2de5c963c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekaran C",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chinna Goundar",
+        "address": "16/65/33 Pudhuvaluvpatti, Ariyurnadu, Kolli Hills Taluk,Namakkal District",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260406055700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8517/0/9bd48c7463/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Duraisamy K",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Kowrusa Chinnakolandai",
+        "address": "46A , A Block , Spk Nagar, Nallipalayam, Namakkal,637003",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260330054402.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/567/0/d1743f4843/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E Manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Eswaran",
+        "address": "1/46, St Street , Nadukombai, Senthamangalam Taluk, Namakkal District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406084658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15079/0/4371fe1a04/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jaganathan C",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chinnasamy",
+        "address": "5/133, Melmenur ,Pongampatty Post, Bail Nadu, Kolli Hills Taluk, Namakkal District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAGAN-2026-20260404014428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6507/0/6ac4dd5ade/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Duraisamy",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Kowrusa Chinnakolandai",
+        "address": "46A , A Block , Spk Nagar, Nallipalayam, Namakkal,637003",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260330054402.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16661/0/29d95cbcb9/",
+          "https://voterlist.co.in/affidavit-download/16661/1/ddb2449b79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Kalimuthu",
+        "address": "9/2B, Perungraipatti, Semmedu Post, Vazhavanthi Nadu, Kolli Hills Taluk , Namakkal District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406082457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15158/0/a4424e0999/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Swaminathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Muthusamy",
+        "address": "43A/14, Oorkalingampatti, Kelakku Valavu Post, Aariyur Nadu, Kollihills Taluk, Namakkal District, 637411",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SWAMI-2026-20260404031218.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16196/0/9d56299c27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Eswaran",
+        "address": "1/46, St Street , Nadukombai, Senthamangalam Taluk, Namakkal District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406084658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10933/0/7c757eb730/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Chandrasekar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Ponnusamy",
+        "address": "21-3, Sothankuttupatti, Kelakku Valavu Post , Ariyur Nadu, Kolli Hills Taluk  Namakkal District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260404024650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15949/0/a51191ef00/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Poomalar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Rajendran",
+        "address": "17/25, Sakkaraipatti, Vazhavanthinadu, Semmedu Post, Kolli Hills Taluk , Namakkal District -",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOMA-2026-20260402050921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16333/0/c3a7ccedf8/",
+          "https://voterlist.co.in/affidavit-download/16333/1/dae80096a2/",
+          "https://voterlist.co.in/affidavit-download/16333/2/1586ae07b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Ramasamy",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Pappu",
+        "address": "4/462, Oduvampatti, Sonapuram Post , Oppuliyapuram South, Thuraiyur, Tirchy District-621011",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAS-2026-20260402070524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16349/0/7048760f9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Selvaraj",
+        "address": "17/64, Sakkaraipatti , Vazhavanthinadu , Kolli Hills Taluk , Namakkal District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260402061744.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5797/0/f730fded56/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponnumani C",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Prabhakaran S",
+        "address": "25/9, Mel Sengattupatti, Valappurnadu, Kolli Hills Taluk, Namakkal District, 637411",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONNU-2026-20260402071917.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5763/0/a13444d6ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poomalar P",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Poonnusamy",
+        "address": "17/25, Sakkaraipatti, Vazhavanthinadu, Semmedu Post, Kolli Hills Taluk , Namakkal District -",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOMA-2026-20260402050921.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramasamy P",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Pappu",
+        "address": "4/462, Oduvampatti, Sonapuram Post , Oppuliyapuram South, Thuraiyur, Tirchy District-621011",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAS-2026-20260402070524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5700/0/81d8cfecb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Kalimuthu",
+        "address": "9/2B, Perungraipatti, Semmedu Post, Vazhavanthi Nadu, Kolli Hills Taluk , Namakkal District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406082457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11006/0/08ed6280e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rohini T",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Thirunavukarasu S",
+        "address": "22-51, Karaiyankattupatti, Vazhavanthinadu, Kolli Hills , Namakkal, 637411",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ROHIN-2026-20260404033024.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudhan C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chandran",
+        "address": "18/22, Karaiyankattupatti, Vazhavanthinadu, Kolli Hills Taluk, Namakkal District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406081404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10564/0/b3df5c0c8a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suthan C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chandran",
+        "address": "18/22, Karaiyankattupatti, Vazhavanthinadu, Kolli Hills Taluk, Namakkal District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406081404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11716/0/eea7cb069f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Swaminathan M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Muthusamy",
+        "address": "43A/14, Oorkalingampatti, Kelakku Valavu Post, Aariyur Nadu, Namakkal District, 637411",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SWAMI-2026-20260404031218.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6743/0/e0da48c8be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Muthusamy",
+        "address": "1/27, St Street , Nadukombai, Senthamangalam Taluk, Namakkal District, 637404",
+        "gender": "Male",
+        "age": "24",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIGNE-2026-20260406083856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10628/0/156bcccc11/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Visvanathan E",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Eswaran",
+        "address": "1/139, Karamankadu, Pungampatty Post, Bail Nadu, Kolli Hills Taluk , Namakkal District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VISVA-2026-20260404021952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6844/0/cec98d16ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Yuvaraj C",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Senthamangalam",
+        "father_husband_name": "Chandrasekaran C",
+        "address": "33/16, Puthu Valavu, Ariyur Nadu, Kolli Hills Taluk , Namakkal District",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/YUVAR-2026-20260406075223.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10568/0/09c60987e2/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

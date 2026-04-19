@@ -1,0 +1,845 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Mayiladuthurai",
+    "count": 55,
+    "candidates": [
+      {
+        "name": "A.karthick",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Arumugam",
+        "address": "Door.no.172 I, South Railway Colony,Kaveri Nagar,Mayiladuthurai-609003",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAR-2026-20260406013138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9787/0/512c3e1081/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.palanisamy",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Arumugam",
+        "address": "Door.no.191,Bajanaimada Theru,Sidhamalli,Mayiladuthurai-609205..",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APAL-2026-20260406040649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10368/0/a452a1087b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.palanisamy M.com",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Arumugam",
+        "address": "Door.no.191,Bajanaimada Theru,Sidhamalli,Mayiladuthurai-609205..",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APAL-2026-20260406040649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14005/0/1fdeeb56a6/",
+          "https://voterlist.co.in/affidavit-download/14005/1/3fbdc33574/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananthakumar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Ramalingam",
+        "address": "16,Indira Nagar,Sitharkadu,Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANANT-2026-20260410111321.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16231/0/c81fdbcb57/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aravaazhi. K",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "No.2,Annai Theresa Nagar,Ullur Chetti Mandapam,Kumbakonam Taluk,Thanjavur District-612001",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARAVA-2026-20260409075020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15630/0/3c7d66bf3b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.bharathiraja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Balaiyan",
+        "address": "2/6,Bharathi Nagar,Kizhai,Mayiladuthurai-609202.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BBHA-2026-20260404020845.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6740/0/557986bf5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharathiraja. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "J.balaiyan",
+        "address": "2/6,Bharathi Nagar,Kiloy Post,Mayiladuthurai-609202",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BHARA-2026-20260410111108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16194/0/75ef75dc66/",
+          "https://voterlist.co.in/affidavit-download/16194/1/1d391aa037/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.ganesan",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Chinnapillai",
+        "address": "Door.no.16, Uthiramela Veethi, Kuttalam-609801.",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CGAN-2026-20260406034646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9484/0/473f7bafc0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gangadharan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "P.ramakrishnan",
+        "address": "Anna Nagar, Pandaravadai Mappadugai, Mayiladuthurai-609003",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GANGA-2026-20260410110742.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15173/0/e283123d1a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gobala Krishnan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sundarraj",
+        "address": "3/81,South Street,Keela Pattamangalam,Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GOBAL-2026-20260410111731.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15650/0/94e189e88a/",
+          "https://voterlist.co.in/affidavit-download/15650/1/9cb8a125bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Haroon Rasheed. S.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sickander Batcha",
+        "address": "17/8,Moottaikaran Street, Mannadi, Vallal Sithakathi Nagar, Chennai-600001.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/HAROO-2026-20260410110705.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16352/0/2de1da1f6b/",
+          "https://voterlist.co.in/affidavit-download/16352/1/9b8056060b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.jamal Mohamed Yasin",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Jamal Mohideen Paapa",
+        "address": "Door.no.73,Cauvery Street, Yaagappa Nagar, Tanjore-613007",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJAM-2026-20260406042955.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9667/0/f8f3eb8114/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.jamal Mohamed Younoos",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Jamal Mohamed Yasin",
+        "address": "Door.no.73,Cauvery Street, Yaagappa Nagar, Tanjore-613007",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JJAM-2026-20260406045207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8559/0/3efce0f17d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jamal Mohamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Mohamed Sultan",
+        "address": "226,Main Road,Thirumangalam,Mayiladuthurai-609811",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAM-2026-20260406082420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13944/0/99b8ceb6c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jamal Mohamed Younoos. Y.n",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Jamal Mohamed Yasin",
+        "address": "73,Cauvery Street, Yaagappa Nagar,Thanjavur Town,Thanjavur Taluk,Thanjavur-613007",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAMAL-2026-20260410111706.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14695/0/1f140d20cc/",
+          "https://voterlist.co.in/affidavit-download/14695/1/53a6f1d307/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.aravaazhi",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "No.2, Annai Theresa Nagar,Ulloor Chetty Mandapam,Kumbakonam Taluk,Tanjavur-612001",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARA-2026-20260406032716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14003/0/577d427db6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.aravazhi",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "No.2, Annai Theresa Nagar,Ulloor Chetty Mandapam,Kumbakonam Taluk,Tanjavur-612001",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARA-2026-20260406032716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10359/0/0c5af3ca2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kasiraman",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Krishnamoorthi",
+        "address": "1-29,Saraboji Agraharam Street, Thiruvenkadu, Sirkazhi Taluk, Mayiladuthurai.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KKAS-2026-20260330053053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8/0/d64e1810bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.saravanan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Kaathaperumal",
+        "address": "84/2, Vadakku Kavara Theru, Thiruvizhandur Post, Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAR-2026-20260404034937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6463/0/e7484c35ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.subramanian",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Krishnamoorthi",
+        "address": "1-29, Saraboji Agraharam Street, Thivenkadu, Sirkazhi Taluk, Mayiladuthurai.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KSUB-2026-20260330053151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/302/0/72978acc8c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.venkatesan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Kaliyamorthy",
+        "address": "38,Keezha Theru, Asikadu, Maraiyur Post, Kuthalam Taluk, Mayiladuthurai-609806",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEN-2026-20260404023804.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6274/0/2718f607e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick. A",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Arumugam",
+        "address": "172 I,South Railway Colony,Kaveri Nagar,Mayiladuthurai-609003",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARTH-2026-20260410111344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15308/0/2490d960ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kasiraman. K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Krishnamoorthi",
+        "address": "1-29,Saraboji Agraharam Street, Thiruvenkadu, Sirkazhi Taluk,Mayiladuthurai.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KASIR-2026-20260410110725.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16411/0/eff2284b63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.sambath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Loganathan",
+        "address": "21/33,Anna Veethi,Korandu,Mayiladuthurai-609003",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LSAM-2026-20260406064209.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10079/0/5d988f79b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.sampath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Loganathan",
+        "address": "21/33,Anna Veethi,Korandu,Mayiladuthurai-609003",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LSAM-2026-20260406064209.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13977/0/d31b0fc3f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.jamal Mohamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Mohamed Sultan",
+        "address": "226,Main Road,Thirumangalam,Mayiladuthurai-609811",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAM-2026-20260406082420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10981/0/108364c53b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manimaran",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Thangavel",
+        "address": "Door.no.185-A/1,Venkateshwara Nagar, Vallalagaram,Mayiladuthurai-609118",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMAN-2026-20260406075818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13933/0/0af103fa58/",
+          "https://voterlist.co.in/affidavit-download/13933/1/0e755d698d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natarajan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "K.ranganathan",
+        "address": "37/19,Gnanasambanthar Street,Sirkazhi Town,Mayiladuthurai-609110",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NATAR-2026-20260410111204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16223/0/8be7279822/",
+          "https://voterlist.co.in/affidavit-download/16223/1/057b8e8f67/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Navanitham. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Selvaraj",
+        "address": "38/18,Kumarakattalai Theru, Koranadu,Mayiladuthurai-609001",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NAVAN-2026-20260410110930.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15945/0/30b2f632c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sakthivel",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Periyasamy",
+        "address": "2/101,Kaliyamman Kovil Street,Pakkam,Kizhai Post,Mayiladuthurai",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAK-2026-20260406020938.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9334/0/91b7e9abcf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy.a  M.com.",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Arumugam",
+        "address": "191,Pajanai Mada Street,Sithamalli,Mayiladuthurai-609205.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PALAN-2026-20260410111530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15633/0/0532a2e73b/",
+          "https://voterlist.co.in/affidavit-download/15633/1/a283fface2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ananthakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Ramalingam",
+        "address": "16,Indira Nagar,Sidharkadu,Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANA-2026-20260404041104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6785/0/bc37a9c979/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.gangadharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Ramakrishnan",
+        "address": "Anna Nagar, Pandaravaadai Maapadugai, Mayiladuthurai-609003",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6094/0/5ad48d8606/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.natarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Ranganathan",
+        "address": "37/19,Gnanasambanthar Street,Sirkazhi,Mayiladuthurai-609110",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RNAT-2026-20260404031452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6774/0/4a40e84f34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramkumar. S Bba.llb",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sekar",
+        "address": "5/113,Main Road,Senbagacherry,Thirumangalam Post,Mayiladuthurai-609811",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMKU-2026-20260410111408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15096/0/f326146915/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.gobala Krishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sundar Raj",
+        "address": "3/81,South Street,Keezha Pattamangalam,Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOB-2026-20260406055931.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10408/0/b9159fa9b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.karthik",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Selvaraj",
+        "address": "10A,Vadakku Theru, Mulappakkam, Mayiladuthurai-609305.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SKAR-2026-20260406123320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10056/0/ca673c806e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.navanitham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Selvaraj",
+        "address": "38/18,Kumarakattalai Street, Koranadu,Mayiladuthurai-609001",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SNAV-2026-20260404013810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6427/0/6988878dc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ramkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sekar",
+        "address": "5/113,Main Road,Senbagachery,Thirumangalam Post,Mayiladuthurai-609811.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406025420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9365/0/d616f5c33c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ramkumar. Bba.llb",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sekar",
+        "address": "5/113,Main Road,Senbagachery,Thirumangalam Post,Mayiladuthurai-609811.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406025420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13940/0/688f5f5e08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.s.haroon Rasheed",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sickander Basha",
+        "address": "17/8,Moottaikaran Street, Mannadi, Vallal Seethaakathi Nagar, Chennai-600001",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSH-2026-20260402031858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5195/0/aa68f64903/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.suguna",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Sakthivel",
+        "address": "2/101,Kaliyamman Kovil Theru,Paakam,Kizhai Post,Mayiladuthurai",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUG-2026-20260406023624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8556/0/346d400c08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampath. L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Loganathan",
+        "address": "21/33,Anna Street,Koranadu,Mayiladuthurai-609003",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMPA-2026-20260410111824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15477/0/ccd21aaea2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanank. K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "K.kaathaperumal",
+        "address": "84/2,North Kavara Street, Thiruvilandur Post, Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAV-2026-20260410111234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15976/0/458852bd7a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaraj.r",
+        "party": "Thamizh Desiya Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Rajamanikam",
+        "address": "Door.no.3/38,Sukrapuram,Kadalangudi, Thirumeniyar Kovil Post,Mayiladuthurai-609204",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAR-2026-20260406054217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8911/0/c723751716/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.anbazhagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Thirusangu",
+        "address": "10/1,Vadakku Theru, Vakkaramaari, Mudikandanallur Post,Mayiladuthurai",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TANB-2026-20260406010929.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8852/0/f97103f51b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.manimaran",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Thangavel",
+        "address": "Door.no.185-A/1,Venkateshwara Nagar, Vellalagaram,Mayiladuthurai-609118",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMAN-2026-20260406075818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10898/0/a1752f842f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.thimothy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Thangavel",
+        "address": "50,Attrangarai Theru,Villiyanallur Post,Kuttalam-609801",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TTHI-2026-20260406071552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10868/0/584d88b65a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.veerasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Thangarasu",
+        "address": "10/30,Mayuranathar Colony,Chettykulam Santhu,Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TVEE-2026-20260406063232.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9302/0/05345028a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tharique Mohameed",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Shahul Hammed",
+        "address": "33/11A, P.p.d. Road, 2Nd Street, Thangal, Thiruvottiyur, Chennai-600019",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THARI-2026-20260402051509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5589/0/7803de519b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tharique Mohammed",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Shahul Hameed",
+        "address": "33/11A, P.p.d. Road, 2Nd Street, Thangal, Thiruvottiyur, Chennai-600019",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THARI-2026-20260402051509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14081/0/15f92a0225/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thimothy. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Thangavel",
+        "address": "50,Atrangarai Street,5.Villiyanallur Post,Kuthalam Taluk,Mayiladuthurai-609801",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THIMO-2026-20260410111906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15008/0/67b399ee64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veerasamy. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Thangarasu",
+        "address": "10/30,Mayuranathar Colony,Chettikulam Santhu,Mayiladuthurai-609001",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VEERA-2026-20260410111755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15062/0/fd420cb801/",
+          "https://voterlist.co.in/affidavit-download/15062/1/24f3910461/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. K",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Kaliyamorthy",
+        "address": "38,Keela Theru, Asikadu, Maraiyur Post, Kuthalam Taluk, Mayiladuthurai-609806",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260409082231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15834/0/7973ddb636/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Y.n.jamal Mohamed Younoos",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Mayiladuthurai",
+        "father_husband_name": "Jamal Mohamed Yasin",
+        "address": "Door.no.73,Cauvery Street, Yaagappa Nagar, Tanjore-613007",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JJAM-2026-20260406045207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13895/0/e1f877f40e/",
+          "https://voterlist.co.in/affidavit-download/13895/1/4c4ea95b9a/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

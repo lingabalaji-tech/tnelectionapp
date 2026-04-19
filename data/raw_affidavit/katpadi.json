@@ -1,0 +1,405 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Katpadi",
+    "count": 26,
+    "candidates": [
+      {
+        "name": "B. Narayanan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Balaraman",
+        "address": "No. 4/227, Bagath Singhi Street, K.n. Road, Gandhinagar, Katpadi",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BNAR-2026-20260406033958.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9227/0/ecc143dbbe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Ramu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "N. Durai",
+        "address": "42 Kasthuri Bai Street Tharapadavedu Vellore-6",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRAM-2026-20260402045332.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5309/0/a44602a288/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Santhanam. Ba",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Dharani.s",
+        "address": "50, Indira Nagar Senguttai Katpadi Vellore",
+        "gender": "Male",
+        "age": "22",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DSAN-2026-20260406045259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9200/0/b08b974e10/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhananchezhiyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "M.g. Kirubanandham",
+        "address": "06, Ranganathar Nagar 2Nd Street, Thiruparkadal, Walaja Taluk, Ranipet District 632508",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANA-2026-20260406010638.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13128/0/035f2a7a6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhananchezhiyan .K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "M.g. Kirubanandham",
+        "address": "06, Ranganathar Nagar 2Nd Street, Thiruparkadal, Walaja Taluk, Ranipet District 632508",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANA-2026-20260406010638.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10217/0/9c7b047738/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Subburayalu",
+        "address": "65, Bajanai Koil Street, Karasamangalam, Katpadi - 632202",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANA-2026-20260404033349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6335/0/25a0f55c1a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr M Sudhakar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Manogaran",
+        "address": "No. 10, 8Th East Cross Road, Flat No. 3A, Golden Shower Apartment, Gandhi Nagar, Vellore - 632 006",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRMSU-2026-20260404125114.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6666/0/f41c58cf73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Duraimurugan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Duraisamy",
+        "address": "No. 7, 5Th East Cross Street, Gandhi Nagar, Vellore",
+        "gender": "Male",
+        "age": "87",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406020614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9221/0/3ac832fac4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Logeshwaran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "P. Gopal",
+        "address": "4/125 New Street, Thakkampalayam, Ekambaranellore, Walaja Taluk - 632405",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GLOG-2026-20260404030401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6603/0/4629247e7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan .P",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Prabakaran",
+        "address": "No. 34, Sriram Nagar, Trinity School Backside, Gandhi Nagar, Katpadi",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260404031246.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6752/0/d434e66aac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indu .W",
+        "party": "Tamil Manila Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "S. William Sathyaraj",
+        "address": "4/4 4Th Street K.r.s Nagar Dharapadavedu Katpadi Vellore-7",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5094/0/f4605655f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Ramesh",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Jaganathan",
+        "address": "2/56 Ambedkar Street, Virudhampet, Katpadi Taluk, Vellore District - 632006",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JRAM-2026-20260406023929.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8701/0/1fddb4111c/",
+          "https://voterlist.co.in/affidavit-download/8701/1/3d51c5a179/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Ramnath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Jayaseelan",
+        "address": "1/49 Mariyamman Kovil Street Karasamangalam Mettur Katpadi Taluk",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JRAM-2026-20260402052338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5590/0/8837b785c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Sangeetha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "D.m. Kathir Anand",
+        "address": "No. 7, 5Th East Cross Street, Gandhi Nagar, Vellore-632006",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KSAN-2026-20260406022557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9955/0/cfdf14f2d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Suthakar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "M. Magalingam",
+        "address": "1/356, Mandiyamman Salai, Navlak, Puliyankannu, Walaja Taluk 632404",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSUT-2026-20260406010750.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8792/0/469d437623/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Kuppan",
+        "address": "276 Madha Koil Street, Kugaiyanallur, Vellore - 632515",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMU-2026-20260404020325.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6688/0/17a784e120/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Balaji",
+        "party": "Tamil Nadu Ilangyar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "M. Saravanan",
+        "address": "No. 339, Jeevanantham Street, K.n. Road, Gandhi Nagar, Vellore 632006",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SBAL-2026-20260406062734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9354/0/e74f85050c/",
+          "https://voterlist.co.in/affidavit-download/9354/1/5992dc5058/",
+          "https://voterlist.co.in/affidavit-download/9354/2/5db836e27e/",
+          "https://voterlist.co.in/affidavit-download/9354/3/eeff6dd292/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Raman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Subramani",
+        "address": "18/B Periya Theru, Vasu Village And Post, Walajah Taluk  632 514",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRAM-2026-20260404033607.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6170/0/dac5db3fa6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Thirukkumaran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "M. Sampath",
+        "address": "1/119 Bajar Street, Lalapet, Walaja Taluk - 632 405",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/STHI-2026-20260330033739.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/275/0/70490d80c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vishnu Vandhana",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "M. Sudhakar",
+        "address": "No. 10, 8Th East Cross Road, Flat No. 3A, Golden Shower Apartment, Gandhi Nagar, Vellore - 632 006",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SVIS-2026-20260404015121.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6813/0/f77a6e7416/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sam.rozer",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "P. Rabison Kumar",
+        "address": "8/A David Street, Ashok Nagar, Katpadi Taluk, Vellore District 632007",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMR-2026-20260406052316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9403/0/55b28ece00/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan .D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Duraisamy .P",
+        "address": "No. 3/241, Pillaiyar Koil Street, Kukkalapalli, B.n. Palayam, K.v. Kuppam Taluk, Vellore District 632202",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAV-2026-20260406045125.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9965/0/0c77c6badc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Chandran",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "C. Varadaraji",
+        "address": "No. 19, 1St Main Road, Bharathi Nagar, Gandhi Nagar, Katpadi Taluk Vellore District 632006",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VCHA-2026-20260406052921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8770/0/dc1746587b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Ramu",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "N.b. Varadharajulu",
+        "address": "No. 23, 9Th Street, Bharathi Nagar Extn, Dharapadavedu, Katpadi",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406031610.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10439/0/a9b9b65ae2/",
+          "https://voterlist.co.in/affidavit-download/10439/1/9de6c78afb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Srinivasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Vishvanathan",
+        "address": "5/267/9, Anthony Street, Balaji Nagar, Christianpet, Katpadi, Vellore District 632059",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSRI-2026-20260404014850.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6363/0/28d6a50eae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.s. Raghu",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Katpadi",
+        "father_husband_name": "Sundarabasham",
+        "address": "No. 15, 3Rd Cross Street, Bharathi Nagar Extn, Dharapadavedu, Katpadi",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSR-2026-20260406062708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10085/0/ce847e9d92/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

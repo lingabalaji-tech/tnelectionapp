@@ -1,0 +1,581 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Manapparai",
+    "count": 38,
+    "candidates": [
+      {
+        "name": "A Senthil Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "T Arumugam",
+        "address": "1/92, Mela Theru, Kurungulam Melpathi, Tanjore-613303",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASENT-2026-20260406084027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10654/0/178fabcfa3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Raman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Ayiyakkannu",
+        "address": "1793, Main Road, Pannankombu, Pannapatty Keelpagam, Manapparai-621306",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAN-2026-20260406123026.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15490/0/0e06da0069/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Senthil Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "T Arumugam",
+        "address": "1/92, Melatheru, Kurungulam Melpathi, Thanjavur-613303.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASENT-2026-20260406084027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14786/0/b1f78a2b41/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arockiaraj .A",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Arokiyasamy",
+        "address": "2/190, Avur Post, Kolakkattagudy, Kottapattu Village, Srirangam Taluk, Tiruchirappalli.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROKI-2026-20260406082644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15227/0/3b87fddcfe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arokiyaraj",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Arokiyasamy",
+        "address": "2/190, Avur Post, Kolakkattagudy, Thottapattu Village, Srirangam Taluk, Tiruchirappalli.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROKI-2026-20260406082644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11060/0/a49a54e235/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Renuga Devi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Pl Vijayakumar",
+        "address": "50/9, Viralimalai Salai, Anna Nagar, Manapparai, Trichu-621306",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRENU-2026-20260406074308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11108/0/4f62fdc74d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Pl. Vijayakumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Palanimalai",
+        "address": "50/9, Viralimalai Salai, Anna Nagar, Manapparai, Tiruchirappalli District-621306.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PLVIJ-2026-20260406073625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14878/0/977129dcb8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Arumugam",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "A Kulandhai",
+        "address": "3/65A, Minikiyur, Kovilpatty Post, Manapparai Taluk, Trichy, Tamilnadu-621305",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUM-2026-20260406074941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11391/0/b132c8f36f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathiravan .M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Mani",
+        "address": "594, Rajalipatty, Ward-3, Viralimalai Taluk, Pudukottai-621316.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKATH-2026-20260406072055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15220/0/692a657bb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kuttaian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Raman",
+        "address": "36, Thoppupatti, Valanadu Village, Marungapuri Taluk, Trichy District, Tamilnadu.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKUTT-2026-20260406080756.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15492/0/a13ff0570a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Karuppan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "A Muniyasamy",
+        "address": "9-35, Thalampadi, Yagapuram, Marungapuri, Trichy.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKARU-2026-20260406072944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11427/0/5e2c67f403/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Kathiravan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Mani",
+        "address": "594, Rajalipatty, Ward-3, Viralimalai Taluk, Pudukottai-621316",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKATH-2026-20260406072055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11055/0/206165533d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Rajesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Manoharan",
+        "address": "309, Athipallam, Vanathirayanpatti, Viralimalai, Pudukottai-621316",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJE-2026-20260406071511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10813/0/71d7d0d57a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Vijayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Masilamani",
+        "address": "273/172, Sethu Rathinapuram, Manapparai, Trichy.",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJA-2026-20260406083501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11417/0/045932b1b2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Arunagiri",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Mokkaiah",
+        "address": "7/71, Soriyampatty, Muthalvarpatti Post, Manapparai, Tiruchirappalli -621305.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260330032142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14836/0/89658ce3e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Karuppan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "A Muniyasamy",
+        "address": "9-35, Thalampadi, Yagapuram Village, Marungapuri Post, Marungapuri Taluk, Tirchy District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKARU-2026-20260406072944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15651/0/26e44dd507/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Vijaya Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Masilamani",
+        "address": "273/172, Sethu Rathinapuram, Manapparai, Manapparai Taluk, Trichy District, Tamil Nadu.",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJA-2026-20260406083501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15640/0/acee1178c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.arunagiri",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Mokkaiah",
+        "address": "7/71, Soriyampatti, Muthalvarpatti Post, Manapparai, Tiruchirappalli -621305I",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260330032142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/277/0/abda89c70e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Abdul Samed",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Bakkeer Mohammed",
+        "address": "286, Sadham Hussen Nagar, 1St Street, Pudupattinam, Kalpakkam, Chengalpattu District-603102",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PABDU-2026-20260404051500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7634/0/de42e54c4f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Chinnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Periyapachai",
+        "address": "1/174, Aalampatty, Lekkanayakkanpatti, Thethur, Marungapuri Trichy- 621314",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PCHIN-2026-20260406070744.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10418/0/2a64576019/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Sahul Hameed",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Peer Mohamed",
+        "address": "83, Puliyanjuwanam, 6Th Street, West Row, Ervadi, Tirunelveli District-627103",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAHU-2026-20260404052827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6945/0/121efebcc7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Abdul Samed",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Bakkeer Mohammed",
+        "address": "286, Sadham Hussen Nagar, 1St Street, Pudupattinam, Kalpakkam, Chengalpattu District-603102.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PABDU-2026-20260404051500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16089/0/12fde7cfab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Chinnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Periyapachai",
+        "address": "1/174, Alampatty, Lekkanayakkanpatti, Thethur, Marungapuri Taluk, Tiruchirappalli District-621314.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PCHIN-2026-20260406070744.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15656/0/c101d1747d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Meena",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Palanisamy",
+        "address": "62, Vadakku Thethtur, Theththur, Marungapuri, Trichy.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMEE-2026-20260406081336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10530/0/00fa8f5064/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Vijayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Palanimuthu",
+        "address": "1/40 Sarappatti, Kalathuveedu, Ponnampalampatti, Manapparai, Trichy",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVIJ-2026-20260406084408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10823/0/e13fb523ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Periyakka",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Sankar",
+        "address": "5/11, Asari Street, Muthaliyar Chathiram, Tiruchirappalli-620001.",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPEIY-2026-20260406083100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15469/0/80bbc56ca0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pl Vijayakumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Palanimalai",
+        "address": "50/9, Viralimalai Salai, Anna Nagar, Manapparai, Trichu-621306",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PLVIJ-2026-20260406073625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10752/0/6258e2fa5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Kathiravan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "M Ramachandran",
+        "address": "2/461, West Street, Ponnambalampatty, Ponnambalampatty Post, Manapparai, Trichy-621315",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKATH-2026-20260404042523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6232/0/8057e011fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Kuttaiyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Raman",
+        "address": "36, Thoppupatti, Valanadu, Marungapuri, Trichy, Tamilnadu.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKUTT-2026-20260406080756.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11279/0/93df74f048/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Rajavarman",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "M Rajalingam",
+        "address": "24/447, 8Th Street, Sivasakthi Nagar, Kulathur, Thiruvallur Dt.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJA-2026-20260406080302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11071/0/0558de6e7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Kathiravan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "M Ramachandran",
+        "address": "2/461, West Street, Ponnambalampatty, Ponnambalampatty Post, Manapparai Taluk, Trichy District Pincode- 621315.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKATH-2026-20260404042523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15801/0/7110e72245/",
+          "https://voterlist.co.in/affidavit-download/15801/1/d1aba9031a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajavarman .R",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "M Rajalingam",
+        "address": "24/447, 8Th Street, Sivasakthi Nagar, Kolathur, Thiruvallur District.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJA-2026-20260406080302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15241/0/17aafe18f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh .M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Manoharan",
+        "address": "309, Athipallam, Vanadirayanpatti, Viralimalai Taluk, Pudukottai District-621316.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJE-2026-20260406071511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14934/0/bae6667e07/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raman A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Ayiyakkannu",
+        "address": "1793, Main Road, Pannankombu, Pannapatty Keelpagam, Manapparai-621306.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAN-2026-20260406123026.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10097/0/ccac229f19/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Peiyakka",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Sankar",
+        "address": "5/11, Asaritheru, Muthaliyar Sathiram, Tiruchirappalli-620001",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPEIY-2026-20260406083100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11262/0/6c4128cd49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Periyakka",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Sankar",
+        "address": "5/11, Asaritheru, Muthaliyar Sathiram, Tiruchirappalli-620001",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPEIY-2026-20260406083100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13113/0/3601d2a833/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Poornima",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "R Kathiravan",
+        "address": "2/461, West Street, Ponnambalampatty,  Ponnambalampatty Post, Manapparai, Trichy-621315",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPOOR-2026-20260404045020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7839/0/170a413b2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarphudin",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Manapparai",
+        "father_husband_name": "Mohammed Ibrahim",
+        "address": "Puthanatham East Street, South Puthanatham Village, Manapparai, Trichy-621310",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7020/0/6ac4ee8e40/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

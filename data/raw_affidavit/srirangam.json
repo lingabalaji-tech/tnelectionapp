@@ -1,0 +1,760 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Srirangam",
+    "count": 50,
+    "candidates": [
+      {
+        "name": "A.krishnakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Arumugam",
+        "address": "47, Mainroad, Sirugamani, Srirangam Taluk, Tiruchirappalli District-639115",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKRI-2026-20260407120626.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11575/0/a0f7d38476/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.m. Chandirakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Mani",
+        "address": "29, Salai Pillaiyar Kovil Street, Puthur, Tenur, Tiruchirappalli District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMC-2026-20260406100138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11763/0/52f3b463b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.newton",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "S.arockiyasamy",
+        "address": "503, Malai Matha Kovil Street, Neikuppai Post, Lalgudi Taluk, Tiruchirappalli District-621111",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANEW-2026-20260406102621.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12446/0/146b30a280/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.vijay",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "A.arunagiri",
+        "address": "264C/Na, Ettarai, Meela Street, Srirangam Taluk, Tiruchirappalli District, Pin Code - 639103",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIJ-2026-20260404054237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7432/0/89cb797a35/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Allimuthu.m",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Maruthai",
+        "address": "5/182, Indira Nagar, Thayanur, Srirangam Taluk, Tiruchirappalli -620102.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ALLIM-2026-20260409074451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15320/0/fe88ff6088/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Manivel",
+        "address": "8, Akilandeswari Nagar Extension, Thiruvanaikovil, Srirangam Taluk, Tiruchippallai District, Pin-620005",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260402041059.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5476/0/cad6a1e0a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbarasan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Manivel",
+        "address": "8, Akilandeswari Nagar Extension, Thiruvanaikovil, Srirangam Taluk, Tiruchippallai District, Pin-620005",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260402041059.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13149/0/d287a6a9b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.geetha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Durairaj",
+        "address": "133, Mela Street,  Mullikarumbur, Srirangam Taluk,  Tiruchirappalli District- 620102",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DGEE-2026-20260406093847.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12011/0/62131d5cfe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dharmaraj. M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Moorthi",
+        "address": "20/1, S .Mettupatti, Poothakudi, Poruvai Post, Viralimalai Taluk , Pudukottai District - 621316.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHARM-2026-20260409073916.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15132/0/0cb02a2c97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Sakthivel",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Kulleriyan",
+        "address": "39/16A, Thoppukara Street, Keela Ull Street, Tiruvanaikovil, Srirangam Taluk, Tiruchirappalli - 620005",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KSAK-2026-20260409073930.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16570/0/5a916289b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kamaraj",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Kaliyapermal",
+        "address": "22, Malligaipuram, Nadukondaiyampettai, Srirangam Taluk, Tiruchirapplli District-620005",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAM-2026-20260406095039.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12355/0/9ee5288c29/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.paramasivam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Kathirvel",
+        "address": "2/62, Mullai Nagar, Mullikarumbur, Kumaravayalur, Srirangam Taluk, Tiruchirappalli District-620102",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPAR-2026-20260406105553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12262/0/e561a24c43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sakthivel",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Kulleriyan",
+        "address": "39/16A, Thoppukar Street, Keela Ulveedhi, Tiruvanaikovil, Tiruchirappalli District, Pin - 620005",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAK-2026-20260330061701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/133/0/8e93e9af0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamaraj.k",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Kaliyapermal",
+        "address": "22, Malligaipuram, Nadukondaiyampettai, Srirangam Taluk, Tiruchirapplli -620005.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAMAR-2026-20260409074257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15427/0/47388fef63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Selvaraj",
+        "address": "6/240, Palayam Village, Athavathur West, Srirangam Taluk, Tiruchirappalli -620102.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARTH-2026-20260409073538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14617/0/d4b49ba614/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnakumar.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Arumugam",
+        "address": "47, Mainroad, Sirugamani, Srirangam Taluk, Tiruchirappalli -639115.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KRISH-2026-20260409073341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14609/0/097c97d741/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar. P",
+        "party": "Akila Inthiya Makkal Marumalarchi Kazhakam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "K.pitchai",
+        "address": "19/75, Perur, Kulumani Post, Srirangam Taluk, Tiruchirappalli  - 639103.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KUMAR-2026-20260409074155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15405/0/cead106303/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.allimuthu",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Maruthai",
+        "address": "No:5/182, Indira Nagar, Tayanoor, Srirangam Taluk, Tiruchirappalli District-620102",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALL-2026-20260406102012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12291/0/3af600a49a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.dharamaraj",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Moorthi",
+        "address": "20/1, S Mettupatti, Poothakudi, Poruvai Post,Viralimali Tk, Pudukottai Dt, Pin -621316.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHA-2026-20260330051753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/383/0/9f7b98f33b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vignesh",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "R.manoharan",
+        "address": "No.3, Thirunagar,  Tiruvanaikovil,  Srirangam Taluk, Tiruchirappalli  District, Pin -620005",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIG-2026-20260404042603.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6254/0/610eb6edfc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Musthafa",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Manick Batsha",
+        "address": "5A/6, Main Road, Sirugamani, Srirangam Taluk, Tiruchirappalli, Pin -639115.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260402044010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5295/0/46c89886c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Musthafa. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Manick Batsha",
+        "address": "5A/6, Main Road, Sirugamani, Srirangam Taluk, Tiruchirappalli- 639115.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAM-2026-20260409074008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16424/0/1f7ebace72/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Musthafa.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Manick Batsha",
+        "address": "5A/6, Main Road, Sirugamani, Srirangam Taluk, Tiruchirappalli, Pin -639115.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260402044010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13339/0/ec27c3614f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murali .N",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "M.narayanan",
+        "address": "42B, Bharathithasan Street,  Tirupparaithurai Panchayat,  Srirangam Taluk,  Tiruchirappalli  -639115.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MURAL-2026-20260409074041.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14864/0/deb1d9c178/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthukumar.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Periyasamy",
+        "address": "241/111, Kudi Street, Kodiyalam, Srirangam Taluk, Tiruchirappalli -639115.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260409073009.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14959/0/61efbd5bbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.murali",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "M.narayanan",
+        "address": "42B, Bharathithasan Street,  Thirupraithurai Panchayat,  Srirangam Taluk,  Tiruchirappalli District  639115",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NMUR-2026-20260402050113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5515/0/85876ca795/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.ramya",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Nagarajan",
+        "address": "3/34, Bharathithasan Street,  Thirupparaithurai Panchayat,  Srirangam Taluk,  Tiruchirappalli District  639115",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAM-2026-20260402051037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5568/0/8e1fc082c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.ravichandiran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Neelamegam",
+        "address": "1/25, North Street, Uthamarseeli, Srirangam Taluk, Tiruchirappalli District-620005",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAV-2026-20260406103414.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12897/0/a9b6d474a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.ravichandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Neelamegam",
+        "address": "1/25, North Street, Uthamarseeli, Srirangam Taluk, Tiruchirappalli District-620005",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAV-2026-20260406103414.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11738/0/dce1ca6ad2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Newton.a",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "S.arockiyasamy",
+        "address": "503, Malai Matha Kovil Street, Neikuppai Post, Lalgudi Taluk, Tiruchirappalli -621111.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NEWTO-2026-20260409074515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15544/0/20bab49333/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.kumar",
+        "party": "Akila Inthiya Makkal Marumalarchi Kazhakam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "K.pitchai",
+        "address": "No:19/75, Perur, Kulumani Post, Srirangam Taluk, Tiruchirappalli District, Tamilnadu - 639103",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKUM-2026-20260406085504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11213/0/ab487e869e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.muthukumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Periyasamy",
+        "address": "241/111, Kudi Street, Kodiyalam, Srirangam Taluk, Tiruchirappalli District-639115",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUT-2026-20260406104234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11948/0/5b06422610/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.pandu Rengan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "B.parthasarathi",
+        "address": "39-1 , Keerakkara Street,  Srirangam Taluk, Tiruchirappalli District, Pin Code-620006.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAN-2026-20260404051313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7540/0/edd7e4818c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.pandu Rengan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "B.parthasarathi",
+        "address": "143, Keerakkara Street,  Srirangam Taluk, Tiruchirappalli District, Pin Code-620006.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAN-2026-20260404051313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13236/0/80015ccd53/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paramasivam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Kathirvel",
+        "address": "2/62, Mullai Nagar, Mullikarumbur, Kumaravayalur,  Tiruchirappalli -620102.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PARAM-2026-20260409074609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15282/0/2a8d4c31f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manoharan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "N.rengasamy",
+        "address": "No.3, Thirunagar,  Tiruvanaikovil,  Srirangam Taluk, Tiruchirappalli  District, Pin -620005",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260404040127.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Srinivasan",
+        "address": "No.342, Veerakavirayar Street,  Maraimalai Nagar,  Chengalpattu  District,Pin -603209.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260404044528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7633/0/029bf6313b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Rajendran",
+        "address": "99, Tagoor Street, Kondaiyampettai, Thiruvanaikovil, Tiruchirappalli District -620005.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260407124110.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11614/0/11904f4e7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Rajendran",
+        "address": "99, Thagore Street, Kondaiyampettai, Thiruvanaikovil, Srirangam Taluk, Tiruchirappalli -620005.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260407124110.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14624/0/61a368740a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravichandiran.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Neelamegam",
+        "address": "1/25, North Street, Uthamarseeli, Srirangam Taluk, Tiruchirappalli -620005.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAVIC-2026-20260409074543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14740/0/cf7a5b6b7a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Durairaj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Sadagopa Ramanujam",
+        "address": "No.743, Vasan Nagar,  7Th Cross, Nachikurichi, Srirangam Taluk, Tiruchirappalli District-620102",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDUR-2026-20260406101356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12102/0/21b97406fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Durairaj",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Sangili",
+        "address": "133, Mela Street,  Mullikarumbur, Srirangam Taluk,  Tiruchirappalli - 620102.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SDUR-2026-20260409074403.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15525/0/ba2db1ff4f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.durairaj",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Sankili",
+        "address": "133, Mela Street,  Mullikarumbur, Srirangam Taluk,  Tiruchirappalli - 620102",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDUR-2026-20260406092213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12427/0/72eb322a52/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.karthick",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Selvaraj",
+        "address": "6/240, Palayam Village. Athavathur West, Srirangam Taluk, Tiruchirappalli District-620102",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAR-2026-20260407122308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11598/0/381067f3c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kavitha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "K.selvam",
+        "address": "1/5A, Teppakulam, Thenkarai,  Srirangam Taluk, Tiruchirappallai District -620006.",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAV-2026-20260407124814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11621/0/61598e3541/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.killivalavan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "O.sivanathan",
+        "address": "No.18, Ettarai,  Keela Street,  Koppu North, Srirangam Taluk, Tiruchirappalli District, Pincode -639103.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKIL-2026-20260404055728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8076/0/aea06f6edc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shashi Kiran .K .N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Narayana Kumar",
+        "address": "18/1, R.k.nagar,  Opp To Railway Station,  Hosur,  Krishnagiri District-635109.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHASH-2026-20260409074024.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16466/0/fb33a0b8cc/",
+          "https://voterlist.co.in/affidavit-download/16466/1/8380b83b8e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shashi Kiran K N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Narayana Kumar",
+        "address": "18/1, R.k.nagar,  Opp To Railway Station,  Hosur,  Krishnagiri District-635109",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHASH-2026-20260402045038.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5396/0/e8ad91f898/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.maruthai Durai",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "Vellaisamy",
+        "address": "194, Mettupatti, Chitthanatham, Manapparai, Tiruchirapallai District, Tamilnadu-621306",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMAR-2026-20260406115150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12068/0/5303d04155/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay .A",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Srirangam",
+        "father_husband_name": "A.arunagiri",
+        "address": "264C/Na,  Mela Street , Ettarai,  Srirangam Taluk, Tiruchirappalli  - 639103.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIJAY-2026-20260409073902.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15987/0/b8569ecc3b/",
+          "https://voterlist.co.in/affidavit-download/15987/1/ee1b693982/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kumarapalayam",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "A.muruganandhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Arumugam",
+        "address": "2/312-4 Mettukadai, Elandhakuttai Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404062755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15711/0/3b0e50bf0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.ramasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Appichi Gounder",
+        "address": "4/194 Pillaiyar Kattur, Pallipalayam Agraharam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAM-2026-20260406071514.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10821/0/e632741b30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amirthalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Venkatachalam",
+        "address": "11G, Kaliyannan Line, Vediyarasampalayam Road, Andikkadu, Pallipalayam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMIRT-2026-20260406051618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8883/0/094c0f7521/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.kalyani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Balu",
+        "address": "3/279 Navakadu, Mampalayam Road, Pallipalayam Agraharam, Kumarapalayam Taluk",
+        "gender": "Female",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BKAL-2026-20260406062522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8745/0/f3c9f946dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.vijayalakshmi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Balaraman",
+        "address": "7A, Sundharam Nagar, Kumarapalayam, Kumarapalayam Taluk, Namakkal District",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CVIJ-2026-20260402055020.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Samuelraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Ganamuthu",
+        "address": "47A1, Csi Street, Kumarapalayam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "77",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUE-2026-20260404054230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15981/0/72a4bf740a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopalakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Subramani",
+        "address": "2/47 West Thottipalayam, Samayasangili Agraharam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPAL-2026-20260330075734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/477/0/3d13c2cda9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J Karthi",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Jayachandhiran",
+        "address": "5/129 Gandhi Nagar, Veppadai, Elandhakuttai, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JKART-2026-20260402061758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5798/0/4a7532e630/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Palanivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Kandhasamy",
+        "address": "2/38 Vasantha Nagar, Alampalayam Pudhupalayam Agraharam Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260404064138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16012/0/384621ff37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Natesan",
+        "address": "4/378 Kudi Street, Kaliyanur, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260330083547.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/555/0/85a857393b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muruganandham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Arumugam",
+        "address": "2/312-4 Mettukadai, Elandhakuttai Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404062755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6909/0/bb1d2b6dbc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Palanivel",
+        "address": "1/93 Patharai Sowdhapuram Post Pallipalayam Agraharam Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260404063528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15873/0/dccf48a5dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.thangamani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Perumal",
+        "address": "5-6/54 Govindhampalayam, Alampalayam Post, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PTHA-2026-20260406065724.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9571/0/42af169485/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Muniyappa Gounder",
+        "address": "2/232 Kulathukkadu, Kumarapalayam Agraharam, Kumarapalayam Taluk, Namakkl Dt.",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260402053717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5836/0/73347fda1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Kandhasamy",
+        "address": "2/38 Vasantha Nagar, Alampalayam Post Pudhupalayam Agraharam Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260404064138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7472/0/2c31130d92/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pannerselvam",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Arththanari",
+        "address": "4/99, Kokkalai Neikaranpalayam Arunthathiyar Street, Kattusalai Vardu, Tiruchengode Taluk",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANNE-2026-20260404061043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7438/0/984167b9d6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponnarasu",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Magalingam",
+        "address": "1/251, Kamarasar Silai Near, Olappalayam Kumarapalayam Amani Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONNA-2026-20260402065516.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5946/0/17c2c4ca95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Ramakrishnan",
+        "address": "4/361, Adi Dravidar Street Kaliyanur Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJA-2026-20260402063907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5878/0/5c51394c2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.kumaresan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Rangasamy Gounder",
+        "address": "68E11, Ayyanthottam, Kumarapalayam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKUM-2026-20260406064636.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10442/0/8458217692/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Ramakrishnan",
+        "address": "4/361, Adi Dravidar Street Kaliyanur Post Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJA-2026-20260402063907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16480/0/2078076b3d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Jayavel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Singaravelu",
+        "address": "3/64, C Purakadu, Karate Muniyappan Samy Kovil, Kaliyanur Agraharam Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJAYA-2026-20260402064644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5916/0/ddc59868dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.balu",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Sellappan",
+        "address": "3/279 Navakadu, Mampalayam Road, Pallipalayam Agraharam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SBAL-2026-20260406061328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9603/0/7f6e1ae8b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samuelraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Ganamuthu",
+        "address": "47A1, Csi Street, Kumarapalayam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "77",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUE-2026-20260404054230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7421/0/0cfe01c07b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Chinnusamy",
+        "address": "31/347 Sathya Nagar, Amman Koil Backside, Pallipalayam, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260330082253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/539/0/614ea89584/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathishkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Ravikumar",
+        "address": "3/184, Bharathiyar Nagar, Sillangadu, Kaliyanur, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260404062008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7822/0/22a25241d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Poomalai",
+        "address": "1/179-17 Kottaimedu Kullathu Kadu Kumarapalayam Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404055849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6966/0/85d570240c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Palanivel",
+        "address": "1/93 Patharai Sowdhapuram Post Pallipalayam Agraharam Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260404063528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7222/0/9b0ff74900/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Selvam",
+        "address": "4/344A-1, Kaliyanoor Village, Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAR-2026-20260406063302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9355/0/b863df998c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.santhi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Thangamani",
+        "address": "54 Govindhampalayam, Alampalayam, Kumarapalayam Taluk",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSAN-2026-20260406055459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8456/0/ea90b52217/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Uvarani Suresh",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Suresh",
+        "address": "3/21 Kudi Street, Samayasangili Agraharam, Kumarapalayam Taluk",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UVARA-2026-20260330084405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/575/0/dc7919cf10/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Dharani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Kavin",
+        "address": "3/443, Ellai Mariyamman Kovil Street, Aavathipalayam, Kaliyanur, Kumarapalayam Taluk",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VDHAR-2026-20260402063244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5855/0/b0c7bab838/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumarapalayam",
+        "father_husband_name": "Palanisamy",
+        "address": "3/73, Sevikadu Thottam, Kaliyanur Agraharam Kumarapalayam Taluk",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260402070310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5687/0/5bae0f0052/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

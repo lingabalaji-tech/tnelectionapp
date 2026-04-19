@@ -1,0 +1,370 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kumbakonam",
+    "count": 24,
+    "candidates": [
+      {
+        "name": "Anandh M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Mohan B",
+        "address": "1066/2, Kalaignar Karunanidhi Nagar, Ullur, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260330022525.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/36/0/3b4b17bb17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbalagan G",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ganapathy K",
+        "address": "No.5/218, Nachiyarkoil Main Road, Sakkottai, Kumbakonam-Taluk, Thanjavur-District, 612401",
+        "gender": "Male",
+        "age": "77",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAL-2026-20260330014000.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/552/0/4cc269d9dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arivazhagan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Karuppaiyan",
+        "address": "566, New Agraharam, Ammachathiram-Post,Kumbakonam-Taluk, Thanjavur-District, 612103",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARIVA-2026-20260406013957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10143/0/39dbc30e70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arokiyaraj V",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Vallabadhas",
+        "address": "5-17, Pathimapuram, Ward-24, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROKI-2026-20260404034608.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6440/0/f959975692/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashokkumar R",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Rajendran",
+        "address": "239, Annai Anjugam Nagar, Ullur, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHOK-2026-20260404124611.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6614/0/31fda9c284/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthi G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ganesan",
+        "address": "66/77, Mettu Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406025337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9281/0/6fecbe8ac4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramamoorthi R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Rajagopal",
+        "address": "3-1/2, Alagappan Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAM-2026-20260402013128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5040/0/f7201b5545/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh A K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Krishnaiyyar A A",
+        "address": "43/A, Thuvarankurichi Middle Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260404032321.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6085/0/f8ab50bccc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sabasthiyan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Periyasamy",
+        "address": "365A, Main Road, Vadakarai, Melaiyur, Mallapuram-Post, Thiruvidaimarudur-Taluk, Thanjavur-District, 612201",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SABAS-2026-20260404014658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6541/0/bab2057930/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathishkumar Sankar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Sankar",
+        "address": "5C, Kothandapani Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406023437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8472/0/a9f476c03c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ramamoorthy",
+        "address": "05, Sowrastira New Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406122656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10045/0/a5f63dd1a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthamilselvi S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Stalin K",
+        "address": "No.3, Pidaran Street, Maruthuvakudi, Thiruvidaimaruthur-Taluk, Thanjavur-District, 612101",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406031311.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10187/0/d58d3703bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinivasan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Venkatesan R",
+        "address": "10/109, Kasiraman Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINI-2026-20260402010146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4998/0/3e1b6b128b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sriram N R",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Rengasamy",
+        "address": "20, Mahamahakulam South Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIRA-2026-20260404011132.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6112/0/e0c9ac5862/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Stalin K",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Kaliyaperumal A",
+        "address": "No.3, Pidaran Street, Maruthuvakudi, Thiruvidaimaruthur-Taluk, Thanjavur-District, 612101",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STALI-2026-20260406033140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8958/0/e1663d14b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Stalin K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Kaliyaperumal A",
+        "address": "No.3, Pidaran Street, Maruthuvakudi, Thiruvidaimaruthur-Taluk, Thanjavur-District, 612101",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STALI-2026-20260406033140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9957/0/7cedc5b555/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Stalin Ma Ka",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Kaliyaperumal A",
+        "address": "No.3, Pidaran Street, Maruthuvakudi, Thiruvidaimaruthur-Taluk, Thanjavur-District, 612101",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/STALI-2026-20260409065734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15413/0/e6ec8173a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudharsan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ramanan",
+        "address": "7, Mela Street, Annalagraharam, Kumbakonam-Taluk, Thanjavur-District, 612401",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406021958.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9817/0/1e9ea9ac35/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundar G",
+        "party": "Thamizh Desiya Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ganesan",
+        "address": "364-2, Anna Nagar, Srinivasanallur, Kumbakonam-Taluk, Thanjavur-District, 612204",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260406020241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9095/0/e74225158c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilalagan Su Pa",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Padmanaban S",
+        "address": "112, A.r.r Road, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260404023942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6290/0/f1c9a7ae7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay Chandran R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ramesh",
+        "address": "64, Nanayakara Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406011503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9235/0/c57afb6dc1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Chinnathambi",
+        "address": "27, Ksm Nagar, Maruthamuthu Nagar Extension, Chennai Road, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612002",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260402020213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5079/0/d0fb2875e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ravi",
+        "address": "6/6A, Varaga Kulam Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260404021612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15551/0/71323b272c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kumbakonam",
+        "father_husband_name": "Ravi",
+        "address": "6/6A, Varaga Kulam Street, Kumbakonam, Kumbakonam-Taluk, Thanjavur-District, 612001",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260404021612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6817/0/7425aa5f86/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

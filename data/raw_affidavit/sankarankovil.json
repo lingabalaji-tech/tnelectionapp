@@ -1,0 +1,431 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sankarankovil",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "Anand",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Petchimuthu",
+        "address": "5/4-1, Samynathapuram Street, Keelaneelithanallur - 627953",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260404040639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6728/0/0cd03ec53a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Ramarajan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Chellakani",
+        "address": "F1, Sri Sai Apartment, Logavani Street, Ttk Nagar, Irumbuliyur, Tambaram, Kanchipuram - 600045",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAM-2026-20260404034438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6413/0/4be4ac4934/",
+          "https://voterlist.co.in/affidavit-download/6413/1/48eeb652cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Ravi",
+        "party": "Tamilaga Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "M. Chinniah",
+        "address": "5/421 K , Amma Nagar , Sankarankovil , Tenkasi District-627753",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAV-2026-20260330043438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/90/0/abcf5c2d8d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Shunmugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Chelliah",
+        "address": "7A, Arunachala Nagar, Naranammalpuram, Sankar Nagar, Tirunelveli - 627357.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSHU-2026-20260406043758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10220/0/9549e749b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellapandi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Madasamy",
+        "address": "4/10, Ammankovil Street, Thadiyampatti Village, Manur Taluk.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHELL-2026-20260406082510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11016/0/f47a55e5f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Dhilipan Jaishankar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Jaishankar",
+        "address": "5/565, Periyur Road, Kalapakulam, Sankarankovil , Tenkasi District - 627756",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRDH-2026-20260404011005.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6098/0/cbcd3e0200/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Pandi",
+        "party": "Bharatha Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Jeyaraj",
+        "address": "710/89C, Railway Feeder Road, Sankarankovil, Tenkasi District.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JPAN-2026-20260406124728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10396/0/844f86fede/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Venkatesh",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "V. Jaishankar",
+        "address": "3/5, Mangala Vinayagar Kovil Street, Thirisulam, Parankimalai Taluk,  Chennai - 43",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JVEN-2026-20260406020419.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9146/0/91cbbe6f17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Chelladurai",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Kalimuthu",
+        "address": "3/171, North Street, Keelaneelanithanallur.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCHE-2026-20260406083933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10642/0/5ff27896f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Ravikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "P. Karuppasamy",
+        "address": "Door No.6/167, East Street, Malaipatti, Sevalkulam Panchayat, Kuruvikulam Po, Thiruvengadam Taluk, Tenkasi District - 627754.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAV-2026-20260406032018.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8549/0/9df71f701c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Subburaj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Kanakkan",
+        "address": "Door No.236, Ward No.5, Chillikulam, Periyakovilankulam Village, Sankarankovil Taluk, Tenkasi District - 627953.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSUB-2026-20260406025641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9483/0/a10e692d55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Thangavel",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Karuppanan",
+        "address": "3/217, Indira Colony East, Perumbathur, Sankarankovil Taluk, Tenkasi District.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KTHA-2026-20260406080137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11015/0/3b10bd5cca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Kandasamy",
+        "address": "3/207, Colony Street, Kurinchakulam Post, Thiruvengadam Taluk, Tenkasi District - 627719.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSUR-2026-20260402045458.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5432/0/0328d780c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamatchi Vijayalakshmi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Vishnu Premnath",
+        "address": "3/37, Inamrediypatti, Viruthunagar.",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAMAT-2026-20260406094304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12150/0/00e6d1ff96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jayaselvi",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Manoharan",
+        "address": "44/42, East Street, Kurukalpatti, Sankarankovil Taluk, Tenkasi District.",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406074304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11104/0/e22491e576/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Kavitha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Arichandran",
+        "address": "3-113, Kaliamman Kovil Street, Pattakurichi, Ariyur Village, Sivagiri Taluk, Tenkasi District.",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAV-2026-20260330024021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/89/0/fff67ee61e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Mookiah",
+        "address": "2/168, Main Road, Kulasekaramangalam, Sankarankovil Taluk, Tenkasi District.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406052926.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9989/0/8dd9a59d9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Velu",
+        "address": "47/1, Eastwest 1St Street, South Paraipatti, Keela Thiruvengadam, Thiruvengadam Taluk, Tenkasi District - 627719.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406041330.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8634/0/0d16cc883b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.selvam",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "R.natarajan",
+        "address": "97/B, Kamaraj Nagar, 3Rd Mile, Tuticorin - 8",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NSEL-2026-20260402023947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5466/0/a3880f8f42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabakaran",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Irulappan",
+        "address": "182, North Street, Veeranapuram, Thiruvengadam Taluk, Tenkasi District - 627753",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABA-2026-20260406034550.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9452/0/cd8ba9c7d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Kavitha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Madasamy .P",
+        "address": "102, Keela Street, Malaiyankulam, Thiruvengadaml - 627754.",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAV-2026-20260406090100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10513/0/66db9bd767/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Mariappan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Sundarraj",
+        "address": "5/115, Middle Street, Valliammalpuram, Kadayanallur, Tenkasi District - 627804",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAR-2026-20260404043516.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7313/0/0ad232855b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Muthuselvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "S. Samuvel",
+        "address": "30/141, East Street, Vadamalapuram, Kadayanallur Taluk.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUT-2026-20260406091610.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12244/0/4b0eee0811/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.arulraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Shanmugam",
+        "address": "4/44, Indira Colony, Sumaitheernthapuram, Vallam, Senkottai Taluk, Tenkasi District.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARU-2026-20260402020703.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5337/0/8b1b72f336/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sangai. Ganesan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "M. Sangaiah",
+        "address": "5/15, Muthu Street, Velanaikottai, Vasudevanallur - 627758.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANGA-2026-20260406055359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10019/0/fb74194422/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Paulpandian",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Velu",
+        "address": "H/61, Achampatti, Block No. 3 Majara, Vadakkupudur, Sankarankovil Taluk, Tenkasi District.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPAU-2026-20260406013440.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9907/0/fde4103811/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanthi Murugesan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Murugesan",
+        "address": "1016.C, 1St Cross Street, Opposite Court, Kamaraj Nagar, Palayamkottai - 627002.",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260406061517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9784/0/d1f83f3eb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velraj .S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankarankovil",
+        "father_husband_name": "Sanmugavel",
+        "address": "68, Gandhi Nagar 2Nd Street, Sankarankovil - 627756.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VELRA-2026-20260406051126.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8434/0/a5da90ccc1/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

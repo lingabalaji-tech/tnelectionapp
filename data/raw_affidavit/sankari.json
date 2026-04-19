@@ -1,0 +1,653 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sankari",
+    "count": 43,
+    "candidates": [
+      {
+        "name": "A. Nithya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Arun",
+        "address": "4-264A2 Sri Vani Nagar, Mavelipalayam Post, Iveli Village, Sankari Taluk, Salem District-637301",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANIT-2026-20260330015451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/606/0/c40f5244c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Vignesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Anandhan",
+        "address": "112, Desavilakku South, Elamagoundanur, Omalur Taluk, Salem District-636306",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIG-2026-20260406011101.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9120/0/5c593d594d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aruna",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Vetrivel",
+        "address": "11/11-6-20, Marappan Street, Karuppur Post, Omalur Taluk, Salem District-636012.",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNA-2026-20260406092908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11717/0/22e622fa03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Durairaj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Chenrayan",
+        "address": "1-14-59-B, Vellakarattukadu, T.b. Road, Sankari, Sankari Taluk, Salem District-637301",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CDUR-2026-20260406012001.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9389/0/53fbb93f72/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Sakthivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Devarasu",
+        "address": "1/70, Velankadu, E. Puthupalayam, Thuththipalayam Post, Sankari Taluk, Salem District-637503.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSAKT-2026-20260406105503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12243/0/d25055a495/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Dhandapani",
+        "address": "5-91, Sembadavar Street, Kaveripatti, Kaveripatti Post, Sankari Taluk, Salem District-637104",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMAN-2026-20260406014345.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10291/0/e18c9aac4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Gurunathan. S",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Sengodan",
+        "address": "4/616, Aruntatiyar Teru, Kundalpatti, Kapparayan Valavu, Vaikuntham Village, Vellaiyampalayam Post, Sankari Taluk, Salem District-637103.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGURU-2026-20260404011441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15741/0/171190868b/",
+          "https://voterlist.co.in/affidavit-download/15741/1/cc1ff12204/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durairaj. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Chendrayan",
+        "address": "1-14-59-B, Vellakkarattukadu, T.b. Road, Sankari, Sankari Taluk, Salem District-637301.",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CDUR-2026-20260406012001.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14661/0/825793777b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E Salman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Eyakathali",
+        "address": "1-4/27A, Muslim Street, Malayadivaram, Sankari Post, Sankari Taluk, Salem District-637301",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESALM-2026-20260404062508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8006/0/546714d1ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Sakthivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Govindan",
+        "address": "2/461, Vinobaji Nagar, Pullagoundampatti Agrakaram Village, Sankari Taluk, Salem District-637104",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSAKT-2026-20260404064445.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7596/0/4ef0ca7b5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Senthilkumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Kumaravel",
+        "address": "1/386, E-1, Palakkara Thottam, Mottur, Edanganasalai, Elampillai, Sankari Taluk, Salem District-637502.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEN-2026-20260406103058.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Manikandan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Murugan",
+        "address": "1-468, Anjakadu, Naduvaneri, Sankari Taluk, Salem District-637504.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260406094434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12195/0/5869b0973d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Prabha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Sadeeshkumar",
+        "address": "6-125, Goundaneri, Magudanchavadi, Sankari Taluk, Salem District-637103",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPRA-2026-20260330023248.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Vijayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Marimuthu",
+        "address": "4/251, Kattu Valavu, Poosarikadu, Naduvaneri Post, Vembadithalam, Sankari Taluk, Salem District-637504",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJ-2026-20260406100924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11980/0/01f3005305/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Dhandapani",
+        "address": "5-91, Sembadavar Street, Kaveripatti, Kaveripatti Post, Sankari Taluk, Salem District-637104.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMAN-2026-20260406014345.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15607/0/f9658cbaf0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. M",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Murugan",
+        "address": "1-468, Anchakadu, Naduvaneri, Sankari Taluk, Salem District-637504.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260406094434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15214/0/5d97dadd7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Pachamuthu",
+        "address": "5/213, Kosaripatty, Kannantheri Post, Kannantheri, Sankari Taluk, Salem District-637102",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260406063546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15203/0/36ae83bd80/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayilkumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Muthusamy",
+        "address": "2/445, Morambukadu, Pappampadi Village, Desavilakku Post, Omalur Taluk, Salem District-636306",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAYIL-2026-20260406070302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10072/0/e12c20903a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nithya. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Arun",
+        "address": "4-264A2, Sri Vani Nagar, Mavelipalayam Post, Iveli Village, Sankari Taluk, Salem District-637301",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANIT-2026-20260330015451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14933/0/e9d425d7e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Pachamuthu",
+        "address": "5/213, Kosaripatty, Kannantheri Post, Kannantheri, Sankari Taluk, Salem District-637102",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260406063546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9596/0/d62427d011/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paramasivam. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Raji",
+        "address": "2/270, Poosariyur Kattuvalavu, Thappakuttai Post, Sankari Taluk, Salem District-637502.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPAR-2026-20260406110408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15474/0/e64914dfcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poovarasan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Shanmugam",
+        "address": "17/17A, Ged Office Road, V.n. Palayam, Sankari Taluk, Salem District-637301",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPOOV-2026-20260404055633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16280/0/2319229c74/",
+          "https://voterlist.co.in/affidavit-download/16280/1/33b3bd194f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Paramasivam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Raji",
+        "address": "2/270, Poosariyur Kattuvalavu, Thappakuttai Post, Sankari Taluk, Salem District-637502",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPAR-2026-20260406110408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12393/0/43c49e69ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.s. Senthilkumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Srinivasan",
+        "address": "2/3-126A, Sengodanoor, Desavilakku North, Thuttampatti Post, Omalur Taluk, Salem District-636306",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSS-2026-20260406111745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12554/0/06b50c96fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rameshkumar. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Varatharaji",
+        "address": "5/25, Mettukadu, Naduvaneri Post, Sankari Taluk, Salem District-637504.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406101618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15228/0/19a1427ebf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjith Kumar. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Varatharaji",
+        "address": "5/25-1, Naduvaneri Mettukadu, Vempadithalam, Sankari Taluk, Salem District-637504",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAN-2026-20260406062312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14655/0/ca1c94c20a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Gurunathan",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Sengodan",
+        "address": "4/616, Aruntatiyar Teru, Kundalpatti, Kapparayan Valavu, Vaikuntham Village, Vellaiyampalayam Post, Sankari Taluk, Salem District-637103.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGURU-2026-20260404011441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6144/0/7d2226e8f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Poovarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Sanmugam",
+        "address": "17/17A, Ged Office Road, V.n. Palayam, Sankari, Sankari Taluk, Salem District-637301",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPOOV-2026-20260404055633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8046/0/371a0a38be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vanitha",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Senthilkumar",
+        "address": "386 E, Palakarathottam, Mottur, Edanganasalai, Elampillai, Sankari Taluk, Salem District-637502",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVAN-2026-20260406104748.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12074/0/90534f419a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vetrivel",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Sadhasivam",
+        "address": "11/11-6-20, Marappan Street, Karuppur Post, Omalur Taluk, Salem District-636012.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVET-2026-20260406071854.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Devarasu",
+        "address": "1/70, Velankadu, E. Puthupalayam, Thuthipalayam Post, Sankari Taluk, Salem District-637503.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSAKT-2026-20260406105503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15256/0/007941cd36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Govindan",
+        "address": "2/461, Vinobaji Nagar, Pullagoundampatti Agraharam Village, Sankari Taluk, Salem District-637104.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSAKT-2026-20260404064445.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16070/0/e5a62fc745/",
+          "https://voterlist.co.in/affidavit-download/16070/1/995442c7fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Salman. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Eyakathali",
+        "address": "1-4/27A, Muslim Street, Malayadivaram, Sankari Post, Sankari Taluk, Salem District-637301",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESALM-2026-20260404062508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15267/0/528a8dc83d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar. K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Kumaravel",
+        "address": "1/386, E-1, Palakkara Thottam, Mottur, Edanganasalai, Elampillai, Sankari Taluk, Salem District-637502.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEN-2026-20260406103058.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14865/0/5346d5a402/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar. R.s.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Srinivasan",
+        "address": "2/3-126A, Sengodanur, Desavilakku North, Thuttampatti Post, Omalur Taluk, Salem District-636306.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSS-2026-20260406111745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15678/0/eed1a2fec2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Settumuthu. V",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Vaithi",
+        "address": "4/188, Kattinaikkanpatti, Avadattur Village, Sowariyur Post, Jalakandapuram, Mettur Taluk, Salem District-636501",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SETTU-2026-20260410111826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16281/0/807f00d6bb/",
+          "https://voterlist.co.in/affidavit-download/16281/1/ecb33d6d59/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivarajanadevi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Manikandan",
+        "address": "1-468, Anjakkadu, Naduvaneri, Sankari Taluk, Salem District-637504",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAR-2026-20260406095748.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12558/0/4d52022636/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Ramesh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Varatharaj",
+        "address": "5/25, Mettukadu, Naduvaneri Post, Sankari Taluk, Salem District-637504.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406101618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12208/0/79c289cd40/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Ranjith Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Varatharaj",
+        "address": "5/25-1, Naduvaneri Mettukadu, Vempadithalam, Sankari Taluk, Salem District-637504",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAN-2026-20260406062312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8457/0/571926b782/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Settumuthu",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Vaithi",
+        "address": "4/188, Kattinaikkanapatti, Avadattur Village, Savuriyur Post, Jalakandapuram, Mettur Taluk, Salem District-636501",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSET-2026-20260404045604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8049/0/08c8c2d66d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetrivel. S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Sadhasivam",
+        "address": "11/11-6-20, Marappan Street, Karuppur Post, Omalur Taluk, Salem District-636012.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVET-2026-20260406071854.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14651/0/cfceb797cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Anandhan",
+        "address": "112, Desavilakku South, Elamagoundanur, Omalur Taluk, Salem District-636306.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIG-2026-20260406011101.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14960/0/352e6e2957/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sankari",
+        "father_husband_name": "Marimuthu",
+        "address": "4/251, Kattu Valavu, Poosarikadu, Naduvaneri Post, Sankari Taluk, Salem District-637504.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJ-2026-20260406100924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14993/0/17ebb9e66c/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

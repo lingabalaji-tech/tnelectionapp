@@ -1,0 +1,386 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Mettur",
+    "count": 25,
+    "candidates": [
+      {
+        "name": "Chithambaram.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Appusamy.k",
+        "address": "11/65, Koolaiyur, Gonur Post, Mettur Dam-4",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHITH-2026-20260406120028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9466/0/d094fb49e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanalakshmi.v",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Venkatachalam.g",
+        "address": "169, Kattusothan Valavu, Pudhu Road, Solampallam, Suramangalam, Salem-5",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHANA-2026-20260406053956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8663/0/bfd68994d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.k.padmarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "K.kunchambunair",
+        "address": "3/3-23A, Padma Nivas Building, Raman Nagar Post, Mettur Dam Salem District -636403",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRK-2026-20260330113451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/437/0/2bff2e20df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durairaj.v",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Venkadachalam",
+        "address": "10/1-32, Nangavalli Main Road, Mecheri, Mettur Taluk, Salem District-636453",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406040936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8410/0/157df490e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durairaj.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Venkadachalam",
+        "address": "10/1-32, Nangavalli Main Road, Mecheri, Mettur Taluk, Salem District-636453",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406040936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8570/0/64cbcf0e91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jaganathan.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Andiappan",
+        "address": "20/1, Chinnaiya Reddy Street, Opposite Tmp Nagar, Karumalaikoodal, Pn Patty, Mettur Dam Rs Post Salem District - 636402",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAGAN-2026-20260330012315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/501/0/3cde79c947/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeevanantham.r",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Rajappan",
+        "address": "56C13, Pillaiyar Kovil Street, Near M.s.m, Mettur Dam-636401",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEEVA-2026-20260404024850.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6459/0/0dc83d82c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Murugesan",
+        "address": "4B-75 A/38A2, Elikaradu Mel Paguthi, Madhaiyankuttai, Mettur",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260406112957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8370/0/b045e2f586/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Rajamanickam",
+        "address": "2/1165, Paattan Street, Pallakgadu, Mallikundam, Mettur Taluk, Salem District-636458",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260406063226.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9293/0/ade53069c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanthamani.a",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Angamuthu",
+        "address": "4-10/3, Karungal Vayal, Arasiramani, Sankari Taluk, Salem District, Tamilnadu - 637101",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANTH-2026-20260402033110.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5234/0/49d36c8c7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamoorthy.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Palanisamy.m",
+        "address": "2F63, Pudhu Colony, Mettur Dam-1, Mettur Taluk, Salem District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406061533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9831/0/aa3e6adb15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Midhun Chakravarthy.m",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Mani.r",
+        "address": "3/5-256, Chettipatti, Govindapadi Post, Kaveripuram Village, Mettur Taluk, Salem District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MIDHU-2026-20260406124338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10308/0/a76c79bd06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Perumal",
+        "address": "1/154, Thethigiripatti Colony, Thethigiripatti, Mettur Taluk, Salem District.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404013634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6416/0/c6f05d3153/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Periyaponnu.o",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Ongaliboyan",
+        "address": "3/4-31, Mel Theru, Pannavadi Post, Dinnapatti Village, Mettur Taluk, Salem District.",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PERIY-2026-20260404125828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6776/0/701b917a7a/",
+          "https://voterlist.co.in/affidavit-download/6776/1/180123097b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabakaran.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Saravanan.k",
+        "address": "8/4-41A, Ambedhkar Nagar, Pannavadi Road, Kolathur, Mettur Taluk, Salem District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABA-2026-20260406060137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8535/0/479249fb7a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramkumar.d.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Murali.d",
+        "address": "158, Saraswathi Nagar, Yarcaud Main Road, Chinna Kollapatti, Salem, Salem District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMKU-2026-20260406060834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9187/0/41aeb18439/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanakumar.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Madheshwaran",
+        "address": "26/29, Kavery Palam, Meenavar Theru, Mettur",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406114501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8379/0/a824c2c286/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam.k",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Kandasamy",
+        "address": "13-1-37/1, Pandiyanvalavu, Savuriyur Post, Jalakandapuram, Salem, Tamilnadu-636501",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406042922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9619/0/b76b424ea3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sowmya.m",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Midhun Chakravarthy.m",
+        "address": "3/5-256, Chettipatti, Govindhapadi Post, Kaveripuram Village, Mettur Taluk, Salem District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SOWMY-2026-20260406010432.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8897/0/b8e688005b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundararaju.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Nachimuthu",
+        "address": "2-4-25, Somasi Kadu, Saveriyar Palaiyam Post, Chettiyur, Alamarathupatti, Kolathur, Mettur Taluk, Salem District-636303",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260406062448.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8646/0/d2a728332e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suseela.k",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Selvam.k",
+        "address": "13-1-37/1, Pandiyanvalavu, Jalakandapuram, Salem, Tamilnadu-636501",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUSEE-2026-20260406044545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8574/0/ec988b12b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu.a",
+        "party": "Vada Tamil Nadu Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Arumugam",
+        "address": "11/26B, Pudhuvelamangalam, Gonur, Mettur Taluk, Salem District-636404",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VELU-2026-20260406064511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10340/0/f0719d72c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalam.g",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Govindan.k",
+        "address": "169, Kattusothan Valavu, Pudhu Road, Solampallam, Suramangalam, Salem-5",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406051458.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8743/0/1ecda1ff2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatasalam.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Govindharaj",
+        "address": "3/6-296, Mamarathur, Kaveripuram, Mettur Taluk, Salem District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406045832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9593/0/474241d5a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vidhya Rani.v",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettur",
+        "father_husband_name": "Veerappan",
+        "address": "5/224, 4-Road, Pottaneri, Mettur Taluk, Salem District - 636453",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIDHY-2026-20260330124235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/464/0/f39dbc632e/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

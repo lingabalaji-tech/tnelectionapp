@@ -1,0 +1,379 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Padmanabhapuram",
+    "count": 25,
+    "candidates": [
+      {
+        "name": "Arul Mani. H",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Harrish",
+        "address": "28/4, Suthanvilai, Aramannam, Cheruppaloor Post-629161",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULM-2026-20260406082001.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10819/0/284ce57e90/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellaswamy. R",
+        "party": "Communist Party Of India (Marxist)",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Ramaian Nadar",
+        "address": "17-95, Neer Vilagam, Kanjampuram, Kanniyakumari District- 629154",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RCHE-2026-20260406095805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16102/0/8f781859eb/",
+          "https://voterlist.co.in/affidavit-download/16102/1/8f10ec00fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. B. Krishna Prasad",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "R. Bhaskara Pillai",
+        "address": "4-5-116,  Dwaraka, Pullai, Andoor, Vendalicode Post-629161",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRB-2026-20260406075245.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10596/0/9ea37043a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Krishna Prasad. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "R. Bhaskara Pillai",
+        "address": "4-5-116, Dwaraka, Pullai, Andoor, Vendalicode Post, Kanniyakumari District- 629161",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRB-2026-20260406075245.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14738/0/0d6926bf2f/",
+          "https://voterlist.co.in/affidavit-download/14738/1/44e2acf2e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai Raj. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "S. Selvaraj",
+        "address": "Andamparai, Manalikarai Post, Kanniyakumari District - 629164",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDUR-2026-20260404041817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15714/0/2ff7581a9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ebenezer. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Selvamani",
+        "address": "6-136, Aasarikudivilai, Cheruthikonam, Kulasekharam-629161",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EBENE-2026-20260402052234.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishna Kumar. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Selvaraj",
+        "address": "2-91, Koothavilagam, Parayanvilai. Thiruvattar Post, Kanniyakumari District - 629177",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKRI-2026-20260404022449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15723/0/965ad19e0c/",
+          "https://voterlist.co.in/affidavit-download/15723/1/cd04dbb128/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Rakesh Kumar",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "V. Murugan",
+        "address": "17-119/1 Kochu Puthan Veedu, Kumarapuram, Kumarapuram Post -629164",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAK-2026-20260402011155.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Vaikundamani",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Nadarajan",
+        "address": "1-34, Kottankaachivilai, Muthalakurichi, Thiruvithancode Post-629174",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NVAI-2026-20260404031538.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Ramesh",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Padmanabhadhas",
+        "address": "2/24/18A, Kumaribalan Illam, Bramapuram, Kumarakovil-629180",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAM-2026-20260406052612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8744/0/76bff6a403/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ashok",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Rajan",
+        "address": "2-41A, Puthoorkonam, Manalikarai Post-629164",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RASH-2026-20260406015818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8908/0/c54bd4a4ec/",
+          "https://voterlist.co.in/affidavit-download/8908/1/93d5c923ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Chellaswamy",
+        "party": "Communist Party Of India (Marxist)",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Ramaian Nadar",
+        "address": "17-95, Neer Vilagam, Kanjampuram Post-629154",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RCHE-2026-20260404044615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7664/0/009bd23777/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Ravi",
+        "party": "Communist Party Of India (Marxist)",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Rajian",
+        "address": "4/24, Elluvilai, Ayacode, Cheruppaloor Post-629161",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAV-2026-20260406092146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12413/0/521badd322/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rakesh Kumar. M",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "V. Murugan",
+        "address": "17-119/1, Kochu Puthan Veedu, Kumarapuram Post, Kanniyakumari District - 629164",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAK-2026-20260402042646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16362/0/bc6527b171/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh. P",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Padmanabhadhas",
+        "address": "2/24/18A, Kumari Balan Illam, Brammapuram, Kumarakovil Post, Kanniyakumari District-629180",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAM-2026-20260406052612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15218/0/00e6bca717/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Retnaraj",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Nesayan",
+        "address": "6/270, Pilankalavilai, Mukilankarai, Manalikarai Post-629164",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RETNA-2026-20260406054831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9420/0/5f0fa49c43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Durai Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "S. Selvaraj",
+        "address": "21/5, Andamparai, Manalikarai Post- 629164",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDUR-2026-20260404041817.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Krishna Kumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Selvaraj",
+        "address": "2-91, Kootavilagam, Parayanvilai, Thiruvattar Post -629177",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKRI-2026-20260404022449.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Seelan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Swamynathan",
+        "address": "28-13, Saralvilai, Muttakadu, Kumarapuram Post - 629164",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEELA-2026-20260402040647.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5442/0/76521c234c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Ali. A",
+        "party": "Our Mahathma National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Ahamed",
+        "address": "19/40A1, Market Road, Thuckalay Post-629175",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDA-2026-20260406084353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10820/0/e79dfc5e2d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syedali. A",
+        "party": "Our Mahathma National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "S. Ahamed",
+        "address": "19/40A1,  Market Road,  Thuckalay Post,  Kanniyakumari District - 629175",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDA-2026-20260406084353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14939/0/5618044266/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Manonmony Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Thomas",
+        "address": "28-81, Kattuvalai, Azhagiamandapam, Mulagumoodu Post",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMAN-2026-20260406072235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11142/0/fc9d504534/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. P. David Dhas",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Thankaian Nadar",
+        "address": "6/31A, Ottannoor, Pechipparai Post-629161",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TPD-2026-20260406064152.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10043/0/c75d218bfa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaikundamani. N",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Nadarajan",
+        "address": "1-34, Kottankachivilai, Muthalakurichi, Thiruvithancode Post, Kanniyakumari District - 629174",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NVAI-2026-20260404031538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16235/0/2668b08943/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanthi. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Padmanabhapuram",
+        "father_husband_name": "Arunachalam. S",
+        "address": "167/1A, Crr Illam, Konam, Nagercoil-629004",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260406090445.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10660/0/71439862fc/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

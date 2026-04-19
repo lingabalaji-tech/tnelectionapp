@@ -1,0 +1,445 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Vaniyambadi",
+    "count": 29,
+    "candidates": [
+      {
+        "name": "Abdul Wahid.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Abdul Ajees",
+        "address": "423/14 C.l. Road, Kavakarai, Vaniyambadi, Tirupathur District",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABDUL-2026-20260406035808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9964/0/539809c9f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Afrose.m",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Syed Bhurhanudeen",
+        "address": "337/46, Patel Yacob Saheb Street, Fort, Vaniyambadi Taluk, Tirupathur District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAFR-2026-20260402041822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8089/0/b17c0a5f72/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Afrose.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Syed Bhurhanudeen",
+        "address": "337/43, Patel Yacob Saheb Street, Fort, Vaniyambadi Taluk, Tirupathur District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAFR-2026-20260402041822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13361/0/9ef257eb68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbarasu.p",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "S.palani",
+        "address": "571, Nethaji Nagar North, Vaniyambadi, Tirupathur District-635751",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260406045134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9042/0/e651ae0069/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devendran.j",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Ad.janakiraman",
+        "address": "480 Kamaraj Street, Ambalur Village, Vaniyambadi Taluk, Tirupathur District-635801",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVEN-2026-20260404042847.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6306/0/eb8a316b57/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.murugesan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "R.ganesan",
+        "address": "No.217 Ooni Street Vadapudupattu Ambur Taluk Tirupathur District-635812",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GMUR-2026-20260330040216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/445/0/b49b6ac14c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.afrose",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Syed Bhurhanudeen",
+        "address": "337/46, Patel Yacob Saheb Street, Fort, Vaniyambadi Taluk, Tirupathur District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAFR-2026-20260402041822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5517/0/2f2ad4081e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manjunath.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "G.kasinathan",
+        "address": "4/106, Chinnur Village, Kethandapatti, Natrampalli-635815",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANJU-2026-20260406042430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9317/0/6551791d81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manoj.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "G.sampath",
+        "address": "3/118, Chinnur, Kethandapatti, Natrampalli Tirupathur District-635815",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANOJ-2026-20260406041646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8856/0/bc2bc43858/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan.g",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Ganesan.r",
+        "address": "No.217 Ooni Street Vadapudupattu Ambur Taluk Tirupathur District-635812",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GMUR-2026-20260330040216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7969/0/5f493bf11a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nandha Kumar L.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "G.sampath",
+        "address": "3/118, Chinnur, Kethandapatti, Tirupathur-635815",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NANDH-2026-20260406040746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10398/0/094bf3185d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Narendira Babu.v",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Viswanathan.s",
+        "address": "141,Raja Street Mullai Village, Nimmiyampattu Post, Vaniyambadi Taluk, Tirupathur District-635752",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAREN-2026-20260404041931.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6139/0/323b16cc30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Naveen.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "D.ragu",
+        "address": "83, Chinnur, Kethandapatti, Natrampalli, Tirupathur District-635815",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAVEE-2026-20260406044331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10468/0/644fbe9730/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Perumal.c",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "M.chennappan",
+        "address": "1/199, Pethaveppampattu Village, Vallipattu Post. Vaniyambadi-635752",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PERUM-2026-20260404040825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6750/0/64772c79f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Tanjan",
+        "address": "7/32,Annasagaram, Paniyandapalli Post, Natarampalli Taluk, Tirupathur District-635854",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260404043614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7345/0/07bc5b7505/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sandhiya.m",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "P.anbarasu",
+        "address": "571, Nethaji Nagar North, Vaniyambadi, Thirupathur District-635751",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANDH-2026-20260406050131.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9858/0/d7913d761a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sandhiya.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "P.anbarasu",
+        "address": "571, Nethaji Nagar North, Vaniyambadi, Thirupathur District-635751",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANDH-2026-20260406050131.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13085/0/8e062e6004/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "M.moorthy",
+        "address": "15 Thiruneermalai Main Road, Kamarajapuram, Anakaputhur, Chennai-600070",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406055817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10319/0/51d011abc2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sendhil Kumar.g",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "M.gopal",
+        "address": "18 Pethaveppampattu Village, Vallipatttu Post, Vaniyambadi-635752",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SENTH-2026-20260407123640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13246/0/ecb9b06453/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthil Kumar.g",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "M.gopal",
+        "address": "18 Pethaveppampattu Village, Vallipatttu Post, Vaniyambadi-635752",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260404035902.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6591/0/7d64a1b86b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinivasan.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Anandan",
+        "address": "69/0, Officers Line, Mettupalayam, Udayandiram, Vaniyambadi, Tirupathur Disttrict",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINI-2026-20260406050959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10383/0/b726580c6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramani.p",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Perumal",
+        "address": "66/A, Dr.ambedkar Nagar, Vadacheri Village And Post, Ambur Taluk, Tirupathur Disttrict-635754",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBRA-2026-20260406052640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9683/0/bd1ee78200/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundarammal",
+        "party": "Makkal Arasial Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Parasuraman",
+        "address": "89, Chinnamottur Village, Periyamotttur Panchayat, Kethandapatti, Thirupathur District-635815",
+        "gender": "Female",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260402042929.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5213/0/6856505cdb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Bhurhanudeen",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Syed Ayaz Ahmed",
+        "address": "337/43, Patel Yacob Saheb Street, Fort, Vaniyambadi Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDB-2026-20260402035708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5268/0/cd0f38b953/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Farooq Basha Ssb",
+        "party": "Indian Union Muslim League",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Syed Razaq Sahib",
+        "address": "3/317, Yaseen Abdul Khader Street, Newtown, Vaniyambadi, Tirupathur District-63575",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SYEDF-2026-20260409114327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15579/0/31330ff72d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Farooq Basha.ssb",
+        "party": "Indian Union Muslim League",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Syed Razaq Sahib",
+        "address": "3/317, Yaseen Abdul Kather Street, Newtown, Vaniyambadi, Tirupathur District-635752",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDF-2026-20260406053319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10242/0/792fb6f6e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Imraan Madini.ssbf",
+        "party": "Indian Union Muslim League",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Ssb Syed Farooq Basha",
+        "address": "3/317, Yaseen Abdul Khader Street, Newtown, Vaniyambadi, Tirupathur Disttrict-635752",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDI-2026-20260406054031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8734/0/b5fdf074aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Imraan Madini.ssbf",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "Ssb Syed Farooq Basha",
+        "address": "3/317, Yaseen Abdul Khader Street, Newtown, Vaniyambadi, Tirupathur Disttrict-635752",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDI-2026-20260406054031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12912/0/94d7800ac6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vaniyambadi",
+        "father_husband_name": "P.natarajan",
+        "address": "41, Bharathidasan Street, Udayendiram Post, Vaniyambadi Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406060424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8773/0/a6d860cb3b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

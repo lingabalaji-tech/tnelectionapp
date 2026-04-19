@@ -1,0 +1,472 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Edappadi",
+    "count": 31,
+    "candidates": [
+      {
+        "name": "Amutha. K",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Kasi. C",
+        "address": "15A, Palanisamychetti Street, Jalakandapuram, Mettur Taluk, Salem District-636 501",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUTH-2026-20260406055129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9742/0/189347cc89/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunkumar.m",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Murugan",
+        "address": "9/30A, Veeranam Main Road, Valasaiyur Post, Salem. 636 122",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNK-2026-20260406094914.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12310/0/5705a207df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Edappadi Palaniswami. K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Karuppagounder. V",
+        "address": "D.no.6/77, Siluvampalayam, Nedungulam Village, Edappadi Taluk, Salem District. 637 107",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EDAPP-2026-20260410021956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14984/0/d1a1bd420f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Palanisamy",
+        "address": "32C,  Avaniyur North Street,  Avaniperur West,  Edappadi Taluk, Salem District. 637 101",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELUMA-2026-20260406090944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11982/0/95189db9ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Govindaraj.v",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Venkatachalam",
+        "address": "18F, Mottur Kattuavalavu, Avaniperur West, Edappadi Taluk, Salem District-637101",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOVIN-2026-20260404043519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7319/0/6e4fccac6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Iyyappan Perumal. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Perumal",
+        "address": "D.no.5/86,Kollapatti, K.vadugapatti, Katchupali Post, Edappadi Taluk, Salem District-637102",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IYYAP-2026-20260404070705.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7110/0/e7f855b8d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kasi. C",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Chinnathambi",
+        "address": "15A, Palanisamychetti Street, Jalakandapuram, Mettur Taluk, Salem-636 501",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASI-2026-20260406052537.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9585/0/d2a4336bdf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaresan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Marimuthu",
+        "address": "48/191, Nadu Street, Edappadi, Salem District-637 101",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260402014550.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5058/0/9200e211f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Chinnapayan",
+        "address": "2-11-60A, Kuppampatti Road, Soorapalli, Jalakandapuram, Mettur Taluk, Salem District. 636 501",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406082010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10830/0/30e137e837/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Mahalingam. M",
+        "address": "D.no.33, Thavan Street, Edappadi, Edappadi Taluk, Salem-637101",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406123707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10142/0/3199e16b55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nithya. A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Arunkumar",
+        "address": "9/30A, Veeranam Main Road, Valasaiyur Post, Salem. 636 122",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NITHY-2026-20260406101011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11995/0/03d9e666b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palaniswami. K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Karuppagounder. V",
+        "address": "D.no.6/77, Siluvampalayam, Nedungulam Village, Edappadi Taluk, Salem District-637107",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406020514.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8411/0/7b5f84fdf2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prasanth. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Selvakumaran",
+        "address": "484B/1, K.pudur West Street, Avaniperur Tnhp Poolampatti Road, Edappadi Taluk, Salem District-637101",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRASA-2026-20260404072036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7537/0/dc95899932/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premkumar. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Koothan. P",
+        "address": "76/100, Kamarajar Street, Old Suramangalam, Salem-636005",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMK-2026-20260404072950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7807/0/9761b50530/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priyadharshini. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Arunachalam",
+        "address": "5/523, Koppan Street, Nazhikkalpatty, Salem Taluk, Salem District - 636 201",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRIYA-2026-20260330030031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/65/0/c2a3cc3338/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Kailasam. S",
+        "address": "11-1-19, Palani Chetti Street, Malayambalayam, Chinnapampatty Main Road, Jalakandapuram, Mettur Taluk, Salem District - 636 501",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJA-2026-20260330053113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/311/0/c919d52f42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. K. B.sc. B.tech. Ex.inas",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Kailasam. S",
+        "address": "D.no.11-1-19, Palani Chetti Street, Malayampalayam, Chinnapampatti Main Road, Jalakandapuram, Mettur Taluk, Salem District. 636 501",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJA-2026-20260410021518.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16611/0/505cbe3b20/",
+          "https://voterlist.co.in/affidavit-download/16611/1/7d376899fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjitha. M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Manikandan",
+        "address": "6/63, Mettu Street, Jalakandapuram, Mettur Taluk, Salem District, Tamilnadu-636 501",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260406050737.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10250/0/b7913336de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravi. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Arumugam",
+        "address": "4-138, Thathapuram Post, Thathapuram Village, Edappadi Taluk, Salem District-637105",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVI-2026-20260404015951.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Reena. S",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Suresh",
+        "address": "D.no.145, Angalamman Kovil Street, Edappadi Taluk, Salem District. 637 101",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REENA-2026-20260406093359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11883/0/95ee3396a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Reena. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Suresh",
+        "address": "D.no.145, Angalamman Kovil Street, Edappadi Taluk, Salem District. 637 101",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REENA-2026-20260406093359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12961/0/d403686c41/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Subaramani",
+        "address": "3/494A, Anna Nagar, Bodinaickenpatti, Avaniperur East, Edappadi Taluk, Salem District, Tamil Nadu - 637 105.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTH-2026-20260402123834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4980/0/d00e6d95f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar. A",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Arumugam",
+        "address": "1-38, Kanyambatti, Konasamudram Village, Edappadi Taluk, Salem District. 637 102",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406083218.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11304/0/4d21213433/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Silambarasan. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Arthanari",
+        "address": "D.no.223/3, Malayampalayam Kattuvalavu, Thoramangalm, Nangavalli, Mettur Taluk, Salem District-636501",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SILAM-2026-20260406011913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9348/0/1718f62a22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaprakasam. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Chinnaiyan. P",
+        "address": "New D.no.5/11, Old D.no.8/20Na, Aduvapatti, Pakkadu Village, Edappadi Taluk, Salem District-636501",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAP-2026-20260404022145.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Student's Friend Murugan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Mahalingam. M",
+        "address": "D.no.33, Thavan Street, Edappadi, Salem District. 637 101",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/STUDE-2026-20260410021842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15527/0/e67501ff1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramani. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Ponnusamy",
+        "address": "D.no. 3-45,  New No. 2/25, Nellukkaranan Valavu, Karikapatti, Mettur Taluk, Salem District. 636 501",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBRA-2026-20260406074925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11382/0/0e55bb3721/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. L",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Lokavasikaran",
+        "address": "D.no.145, Angalamman Kovil Street, Edappadi Taluk, Salem District. 637 101",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406092444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12517/0/fd79c4d3de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilselvan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Mohan",
+        "address": "D.no. 12/97, Ottapatti, Chettimangurichi Village, Edappadi Taluk, Salem District. 637 101",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406094037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12055/0/5620438000/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thulasimani. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Palanisamy",
+        "address": "D.no. 5/118-1, Malayampalayam Kattuvala, Dhoramangalam Village, Mettur Taluk, Salem District. 636 501",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THULA-2026-20260406080646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11241/0/6992417dd8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veerammal. P",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Edappadi",
+        "father_husband_name": "Perumal",
+        "address": "Thalaipallam, Adaiyur Village , Edappadi Taluk, Salem District-636501",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260404012936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6316/0/b10f814846/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

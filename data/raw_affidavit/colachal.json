@@ -1,0 +1,565 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Colachal",
+    "count": 37,
+    "candidates": [
+      {
+        "name": "Ancy Shoba Rani L",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "J. John Benze",
+        "address": "7-41 B Edayan Vilai, Kappiyarai Post-629156, Kanniyakumari District",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LANC-2026-20260407094207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13389/0/b1f218d50f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ancy Shoba Rani. L",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "J. John Benze",
+        "address": "7/41 B Idaiyanvilai, Kappiyarai Post, Kanniyakumari District-629156",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LANC-2026-20260407094207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16640/0/3461987cb8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anthony Muthu",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Swamyadian",
+        "address": "13-77 B, Patharai, Reethapuram Post - 629159, Kanniyakumari District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANTHO-2026-20260330060835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/80/0/e889e6c09f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anthony Muthu S.m",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Swamyadian",
+        "address": "13-77 B, Patharai, Reethapuram Post - 629159, Kanniyakumari District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANTHO-2026-20260407094242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13376/0/6b7358db6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anthony Muthu. S.m",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Swamyadian",
+        "address": "13-77 B, Patharai, Reethapuram Post, Kanniyakumari District - 629159",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANTHO-2026-20260407094242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16561/0/a4f073f42e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Antony Alankaram K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Kurusumalai Pitchai",
+        "address": "10-45B Maramadi Street Number 5, Colachel - 629251",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KANT-2026-20260407095815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13118/0/92c2ba03fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Antony Alankaram. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Kurusumalai Pitchai",
+        "address": "10/45B, Maramadi Street Number 5, Colachel, Kanniyakumari District - 629251",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KANT-2026-20260407095815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15506/0/369c1c76a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Christ Miller S",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "D. Siluvai",
+        "address": "78, Assisi New Building, East Court Road, Nagercoil-629001",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CHRIS-2026-20260407032921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13033/0/3e90be6a0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Christ Miller. S",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "D. Siluvai",
+        "address": "78, Assisi New Building, East Court Road, Nagercoil, Kanniyakumari District-629001",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CHRIS-2026-20260407032921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15163/0/8e7f3457ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh N",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "S. Nallakannu Achary",
+        "address": "55B, 3-1, Pallivilai Road, Vetturnimadam, Nagercoil-629003",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NGAN-2026-20260407095235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13221/0/abe3fcf108/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh. N",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "S. Nallakannu Achary",
+        "address": "55B, 3-1, Pallivilai Road, Vetturnimadam, Nagercoil, Kanniyakumari District - 629003",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NGAN-2026-20260407095235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15962/0/e55cd0aabd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "George Aromal",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Ashok George",
+        "address": "138 Ganeshapuram, Nagercoil - 629001",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GEORG-2026-20260406094255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12132/0/37842e2750/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Antony Alankaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Kurusumalai Pitchai",
+        "address": "10-45B Maramadi Street Number 5, Colachel - 629251",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANT-2026-20260406095222.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12414/0/7e7600de19/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Koil Raj",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Ravi",
+        "address": "18-112-I Balasubramaniyapuram, Kanniyakumari District - 629702",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KOILR-2026-20260404045020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7835/0/9bd1a5efa6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Koil Raj R",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Ravi",
+        "address": "18-112-I Balasubramaniyapuram, Kanniyakumari District - 629702",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KOILR-2026-20260407032206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13275/0/f794bacbd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Koil Raj. R",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Ravi",
+        "address": "18/112-I, Balasubramaniyapuram, Kanniyakumari District - 629702",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KOILR-2026-20260407032206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16167/0/e6b02891cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L. Ancy Shoba Rani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "J. John Benze",
+        "address": "7-41 B Edayan Vilai, Kappiyarai Post-629156, Kanniyakumari District",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LANC-2026-20260330052733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/448/0/6cde1bc2cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Murali",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "D. S. Muthumalai",
+        "address": "Plot No. 107, Thazhampu Street, Poompozhil Nager, Koilpathahai, Chennai - 600062",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMUR-2026-20260406092439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12513/0/13679619c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "A. Manikandan",
+        "address": "23-9F, Keezha Karuppucodu, Villukuri Post - 629180",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAR-2026-20260406090344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10615/0/307cebe854/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murali M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "D. S. Muthumalai",
+        "address": "Plot No. 107, Thazhampu Street, Poompozhil Nager, Koilpathahai, Chennai - 600062",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMUR-2026-20260407095449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13141/0/346d0e7adf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murali. M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "D. S. Muthumalai",
+        "address": "Plot No. 107, Thazhambu Street, Poompozhil Nagar, Koilpathahai, Chennai - 600062",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMUR-2026-20260407095449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15622/0/7c24782409/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Ganesh",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "S. Nallakannu Achary",
+        "address": "55B, 3-1, Pallivilai Road, Vetturnimadam, Nagercoil-629003",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NGAN-2026-20260404050919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7375/0/a7110fcec7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prem Alex Lawrence",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Lawrence",
+        "address": "9-3 Matha Nagar,  Alanchy, Kanniyakumari District - 629159",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMA-2026-20260402042452.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5178/0/2c4f0c741e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priya Jenifer",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "P. Ruben",
+        "address": "7-48A Theampravilai, West Neyyoor - 629803",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRIYA-2026-20260406080032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10985/0/f38f22d6b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasingh C",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Chellakan",
+        "address": "8-11 Kariyavilai, Mondaikadu, Kanniyakumari District - 629252",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260402050102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5509/0/d7e17c7e30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasingh. C",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Chellakan",
+        "address": "8-11, Kariyavilai, Mondaikadu, Kanniyakumari District - 629252",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJAS-2026-20260406102609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16513/0/ddb71b8ae1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Christ Miller",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "D. Siluvai",
+        "address": "78, Assisi New Building, East Court Road, Nagercoil-629001",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SCHR-2026-20260406084922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11011/0/22603d1ced/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Lawrence",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Susantony",
+        "address": "9-3 Madha Nagar, Alanchy Post - 629159",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SLAW-2026-20260406100909.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11969/0/f9054cb7c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sadhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Thanga Durai",
+        "address": "4-71A Mela Konam, Near Asaripallam Hospital, Nagercoil - 629201",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SADHU-2026-20260406100128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11753/0/7f3e9345db/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "A. Manikandan",
+        "address": "23-9F, Keezha Karuppucodu, Villukuri Post - 629180",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAR-2026-20260406090344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12902/0/b70f0fe6e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "A. Manikandan",
+        "address": "23/9F, Keezha Karuppucodu, Villukuri Post, Kanniyakumari District - 629180",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAR-2026-20260406090344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14751/0/d6f6b0a3bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Muthiah",
+        "address": "5-119 Kuthiraipanthivilai, Villukuri, Kanniyakumari District - 629180",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404043102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6337/0/22bd0e249e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Muthiah",
+        "address": "5/119, Kuthiraipanthivilai, Villukuri Post, Kanniyakumari District - 629180",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404043102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15874/0/4fe1580ce9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar T",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "S. Thangaswamy",
+        "address": "1-111-1, Unnankulam, Sarel Post - 629203",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TSIV-2026-20260407095512.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12969/0/3a74277246/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar. T",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "S. Thangaswamy",
+        "address": "1/111-1, Unnankulam, Saral Post,  Kanniyakumari District  - 629203",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TSIV-2026-20260407095512.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14917/0/0e0e792679/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Sivakumar",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "S. Thangaswamy",
+        "address": "1-111-1, Unnankulam, Sarel Post - 629203",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSIV-2026-20260406093429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11903/0/48733b9e08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tharahai Cuthbert",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Colachal",
+        "father_husband_name": "Cuthbert",
+        "address": "10-89 Enayam, Enayam Post - 629193",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THARA-2026-20260406091226.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12117/0/3aa514c1dc/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

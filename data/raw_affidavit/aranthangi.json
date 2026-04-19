@@ -1,0 +1,475 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Aranthangi",
+    "count": 31,
+    "candidates": [
+      {
+        "name": "Abdul Jaffar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Salim",
+        "address": "12/39 Manivilan 5Th Street  Agani Bazar Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABDUL-2026-20260409032640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15367/0/e1227aee94/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aiyappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Raju",
+        "address": "2/38 Vairandi Village Rethinakkottai Post Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AIYAP-2026-20260404033300.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6234/0/d64524da87/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbu T",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Thirunavukkarasar",
+        "address": "Teeyathur Post Avudaiyarkoil Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBUT-2026-20260406082144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10887/0/41f4751e9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunagiri . M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Muthaiah",
+        "address": "Velayutham Pillai Nagar Pattukkottai Road Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNA-2026-20260406083034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11242/0/723ba57fef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhetchna Moorthy. Doctor. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Shanmugam",
+        "address": "44 Rukumani Road Kalachethra Colony Besant Nagar Chennai",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRS-2026-20260406050819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15279/0/5d57c6886d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. S. Dhetchna Moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Shanmugam",
+        "address": "44 Rukumani Road Kalachethra Colony Besant Nagar Chennai",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRS-2026-20260406050819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9732/0/c6d8091ac5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Mohamed Farvas",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "M. Jafer Ali",
+        "address": "80 A.m.a Nagar Nizam Colony Pudukkottai Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMOH-2026-20260404020502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6703/0/a279987cd5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalimuthu. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Palanimuthu",
+        "address": "2/17 Pallathivayal Thondaimanenthal Post Avudaiyarkoil Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKAL-2026-20260406012540.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15201/0/5bafd300ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Nedunchezhiyan",
+        "address": "320/5 Rajaji Nagar Pattukkottai Road Kalappakadu Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARTH-2026-20260409030553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14672/0/c22bef45f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha Srikanth",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Srikanth",
+        "address": "6/23-3 Marina Nagar Vairivayal Aranthangi Taluk Pudukkottai District",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260406031323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8483/0/5165b42c44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M . Nazim Khan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Mohamed Khan",
+        "address": "No. 59/4/15 North Street Kottaipattinam Manamelkudi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAZ-2026-20260406085206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11129/0/7c0bf60e5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Ali Jinna",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Abdul Majith",
+        "address": "No. 470 Pallivasal Street Gopalapattinam Avudaiyarkoil Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260406092257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12450/0/f823b76248/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Farvas. J",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "M. Jafer Ali",
+        "address": "80 A.m.a Nagar Nizam Colony Pudukkottai Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAM-2026-20260409074638.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16166/0/1e89179fcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugarethinam. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Tamilmani",
+        "address": "4/239 Okkur Melakudiruppu Avudaiyarkoil Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMUR-2026-20260406091441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15223/0/48ed80f77b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthulakshmi. S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Sakthivel",
+        "address": "6/159 Egaperamalur Eganivayal Post Aranthangi Taluk Pudukkottai District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260409030446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16646/0/5877356ec2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N . Karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Nedunchezhiyan",
+        "address": "320/5 Rajaji Nagar Pattukkottai Road Kalappakadu Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKAR-2026-20260406095836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11685/0/49fcbc1f9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nazim Khan. M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Mohamed Khan",
+        "address": "No. 59/4/15 North Street Kottaipattinam Manamelkudi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAZ-2026-20260406085206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15296/0/b9bbb4e20c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Kalimuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Palanimuthu",
+        "address": "2/17 Pallathivayal Thondaimanenthal Post Avudaiyarkoil Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKAL-2026-20260406012540.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9589/0/13b1072b14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Dhanasekaran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "S. Ramaiah",
+        "address": "No. 24/7 Kamarajapuram 6Th Street Pudukkottai Town Pudukkottai Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHA-2026-20260404030717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6679/0/1e22d83bb0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran . T",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Thirunavukkarasar",
+        "address": "Teeyathur Post Avudaiyarkoil Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260406051815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9051/0/de006c4393/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Muthulakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Sakthivel",
+        "address": "6/159 Egaperamalur Eganivayal Post Aranthangi Taluk Pudukkottai District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUTH-2026-20260330053042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/476/0/90f1859ad0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Abdul Jaffar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Salim",
+        "address": "12/39 Manivilan 5Th Street  Agani Bazar Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SABD-2026-20260406014803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9887/0/567c659ba8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Muthulakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Sakthivel",
+        "address": "6/159 Egaperamalur Eganivayal Post Aranthangi Taluk Pudukkottai District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUTH-2026-20260330053042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6872/0/3e905d8105/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shahul Hameed . N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Noor Mohamed",
+        "address": "781 South Street Ammapattinam Manamelkudi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHAHU-2026-20260406023724.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8491/0/372a98634b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shathish Kumar",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Loganathan",
+        "address": "1/20 Amaravathi Nagar Pallathivayal Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHATH-2026-20260406075537.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10792/0/a74778eb10/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundar . A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Annadurai",
+        "address": "3/185 Thiruvappadi Athani Post Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260406084249.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10789/0/5d08b70068/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T . Murugarethinam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Tamilmani",
+        "address": "4/239 Okkur Melakudiruppu Avudaiyarkoil Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMUR-2026-20260406091441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12203/0/e2fef17c6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udaiyappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Muthaiah",
+        "address": "10/9 Patharasankottai Kammangadu Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDAIY-2026-20260406093852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12019/0/106baccf50/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udaiyappan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Muthaiah",
+        "address": "10/9 Patharasankottai Kammangadu Aranthangi Taluk Pudukkottai District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/UDAIY-2026-20260409033252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15039/0/29935d0d10/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Anusuya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Viswanathan",
+        "address": "21 Senganathi Puduvakkottai Post Aranthangi Taluk Pudukkottai District",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VANUS-2026-20260330054703.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/607/0/b7f4c0c758/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Anusuya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aranthangi",
+        "father_husband_name": "Viswanathan",
+        "address": "21 Senganathi Puduvakkottai Post Aranthangi Taluk Pudukkottai District",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VANUS-2026-20260330054703.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6880/0/3187732a36/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Egmore",
+    "count": 29,
+    "candidates": [
+      {
+        "name": "Abishek. R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Rengasamy",
+        "address": "35/16, Kutty Street, Nungambakkam, Chennai-600034",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABISH-2026-20260404031230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6746/0/0ad06e20e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aravindan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Malathy Mohanraj",
+        "address": "18/21, Jayalakshmipuram, 3Rd Street, Nungambakkam, Chennai-600034",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAVI-2026-20260406040519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10248/0/5b480636d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arun Rao N.a",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Amrutha Rao",
+        "address": "No. 4, Asirvadhapuram, 2Nd Street, Pulianthope, Chennai-600012",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNR-2026-20260402043404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5245/0/4db9900aad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arun Rao. N.a",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Amrutha Rao",
+        "address": "No. 4, Asirvadhapuram, 2Nd Street, Pulianthope, Chennai-600012",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNR-2026-20260402043404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16388/0/7e7350fa1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Sankar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Chinnasamy",
+        "address": "55/7, Jains Halls Hanora, Halls Road, Egmore, Chennai-600008",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSAN-2026-20260406085222.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11149/0/79cccd9035/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Thirunavukkarasar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "A. Devasagayam",
+        "address": "No. 29/51, V.o.c Street, Kamarajar Nagar, Perungalathur, Chennai-600063",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DTHI-2026-20260406102113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12323/0/bb71ffeaab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.n. Gunasekar",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "M. Nagarajan",
+        "address": "No. 2/3, Sivarajapuram, 1St Street, Pulianthope, Chennai-600012",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NGUN-2026-20260406092157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15516/0/fd1b8701c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Vijayan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "K. Gandhi",
+        "address": "19/4, 2Nd Floor, Angamuthu Street, Postal Audit Colony, Saligramam, Chennai-600093",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GVIJ-2026-20260406100340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11820/0/884ae23791/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Vijayan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "K. Gandhi",
+        "address": "19/4, 2Nd Floor, Angamuthu Street, Postal Audit Colony, Saligramam, Chennai-600093",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GVIJ-2026-20260406100340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12933/0/035ddba480/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.r. Rajendran",
+        "party": "National Maha Sabha Party",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "G. Rajarathinam",
+        "address": "No. 09, Jai Nagar, Anjaneyar Kovil Street, Pattalam, Chennai-600012",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRR-2026-20260406062003.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10222/0/20f4386322/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Kavitha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Mageshwaran",
+        "address": "No. 11, Gurusamy Nagar, Canal Street, Puliyanthope, Chennai-600012",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAV-2026-20260402032419.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Nagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Munusami",
+        "address": "No. 2/3, Sivarajapuram, 1St Street, Pulianthope, Chennai-600012",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNAG-2026-20260406094544.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12234/0/138a9d969b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Gunasekar",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "M. Nagarajan",
+        "address": "No. 2/3, Sivarajapuram, 1St Street, Pulianthope, Chennai-600012",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NGUN-2026-20260406092157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12420/0/c330858222/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Archana",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Saravanakumar",
+        "address": "No. 66, Valluvar Kottam High Road, Nungambakkam, Chennai-600034",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RARC-2026-20260404034359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6352/0/67a4da904d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Kumaravel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "D. Ramachandran",
+        "address": "No. 13/7, Sivarajapuram, 2Nd Street, Pulianthope, Chennai-600012",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKUM-2026-20260406051201.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8523/0/5ba1f6ae35/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Rajmohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "K. Rajasekar",
+        "address": "53, Apparao Garden, 2Nd Street, Shenoy Nagar, Chennai-600030",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260406054642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9243/0/e17f74321f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Mohanraj",
+        "address": "No. 42, Kutty Street, Nungambakkam, Chennai-600034",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJKU-2026-20260406043838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10257/0/519922b000/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajmohan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Arumugam",
+        "address": "Door No. 1, K Block, 5Th Floor, Taisha, West Natesan Nagar, Virugambakkam, Chennai-600092",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJMO-2026-20260404035612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6543/0/6157c8188b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajmohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "K. Rajasekar",
+        "address": "53, Apparao Garden, 2Nd Street, Shenoy Nagar, Chennai-600030",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260406054642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15032/0/c85a21e7d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Pichamuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "V. Subbarayan",
+        "address": "10/4, Peacock House, Nethaji Street, Kamarajapuram, Chennai-600073",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPIC-2026-20260406090540.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10706/0/be98cf12b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Prasanna",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "M. Sundaram",
+        "address": "No. 144, 2B, 2Nd Floor, Krupa Residency, Rukmani Lakshmipathy Road, Egmore, Chennai-600008",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPRA-2026-20260404045203.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7931/0/89385c86a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vinoth Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Antony Doss",
+        "address": "18/37, Melpadi Muthu Street, Nungambakkam, Chennai-600034",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260406034920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15225/0/52f66187f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saranya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Mohammed Imran",
+        "address": "No.13, Gurusamy Nagar, 6Th Street, Pulianthope, Chennai-600012",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAN-2026-20260330020235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/629/0/87a6fe35a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saranya Imran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Mohammed Imran",
+        "address": "No.13, Gurusamy Nagar, 6Th Street, Pulianthope, Chennai-600012",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAN-2026-20260330020235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16672/0/7ebf997ac7/",
+          "https://voterlist.co.in/affidavit-download/16672/1/bb9c1982b4/",
+          "https://voterlist.co.in/affidavit-download/16672/2/c18ad1cdcc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sridhar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Mohanraj",
+        "address": "42/29, Kutty Street, Nungambakkam, Chennai-600034",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIDH-2026-20260406045057.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9021/0/3dab7317be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Magizhanban",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "S. Thambu",
+        "address": "4/13, 1St Street, Gurusamy Nagar, Pulianthope, Chennai-600012",
+        "gender": "Male",
+        "age": "80",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMAG-2026-20260404041642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6859/0/a17c3bf98c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilan Prasanna",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "M. Sundaram",
+        "address": "No. 144, 2B, 2Nd Floor, Krupa Residency, Rukmani Lakshmipathy Road, Egmore, Chennai-600008",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPRA-2026-20260404045203.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16217/0/3cc8565a43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Kotteswaran",
+        "address": "No. 42/29, Kutty Street, Nungambakkam, Chennai-600034",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406042616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9435/0/20bf1b02e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinothkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Egmore",
+        "father_husband_name": "Antony Doss",
+        "address": "18/37, Melpadi Muthu Street, Nungambakkam, Chennai-600034",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260406034920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9618/0/c2318dab06/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

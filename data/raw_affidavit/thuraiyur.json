@@ -1,0 +1,401 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Thuraiyur",
+    "count": 26,
+    "candidates": [
+      {
+        "name": "A.saroja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Annadurai",
+        "address": "636,Adidravidar Street, Narasingapuram Thuraiyur Tk, Trichy-621008.",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAR-2026-20260406053224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10176/0/704448baca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.saroja",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Elangovan",
+        "address": "No.49L,Malaiyappan Salai-2,Thuraiyur Town,Thuraiyu Tk,Trihcy Dt-621010",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAR-2026-20260404043647.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7370/0/a8c1ac4483/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.saroja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Elangovan",
+        "address": "732,Arijana Street, Govindhapuram Po, Krishnapuram, Thuraiyur Tk, Trichy-621008.",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAR-2026-20260406075037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11432/0/05bd3d9e0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Dhineshkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "A.ganesan",
+        "address": "No.9/105,  Indira Colony, Government Higher Secondary  School Road, Sengattupatti Post, Thuraiyur Taluk, Tiruchirappalli District -621002.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GDHI-2026-20260406054727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15070/0/b7da2e9843/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.dhinesh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "A.ganesan",
+        "address": "9/105, Indira Colony, Government Higher Secondary  Salai, Sengattupatti Po, Thuraiyur Tk, Trichy-621002.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GDHI-2026-20260406054727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9319/0/e6c269e850/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.elangovan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Govindan",
+        "address": "No.49L, Malaiyappan Salai-2,Thuriayur Town,Thuraiyur Tk,Trichy Dt-621010",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GELA-2026-20260404045529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8024/0/15048924e5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "R.govindan",
+        "address": "16/45,First Floor, Jeyaram Street, Saidapet West, Chennai-600015.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSEL-2026-20260404055004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7799/0/cfd475c141/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gnanavettiyan Sivaperumal .K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Krishnan",
+        "address": "No.112/A, Elunootru Mangalam, Manathattai Village, Vaiganallur Post, Kulithalai Taluk, Karur District-639104.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GNANA-2026-20260410114805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15429/0/6124dfbcea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.gnanavettiyan Sivaperumal",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Krishnan",
+        "address": "112/A,Elunootru Mangalam, Vaiganallur Po, Manathattai Village, Kulithalai Tk, Karur Dt-639104",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KGNA-2026-20260406050310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9988/0/718a92933e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.saroja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Krishnasamy",
+        "address": "4/960,4/244, Pallar Street, Kannanur Po, Thuraiyur Tk, Trichy-621206.",
+        "gender": "Female",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAR-2026-20260406051713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8971/0/a395d92bc4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Kasiyan",
+        "address": "22/13,Malaiyappan Salai-2, Thuraiyur Town, Thuraiyur Trichy-621010",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406080603.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11217/0/154c9c3517/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Ravichandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Muthusamy",
+        "address": "No.3/46,  Para Street, Perumalpalaiyam Post, Thuraiyur Taluk, Tiruchirappalli District 621008.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAV-2026-20260410113320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15836/0/723887e950/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.lenin Prasath",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "N.mathivanan",
+        "address": "4/151,New Colony Mela Pandamangalam, Marudandakuruchi Po, Trichy-620102.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MLEN-2026-20260406062706.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8833/0/182cb451e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ravichandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Muthusamy",
+        "address": "3/46,Parastreet, Perumalpalayam Post, Thuraiyur Taluk, Trichy-621008.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAV-2026-20260404060307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7166/0/b895699487/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ravisankar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "P.muthu",
+        "address": "No.25/6A,Sakthi Nagar,Thiruvellarai Po.,Poonampalayam,Mannachanallur Tk,Trichy Dt-621009",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAV-2026-20260404053252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7093/0/a1d9d6a714/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Muthazhagu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Nallaiya",
+        "address": "No.3, Gandhi Nagar, Thammampatti  Post, Gangavalli Taluk, Salem District-636113.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NMUT-2026-20260406075144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14670/0/3d4879cdf3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.muthazhagu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Nallaiya",
+        "address": "3 Gandhi Nagar, Thammampatti Po, Gengavalli Tk, Salem Dt-636113",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NMUT-2026-20260406075144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10525/0/a6eb8af8ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.prabhakar",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Natesan",
+        "address": "70B, Manathattai South, Kulithalai, Karur-639104.",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPRA-2026-20260406073336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10621/0/9d766c4520/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.sudhakar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "A.nagalingam",
+        "address": "7/2,Thiruvalluvar Nagar Kottathur Po, Thuraiyur Tk, Trichy-621004.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSUD-2026-20260406071831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10983/0/eaf1fb7d9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.saroja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Kulanthaivelu",
+        "address": "Door No.4/188, Main Road, Valayapatty, Kottapalayam East, Thuraiyur Tk, Trichy-621003.",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAR-2026-20260406044502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8503/0/08c8921189/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.srinivasan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "Pitchaikaran",
+        "address": "153,Thiruthalaiyur, Musiri Tk. Trichy-621217.",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSRI-2026-20260406073607.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10741/0/9444c1e5fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravisankar.m",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "P.muthu",
+        "address": "No. 25/6A, Sakthi Nagar, Poonampalaiyam, Thiruvellarai Post, Mannachanallur Taluk, Tiruchirappallidistrict 621009.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAV-2026-20260404053252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15793/0/69b085636b/",
+          "https://voterlist.co.in/affidavit-download/15793/1/8315e1a476/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S  Kowsalya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "S Suresh",
+        "address": "5/360,Jeeva Nagar,Kalipatty,Ammapatti P.o, Thuraiyur T.k,Trichy D.t -621014",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKOWS-2026-20260330034255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/368/0/ea6d653c16/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam .G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "R.govindan",
+        "address": "No.16/45, First Floor, Jeyaram Street, Saidapet West, Chennai  600015.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVA-2026-20260410113025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16152/0/47f06047ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Rajamanickam",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "S.tamilarasan",
+        "address": "No.4/128,  Pallar Street, Maradi, Uppiliyapuram South, Thuraiyur Taluk, Tiruchirappallidistrict-621003.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TRAJ-2026-20260406060141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14694/0/fe63a7774b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.rajamanickam",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thuraiyur",
+        "father_husband_name": "S.tamilarasan",
+        "address": "4/128, Pallar Street, Maradi, Uppiliyapuram South, Thuraiyur Tk, Trichy-621003.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TRAJ-2026-20260406060141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8554/0/6b90f18c77/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

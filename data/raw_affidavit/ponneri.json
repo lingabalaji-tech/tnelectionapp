@@ -1,0 +1,550 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ponneri",
+    "count": 36,
+    "candidates": [
+      {
+        "name": "A.mageshwari",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "A.alexander",
+        "address": "54, Perumal Kovil Street, Chinna Avoor, Medur Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAG-2026-20260330054155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/542/0/25f04d4ffc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashok Priyadarshan",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Sadasivam",
+        "address": "No.17, Salai Street, Vanjivakkam Village, Ponneri Taluk, Thiruvallur District - 601205",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASH-2026-20260404074530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15740/0/c9fd9db43f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaraman.p",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Panaiyan",
+        "address": "1/1, Thatchur Village, Panchety Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAL-2026-20260404070110.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15708/0/d1d6228686/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Barathiraja.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Krishnan",
+        "address": "No.204, Lenin Street, K.r.palayam, Nandhiyambakkam, Ponneri Taluk, Thiruvallur District - 600120",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KBAR-2026-20260406063412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15157/0/a8d3f0b38e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.mohanraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Chengalan",
+        "address": "No.2-147, Ellaiamman Koil  Street, Medur Colony, Medur, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CMOH-2026-20260404084717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8190/0/15c3fb9cdb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dinesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Murthi",
+        "address": "No.57, R.s.road, Ponneri, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DINES-2026-20260406075842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10919/0/e445b5e966/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.m.s.ravi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "M.shanmugam",
+        "address": "Old No.71 , New No.139, East Mada Church Street, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRRA-2026-20260404072813.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13265/0/e21d793ef1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.nivedha Balakrishnan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Shyam Sundar",
+        "address": "Old No.71, New No.139, East Mada Church Street, Royapuram, Chennai - 600013",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRNI-2026-20260404083850.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8143/0/adf0495a70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.ravi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "M.shanmugam",
+        "address": "Old No.71 , New No.139, East Mada Church Street, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRRA-2026-20260404072813.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7767/0/e596a3a560/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.ravi.m.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "M.shanmugam",
+        "address": "Old No.71 , New No.139, East Mada Church Street, Royapuram, Chennai-600013.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRRA-2026-20260404072813.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16140/0/9d89c281b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai Chandrasekar",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Durai",
+        "address": "No.2/220, Gandhi Street, Kummanur Village, Vilangadupakkam Post, Chennai- 600052",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406064530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10371/0/495fed21ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.nagaiyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "G.gopal",
+        "address": "No.3/100, Gandhi Seva Sanga Colony, Achamma Naidu Kandigai Village, Kannankottai Post, Gummidipoondi Taluk, Thiruvallur District-601202",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNAG-2026-20260404075635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7242/0/4ae8f3b72b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Rajasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Jayaraman",
+        "address": "No.3/29, Perumal Koil Street, Sompattu Annanagar, Kilikodi Post, Ponneri Taluk, Tiruvallur District-601206",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JRAJ-2026-20260406061741.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9982/0/51f2a53f77/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.santhosh Kumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "K.jayabalan",
+        "address": "No.76, Perumal Kovil Street, Kodipallam, Vichoor Post, Ponneri Taluk, Thiruvallur District, Chennai - 600103",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JSAN-2026-20260402065444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5886/0/65e2f9895f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.barathiraja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Krishnan",
+        "address": "No.204, Lenin Street, K.r.palayam, Nandhiyambakkam, Ponneri Taluk, Thiruvallur District - 600120",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KBAR-2026-20260406063412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9497/0/f7461384ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kotteeswaran. K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Karunagaran",
+        "address": "No.21, Andimuthan Street, Chinnakavanam, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KOTTE-2026-20260406081101.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11400/0/9039914bd8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.murali",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Lakshmanan",
+        "address": "No.57, J.j.nagar, New Star City, Vadakarai, Redhills, Chennai-600052",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LMUR-2026-20260406055103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9699/0/3aed2cfba7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.rajeshkumar",
+        "party": "Tamil Telugu National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Manojkumar",
+        "address": "No. 15/2, Cuddalore Main Road, Gandhi Nagar, Thiruvennainallur, Villupuram District - 607203",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406060127.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8525/0/0abe69297e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malathi.s",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "V.sekar",
+        "address": "No.158, Durga Devi Nagar, Ennore Highways, Tondiarpet, Chennai - 600081",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMAL-2026-20260409012640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16093/0/4594ce4fda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.praveen Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "J.neelakandan",
+        "address": "No.19, Parthasarathy Koil Street, Kummangalam, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPRA-2026-20260406070730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10403/0/a8b8e27b2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagaiyan.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "G.gopal",
+        "address": "No.3/100, Gandhi Seva Sanga Colony, Achamma Naidu Kandigai Village, Kannankottai Post, Gummidipoondi Taluk, Thiruvallur District-601202",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GNAG-2026-20260404075635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15881/0/5ab090ab97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.balaraman",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Panaiyan",
+        "address": "1/1, Thatchur Village, Panchety Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAL-2026-20260404070110.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6905/0/11d8ae1d19/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.mahalingam",
+        "party": "All India Kisan Janatha Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "S.ramasamy",
+        "address": "No.2/509, Annapuram, Alinjivakam, Ponneri Taluk, Thiruvallur District-600067",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAH-2026-20260402061510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5783/0/e6214729a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.shankar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Rajaram",
+        "address": "No.188, Periya Avoor, Avoor, Medhur, Ponneri Taluk, Thiruvallur District -601204",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSHA-2026-20260402060239.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5685/0/8665c03bce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja.s",
+        "party": "Vanchit Bahujan Aaghadi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "V.selvam",
+        "address": "No.175, Peravallur Village, Panchety Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404082916.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15611/0/129090aa6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar.j",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Jayaraman",
+        "address": "No.3/29, Perumal Koil Street, Sompattu Annanagar, Kilikodi Post, Ponneri Taluk, Tiruvallur District-601206",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JRAJ-2026-20260406061741.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15425/0/337299f3fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajathi.m",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Pushparaj",
+        "address": "No.402 Arignar Anna Street, Vallur, North Chennai Thermal Power Station Post, Chennai-600120",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAT-2026-20260330015713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/612/0/c32d2fd2be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ashok Priyadarshan",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Sadasivam",
+        "address": "No.17, Salai Street, Vanjivakkam Village, Ponneri Taluk, Thiruvallur District - 601205",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASH-2026-20260404074530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6977/0/cb8601172e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.jaishankar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "A.subramani",
+        "address": "No.31A, Kallukadaimedu, Thiruvoyarpadi, Ponneri Taluk, Thiruvallur District-601204",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJAI-2026-20260406070033.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9842/0/c01ab62d7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.malathi",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "V.sekar",
+        "address": "No.158, Durga Devi Nagar, Ennore Highways, Tondiarpet, Chennai - 600081",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAL-2026-20260404081209.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7646/0/dfdde3ddc6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.raja",
+        "party": "Vanchit Bahujan Aaghadi",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "V.selvam",
+        "address": "No.175, Peravallur Village, Panchety Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260404082916.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8345/0/3cf3208aa7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.rakesh",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "S.k.sekar",
+        "address": "Plot No.508, Arete Home, Perunchery Village, Panchety Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAK-2026-20260404071640.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7378/0/9f2f6d08e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Shanmugam",
+        "address": "No.73, Perumal Kovil Street, Natham Village, Panchety Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEN-2026-20260406062559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8844/0/707a9d64d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhoshkumar.j",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "K.jayabalan",
+        "address": "No.76, Perumal Kovil Street, Kodipallam, Vichoor Post, Ponneri Taluk, Thiruvallur District, Chennai - 600103",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JSAN-2026-20260402065444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16486/0/dff69f5f91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sugumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Babu",
+        "address": "No.25, Jeeva Street, Ponneri, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGUM-2026-20260406071340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10746/0/5c001327d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ponneri",
+        "father_husband_name": "Shanmugam",
+        "address": "No.73, Perumal Kovil Street, Natham Village, Panchety Post, Ponneri Taluk, Thiruvallur District - 601204",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEN-2026-20260406062559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14821/0/7dd82ddd0f/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

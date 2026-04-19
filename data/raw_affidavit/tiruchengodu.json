@@ -1,0 +1,476 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Tiruchengodu",
+    "count": 31,
+    "candidates": [
+      {
+        "name": "Arjunan L K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Karuppna Goundar",
+        "address": "41, Kattur West Street, Punjai Lakkapuram, Erode - 638002",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARJUN-2026-20260404094415.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8300/0/3565e51884/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulprakasam S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Sabapathy",
+        "address": "3/87, T.puthupalayam, Chinnathambipalayam Post, Tiruchengode Taluk, Namakkal District - 637209",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULP-2026-20260404112026.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8173/0/f273bf8df4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunraj K G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Ganesan K P",
+        "address": "1/294A, Nathakadu, Kumaramangalam, Tiruchengodu, Namakkal, Tamil Nadu - 637 205",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNR-2026-20260404083802.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8135/0/eb9a39de16/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balaji Chezhian P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Perumal",
+        "address": "7/30A, Atturampalayam, Karuveppampatty Post, Tiruchengode Taluk, Namakkal District - 637304",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAJ-2026-20260404114043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8186/0/3bd2cdf5fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balasubramaniam R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Ramasamay V M",
+        "address": "Door No.54, Nanjan Kadu, Kavundampalayam, Vattur, Tiruchengode Taluk, Namakkal District - 637205",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAS-2026-20260406065203.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9093/0/bdd9801cb5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekar R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Ramasamy V M",
+        "address": "Door No.4/60C, Kavundampalayam, Vattur Post, Tiruchengode Taluk, Namakkal District - 637205",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260406061234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8789/0/b8a9684168/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnathambi K",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Kaveri",
+        "address": "3/138, Periyakadu, Mamundi Agraharam, Mamundi Agraharam Post, Tiruchengode Taluk, Namakkal District - 637503",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHINN-2026-20260404103940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8128/0/253e18bdb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Deepakrajan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Venkatachalam",
+        "address": "5/185B, Srinivasampalayam, Karuveppampatti Post, Tiruchengode Taluk, Namakkal District - 637304",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEEPA-2026-20260404091020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8245/0/203be116ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanapal Subramaniyam",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Subramaniyam A",
+        "address": "72B/197, Street No-7, Kattu Valavu, Suriyampalayam, Tiruchengode Taluk, Namakkal District - 637209",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHANA-2026-20260404111247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8167/0/df01959aa2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhinesh Karikalan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Karikalan",
+        "address": "Door No.3/215, Sundar Nagar, Muthandipalayam Pirivu, K.ayyampalayam, Palladam Taluk, Tiruppur District - 641662",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHINE-2026-20260406073140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10524/0/b1c4810738/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eswaran E R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Ramasamy",
+        "address": "New No: 46, Old No: 80, Anna Nagar, Ward No.100, U - Block, 5Th Main Road, Chennai - 600040",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESWAR-2026-20260330063417.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/401/0/ad2e3e57d8/",
+          "https://voterlist.co.in/affidavit-download/401/1/9a132498bb/",
+          "https://voterlist.co.in/affidavit-download/401/2/2d78e6941b/",
+          "https://voterlist.co.in/affidavit-download/401/3/199602dd4c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eswaran M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Muthusamy",
+        "address": "2/58, Kudi Street, Kuchipalayam, Thokkavadi, Tiruchengode Taluk, Namakkal District - 637215",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESWAR-2026-20260404113021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8180/0/d143bbe51a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eswaran U",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Umaiyan",
+        "address": "Door No.98, Kudi Street, Sellappampalayam, Selur, Paramathi Velur Taluk, Namakkal District - 637208",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESWAR-2026-20260406071200.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8738/0/fa244f6cbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Harish R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Ramasamy",
+        "address": "4/22A, Parayankadu, Pillanatham, Pillanatham Post, Tiruchengode Taluk, Namakkal District - 637205",
+        "gender": "Male",
+        "age": "22",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIS-2026-20260404090421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8233/0/d2d6d354db/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Keerthana V",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Mukeshkumar",
+        "address": "13/2, Shanmugapuram, Tiruchengode-637209",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KEERT-2026-20260330084906.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahesh Kumar N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Nagaraj",
+        "address": "Door No.1E/3/86, Ganapathipalayam, Mangalam, Palladam Taluk, Tiruppur District - 641663",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHES-2026-20260406072351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11198/0/2edf0f3146/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maheshkumar N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Nagaraj",
+        "address": "1E/3/86, Ganapathipalayam, Mangalam, Palladam Taluk, Tiruppur District - 641663",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAHES-2026-20260409055859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15390/0/355cb3d3da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Munusamy A T",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Thiruvenkadam",
+        "address": "4/324, Co-Operative Milk Society Opp., Kaliyanur Post, Pallipalayam Agraharam, Kumarapalayam Taluk, Namakkal District - 638008",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNUS-2026-20260404104908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8149/0/874bfef1ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Kandasamy",
+        "address": "Door No.1/70, Thiruvengadapuram, Mallasamuthiram Via, Kottapalayam Post, Tiruchengode Taluk, Namakkal District - 637503",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260402053931.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5848/0/1ed87a31c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajakumar P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Perumal",
+        "address": "1/64, Avinasipatti Colony, Avinasipatti Post, Tiruchengode Taluk, Namakkal District - 637202",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAK-2026-20260404105830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8153/0/ea7c165884/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Shanmugam",
+        "address": "207, Gandhi Nagar, Attur, Salem District - 636102",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMES-2026-20260330062016.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/73/0/61907c718d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Revanth S N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Nallasamy",
+        "address": "30/29, Main Street, Solangapalayam, Pasur Post, Erode - 638154",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REVAN-2026-20260404101844.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8091/0/a773d6e3cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Revathi K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Balaji S N",
+        "address": "Door No 889/80/2, Azhagumuthu Mariamman Koil Street, Namakkal Road, Tiruchengode, Namakkal District-637211",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REVAT-2026-20260330083143.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/547/0/01382551eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Gunasekaran M",
+        "address": "Door No.123A, Kumaresapuram 4Th Street, Tiruchengode Taluk, Namakkal District - 637211",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406060400.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8735/0/64221c2f3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanasundaram S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Shanmugam S",
+        "address": "Door No.75/1, Street No.7, Suriyampalayam, Tiruchengode Town, Tiruchengode Taluk, Namakkal District - 637211",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260402060349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5695/0/58a9ea30ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Satheeskumar P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Perumal L R",
+        "address": "2/87, East Street, Punjai Lakkapuram, Erode - 638002",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SATHE-2026-20260404093624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8274/0/92e4066fb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sharavanan A K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Karuppannasamy A",
+        "address": "23/1, Bankers Colony, Tiruchengodu, Namakkal - 637211",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHARA-2026-20260404102828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8110/0/3d1739f52c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srmt Sekar (A) Chandrasekar R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Ramasamy V M",
+        "address": "4/60C, Goundampalayam, Vattur, Tiruchengodu Taluk, Namakkal District - 637205",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRMTS-2026-20260409055634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14796/0/de62d78ce9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suriamoorthi S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Sengottaiyan",
+        "address": "54, Vettuvampalayam, Sivagiri, Erode 638109",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURIA-2026-20260330081423.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/532/0/4c4788d34c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirukkumaran P",
+        "party": "Makkal Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Palanisamy",
+        "address": "98A, Perumalpuram, Kamaraj Nagar, Bhavani Taluk, Erode District - 638301",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260404091959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8262/0/da27dcf281/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Viswanathan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchengodu",
+        "father_husband_name": "Pachaiyappan",
+        "address": "6/253, Anangur Main Road, Devanankurichi Post, Tiruchengode Taluk, Namakkal District - 637209",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VISWA-2026-20260404110500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8160/0/06449d1998/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

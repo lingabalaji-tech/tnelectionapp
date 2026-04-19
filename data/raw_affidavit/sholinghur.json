@@ -1,0 +1,459 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sholinghur",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "A.anandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Amavasai",
+        "address": "No.109, Mariyamman Koil Street, S.kolathur Village, Nemili Taluk, Ranipet District - 631051",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AANA-2026-20260406074503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11190/0/913ea69c36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.ashok Kumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "C.arunagiri",
+        "address": "296/1, Subramaniyar Kovil Street, Sevoor,  Arani Taluk, Tiruvannamalai District - 632316",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AASH-2026-20260330054602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/596/0/8dfd94af8c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.m.munirathinam",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "A.c.mudaliyanda Mudaliar",
+        "address": "No.90, Bordinpet Street, Sholinghur, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMM-2026-20260406045506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9251/0/4756eeaba7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.m.saravanan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "A.m.munirathinam",
+        "address": "No.90 Bordinpet Street, Sholinghur, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMS-2026-20260406052034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9230/0/08e2a151cf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.palani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Arumugam",
+        "address": "26, Ayilammedu Village, Sholinghur Taluk, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APAL-2026-20260406082237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10924/0/dc3ddf7483/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.dhananjayan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Ganesan",
+        "address": "No.226/B, Vengatesawara Nagar, Banavaram, Sholinghur Taluk, Ranipet District - 632505",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GDHA-2026-20260402073248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5997/0/39b5a086bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.kapil",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Ganesan",
+        "address": "No.226/B, Vengatesawara Nagar, Banavaram, Sholinghur Taluk, Ranipet District - 632505",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GKAP-2026-20260402080150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6035/0/e435339d06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.munisamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Kannan",
+        "address": "No.47/20, Bajanai Kovil Street, Mahanipattu Village, Nemili Taluk, Ranipet District - 632508",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMUN-2026-20260406024500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8989/0/a04404af22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.saravanan",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Kannayiram",
+        "address": "No.149, Big Street, Narasingapuram, Kavanur, Arakkonam Taluk, Ranipet District - 631004",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAR-2026-20260406064836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8637/0/cace14a065/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaviyarasan.subiramani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Subiramani",
+        "address": "No.104, Old Street, Arunthathiyar Palaiyam, M.g.r Nagar, Nemili Taluk, Ranipet District - 631051",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIY-2026-20260402062315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5809/0/ade5bb007d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Loganathan.k",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "No.36, Kavanur Road, Arakkonam Town, Arakkonam Taluk, Ranipet District - 631001",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LOGAN-2026-20260406042546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9372/0/68f2e6f46e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.dinesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Mayelramman",
+        "address": "No.70, Road Street, Kalai Nagar, Kodakkal Village, Sholinghur Taluk, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDIN-2026-20260406075541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10797/0/6e80353b76/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.giridharan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Munisamy",
+        "address": "18, Small Street, Pandiyanellore Village, Sholinghur Taluk, Ranipet - 631102",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGIR-2026-20260404011905.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6190/0/7c31dad06f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sampath",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Munisamy",
+        "address": "No.468, Vadamettu Street, Ozhugur Village, Sholinghur Taluk, Ranipet District - 632501",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAM-2026-20260406073405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10644/0/464c466003/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vijayan",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Munusamy",
+        "address": "No.110/201/1, Road Street, Palaiyapalayam Motture Village, Sholinghur Taluk, Ranipet District - 632505",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJ-2026-20260406033420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9027/0/df1350e09a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.gopalakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Nadesan",
+        "address": "165/A, Pillaiyar Koil Street, Ayipedu Village,  Sholinghur Taluk, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NGOP-2026-20260404031329.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6759/0/133445da2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.mani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "K.nadarajan",
+        "address": "95/1, Arakkonam Road, Sholinghu, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NMAN-2026-20260406062430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8598/0/df98baee9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sethupathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Rajendiran",
+        "address": "No.30/4, Sathiram Street, Nemili, Nemili Taluk, Ranipet District- 631051",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSET-2026-20260406080652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11252/0/18ca6aa44b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.surendar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Rangan",
+        "address": "16/1, Mel Vanniyar Street, Sholinghur, Sholinghur Taluk, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUR-2026-20260406012401.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9522/0/0845eb5f9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.vinoth",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Raja",
+        "address": "No.6, Balamurugan Avenne, Nathammedu, Tiruninravur, Tiruvallur-602204",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIN-2026-20260402065321.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5940/0/6ee0fc4490/",
+          "https://voterlist.co.in/affidavit-download/5940/1/c3500b99a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.dhakshanamoorthi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Sivakumar",
+        "address": "17, Keezhothavadai Street, Panapakkam, Nemili Taluk, Ranipet District - 631052",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDHA-2026-20260402075158.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6025/0/2b09c1beef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ilayaraja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Selvam",
+        "address": "No.3/177, Ambethkar Street, Csi Nagar, Kodaikkal Viilage And Post, Sholinghur Taluk, Ranipet  District - 631102",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SILA-2026-20260404123713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6549/0/a8565e943d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.senthilkumar",
+        "party": "Vanchit Bahujan Aaghadi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Selvam",
+        "address": "177, Csi Nagar, Kodaikkal Village And Post, Sholinghur Taluk, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEN-2026-20260406083236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11307/0/d9d5b7ada9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.varalakshmi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "N S Seenuvasan",
+        "address": "308, Bazaar Street, Nagavedu, Nemili Taluk, Ranipet District - 631002",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhanam.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Rajagopal",
+        "address": "No.81, Mettu Street, Thirumalpur, Keelvenpakkam, Nemili Taluk, Ranipet District - 631051",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANTH-2026-20260406031111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9923/0/af0d8a32b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudhakar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Krishnan",
+        "address": "15A Kizhandai Street, Rendadi Village And Post, Sholinghur Taluk, Ranipet District.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/39/1775388265SUDHAKARPHOTO32.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10461/0/926d99efc4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.rajendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Thanraj",
+        "address": "431, Bajanai Koil, Street, Karikal Village, Sholinghur Taluk, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TRAJ-2026-20260406061145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9404/0/3e7809aded/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.hemachandiran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "M.vellai",
+        "address": "Door No.160, Bajanai Koil Street, Perunganchi Village And Post, Sholinghur Taluk, Ranipet District - 631102",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VHEM-2026-20260404024019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6295/0/82f079b04a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.munirathinam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "Varathappa Reddy",
+        "address": "No.58, Nadu Street, Alappakkam Village, Nemili Taluk, Ranipet Dirstic -  632508",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUN-2026-20260404061743.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7720/0/093f6b7c9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.sadhasivam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholinghur",
+        "father_husband_name": "K.velayudham",
+        "address": "No.65, Mariyamman Koil Street, Puthukandikai, Sayanavaram, Nemili Taluk, Ranipet District   - 631051",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSAD-2026-20260406015028.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8622/0/d1c53c3662/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

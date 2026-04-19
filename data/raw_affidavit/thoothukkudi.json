@@ -1,0 +1,478 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Thoothukkudi",
+    "count": 31,
+    "candidates": [
+      {
+        "name": "Babu P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Pankiraj R.",
+        "address": "G 17, 18, Block-3, Saindhavi Appartment, Arun Excello, Nenmeli, Chengalpattu - 603 003.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BABUP-2026-20260406063301.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9346/0/a7990bdb0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellapandian S.t.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Thangaraj Nadar S.",
+        "address": "88, Toovipuram 2Nd Street, Thoothukudi - 628 003.",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHELL-2026-20260406050136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9865/0/2f02a0d2fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhinakaran S.t.r.m.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Saroja S.t.rm.",
+        "address": "23A, Muthukrishnapuram 2Nd Street, Thoothukudi - 628 001.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHINA-2026-20260406070459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10216/0/389bd83dbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Geetha Jeevan P.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Jeevan Jacob Rajendran P.",
+        "address": "62/2H, Polepettai, Thoothukudi - 628 002.",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GEETH-2026-20260406052820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9875/0/dce38a5e3f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indra C.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Chellapandian S.t.",
+        "address": "88, Toovipuram 2Nd Street, Thoothukudi - 628 003.",
+        "gender": "Female",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/INDRA-2026-20260406055830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10332/0/02c200436c/",
+          "https://voterlist.co.in/affidavit-download/10332/1/7b7857c38b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jacob Devadoss Abisheak R.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Rajasekar",
+        "address": "32/19, Udangudi Salai, Paramankurichi, Tiruchendur, Thoothukudi Distirct - 628 213",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JACOB-2026-20260406110257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13916/0/1c0486379b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jacob Devadoss Abisheak, R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Rajasekar",
+        "address": "32/19, Udangudi Salai, Paramankurichi, Tiruchendur, Thoothukudi Distirct - 628 213",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JACOB-2026-20260330043202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/66/0/4af155a0b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "John M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Manuvel P.",
+        "address": "4/1600, Thai Nagar, Tsunami Quarters, Siluvaipatti, Thoothukudi - 628 002.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JOHNM-2026-20260406051819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9058/0/c8531806dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Joshua Pravin Kumar T.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Thangadurai N.",
+        "address": "3B-430, Shanthi Nagar, Central Government Employee Colony, Thoothukudi - 628 003.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JOSHU-2026-20260404043831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7430/0/cbed9a8a9a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kidar Samsdeen N.a.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Ahmed Ibrahim N",
+        "address": "46, Annanagar 6Th Street, Thoothukudi - 628 008.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KIDAR-2026-20260404033132.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6220/0/7fef69f50b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marithangam Y.",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Yesadurai S.",
+        "address": "145I/1, Thomotharanagar, Thoothukudi - 628 003.",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIT-2026-20260404025250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6500/0/c4c91308e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maruthu Pandian P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Pitchai A.",
+        "address": "1/23-26, Kathar Meeran Nagar, Thermal Nagar, Thoothukudi - 628 006.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARUT-2026-20260404050232.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7065/0/7b5d234f6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muneeswara Moorthy S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Sivasamy A.",
+        "address": "97 Adaikkalapuram Srimoolakarai, Srivaikuntam - 628 620.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNEE-2026-20260406073234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10554/0/a92e106539/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Geetha Jeevan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Jeevan Jacob Rajendran P.",
+        "address": "62/2H, Polepettai, Thoothukudi - 628 002.",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GEETH-2026-20260406052820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15356/0/9abb554aaf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponkumaran P.p.m.t",
+        "party": "Nam Naadu Nam Makkal Nam Ethirkaalam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Srinivasagam T.p.",
+        "address": "289-B, Sivanthakulam Road, Thoothukudi - 628 003",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PONKU-2026-20260406110542.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16670/0/1824ddd66f/",
+          "https://voterlist.co.in/affidavit-download/16670/1/4a3b8ae8b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponkumaran T.p.s.",
+        "party": "Nam Naadu Nam Makkal Nam Ethirkaalam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Srinivasagam T.p.",
+        "address": "289-B, Sivanthakulam Road, Thoothukudi - 628 003",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PONKU-2026-20260406110542.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14120/0/4d4cbb04a9/",
+          "https://voterlist.co.in/affidavit-download/14120/1/44937727a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponkumaran, T.p.s.",
+        "party": "Nam Naadu Nam Makkal Nam Ethirkaalam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Srinivasagam, T.p.",
+        "address": "289-B, Sivanthakulam Road, Thoothukudi - 628 003",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONKU-2026-20260330041720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/625/0/431b58dc8b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prasanna Kumar M.",
+        "party": "Makkal Nalvaazhvuk Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Muthuraj",
+        "address": "5F/4E, Levenchipuram 1St Street, Thoothukudi - 628 003.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRASA-2026-20260402014857.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5063/0/4d9871642e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamohan Selvin J.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "John Vellaipalam",
+        "address": "111/103, Ezhil Nagar, Polepettai, Thoothukudi - 628 002.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260406060653.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8987/0/6172847a69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sahayam T.",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Thangaraj A.",
+        "address": "2/7-1, Eaststreet, Pandarampatti, Sankaraperi, Thoothukudi - 628 002.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAHAY-2026-20260402041322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5503/0/cd5758dbda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sahayaraj C.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Charles J.p.a.",
+        "address": "3A-287A, Thiru.v.k. Nagar 5Th Street, Opp.fci Godown, Thoothukudi - 628 008",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAHAY-2026-20260404052903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6960/0/c586c49d64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samuel J.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Joseph V.",
+        "address": "111/66/29/N2/3, Sakthivinayagarpuram, Thoothukudi - 628 002.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUE-2026-20260402033515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5252/0/f444183540/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "George S.",
+        "address": "98/5, Palairoad West, Opposite Government Polytechnic, Thoothukudi - 628 008.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404055234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7892/0/258927e33e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthil Kumar N.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Subramanian N.",
+        "address": "110-A, Rahmatullapuram West, Thoothukudi - 628 002.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406072151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11103/0/da7b99e280/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srikanth M.v.",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Murugan Vinayagam S.",
+        "address": "106J/29A, Millerpuram, Chidambaranagar, Thoothukudi - 628 008",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIKA-2026-20260330044230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14108/0/d7e7ac52a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srikanth, M.v.",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Murugan Vinayagam, S",
+        "address": "106J/29A, Millerpuram, Chidambaranagar, Thoothukudi - 628 008",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIKA-2026-20260330044230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/174/0/889b26feee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinath",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Alnath",
+        "address": "473/1, Westwood Apartments, R7A, North Main Road, Annanagar West, Extn, Chennai - 600 101.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINA-2026-20260404125235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7778/0/678f8f9094/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinath A.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Alnath",
+        "address": "473/1, Westwood Apartments, R7A, North Main Road, Annanagar West, Extn, Chennai - 600 101.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINA-2026-20260404125235.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6672/0/863c48f5e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinath Anand K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Kanthasamy T.",
+        "address": "2/16, North Street, Mullakadu, Thoothukudi - 628 005.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINA-2026-20260404030710.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6675/0/172c040633/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vassandra Roche L.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Srinath A.",
+        "address": "473/1, Westwood Apartments, R7A, North Main Road, Annanagar West, Extn, Chennai - 600 101.",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASSA-2026-20260404012548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6248/0/9ab7b32af6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Yesadurai S.",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thoothukkudi",
+        "father_husband_name": "Sathyanathan V.",
+        "address": "145I/1, Thomotharanagar, Thoothukudi - 628 003.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/YESAD-2026-20260404015900.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6643/0/a8ebd5329e/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

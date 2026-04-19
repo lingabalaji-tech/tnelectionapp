@@ -1,0 +1,505 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Udumalaipettai",
+    "count": 33,
+    "candidates": [
+      {
+        "name": "A.mahendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Appachi",
+        "address": "1/213, Indhira Nagar, Koolanaikkanpatty, Pollachi, Coimbatore Dt, 642107",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAH-2026-20260406100508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11850/0/e56875c5cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.padmendraprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Amirthalingam",
+        "address": "2/163, Raju Nagar, Chinnampalayam, Pollachi",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APAD-2026-20260406071243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10672/0/16b084c620/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.radhakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Chinnan",
+        "address": "4/149B, Murugan Nagar, Munar Road, Kurichikottai, Udumalpet Taluk",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAD-2026-20260406074018.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10950/0/1593d5ba3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.umarali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Dasthkir Sahib",
+        "address": "36, Sangili Street, Udumalpet, 642126",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DUMA-2026-20260406053459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10407/0/c625d32d49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elsy C.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "K.chandrasekaran",
+        "address": "9, Kaboorkhan Street Ext, Udumalpet, 642126",
+        "gender": "Female",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELS-2026-20260407054952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16109/0/771d632ebc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Subramaniyam",
+        "address": "1/45, Madurai Veeran Kovil Street, Seelakkampatty, Pollachi, Coimbatore, 642205",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGAN-2026-20260406095400.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15593/0/52ed03c0fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayakumar M.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Muthusamy",
+        "address": "W-5/257, Malaiyappagounder Layout, Gandhi Nagar Po, Udumalaipettai Tk, Tiruppur Dt, 642154",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406061551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15362/0/34a0eab8e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.radhakrishnan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Kalimuthu",
+        "address": "4/15 A, Dharapuram Road, Udumalpet",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAD-2026-20260406043252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9222/0/b7b21f7b0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sankar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Kesavan",
+        "address": "3/807, Murugampalayam, Bhagavadhi Nagar, 3Rd Street, Tiruppur, 641687",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAN-2026-20260404031643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6800/0/c2550a0033/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.yeokeshkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "M Kannimuthu",
+        "address": "24, U.p.krishnan Layout, Kolumam Road, S.v.mill Post, Udumalaipettai, 642128",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KYEO-2026-20260402042457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5180/0/ebab57b94c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalimuthu S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Sangiliyappan",
+        "address": "14, Senthur Garden, Rangasamuthiram, Suleeswaranpatti Post, Pollachi, Coimbatore, 642006",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAL-2026-20260404125733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16212/0/c6793a2ef2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik.l",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Loganathan",
+        "address": "5/47-D, Vijayagiri Nagar, Kanakkampalayam, Udumalaipettai, 642126",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11657/0/d749eeff61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Ramkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "S Mathivanan",
+        "address": "C 31, Mathiyalagan Nagar, Dharapuram Road, Udumalaipettai",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAMK-2026-20260330050543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/299/0/5193a3266b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.jayakumar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Muthusamy",
+        "address": "W-5/257, Malaiyappagounder Layout, Gandhi Nagar Po, Udumalaipettai Tk, Tiruppur Dt, 642154",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406061551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9883/0/524a1d7490/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "S.mathivanan",
+        "address": "C 31, Mathiyalagan Nagar, Dharapuram Road, Udumalaipettai",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAMK-2026-20260330050543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5280/0/bd96a11f16/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahendran A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Appachi",
+        "address": "1/213, Indhira Nagar, Koolanaikkanpatty, Pollachi, Coimbatore Dt, 642107",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAH-2026-20260406100508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14853/0/0ecd8adca9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.radhakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Nachimuthu",
+        "address": "6/135, M.k.complex, Somavarapatti, Pethappampatti, Udumalaipettai",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAD-2026-20260406072615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11282/0/a97eee6e26/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Padmendraprakash A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Amirthalingam",
+        "address": "2/163, Raju Nagar, Chinnampalayam, Pollachi",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APAD-2026-20260406071243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14808/0/c289a635c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.jayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Ramasamy",
+        "address": "10/25, Anna Street, Sulewaranpatti, Pollachi Tk",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJAY-2026-20260406055853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10362/0/1af412bb97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.krishnabrindha",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Radhakrishnan",
+        "address": "4/15A, Dharapuram Road, Udumalaipettai",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKRI-2026-20260406051342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8615/0/dbb6275098/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radhakrishnan K.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Kalimuthu",
+        "address": "4/15 A, Dharapuram Road, Udumalpet",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAD-2026-20260406043252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15023/0/1df37ae496/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ram Kumar M.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "S.mathivanan",
+        "address": "C 31, Mathiyalagan Nagar, Dharapuram Road, Udumalaipettai",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAM-2026-20260407054820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15087/0/c4c74f8847/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramasamy S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Subramani",
+        "address": "1/33, Gomangalampudhur Post, Pollachi Taluk, Coimbatore District, 642107",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406102226.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15432/0/57567c4e6f/",
+          "https://voterlist.co.in/affidavit-download/15432/1/d10d4ca789/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.elsy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "K.chandrasekaran",
+        "address": "9, Kaboorkhan Street Ext, Udumalpet, 642126",
+        "gender": "Female",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELS-2026-20260402050429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5564/0/1fba3dfd7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ganesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Subramaniyam",
+        "address": "1/45, Madurai Veeran Kovil Street, Seelakkampatty, Pollachi, Coimbatore, 642205",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGAN-2026-20260406095400.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12481/0/cbff8d734b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.jayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Seenivasan",
+        "address": "1/38, Ponneri, Kottamangalam, Udumalpet, Tiruppur",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJAY-2026-20260406065402.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9271/0/1cfc304514/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kalimuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Sangiliyappan",
+        "address": "14, Senthur Garden, Rangasamuthiram, Suleeswaranpatti Post, Pollachi, Coimbatore, 642006",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAL-2026-20260404125733.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ramasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Subramani",
+        "address": "1/33, Gomangalampudhur Post, Pollachi Taluk, Coimbatore District, 642107",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406102226.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12360/0/d1c90d4e49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.saranya",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "M.jayakumar",
+        "address": "W5/257, Malaiyappagounder Lay Out, Gandhi Nagar Po, Udumalaipettai Tk, Tiruppur Dt",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAR-2026-20260406063516.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9561/0/bfce77e429/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.subha",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Sankar",
+        "address": "3/807, Murugapalayam, Bhagavadhi Nagar, 3Rd Street, Tiruppur, 641687",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUB-2026-20260404033808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6328/0/7dcefe7463/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.subha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Sankar",
+        "address": "3/807, Murugapalayam, Bhagavadhi Nagar, 3Rd Street, Tiruppur, 641687",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUB-2026-20260404033808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15869/0/08c939b965/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar K.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Kesavan",
+        "address": "3/807, Murugampalayam, Bhagavadhi Nagar, 3Rd Street, Tiruppur, 641687",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAN-2026-20260404031643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16243/0/6ec86f437e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Umar Ali D.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Udumalaipettai",
+        "father_husband_name": "Dasthkir Sahib",
+        "address": "36, Sangili Street, Udumalpet, 642126",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DUMA-2026-20260406053459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15649/0/991a12bb4d/",
+          "https://voterlist.co.in/affidavit-download/15649/1/0570b648e9/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Nagapattinam",
+    "count": 29,
+    "candidates": [
+      {
+        "name": "Ahamed Thambi Maricar.m",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Mohaideen Abdul Kader.a",
+        "address": "20/65, Pudhumanai Street, Nagore, Nagapattinam-611002.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AHAME-2026-20260406052411.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9494/0/49e21943ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bhashgaran.n.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Nadarajan.n",
+        "address": "No.8/6, Sattaiyappar Mela Veethi, Nagapattinam Town, Nagapattinam Taluk, Nagapattinam District, Pincode-611001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHASH-2026-20260330033014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/316/0/d4fbbdb578/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai.j.v.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Veeraiyan.t",
+        "address": "2/8, Pallivasal Street, Kattumavadi, Puragramam Post, Nagapattinam District-609703.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406055135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9778/0/2037600b93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai.j.v.",
+        "party": "All India Youth Development Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Veeraiyan.t",
+        "address": "2/8, Pallivasal Street, Kattumavadi, Puragramam Post, Nagapattinam District-609703.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406055135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11134/0/23a6827bce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Fathima Farhana.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Shahul Hameed",
+        "address": "49, Thanigachalam Nagar, A Block, Ponniyamman Medu, Chennai-600110.",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/FATHI-2026-20260330040930.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/545/0/fe9ea293cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Hussain Beevi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Ameerudeen",
+        "address": "1/50-1, Madhasha, Maraicayar St, Sikkal, Nagapattinam-611108.",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HUSSA-2026-20260330044653.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/197/0/9edc8d98d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Iyyankalai.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Muthaiya Dever",
+        "address": "12G, Thandavaraya Pillai Sandhu, Nagapattinam-611001.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IYYAN-2026-20260404030218.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6609/0/6ab9ddca4f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.v.durai",
+        "party": "All India Youth Development Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Veeraiyan.t",
+        "address": "2/8, Pallivasal Street, Kattumavadi, Puragramam Post, Nagapattinam District-609703.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406055135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15304/0/4ccbb58c36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jawahirullah.m.h.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Hidayatullah.a.m",
+        "address": "No.52/101, Pillaiyar Kovil Street, Arumbakkam, Chennai-600106.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAWAH-2026-20260406015355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8767/0/b159c7dcdd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.rajasekar",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Kanagaraj.m",
+        "address": "1/35, Keelatheru, Kuttramporuthaniruppu, Poravachery, Nagapattinam-611108",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260406062616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14835/0/c12b0c7e06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathiravan.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Dharanidevan",
+        "address": "289, Gopalasamuthiram, Ananthakoothan Main Road, Sirkazhi, Puthur, Mayiladuthurai-609108",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KATHI-2026-20260406045611.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9383/0/f78a0a5d65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.h.jawahirullah",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Hidayatullah.a.m",
+        "address": "No.52/101, Pillaiyar Kovil Street, Arumbakkam, Chennai-600106.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAWAH-2026-20260406015355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14784/0/0d69099ee8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.iyyankalai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Muthaiya Dever",
+        "address": "12G, Thandavaraya Pillai Sandhu, Nagapattinam-611001.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IYYAN-2026-20260404030218.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16098/0/461af41236/",
+          "https://voterlist.co.in/affidavit-download/16098/1/ba2603d7cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sugumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Manickavel",
+        "address": "18, South Street, Samanthanpettai, Nagapattinam-611003.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGUM-2026-20260404020455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16162/0/4b8e75ab81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Bathusha.i",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Iqbal",
+        "address": "16, Kasim Nagar,  Dabeer Kulam Road, East Gate, Thanjavur - 613001",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAM-2026-20260406043910.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9997/0/ca7aab0166/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N P Bhashgaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Nadarajan.n",
+        "address": "No.8/6, Sattaiyappar Mela Veethi, Nagapattinam Town, Nagapattinam Taluk, Nagapattinam District, Pincode-611001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHASH-2026-20260330033014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16613/0/dea730b87f/",
+          "https://voterlist.co.in/affidavit-download/16613/1/e70586b37f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.vijayaragavan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Neelakandan.d",
+        "address": "3/78B, Puthiranmedu, Kuruvadi, Polagam Post, Nagapattinam Taluk, Nagapattinam District, Pincode-609702.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260330052130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16628/0/c7c1c227c9/",
+          "https://voterlist.co.in/affidavit-download/16628/1/754e8459b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prem.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Sellaiyan.a",
+        "address": "1/174, Atrankarai Street, Kilapudanur, Nagapattinam-609704.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREM-2026-20260402033502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5250/0/6220dfba60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radhakrishnan.r",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Ramaiya",
+        "address": "3/303, Annamalai Nagar, Thirumarugal, Nagapattinam-609702.",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RADHA-2026-20260404011251.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6124/0/c154260ca8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar.k",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Kanagaraj.m",
+        "address": "1/35, East Street, Kuttramporuthaniruppu, Poravachery, Nagapattinam-611108",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260406062616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8875/0/6e33075a95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.prem",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Sellaiyan.a",
+        "address": "1/174, Atrankarai Street, Kilapudanur, Thiruchengattangudi Post, Nagapattinam-609704.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREM-2026-20260402033502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16392/0/9b7e56ca05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Kuppuraj",
+        "address": "1/173, North Street, Keechankuppam, Vadakku Poigai Nallur, Nagapattinam-611106.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAKTH-2026-20260407012306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16254/0/6bdbac408a/",
+          "https://voterlist.co.in/affidavit-download/16254/1/dbaebcc993/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Kuppuraj",
+        "address": "1/173, North Street, Keechankuppam, Vadakku Poigai Nallur, Nagapattinam-611106.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTH-2026-20260404041314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6819/0/c0404b66ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathishkanna.g.t.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Thyalan.k.g.",
+        "address": "54/4250, Ottakara Theru, Keezhavasal, Thanjavur - 613001.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406060554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8912/0/78dce34707/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sugumar.m",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Manickavel",
+        "address": "18, South Street, Samanthanpettai, Nagapattinam-611003.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGUM-2026-20260404020455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6701/0/59a1186e23/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.kathiravan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Dharanidevan",
+        "address": "289, Gopalasamuthiram, Ananthakoothan Main Road, Sirkazhi, Puthur, Mayiladuthurai-609108",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KATHI-2026-20260406045611.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15108/0/d4a8786f12/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thanka.kathiravan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Thangarasan",
+        "address": "16, Vallalar Nagar, Public Office Road, Velipalayam, Nagapattinam-611001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANK-2026-20260404124533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6611/0/d72d0972e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vallabadas.e",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Eruthayam",
+        "address": "C69, Ramalingar Salai, Block 10, Neyveli Township-607801.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VALLA-2026-20260406051233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8552/0/8d96ade90c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayaragavan.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagapattinam",
+        "father_husband_name": "Neelakandan.d",
+        "address": "3/78B, Puthiranmedu, Kuruvadi, Polagam Post, Nagapattinam Taluk, Nagapattinam District, Pincode-609702.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260330052130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/397/0/f3000d538f/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Salem (North)",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "Ajith. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Raghu. J",
+        "address": "148-8E, Railway Line South Street, Ponnammapet, Salem - 636001",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AJITH-2026-20260402024351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5399/0/d0a6fa937d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anuradha. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Sivakumar. K",
+        "address": "41/A3, Elayappa Nagar, Suramangalam, Salem - 636005",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANURA-2026-20260404065242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7890/0/b6df8c7855/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anuradha. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Sivakumar. K",
+        "address": "41/A3, Elayappa Nagar, Suramangalam, Salem - 636005",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANURA-2026-20260404065242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13285/0/7d1782b233/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnusamy. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Chinnannagoundar. C",
+        "address": "63/1, M. Perumapalayam - Po, Valappadi - Taluk,  Sechanchavadi -Vazhi, Salem - 636111.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHINN-2026-20260406044844.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8871/0/7bf3ceec80/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durairaj. R",
+        "party": "Vada Tamil Nadu Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Ramamoorthi. K",
+        "address": "330/324, Chirman Ramalingam Street, Ammapet, Salem - 636001.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406082923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11196/0/9484dd4991/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunaseela. M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Mohanraj. S",
+        "address": "99/1, Shivaya Nagar, 2Nd Cross, Alagapuram, Salem - 636004.",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGUN-2026-20260330010805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/487/0/546ac08076/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jothilakshmi. R. S",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Varutharaj. R",
+        "address": "5/132, Raja Street, Vellalagundam - Post, Valappadi - Taluk, Salem District - 636111",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JOTHI-2026-20260402041249.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5496/0/1cf44020d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalaivani. M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Manjunadhan. R",
+        "address": "13 B, Muniyappan Kovil Street - 1, Nethimedu, Salem - 636002",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAI-2026-20260404035154.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6494/0/cbfc0112ec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthika. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Sadasivam. C",
+        "address": "86/142, Mariamman Kovil Street, Manakadu, Hasthampatti, Salem - 636007",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260404045615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8053/0/b272b37458/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahabub John. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Kalil Basha. B",
+        "address": "D.no.157, Muthavalli Mohammed Yahoob Street, Salem - 636001",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAHAB-2026-20260410113720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15408/0/c45f4cd3a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahabubjohn. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Kalilbasha. B",
+        "address": "157, Muthavalli Mohammed Yahoob Street, Salem - 636001",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAB-2026-20260406055327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9953/0/d11fb4d675/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manivannan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Shanmugam. A",
+        "address": "172/C, Pudu Colony, Singipuram, Vazhappadi, Salem - 636115",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIV-2026-20260404063929.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7406/0/04e7ff6023/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Hussain. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Anwar Basha. A",
+        "address": "100-G, Anna Nagar, Fort, Salem - 636001.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260406071546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10856/0/bc73128865/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohanraj. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Selvam. C",
+        "address": "2/167, Sarakkapillaiyur, Tumbipadi, Omalur - Taluk, Salem - 636305.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406073211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10537/0/33129f0dba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Ramu",
+        "address": "32, Johnsonpet West Street - 6, Hasthampatti, Salem - 636007.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260404023859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6279/0/db260e374e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pravina. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Gopalraj. B",
+        "address": "27, Fifth Cross, Indra Nagar, Salem - 636008",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVI-2026-20260404071718.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7407/0/f2e23e6461/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raghupathy. B",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Balusamy. R",
+        "address": "A-3, Lakshmi Saraswathy Appartment, Subramaniyapuram Extension, Near Cluny School, Salem - 636007.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAGHU-2026-20260404012705.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6273/0/981d224954/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Angusamy. A",
+        "address": "574, Muniappan Kovil Back Side, Nagammal Thottam, Chinnapudhur, Salem - 636007",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJA-2026-20260404122236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6447/0/b48d56533f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Siddiyan",
+        "address": "64, Johnsonpet East Street -8, Hasthampatti, Salem - 636007.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260404020243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6686/0/dc7a0615f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendiran. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Madheshwaran",
+        "address": "43/18.A, Kabini Street, Avvaiyar Market, Arisipalayam, Salem - 636009.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406091052.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13935/0/344500e5a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Annamalai. K. V",
+        "address": "29, Chinnamariyamman Kovil Street, Kannankurichi, Salem - 636008.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406080358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11122/0/c72d659dc3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Kumarasamy",
+        "address": "192/3-85, Asarivattam, Reddiyur, Salem - 636004",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406092916.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11728/0/0479da405d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Madheshwaran",
+        "address": "43/18A, Kabini Street, Avvaiyar Market, Arisipalayam, Salem - 636009.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406091052.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12042/0/4a38a7304c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran. R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Rayar Padayachi",
+        "address": "160/1, Tvs Colony, Meenatchi Nagar, Hasthampatti, Salem - 636007.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406050308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9980/0/fe3e65d95a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sabareesan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Dhanapal. K",
+        "address": "38. Desiya Punaramaipu Colony, Ponnammapet, Pudhumariamman Kovil, Salem - 636003",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SABAR-2026-20260404042745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6277/0/0d3795cd09/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sadhasivam. S",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Subbagoundar. A",
+        "address": "6/1-192, Sakthi Nagar, Raman Nagar, Mettur - Taluk, Salem - 636403.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SADHA-2026-20260406060802.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9118/0/c2d1b56f75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sanjay. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Sampath Kumar. K",
+        "address": "475, Pon Nagar West, Gorimedu, Kannankurichi, Salem - 636008.",
+        "gender": "Male",
+        "age": "24",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANJA-2026-20260406062114.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10327/0/b77bcd4e06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathriyasekar. C. P",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Chinnathambi. A",
+        "address": "D2, Rank Residency, Perumalmalai Adivaram, Narasothipatti, Salem - 636004.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHR-2026-20260406065022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8933/0/6a26a29767/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathriyasekar. C. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Chinnathambi. A",
+        "address": "D2, Rank Residency, Perumalmalai Adivaram, Narasothipatti, Salem - 636004.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHR-2026-20260406065022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12949/0/192147bd4d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Ganesan",
+        "address": "199, Nehru Nagar, K.r.thoppur, T.konagapadi -Po, Omalur - Taluk, Saelm - 636502.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260406085108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11076/0/f8b639f402/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthi. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Shanmugam. G",
+        "address": "199, Nehuru Nagar, K.r.thoppur, T.konagapadi - Post, Omalur - Taluk, Salem - 636502.",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260406094515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12211/0/742c552762/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar. K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Salem (North)",
+        "father_husband_name": "Kaliannan. P",
+        "address": "41/A3, Elayappa Nagar, Suramangalam, Salem - 636005.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAK-2026-20260404030425.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6641/0/821bd5ee92/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

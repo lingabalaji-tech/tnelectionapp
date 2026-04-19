@@ -1,0 +1,379 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Alangudi",
+    "count": 25,
+    "candidates": [
+      {
+        "name": "Arangulavan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Rajendiran",
+        "address": "1701, Thethampatti, Veppankkudi, Thiruvarankulam, Alangudi Taluk, Pudukkottai District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARANG-2026-20260407015856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11540/0/4bf652475e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "14 - 40, Jahir Usheen Street, Alangudi, Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260407011515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14632/0/119eef76d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.boopalan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "P.chidamparam",
+        "address": "2/151, Sittangadu South, Thirunalur Post, Aranthangi  Taluk, Pudukkottai District - 614624",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CBOO-2026-20260404092456.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8250/0/c890330a8b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.pushparaj",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "P.dharmaraj",
+        "address": "286, Ganapathinagar, Kaikurichi Post, Pudukkottai Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DPUS-2026-20260407010944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11634/0/d8ebdb701b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhana Vimal",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Duraidhanasekaran",
+        "address": "138/A1, Senthankudi, Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHANA-2026-20260407125418.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11625/0/5611976a97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Duraidhanasekaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Duraisamy",
+        "address": "138, Senthankudi, Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260407010250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11632/0/763949a91b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.muruganantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "C.kasinathan",
+        "address": "468, Ambethkar Nagar, Vallathirakottai Post, Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMUR-2026-20260404092329.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8111/0/228ea6ff2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.murugesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "S.karuppaiah",
+        "address": "2, Senthankudi Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMUR-2026-20260407011937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11645/0/84afdf7c50/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.nandhakumar",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "N.kannan",
+        "address": "3/620, Udaiyar Street, Melappatti Rasiyamangalam, Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KNAN-2026-20260404092413.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8199/0/ea1657676b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kandasamy",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Duraisamy",
+        "address": "2/123, Kodivayaleast, Kodivayal Post, Aranthangi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANDA-2026-20260407014620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11532/0/d3cffa2190/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.nagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Muthaiah Chetti",
+        "address": "2/72, Chetty Street, Erukalakkottai Post, Aranthangi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sumathi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Siva.v.meyyanathan",
+        "address": "723/2, Chinnamundan Kudiyiruppu, Maramadakki Post, Aranthangi Taluk, Pudukkottai District-614622",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSUM-2026-20260407013556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11527/0/9b37ce5dc7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sasikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "M.panneerselvam",
+        "address": "774, Kottaikkadu  Kottaikkadu Post, Karambakkudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSAS-2026-20260404092434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8212/0/6f1217d8be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.rajaram",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "D.ramasamy",
+        "address": "4/1148, Pappamanai, Vadakadu, Alangudi Taluk, Pudukkottai.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.suresh",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "M.ramachandran",
+        "address": "2/93, Mangottai Keelappatti, Mangottaipost, Karambakudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSUR-2026-20260404092350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8172/0/2475467e2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Malaiyandi",
+        "party": "Akila Inthiya Makkal Marumalarchi Kazhakam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "S.sundaram",
+        "address": "709, Nandanavayal, Mettupatti, Thirukkattalai Post,Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMALA-2026-20260407015313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11537/0/9f2af71b9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.a.robert Kennedy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "A.arokkiyasamy",
+        "address": "2/480, Kalipulla Nagar, Kallalangudi, Alangudi, Pudukkottai.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAR-2026-20260402062955.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vanmeganadhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "R.selvaraju",
+        "address": "124, Settitheru, Erukkalakkottai Post, Aranthangi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVAN-2026-20260407014146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14596/0/e655f1ba78/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vanmikanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "R.selvaraju",
+        "address": "124, Settitheru, Erukkalakkottai Post, Aranthangi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVAN-2026-20260407014146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11529/0/569763b005/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikumar.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "M.panneerselvam",
+        "address": "774, Kottaikkadu And Kottaikkadu Post, Karambakkudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSAS-2026-20260404092434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15936/0/8aa7e64de9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "14-40, Jahirussain Street, Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260407011515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11641/0/02d3d22eb7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Siva.v.meyyanathan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "M.veeramuthu",
+        "address": "723/2, Chinnamundan Kudiyiruppu, Maramadakki Post, Aranthangi Taluk, Pudukkottai District-614622",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVA-2026-20260407012947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11652/0/e11d0cf541/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.thirumaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "R.thangarasu",
+        "address": "321, Senthankudi, Alangudi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TTHI-2026-20260407012250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11647/0/1f0f8ee99e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.kannadasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Venugopal",
+        "address": "2/126, Chetti Street, Erukkalakkottai Post, Aranthangi Taluk, Pudukkottai District.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VKAN-2026-20260407124353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11615/0/9441f5728e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.kannadassan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alangudi",
+        "father_husband_name": "Venugopal",
+        "address": "2/126,Chetti Street, Erukkalakkottai Post, Aranthangi Taluk, Pudukkottai District - 614624",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VKAN-2026-20260407124353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14625/0/307aee7238/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

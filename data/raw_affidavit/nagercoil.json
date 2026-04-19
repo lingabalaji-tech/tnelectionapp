@@ -1,0 +1,723 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Nagercoil",
+    "count": 47,
+    "candidates": [
+      {
+        "name": "A Ajith Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Appadurai",
+        "address": "8- 49, Christu Nager, Vellamadam Post,629305",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/507/0/0666a30baf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Salate Kanagaraj",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Amirtham",
+        "address": "51, C 11, Arasu Colony, Kattaiyanvilai, Nagercoil, 629003",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASALA-2026-20260330075528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/473/0/0f54a9be6c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Ari Krishnan",
+        "address": "10/98, Erumbukadu Post, Kanniya Kumari District.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6783/0/459b42e86f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Suyambulingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Alagappan",
+        "address": "14/7-Mela Street Alaganapuram,Marungoor-629402",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6460/0/aa007ce8b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajith Kumar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Appadurai",
+        "address": "8- 49, Christu Nager, Vellamadam Post,629305",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AAJIT-2026-20260408041103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15339/0/f0992ccb2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Antony Michael J",
+        "party": "Viro Ke Vir Indian Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Jesu Adimai",
+        "address": "15/75, Sadhu Illam, Mela Asaripallam, Asaripallam Post",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANTON-2026-20260330072651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/392/0/f3a8aae610/",
+          "https://voterlist.co.in/affidavit-download/392/1/9ca10f9d7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Austin",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Samuel S",
+        "address": "9/93, Grace Garden, Zionpuramn, Manikattipottal, Kanniyakumari District - 629501",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAUST-2026-20260408105456.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15826/0/ea188216c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bervin Kings G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Gnanadas",
+        "address": "V-48, Kattadi Vilai, Azhagiapandiapuram, Kanniyakumari District - 629851.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GBERV-2026-20260408062048.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16151/0/c111f667c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Vijaya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Chandran",
+        "address": "V-48, Kattadi Vilai, Azhagiapandipuram, Kanniyakumari District - 629851.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CVIJA-2026-20260404055759.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7199/0/b6ccd60b38/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dinesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Stephen",
+        "address": "Door No-4/156C,Thendral Street,Thammathukonam,Gurukulam Road, Erumbukadu Post, Nagercoil - 629004",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DINES-2026-20260406071050.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10377/0/68c34f3c36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dino T",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Thangaraj",
+        "address": "12/183, Chemmanvilai, Pilavilai, Kattathurai Post, Kalkulam Taluk,Kanniya Kumari District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TDINO-2026-20260406070050.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15363/0/e10f27fe9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Bervin Kings",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Gnanadas",
+        "address": "V-48, Kattadi Vilai, Azhagiapandipuram, Kanniyakumari District - 629851.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7798/0/785042adea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gandhi M R",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Ramaswamy Nadar",
+        "address": "4/71, Keezhamaavilai, South Soorangudy,Kanniyakumari District - 629501",
+        "gender": "Male",
+        "age": "81",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRGAN-2026-20260406051946.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14659/0/54cd5f9ed3/",
+          "https://voterlist.co.in/affidavit-download/14659/1/83ec71d373/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh N",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Nallakannu Achari S",
+        "address": "55B, 3-1,  Pallivilai Road, Vettoornimadam, Nagercoil - 629003",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NGANE-2026-20260406124816.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15732/0/8004d15144/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Sivalingam",
+        "address": "Govt. M.s Tamathukonam, New Concrete Building, West Portion",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/230/1774887336pass.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5084/0/01300c0923/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasekaran S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Sivalingam",
+        "address": "4/227,Thammathukonam, M.p.n. Colony, Nagercoil.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GUNAS-2026-20260406124517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16002/0/bfa15ff872/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jebarson S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Suvihara Thanga Nelson",
+        "address": "363/61, Erulappapuram, Kottar, Nagercoil.",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SJEBA-2026-20260406071142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15314/0/7debacf274/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L Nagarajan",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Lekshmanan",
+        "address": "29B, Keezha Theru,Nagercoil - 629001",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5201/0/cebec508f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Muthukumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "S Murugan",
+        "address": "115, Kulalar Street, Kottar, Nagercoil, 629002",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMUT-2026-20260401035610.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6072/0/ec34f973b1/",
+          "https://voterlist.co.in/affidavit-download/6072/1/12294cfebf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M R Gandhi",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Ramaswamy Nadar",
+        "address": "4/71, Keezhamaavilai, South Soorangudy,Kanniyakumari District - 629501",
+        "gender": "Male",
+        "age": "81",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRGAN-2026-20260406051946.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8465/0/22c77a10dd/",
+          "https://voterlist.co.in/affidavit-download/8465/1/14b6c29c96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Sivaraj",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Murugesan",
+        "address": "143/311, East Street, Vadalivilai, Kottar, Nagercoil - 629002, Kanniyakumari District.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSIVA-2026-20260404060908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6881/0/a92d5a1922/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Muthukumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "S Murugan",
+        "address": "115, Kulalar Street, Kottar, Nagercoil, 629002",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMUT-2026-20260330074725.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/436/0/60517dc2cf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohideen Faigee",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Peer Mohamed",
+        "address": "2A, Jothy Street, Christ Nagar, Vettornimadam, Nagercoil",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHID-2026-20260330070921.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/330/0/e39714e119/",
+          "https://voterlist.co.in/affidavit-download/330/1/ff7de09710/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohideen Faigee Alias Soorankudy Faigee",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Peer Mohamed",
+        "address": "2A, Jothy Street, Christ Nagar, Vettornimadam, Nagercoil",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHID-2026-20260408072255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16618/0/746a97e0b1/",
+          "https://voterlist.co.in/affidavit-download/16618/1/96267ed64a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthukumar M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Murugan S",
+        "address": "115, Kulalar Street, Kottar, Nagercoil, 629002",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMUTH-2026-20260406121319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14803/0/cb60bf1b68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N Ganesh",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "S Nallakannu Achari",
+        "address": "55B, 3-1,  Pallivilai Road, Vettoornimadam, Nagercoil - 629003",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6129/0/2a2109c601/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan L",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Lekshmanan",
+        "address": "29B, Keezha Theru,Nagercoil - 629001",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LNAGA-2026-20260406124554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16358/0/d5c2068f2e/",
+          "https://voterlist.co.in/affidavit-download/16358/1/e43e3a88ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagoor Meeran Peer Mohamed U",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Udhuman Mydeen",
+        "address": "19, Illathaar Theru, Krishnancoil, Nagercoil,629001",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/UNAGO-2026-20260408071614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16650/0/6878e1c070/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Suyambulingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Panchipazham",
+        "address": "14/2, Keelamavilai, South Surangudi Post, Kanyakumari District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5045/0/a28a58b11b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Vallimayil",
+        "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "M Vijayakumar",
+        "address": "1/22, Mela Street, Samythoppu Post - 629704.",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5364/0/4182cf82e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Ramesh",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Rethinam",
+        "address": "52A-1, Saraloor, Kottar, Nagercoil, Kanniyakumari District.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RRAME-2026-20260406070943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9231/0/2d0524cc5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Retna Mony S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Samy Nadar",
+        "address": "5,42-A1, Saradha Illam, Vip Garden, North Soorankudy Post, 629501",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRETN-2026-20260408013834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16635/0/a30ae5a138/",
+          "https://voterlist.co.in/affidavit-download/16635/1/85b40443bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Austin",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "S Samuel",
+        "address": "9/93, Grace Garden, Zionpuramn, Manikattipottal, Kanniyakumari District - 629501",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6262/0/eaf5231bc6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Jebarson",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Suvihara Thanga Nelson",
+        "address": "363/61, Erulappapuram, Kottar, Nagercoil.",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SJEBA-2026-20260406071142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9800/0/df709e208c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Manikandan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "T Sankaralingam",
+        "address": "96/180A, Kulalar Street, Kottar, Nagercoil,Kanniyakumari District-629002.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMANI-2026-20260402051952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5456/0/cd44c8c951/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Retnamony",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Samy Nadar",
+        "address": "5,42-A1, Saradha Illam, Vip Garden, North Soorankudy Post, 629501",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRETN-2026-20260331042852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/426/0/19351417bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Vairam Pillai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Subramania Pillai",
+        "address": "131A, South Street, Marungoor, 629402, Kanniyakumari District.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6665/0/221af3f71a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sadhasivam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Narayanan",
+        "address": "52A-2, Sarakkalvilai, Kottar Post, Nagercoil,Pin-629002.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6733/0/d18db48d27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Salate Kanagaraj A",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Amirtham",
+        "address": "51, C 11, Arasu Colony, Kattaiyanvilai, Nagercoil, 629003",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ASALA-2026-20260408035213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16645/0/184f16b33b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Ari Krishnan",
+        "address": "10/98, Erumbukadu Post, Kanniya Kumari District.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ASIVA-2026-20260408071743.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16229/0/1b7c3767e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suyambulingam A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Alagappan",
+        "address": "14/7-Mela Street Alaganapuram,Marungoor-629402",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ASUYA-2026-20260406124843.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15974/0/3c38a61bec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suyambulingam P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Panchipazham",
+        "address": "14/2, Keelamavilai, South Surangudi Post, Kanyakumari District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSUYA-2026-20260406124534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16398/0/6e1d98cc8e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T Dino",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Thangaraj",
+        "address": "12/183, Chemmanvilai, Pilavilai, Kattathurai Post, Kalkulam Taluk,Kanniya Kumari District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TDINO-2026-20260406070050.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9885/0/77a26942ec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "U Nagoor Meeran Peer Mohamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Udhuman Mydeen",
+        "address": "19, Illathaar Theru, Krishnancoil, Nagercoil,629001",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UNAGO-2026-20260330080202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/493/0/f6be55a284/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vairam Pillai S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Subramania Pillai",
+        "address": "131A, South Street, Marungoor, 629402, Kanniyakumari District.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SVAIR-2026-20260404060528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16135/0/2259ddddb5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vallimayil P",
+        "party": "Communist Party Of India (Marxist-Leninist) Red Star",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Vijayakumar  M",
+        "address": "1/22, Mela Street, Samythoppu Post - 629704.",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PVALL-2026-20260406073055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16452/0/d999e98c62/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaya C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Nagercoil",
+        "father_husband_name": "Chandran",
+        "address": "V-48, Kattadi Vilai, Azhagiapandipuram, Kanniyakumari District - 629851.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CVIJA-2026-20260408105129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15860/0/2a7d6a9d90/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

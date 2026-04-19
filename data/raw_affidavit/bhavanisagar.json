@@ -1,0 +1,295 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Bhavanisagar",
+    "count": 19,
+    "candidates": [
+      {
+        "name": "A.amrish",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "M.arivazhagan",
+        "address": "22/11, Jallikuli Veethi, Rangasamudram, Sathyamangalam, Erode - 638402",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AAMR-2026-20260406064933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8813/0/467ef6f20e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.bannari",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Ammasai",
+        "address": "221, Periyakallipatti, Erode - 641302",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABAN-2026-20260406023343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8430/0/f8394aeec7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sivakumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "V.asirvatham",
+        "address": "39,Kongunagar,Athani Road Sathyamangalam-638402",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASIV-2026-20260404044122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7533/0/896fc3a2f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.palaniswamy",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Bellaiah",
+        "address": "7/64,Arunthathiyar Theru, Kalmandipuram, Thalavadi-638461",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BPAL-2026-20260402031314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5176/0/2e600709cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.palanichamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Chinnavadabannan",
+        "address": "379, Annanagar, Ikkarai Thathapalli Post, Bhavanisagar, Erode - 638451",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CPAL-2026-20260406043538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10069/0/37388caacc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.hanumaiah.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Chandraiah",
+        "address": "1/665, Karalavadi Village, Thiginarai Post, Thalavadi - 638461",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRHA-2026-20260404022618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6137/0/294cc100f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopalan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Maniyati Rangan",
+        "address": "7/106A, Dravida Colony, Kuppanthurai, Ukkaram Post, Sathyamangalam",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPAL-2026-20260404024507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6381/0/8eeae4c095/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sakthivel",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "T.karammal",
+        "address": "158, Periyar Nagar, Pudupalayam, Nallur Post, Punjai Puliyampatti - 638459",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAK-2026-20260406013455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9922/0/da32abf256/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.n.chandran",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "M.nallasamy",
+        "address": "332/4,Jeevajothy Garden,Muthalipalayam Pirivu,Nallur Tirupur",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MNC-2026-20260406055508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10147/0/1ec225bf34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagamani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "A.bannari",
+        "address": "221, Periyakallipatti, Erode - 638302",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAM-2026-20260406031427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8573/0/c2780ef2c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nirmala Devi.k",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Jaganathan.r",
+        "address": "189, Manakatoor, Mettunasuvam Palayam, Vasavi College Post, Erode -638316",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NIRMA-2026-20260406035226.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9721/0/fec9d5ddb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.l.sundaram",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Laksumanan",
+        "address": "2/44, Panayampalli, Punjai Puliyampatti - 638459",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PLS-2026-20260406012219.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9017/0/1003311e25/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Rangasamy",
+        "address": "8/51, Perumal Kovil Veethi Kondapanaickanpalayam, Erode - 638503",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMOO-2026-20260406045942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9691/0/d156e0f0ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rakki",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Gurusamy",
+        "address": "189, Manakattur, Elavamalai Post, Erode - 638316",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAKKI-2026-20260406015908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8948/0/7fe7c58d21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Rangan",
+        "address": "181, Nochikuttai, Nochikuttai Post, Sathyamangalam, Erode - 638459",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAK-2026-20260406061338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9610/0/ca3dfd60e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rubini.t",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Thangaraj",
+        "address": "4/413, Pasuvapalayam, Puthupeerkadavu, Sathyamangalam 638451",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RUBIN-2026-20260330023555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/79/0/4134f80f98/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.palaniswamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "Shanmugam",
+        "address": "1/40,Hassanur,Hassanur Post,Thalavadi-638401",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAL-2026-20260406041535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8777/0/db3608be7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.soundarya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "M.murugesan",
+        "address": "7/64A Kuppandurai Colony, Ukkaram Village, Sathyamangalam, 638402",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSOU-2026-20260330014712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/584/0/19a9439f42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.p.tamilselvi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavanisagar",
+        "father_husband_name": "A.sivakumar",
+        "address": "39, Kongunagar,Athani Road,Sathyamangalam - 638401",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPT-2026-20260402122001.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5101/0/ff0f90ad89/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

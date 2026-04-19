@@ -1,0 +1,550 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sholavandan",
+    "count": 36,
+    "candidates": [
+      {
+        "name": "A.venkatesan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Arumugam",
+        "address": "187-A, Kathakinaru, Kathakinaru Post, Madurai East, Madurai - 625104",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVEN-2026-20260406042736.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9485/0/7548dea704/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajay Subash.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Balamurugan",
+        "address": "13/4, Thulasi Veethi, Bharathiyar Nagar, Vilangudi, Madurai - 625018",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AJAYS-2026-20260410121058.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15502/0/49f3c048a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Athira Deepthi M",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "K.manickam",
+        "address": "239A, Kurunji Residency, East Anna Nagar, Masthanpatti, Madurai East Taluk, Madurai - 625020",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ATHIR-2026-20260404053423.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7149/0/4c19f99fbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.ajay Subash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Balamurugan",
+        "address": "13/4, Thulasi Veedhi, Bharathiyar Nagar, Vilangudi, Madurai - 625018",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BAJA-2026-20260406055457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10115/0/e0ecde6ba0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.dhamotharan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Baskaran",
+        "address": "W/2, Periyar Nagar, Main Road, Katchaikatti, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BDHA-2026-20260404063424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7167/0/eaa07b1f0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Chandran",
+        "address": "3/218, Anna Nagar Colony, Ayyur Village, Ayyur Post, Vadipatti Taluk, Madurai Dist",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BALAM-2026-20260410122755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14794/0/3eb8ff17f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan.k",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Kandhan",
+        "address": "13/4, Thulasi Street, Bharathiyar Colony, Vilangudi, Madurai - 625018",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BALAM-2026-20260409115534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14679/0/c9dfe813ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Raja",
+        "address": "3/81, T.mettupatti, Thethur, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BALAM-2026-20260410123115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15042/0/1c4b89f285/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.balamurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Chandran",
+        "address": "3/218, Annanagar Colony, Ayyur Village, Ayyur Post, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CBAL-2026-20260406054101.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8787/0/9c26f7e5d6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.ramadoss",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Chinnathambi",
+        "address": "4/31, East Street, Sembukudipatti, Thanichiyam Post, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAM-2026-20260404033559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6288/0/eeb6b8502d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.pavithra",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Ganapathi",
+        "address": "6/39, Kaliamman Kovil Street, Thirumalnatham, Vadipatti, Madurai-625234",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GPAV-2026-20260404075008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7354/0/b7db568752/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasekaran.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Perumal",
+        "address": "5-5-442B, Thanichiyam Main Road, Gandhi Gramam, Alanganallur Post, Vadipatti, Madurai - 625501",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GUNAS-2026-20260410122158.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14882/0/ff1e40cd70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.balamurugan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Kandhan",
+        "address": "13/4, Thulasi Street, Bharathiyar Colony, Vilangudi, Madurai - 625018",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KBAL-2026-20260406051158.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8515/0/3e370ff682/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.manickam",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Kilavan",
+        "address": "239A, Kurunji Residency, East Anna Nagar, Masthanpatti, Madurai East Taluk, Madurai - 625020",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMAN-2026-20260404065648.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7371/0/11321dd785/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.raghu",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Krishnan",
+        "address": "5/6-36, East Street, Palamedu, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAG-2026-20260406070025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9815/0/0487503238/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuppaiah.m.v",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Veeran",
+        "address": "3/89, Perumal Patty Salai Ambedkar Nagar, Vavidamaruthur, Vadipatti,Madurai",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARUP-2026-20260409114406.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16224/0/fbbbaed10a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnasamy.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Pandi",
+        "address": "1/124, Sadaiyandi Kovil Street, Vadipatti, Aandipatti, Madurai - 625 218",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KRISH-2026-20260410121322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14710/0/81ded2218c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gopal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "A.malaisamy",
+        "address": "3/100, North Street, Anaikulam Village, Sithalankudi Post, Vadipatti Taluk, Madurai",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MGOP-2026-20260330045412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/351/0/ec7b6eb558/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sivaya Adithya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "M.kalaiselvi",
+        "address": "501, Thirupathy Nagar, Solaialagupuram 1St Street, Jaihindupuram, Madurai",
+        "gender": "Male",
+        "age": "21",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSIV-2026-20260404065247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7894/0/9817902134/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.v.karuppaiah",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Veeran",
+        "address": "3/89, Perumalpatti Salai, Ambedkar Nagar, Vavidamaruthur, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVK-2026-20260404062320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7955/0/edb626ddea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manickam.k",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Kilavan",
+        "address": "D.no.239A, Kurinji Residency, East Annanagar, Masthanpatty, Madurai East Taluk, Madurai - 625020",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANIC-2026-20260409113306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15960/0/c44b88dbbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagalakshmi Thirumaran.t",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "A.thirumaran",
+        "address": "7-5-65/18, Harizan Colony, Meenakshi Nagar, Neerethan, Vadipatty, Madurai - 625218",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NAGAL-2026-20260409113232.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16010/0/147659b2fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Pandi",
+        "address": "D 13-17-5, Birundhanagar, Palamedu, Vadipatti, Madurai - 625503",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAB-2026-20260406050111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9828/0/7e233a361a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.gunasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Perumal",
+        "address": "5/5/442B, Thanichiyam Main Road, Gandhigramam, Alanganallur Post, Vadipatti Taluk, Madurai - 625501",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGUN-2026-20260406044957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8965/0/5afddbdd34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.krishnasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Pandi",
+        "address": "1/124, Sadaiyandi Kovil Street, Andipatti, Vadipatti, Madurai - 625218",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKRI-2026-20260406062430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8586/0/035d40d27c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.nagarajan",
+        "party": "Anna Mgr Dravida Makkal Kalgam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Periyasami",
+        "address": "6-4-18, Viswanathapuram 1St Cross Street, Viswanathapuram, Madurai - 625014",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PNAG-2026-20260406052949.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10027/0/a92f81bb48/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.thangapandi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Perumal",
+        "address": "1/367, Anbu Nagar, Kathakinaru, Madurai - 625107",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PTHA-2026-20260406064348.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10165/0/9cbf461f7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.balamurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Raja",
+        "address": "3/81, T.mettupatti, Thethur, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBAL-2026-20260406060950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9260/0/78dd95919e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manimegalai",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Rajendran",
+        "address": "1/1613, Rajameenakshinagar 1St Street, Sembiyanendhal Vilaku, Kathakinaru, Madurai - 625104",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406043757.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10212/0/2fafe6af9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raghu.k",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Krishnan",
+        "address": "5/6-36, East Street, Palamedu Post, Vadipatti, Madurai",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAGHU-2026-20260409115840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15324/0/bf50fc341d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramadoss.c",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Chinnathambi",
+        "address": "4/31, East Street, Sembu Kudipatty, Thanichiyam Post, Vadipatti Taluk, Madurai",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMAD-2026-20260410120230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15841/0/9e1ed90aa3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjith Kumar.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Selvam",
+        "address": "3/30, East Street, Sembukudipatti, Thanichiyam, Vadipatti , Madurai - 625221",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RANJI-2026-20260410123411.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14834/0/3677aacf63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ranjith Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Selvam",
+        "address": "3/30, East Street, Sembukudipatti, Thanichiyam, Vadipatti, Madurai - 625221",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAN-2026-20260406041701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8870/0/0b24173bf3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.nagalakshmi Thirumaran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "A.thirumaran",
+        "address": "7-5-65/18, Harijana Colony, Meenakshi Nagar,Neerathan,Vadipatti, Madurai 625218",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TNAG-2026-20260330043136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/63/0/fbd8233def/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangapandi.p",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Perumal",
+        "address": "1/367, Anbu Nagar, Kathak Kinaru, Madurai - 625 107",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THANG-2026-20260409114817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15537/0/25cd86be2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan.a",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sholavandan",
+        "father_husband_name": "Arumugam",
+        "address": "187-A, Kathak Kinaru, Kathak Kinaru Po, Madurai East, Madurai - 625104",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260409113004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15151/0/c03836cb31/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

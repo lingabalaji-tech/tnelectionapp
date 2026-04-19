@@ -1,0 +1,520 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Usilampatti",
+    "count": 34,
+    "candidates": [
+      {
+        "name": "Abirami D",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Dhanabal",
+        "address": "D/O Dhanabal No: 37 Sathyamoorthy Nagar, Devaraj Nagar, Saligramam, Chennai Distrcit - 600093",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABIRA-2026-20260406081731.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10684/0/0bab2cc656/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abirami. D",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Dhanabal",
+        "address": "No: 37, Sathyamurthi Street, Devaraj Nagar, Saligramam, Chennai  - 600093",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABIRA-2026-20260406081731.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14819/0/60984e10fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashok M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Mayan  P",
+        "address": "S/O Mayan  Pappapatti , Usilampatti Taluk, Madurai District - 625537",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHOK-2026-20260406085051.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11061/0/2fe49fb457/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ayyadurai R",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Raman",
+        "address": "S/O Raman No: 14 D.r.o Colony Main Road, K. Pudur, Madurai District - 625008",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AYYAD-2026-20260406091126.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12064/0/d464a553f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ayyappan P",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Pitchai Mayandi M",
+        "address": "S/O Pitchai Mayandi No: 6/987 Theni Main Road Pasumpon Nagar, Checkkanoorani Post,  Thirumangalam Taluk, Madurai - 625514",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AYYAP-2026-20260406083014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11187/0/73f19e70d6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ayyappan. P",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Pitchai Mayandi M",
+        "address": "No: 6/987, Theni Main Road, Checkkanoorani,  Thirumangalam Taluk, Madurai - 625514",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AYYAP-2026-20260406083014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15370/0/559ae01391/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chitra R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Rajamanickam",
+        "address": "D/O Rajamanickam No: 1 Aachi Otchayi Nagar, Chinna Semmettupatti, Nadupatti, Usilampatti Taluk, Madurai District -625532",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHITR-2026-20260404045419.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7992/0/b941f42d23/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanasekaran T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Thavamani",
+        "address": "S/O Thavamani  No: 32/3 West Street, Nalliveeranpatti, Seemanoothu, Usilampatti Taluk, Madurai District - 625532",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHANA-2026-20260404051129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7499/0/3fc608bc69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanasekaran. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Thavamani",
+        "address": "No: 32/3 , West Street, Nalliveeranpatti, Seemanoothu, Usilampatti Taluk, Madurai - 625532",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHANA-2026-20260404051129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16024/0/139f279222/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kiranya S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Santhosh Kumar R",
+        "address": "W/O Santhoshkumar No: 164 A, Kannan Colony Thirumalapuram, Srivilliputhur, Virudhunagar District - 626125",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KIRAN-2026-20260404052122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7887/0/3a3afe3465/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kiranya. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Santhosh Kumar R",
+        "address": "No: 164 A, Kannan Colony Thirumalapuram, Srivilliputhur, Virudhunagar - 626125",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KIRAN-2026-20260404052122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16193/0/476cc009ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Muniyandi",
+        "address": "S/O Muniyandi No : 1/145 Saluppapatti, Kudicheri Post, Periyur Taluk, Madurai District - 625705",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260406094415.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12186/0/5a90583531/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahendran I",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Irulandithevar",
+        "address": "S/O Irulandi Thevar  No : 41 Thiruvalluvar Nagar, Usilampatti, Madurai District - 625532",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHEN-2026-20260402045508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5435/0/d1653cee4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahendran. I",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Irulandithevar",
+        "address": "No : 41 ,Thiruvalluvar Nagar, Usilampatti, Madurai  - 625532",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAHEN-2026-20260409075545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16477/0/d3f50d00f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muniyammal S",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Subburaj",
+        "address": "D/O Subburaj East Street, Vandari Peraiyur Taluk,  Madurai District - 625705",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNIY-2026-20260406093527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11927/0/206adb2ced/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthu N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Nagan",
+        "address": "S/O Nagan North Street ,N.ayyampatti,     Nattamangalam,  Usilampatti Taluk, Madurai District - 625532",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260406081108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11404/0/d2178aafa4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthu. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Nagan",
+        "address": "North Street ,N.ayyampatti,  Usilampatti Taluk, Madurai  - 625532",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260406081108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15628/0/836d605cba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Petchiammal T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Tharmar",
+        "address": "W/O Tharmar East Street, Vandari, Peraiyur Taluk, Madurai District - 625705",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PETCH-2026-20260406093915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12026/0/951a881699/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveena S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Saravanakumar T",
+        "address": "W/O Saravanakumar T No: 10/22 B1  Rathinasamy Thevar Street, Girls Hostel Road, Usilampatti Taluk, Madurai District - 625532",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260406090231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10574/0/2e3d2f7731/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveena. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Saravanakumar T",
+        "address": "No: 10/22 B1 , Rathinasamy Thevar Street, Girls Hostel Road, Usilampatti Taluk, Madurai- 625532",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260406090231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14715/0/58312a88be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja K R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Ramasamy Thevar",
+        "address": "S/O Ramasamy Thevar No: 469, Near By Tnstc Maruthi Nagar, Sikkampatti, Usilampatti , Madurai District -625532",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAK-2026-20260402053546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5830/0/e575351c70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ruthra P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Pandi",
+        "address": "D/O Pandi No: 1E East Street, Kuruvilampatti, Pothampatti,  Usilampatti Taluk ,  Madurai District - 625532",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RUTHR-2026-20260406082334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10955/0/e87965c785/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanakumar T",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Theva Jothi A",
+        "address": "S/O Theva Jothi  No: 10/22 B1  Rathinasamy Thevar Street, Girls Hostel Road, Usilampatti Taluk, Madurai District - 625532",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406085636.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11270/0/fb8b4e365e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanakumar. T",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Theva Jothi A",
+        "address": "No: 10/22 B1  Rathinasamy Thevar Street, Girls Hostel Road, Usilampatti Taluk, Madurai - 625532",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406085636.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15478/0/193eca23bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seetha P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Pandi R",
+        "address": "D/O Pandi Pannapatti Ward, Pothampatti,  Usilampatti Taluk, Madurai District - 625532",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEETH-2026-20260406093128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11800/0/00c4b23a04/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilselvan C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Chinna Thevar",
+        "address": "S/O Chinna Thevar No: 1/10 Padma Illam , Kongapatti,  Vadugapatti Panchayat,  Usilampatti Taluk,  Madurai District - 625532",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260406091723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12283/0/9f0fa37caf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thiagarajan O V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Vairathevar",
+        "address": "S/O Vairathevar  No: 1/121, North Street, Thummakundu, Usilampatti Madurai District - 625532",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIAG-2026-20260402055803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5645/0/0c2252ccbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thiagarajan. O. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Vairathevar",
+        "address": "No: 1/121, North Street, Thummakundu, Usilampatti Madurai - 625532",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIAG-2026-20260402055803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16303/0/700d860eb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumoorthy A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Azhagan",
+        "address": "S/O Azhagan No: 6/90 P. Kanniyampatti Perungamanallur,  Peraiyur Taluk , Madurai District - 625527",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260406074646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11275/0/2af5de7fda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirumoorthy. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Azhagan",
+        "address": "No: 6/90, P. Kanniyampatti , Peraiyur Taluk , Madurai- 625527",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260406074646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15488/0/707d00c5af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vellaipandi V",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Vellaichamy",
+        "address": "S/O Vellaichamy  No: 3/42 Mallapuram, Peraiyur Taluk, Usilampatti , Madurai District - 625535",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VELLA-2026-20260402051316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5581/0/70d301fd3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vellaipandi. V",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Vellaichamy",
+        "address": "No: 3/42, Mallapuram, Peraiyur Taluk, Madurai  - 625535",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VELLA-2026-20260402051316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16368/0/1311fa2744/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Mahalingam",
+        "address": "S/O Mahalingam No: 120/3  Railway Feeder Road,Ward 2, Nalliveeranpatti Seemanoothu,Usilampatti Taluk , Madurai District - 625532",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404043941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7464/0/c6ea94079b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay. M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Usilampatti",
+        "father_husband_name": "Mahalingam",
+        "address": "No: 120/3,  Railway Feeder Road,Ward 2, Nalliveeranpatti Seemanoothu,Usilampatti Taluk , Madurai  - 625532",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404043941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16008/0/0f30d3fbae/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

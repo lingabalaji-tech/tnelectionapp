@@ -1,0 +1,731 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kunnam",
+    "count": 48,
+    "candidates": [
+      {
+        "name": "A.saranya",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "D.anbalagan",
+        "address": "O.1/32,N.1/61, North Street, Varagur Post,Kunnam Tk,Perambalur-621708",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAR-2026-20260404050714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7273/0/5756a7de0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbuthamizhan. T",
+        "party": "Thamizh Perarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Thangavel",
+        "address": "Door No. 7-149 , South Street, Olaippadi Village, Kunnam Taluk, Perambalur District, 621717",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANBUT-2026-20260409081236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16090/0/e4b9afbbde/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.kathiravan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "M.chandrakasan",
+        "address": "91 ,Veliperingiyam, Pudupalayam,Periyathirukkonam Post,Ariyalur Tk,Ariyalur Dt-621701",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKAT-2026-20260406054906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9479/0/0b2a918282/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.saminathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Chinnakkattaiyan",
+        "address": "6A, Rajagopal Nagar,Sandhamedu,Tindivanam Tk Villuppuram Dist 604001",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSAM-2026-20260404082322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8311/0/135b2889af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekar. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "C.pitchaipillai",
+        "address": "65/A,Anna Nagar,Brammadhesam Post, Veppanthattai Taluk,Perambalur District 621115",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PCHA-2026-20260406070319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15487/0/83cd8e8e05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.anbalagan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Dhanavel",
+        "address": "O.1/32,N.1/61, North Street, Varagur Post, Kunnam Tk,Perambalur-621708",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DANB-2026-20260404053247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7088/0/92c3d5877f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.muthamilselvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Duraiyappan",
+        "address": "1/98 Keezha Theru,Kadugur Post,Ariyalur-621705",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMUT-2026-20260406061956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10206/0/6940ea75cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elangovan. K",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "D.kirushnamoorthi",
+        "address": "3/243, Mela Teru,Kadur S ,Nallarikai,Kunnam Taluk,Perambalur District -621716",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KELA-2026-20260402025502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16538/0/eafc59f6f5/",
+          "https://voterlist.co.in/affidavit-download/16538/1/71ba595e96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elavarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Sivaperumal",
+        "address": "106E,Venkatesapuram,Perambalur,Perambalur Taluk,Perambalur Dt-621212",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELAVA-2026-20260406072159.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11116/0/91b3274c05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.kumar",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Ganesan",
+        "address": "105/2B,South Street, Cholankudikkadu,Sendurai Tk,Ariyalur Dt-621709",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GKUM-2026-20260406075301.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10622/0/332bf241a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gomathi Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "G.kumar",
+        "address": "105/2B, South Street, Cholankudikkadu,Sendurai Tk, Ariyalur Dt -621709",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOMAT-2026-20260406081343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10539/0/f6dfbbc838/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.elangovan",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "D.kirushnamoorthi",
+        "address": "3/243, Mela Teru,Nallarikai,Kunnam Tk,Peramablur Dt -621716",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KELA-2026-20260402025502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5557/0/5051891ce9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Krishnamoorthi",
+        "address": "22/A Panchupattarai Street,Ariyalur 621704",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAR-2026-20260406060615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8946/0/1bf17d3dce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.m.nallusamy",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Manoharan",
+        "address": "278G/G2,Kalyan Nagar,Thuraiyur Road,Peramablur",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMN-2026-20260404064239.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7516/0/5beb18b38c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathiravan. A.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "M.chandrakasan",
+        "address": "91 ,Veliperingiyam, Pudupalayam,Periyathirukkonam Post,Ariyalur Taluk,Ariyalur District-621701",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKAT-2026-20260406054906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15148/0/9e574445e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Keerthivasan. R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "M.ramar",
+        "address": "11/164A ,Anbu Nagar, Four Road,Elambalur,Duraimangalam,Perambalur-621212",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKEE-2026-20260330040159.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15931/0/eee0582343/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "K.muthusamy",
+        "address": "No:126/6, West Street, Sirukudal Post, Kunnam Taluk, Perambalur-621115",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAM-2026-20260330043514.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/97/0/f5176bc64f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.revathi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Muthamil Selvan",
+        "address": "4/1333, New Street,Madurapuri,Thuraiyur-621010,Trichy,Tamilnadu",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MREV-2026-20260404055506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7987/0/ff994e6ead/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vinothkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Dhanakodi",
+        "address": "291,East Street,Kulathur Village Post,Andimadam Tk,Ariyalur Dt 621803",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIN-2026-20260406065135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9038/0/f478ed5930/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan.k",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Kolanji",
+        "address": "2/199A,Main Road St,Perumulai,Tittagudi,Cudalore Dist 606106",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406063819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9751/0/00b621f10d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthamilselvan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Duraiyappan",
+        "address": "1/98 Keezha Theru,Kadugur Post,Ariyalur Taluk,Ariyalur District-621705",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMUT-2026-20260406061956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15558/0/090cbc2907/",
+          "https://voterlist.co.in/affidavit-download/15558/1/9d8d8452a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nallathambi. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "A.periyasamy",
+        "address": "1/148,South Street, Kadur Post,Kunnam Taluk,Perambalur District-621716",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PNAL-2026-20260406034211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15073/0/2bdb89269a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nallusamy. K.m",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Manoharan",
+        "address": "No.278G/G2,Kalyan Nagar,Thuraiyur Road,Perambalur Taluk, Perambalur District 621212",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMN-2026-20260404064239.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16033/0/05078c90fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.chandrasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "C.pitchaipillai",
+        "address": "65A,Anna Nagar,Brammadhesam Post, Veppanthattai Tk,Perambalur Dt Pin 621115",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PCHA-2026-20260406070319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10096/0/40b2bc6a24/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.nallathambi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "A.periyasamy",
+        "address": "1/148,South Street, Kadur,Kunnam Tk,Peramablur-621716",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PNAL-2026-20260406034211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9326/0/b925a2a850/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvaraj",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Poorasami",
+        "address": "79/27B,Keezha Theru, Nagalkuzhi, Sendurai Taluk,Ariyalur District 621806",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSEL-2026-20260406052443.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9533/0/986c69b9df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sivasankaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "V.pitchapillai",
+        "address": "No.1/98 Siruganpur Post,Alathur Taluk,Peramabalur District, Pin-621113",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSIV-2026-20260404071104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7236/0/8c91a97c0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.keerthivasan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "M.ramar",
+        "address": "11/164A ,Anbu Nagar, Four Road,Elambalur,Duraimangalam,Perambalu-621212",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKEE-2026-20260330040159.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/475/0/846b0f3add/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sengutuvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Radhakrishnan",
+        "address": "212,North Radhavethi,Tittakudi Tk,Cuddalore Dist, Pin-606106",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEN-2026-20260406085150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11120/0/231f9021d6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.thanasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "R.rajendran",
+        "address": "262,Mela Street,Thamaraikulam,Ariyalur District 621705",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RTHA-2026-20260406090343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10607/0/f0e4e7c2a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. S.p",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "S.palanivel",
+        "address": "3/21,Keela Theru,Paranam South,Paranam Post,Sendurai Taluk,Ariyalur District 621804",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPR-2026-20260406074204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15190/0/e85c3f8568/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravikumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Muthuvel",
+        "address": "No:2,Ezhumur East,Ayikudi,Kunnam Tk,Perambalur Dt Pin-621115",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIK-2026-20260404065808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8030/0/e3239fdd4d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Muthuvel",
+        "address": "No:2,Ezhumur East,Ayikudi,Kunnam Tk,Perambalur Dt Pin-621115",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIK-2026-20260404065808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13297/0/2ea198cb4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Revathi Muthamilselvan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Muthamilselvan",
+        "address": "4/1333, New Street,Madurapuri Village ,Thuraiyur Taluk,Trichy District-621010",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/REVAT-2026-20260409062755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16245/0/8feff410c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.p.raja",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "S.palanivel",
+        "address": "3/21,East Street,Paranam South,Sendurai Taluk,Ariyalur District 621804",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPR-2026-20260406074204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11033/0/093df0b6ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.s. Sivasankar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Sivasubramaniyan",
+        "address": "3,Kalaignar Illam,Rajaji Nagar,Ariyalur,Ariyalur Taluk,Ariyalur District 621713",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSS-2026-20260406041935.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Saminathan. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Chinnakkattaiyan",
+        "address": "6A, Rajagopal Nagar,Sandhamedu,Tindivanam Taluk, Villuppuram District 604001",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAMIN-2026-20260409081336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15384/0/adcb42d766/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saranya. A",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "D.anbalagan",
+        "address": "Old.no.1/32,New No.1/61, Post Office Sandhu,North Street, Varagur Post,Kunnam Talukk,Perambalur-621708",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAN-2026-20260409081439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15257/0/2e4b67d8d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shajahan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Sardharbasha",
+        "address": "4/175 Perumal Kovil Street,Mangalam Village,Veppanthattai Taluk,Perambalur Dt-621115",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAJA-2026-20260406083315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11341/0/e2f8c742e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivasankar. S.s",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Sivasubramaniyan",
+        "address": "No.3,Kalaignar Illam,Rajaji Nagar,Ariyalur Taluk,Ariyalur District 621713",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSS-2026-20260406041935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14685/0/7bc632402b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivasankaran. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "V.pitchapillai",
+        "address": "No.1/98 Siruganpur Post,Alathur Taluk,Perambalur District, 621113",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SIVAS-2026-20260409081904.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15879/0/7501c8ca2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.anbuthamizhan",
+        "party": "Thamizh Perarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Thangavel",
+        "address": "No. 7-149 ,South Street, Olaippadi Village ,Kunnam Taluk, Perambalur Dt-621717",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TANB-2026-20260404044532.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7637/0/35687607bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.udhayasuriyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "M.thangavel",
+        "address": "5/192 North Street, Velvimangalam Vill,Vayalappadi Post,Kunnam Taluk,Peramabalur Dt Pin-621716",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TUDH-2026-20260402032947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5225/0/6793ca3b30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.vivek",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "S.thangaraj",
+        "address": "No.63,North St,Thiruvalakurichi,Padalur East,Peramabalur-621109",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TVIV-2026-20260406045815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9577/0/7cf72a4b05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thanasekar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "R.rajendran",
+        "address": "262,Mela Street,Thamaraikulam, Kallankurichi,Ariyalur Taluk,Ariyalur District 621705",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RTHA-2026-20260406090343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14746/0/0b23ba84aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayasuriyan. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "M.thangavel",
+        "address": "No.5/192 North Street, Velvimangalam Village,Vayalappadi Post,Kunnam Taluk,Perambalur District Pin-621716",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TUDH-2026-20260402032947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16373/0/ef82f58cbc/",
+          "https://voterlist.co.in/affidavit-download/16373/1/1ad84011c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinothkumar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "Dhanakodi",
+        "address": "291,East Street,Kulathur Village Post,Andimadam Taluk,Ariyalur District 621803",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIN-2026-20260406065135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14915/0/c1bf867fc6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vivek. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kunnam",
+        "father_husband_name": "S.thangaraj",
+        "address": "63,North Street,Thiruvalakurichi,Padalur E,Alathur Taluk,Perambalur-621109",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TVIV-2026-20260406045815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15196/0/c800182c98/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

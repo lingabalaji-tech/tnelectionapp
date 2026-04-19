@@ -1,0 +1,791 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Dindigul",
+    "count": 52,
+    "candidates": [
+      {
+        "name": "Anis Babu. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Mohamed Anifa.m",
+        "address": "No:22/42, Yousufiya Nagar,  Begampur, Pallapatti Post,Dindigul West Taluk, Dindigul District-624002.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANISB-2026-20260409071441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15059/0/1d4ee52111/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anis Babu.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Mohamed Anifa.m",
+        "address": "No:22/42, Yousufiya Nagar, Pallapatti Post, Begampur, Dindigul-624002.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANISB-2026-20260406115124.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8387/0/6d9ec54ffb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arockia Dass. J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Jesu. A",
+        "address": "239, Ramaiyanpatty, Meenachinayakkanpatty Post, Dindigul West Taluk, Dindigul District-624002.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AROCK-2026-20260409071634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14940/0/7612949286/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arockia Dass.j",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Jesu.a",
+        "address": "239, Ramaiyanpatty, Meenachinayakkanpatty Post, Dindigul-624002.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROCK-2026-20260406011020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9076/0/59049cd1aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arockia Dass.j",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Jesu.a",
+        "address": "239, Ramaiyanpatty, Meenachinayakkanpatty Post, Dindigul-624002.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AROCK-2026-20260406011020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12972/0/f1f6b46407/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Babu. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Shanmugam",
+        "address": "25C, Sivaji Ganesan First Street, West Ashok Nagar, Chettinaickenpatti, Didigul West Taluk,Dindigul District-624001.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BABU-2026-20260409073603.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14895/0/d85d115e8b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Babu.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Shanmugam",
+        "address": "25C, Sivaji Ganeshan First Street, West Ashok Nagar, Dindigul-624001.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BABU-2026-20260406051722.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8985/0/3405685dfe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Beebisha.n",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Nazeer Raja",
+        "address": "34/B, Bharathi Hostel Road, Indira Nagar, Dindigul-624003.",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BEEBI-2026-20260406055332.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9981/0/749d4870d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh Perumal. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Dhanabal",
+        "address": "4/37, South Street, Chennamanaykkanpatti, Chettinaickenpatti, Dindigul West Taluk, Dindigul District-624004.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GANES-2026-20260409072031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14743/0/e6b07c6e13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh Perumal.d",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Dhanabal",
+        "address": "4/37, South Street, Chennamanaykkanpatti, Chettinaickenpatti Post, Dindigul-624004.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260406041353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8660/0/1d89913ff0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopal.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Raju.k",
+        "address": "1/432, Nallamanaickenpatty, Puliyampatti, Thottanoothu, Nagal Nagar, Dindigul-624003.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPAL-2026-20260406061727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9973/0/b11f190664/",
+          "https://voterlist.co.in/affidavit-download/9973/1/42004feb1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopi Krishnan Pillai. S",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Seenivasan Pillai.m",
+        "address": "47, Parvathi Illam, West Ramanathapuram,Chettinaickenpatty,Dindigul West Taluk, Dindigul District-624001.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GOPIK-2026-20260409065755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16312/0/37893964c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopi Krishnan Pillai.s",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Seenivasan Pillai.m",
+        "address": "47, Parvathi Illam, West Ramanathapuram, Dindigul-624001.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPIK-2026-20260402030143.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5123/0/963479cde9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karmegam. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Ramasamy. M",
+        "address": "142/31-1, Naveen Nagar, Tamaraipadi, Dindigul East Taluk, Dindigul District-624005.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARME-2026-20260409072228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16432/0/08812424ec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karmegam.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Ramasamy.m",
+        "address": "Door No:142/31-1, Naveen Nagar, Tamaraipadi, Dindigul-624005.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARME-2026-20260402035048.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5310/0/5ea9f95a2e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Latchaprabu.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Raju",
+        "address": "1/265, Theppakulathuppatty, Azhagupatty, Dindigul-624709.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LATCH-2026-20260406044751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8797/0/cd72f9f0fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muniyappan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Muniyappan",
+        "address": "43, Ellaipatti, Kamatchipuram, Dindigul West Taluk, Dindigul District-624622.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUNIY-2026-20260410103415.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14726/0/b43f32d44d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muniyappan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Muniyappan",
+        "address": "No-43, Ellaipatti, Kamatchipuram Post, Kamatchipuram, Dindigul-624622.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNIY-2026-20260406125634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8621/0/8ea1b224bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mutharasi. S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Ganesh Kumar.m",
+        "address": "M2/22, 4Th Cross Street, Rm Colony, Chettinayakkenpatty,Dindigul West Taluk,Dindigul District-624001.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHA-2026-20260409064618.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16649/0/3b2fc762e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mutharasi.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Ganesh Kumar.m",
+        "address": "M2/22, Rm Colony, 4Th Cross Street, Dindigul-624001.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHA-2026-20260330010905.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/491/0/5f44db6e55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthukrishnan.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Appavu",
+        "address": "3/374, Alakuvarpatti, Kallipatti Post, Chettinaickenpatti, Dindigul, Tamilnadu-624709.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260404115227.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6323/0/d85071e719/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagaraj. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Narayanan. C",
+        "address": "3/973, N.s.nadar Thottam Ward-5, Balakrishnapuram Pudur, Dindigul East Taluk, Dindigul District-624005.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NAGAR-2026-20260409073324.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15953/0/cb3fadd6fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagaraj.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Narayanan.c",
+        "address": "No:3/973, N.s.nadar Thottam Ward-5, Balakrishnapuram, Pudur, Dindigul-624005.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260404043627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7357/0/2d69b434c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nazeer Raja. G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Gousmaideen",
+        "address": "34/B, Bharathi Hostel Road, Indira Nagar, Adiyanuthu, Dindigul East Taluk,Dindigul District-624003.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NAZEE-2026-20260409070634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15604/0/c43dbcc183/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nazeerraja.g",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Gousmaideen",
+        "address": "34/B, Bharathi Hostel Road, Indira Nagar, Dindigul-624003.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAZEE-2026-20260404023301.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6212/0/26cc42111c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhu.r",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Ramuthevar",
+        "address": "13C, Krishnasamynaidu Lane, Pensioner Street, Dindigul-624001.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABH-2026-20260404015942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6647/0/09d57bbe49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pradeep. M",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Marimuthu",
+        "address": "5/5Na, Valluvar Colony, Ward 5, Nanthavanappatty, Seelapadi, Dindigul West Taluk,Dindigul District-624005.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRADE-2026-20260409070848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14783/0/ce5732cc8e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pradeep.m",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Marimuthu",
+        "address": "5/5Na, Valluvar Colony, Ward 5, Nanthavanappatty, Dindigul-624005.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRADE-2026-20260406054052.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8762/0/59a7d337e5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radhakrishnan.g",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Govindaraj.r",
+        "address": "355/6, Reddiyapatti Post, Rntc Nagar, Thottanoothu, Nagal Nagr, Dindigul-624003",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RADHA-2026-20260404123500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6540/0/6ee1bdaf99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamohan.c.s",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Sreenivasan.c",
+        "address": "M2/32, R.m.colony, 5Th Cross, Dindigul-624001.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260406023120.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10397/0/47fa9dd36d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajappa.s",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Santhiyagu",
+        "address": "No-56, East Arockiyamatha Street, Nagal Nagar, Adiyanuthu, Dindigul-624003.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAP-2026-20260406030224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9697/0/c824a0f125/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Govindu. T",
+        "address": "M2 62-2, R.m.colony, 13Th Cross Street,Chettinaickenpatti , Dindigul West Taluk, Dindigul District-624001.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJEN-2026-20260409074045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16664/0/fcfe8e754d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Govindu.t",
+        "address": "M2 62-2, 13Th Cross Street, Rm Colony, Dindigul, Tamilnadu-624001.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260330014612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/580/0/ebdc63b2a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramuthevar. P",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Pitchai Thevar",
+        "address": "13C, Subba Pillai Lane, Pensioner Street, Chettinaickenpatti,  Dindigul West Taluk, Dindigul District-624001.",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMUT-2026-20260409071121.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15824/0/24fd5bac14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramuthevar.p",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Pitchai Thevar",
+        "address": "13C, Subbapillai Lane, Pensioner Street, Dindigul-624001.",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMUT-2026-20260404012614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6260/0/eaea54ad34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rathina Kumar.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Paneer Selvam",
+        "address": "No-21A/32, Vellaiyan Asari Santhu,Pappathi Illam, Dindigul-624001.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RATHI-2026-20260406042736.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9492/0/5d40f72ac3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rathna Kumar.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Paneer Selvam",
+        "address": "No-21A/32, Vellaiyan Asari Santhu,Pappathi Illam, Dindigul-624001.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RATHI-2026-20260406042736.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13031/0/aee7c674fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saranya. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Muniyandi",
+        "address": "25, Rajalakshmi Nagar, Angalaeshwari Kovil, Anumantha Nagar,  Balakrishnapuram, Dindigul East Taluk, Dindigul Didtrict-624005.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAN-2026-20260409072458.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15310/0/5343ba5183/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saranya.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Muniyandi",
+        "address": "25, Rajalakshmi Nagar, Angalaeshwari Kovil, Anumantha Nagar, Dindigul East-624005.",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAN-2026-20260406050055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9791/0/aa5fb948c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seenivasan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Pitchai",
+        "address": "268, Poovaikilavanpatty, Jotthampatty, Dindigul East Taluk,  Dindigul District-624308.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SEENI-2026-20260409072711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15428/0/71195f555d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seenivasan.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Pitchai",
+        "address": "268, Poovaikilavanpatty, Jotthampatty, Dindigul, Tamilnadu-624308.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEENI-2026-20260406035825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9986/0/ab1386b861/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvadhayanithi. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Murugan",
+        "address": "171A-Kathiraiyan Kulam, Silvarpatti, S.vadipatty Post,  Dindigul  West Taluk, Dindigul District-624622.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVA-2026-20260409073033.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15299/0/b74e54d1b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvadhayanithi.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Murugan",
+        "address": "171A-Kathiraiyan Kulam, S.vadipatty Post, Silvarpatti, Dindigul, Tamilnadu-624622.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406121556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9764/0/47e8f24d24/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar. I.p",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Periyasamy.i",
+        "address": "No-5, Seelapadi Main Road, Alagiri Goundanur, Seelapadi, Dindigul West  Taluk, Dindigul District-624005",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SENTH-2026-20260409065303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14634/0/f065fdfa49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar.i.p",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Periyasamy.i",
+        "address": "No-5, Seelapadi Main Road, Alagiri Goundanur, Seelapadi, Dindigul, Tamilnadu-624005.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406013554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8407/0/16494d9f79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthi.p",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Pandian.r",
+        "address": "116, Malligai Street, Ramnagar, Dindigul-624005.",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260402010811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5009/0/733b7bba7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sheik Bareeth.b",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Babu.e",
+        "address": "No-39, Asath Street, Asanathpuram, Pallapatti, Begampur, Dindigul-624002.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHIEK-2026-20260406124331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10300/0/72727a7ce7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sreenivasan. C",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Chinnasamy.m",
+        "address": "H3/20, R.m.colony, E.v.r. Salai, Chettinayakkanpatty,Dindigul West Taluk, Dindigul District-624001.",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SREEN-2026-20260409064911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15064/0/2950817698/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sreenivasan.c",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Chinnasamy.m",
+        "address": "H3/20, R.m.colony, E.v.r. Salai, Dindigul-624001.",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SREEN-2026-20260406020821.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9305/0/1190afd044/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Umar Ali. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Raja Mohamed. U",
+        "address": "39/86A, Yosuhiya Nagar, Begampur Post, Pallapatti, Dindigul West Taluk, Dindigul District-624002.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/UMARA-2026-20260409071815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14859/0/dbb52db9e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Umar Ali.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Raja Mohamed.u",
+        "address": "39/86A, Yosuhiya Nagar, Begampur Post, Pallapatti, Dindigul-624002.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UMARA-2026-20260406062644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8932/0/74807e70fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasantha.m",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Dindigul",
+        "father_husband_name": "Mariyappan.k",
+        "address": "3/136, Kollappatty Colony, Thippampatty, Kethaiyurumbu, Oddanchatram, Dindigul-624619.",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260406064027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9967/0/5d9a470d21/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Saidapet",
+    "count": 41,
+    "candidates": [
+      {
+        "name": "A.prithviraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Aravindhan",
+        "address": "No: 58/32, Ramasami Thottam, Adayar, Chennai-600020",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APRI-2026-20260406060456.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8821/0/e3a6b23772/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.venkatesan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "K.annamalai",
+        "address": "No: 7/29, 3Rd Pan Rajarathinam Street, Old Washermanpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVEN-2026-20260406080247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11059/0/5b05d3d66c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "K.annamalai",
+        "address": "No: 7/29, 3Rd Pan Rajarathinam Street, Old Washermanpet, Chennai-600021.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVEN-2026-20260406080247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13052/0/bb5e3b8682/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anand. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Samiyan",
+        "address": "No. 34/18, Padavattamman Koil Street, West Mambalam, Chennai  600 033.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANAND-2026-20260409093451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14849/0/a6e8b2f904/",
+          "https://voterlist.co.in/affidavit-download/14849/1/3111c5f399/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arul Prakasam. M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "P.s.mani",
+        "address": "Plot No. 41, Door No. 10/643 B, S2, Vgp Babu Nagar, Second  Street, Medavakkam, Chengalpattu - 600 100.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260404041315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16258/0/5d793c8c61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.yogaprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Baskaran",
+        "address": "No: 7/25, Gangaiamman Koil 2Nd Street, Kamarajapuram, Velachery, Chennai-600042.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BYOG-2026-20260406071206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8756/0/edee313901/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.r.suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Ramanjalu Naidu",
+        "address": "No.87/3, East Jones Road, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRS-2026-20260404064045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7453/0/1420993661/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.francis Xavier",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Edwin Raj",
+        "address": "No:103A, 8Th Street, Kannigapuram, Guindy, Chennai-600032",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EFRA-2026-20260406101145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12035/0/70b7ffd4fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.p.kumaran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "K.g.pandu",
+        "address": "No. 64/118, Subbu Pillai Garden, Thiyagaraya Nagar, Chennai-600017",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GPK-2026-20260402042440.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5177/0/8ea00828ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.senthamizhan",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "J.gnnaprakasam",
+        "address": "No. 80/53, Sasthri Street, Kaveri Nagar, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSEN-2026-20260402035738.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5340/0/96b124f864/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gingston. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Moses",
+        "address": "New No. 1, Old No. 25/1, Dewaanbashyam Street, Saidapet, Chennai - 600 015.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MGIN-2026-20260405025008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16144/0/f4139f0c0b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "H.shadik Basha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "H.humayun Basha",
+        "address": "No. 9/1, Murahari Salai, Sarathi Nagar, West Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HSHA-2026-20260404054653.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7649/0/e5b9959aeb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kandhasamy. R (Alias) Babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "P.rengasamy",
+        "address": "No. 56, Periya Karumariyamman Kovil Street, Gandhi Mandabam Road, Near E.w.s, Pumping Lane, Kotturpuram, Chennai-600 085.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RKAN-2026-20260405015340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16642/0/98e6337343/",
+          "https://voterlist.co.in/affidavit-download/16642/1/b823036ecf/",
+          "https://voterlist.co.in/affidavit-download/16642/2/2bbb21f56f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaran. G.p",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "K.g.pandu",
+        "address": "No. 64/118, Subbu Pillai Garden, Thiyagarayanagar, Chennai-600 017.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KUMAR-2026-20260409093338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16338/0/178a70f584/",
+          "https://voterlist.co.in/affidavit-download/16338/1/d38a6e9713/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.anbu Selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "S.meshak",
+        "address": "No.21/1, Vinayagar Koil Street, Venkatapuram, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANB-2026-20260404045814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6944/0/6bc0206ca6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.arul Prakasam",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "P.s.mani",
+        "address": "Plot No.41, Door No.10/643 B, S2, Vgp Babu Nagar, 2Nd Street, Medavakkam, Chengalpattu-600100",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260404041315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6143/0/7d4ba4a82d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.dhamodhara Krishnan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Murugan",
+        "address": "No: 97/9, Sandesh Layout, Sunrise Avenue,  Kannathur, Reddykuppam, Muttukadu, Kanchipuram-603112",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHA-2026-20260406110208.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12361/0/60f6a748fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gingston",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Moses",
+        "address": "New No: 1, Old No: 25/1, Dewaan Bashyam Street, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGIN-2026-20260404081637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7777/0/3868ef80ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ma.subramanian",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "R.manickam",
+        "address": "No. 7/4,  Labour Colony, Guindy, Chennai-600032",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASU-2026-20260330041715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/623/0/aa7e2cb0ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.prasad",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Nehru",
+        "address": "No: 75/80, Jothi Ammal Nagar, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPRA-2026-20260404074221.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6906/0/69ff88c963/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.soundararajan",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "P.nagarajan",
+        "address": "Door No.8/2, Elango Adigal Street, Muthurangan Block, Jafferkhanpet,Chennai-600083",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSOU-2026-20260330062136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/168/0/36985fdda5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.valarmathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "A.murugan",
+        "address": "No: 366, S Block, Chithra Nagar, Kotturpuram, Chennai-600085.",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVAL-2026-20260406103758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11828/0/a35f3d0e48/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthiban. S",
+        "party": "Mgr Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "V.sundaram",
+        "address": "No. 70/183, Old Mambalam Road, Saidapet, Chennai-600 015.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PARTH-2026-20260409093304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16471/0/6285c035cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prasad. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Nehru",
+        "address": "No. 75/80, Jothiammal Nagar, Saidapet, Chennai - 600 015.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRASA-2026-20260409093419.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15709/0/fbb3ccd880/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prithviraj. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Aravindhan",
+        "address": "No. 58/32, Ramasami Thottam, Adyar, Chennai-600 020.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APRI-2026-20260406060456.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14807/0/0701aba299/",
+          "https://voterlist.co.in/affidavit-download/14807/1/f6e285fbd9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.alaganambi",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "P.ramakrishnan",
+        "address": "No: 46 A1 2Nd Main Road, Gandhi Nagar, Adayar, Chennai-600020",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RALA-2026-20260406104528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12036/0/e48f6b9cbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.kandhasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "P.rengasamy",
+        "address": "No.56, Periyakarumariamman Koil Street, Kotturpuram, Chennai-600085",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAN-2026-20260330075115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/454/0/bb343d5e66/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.krishna Kumar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "A.rajendran",
+        "address": "No:104/48, Perumal Koil Street, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKRI-2026-20260404072557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7734/0/12a038e2d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "M.ramalingam",
+        "address": "No: 47/17, Subramani Mudali Street, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260404061746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7725/0/584de538eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "M.ramalingam",
+        "address": "No. 47/17, Subramani Mudali Street, Saidapet, Chennai - 600 015.",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260404061746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16125/0/b5d4f44c1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.anand",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Samiyan",
+        "address": "No: 34/18, Padavattamman Koil Street, West Mambalam, Chennai-600033",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANA-2026-20260406054212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8904/0/ce0791dbe3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kalaiyarasi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "M.suresh",
+        "address": "No.14, Murasoli Maran Street, Jafferkhanpet, Ashok Nagar, Chennai-600083",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAL-2026-20260406102130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12332/0/72f14a2857/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.parthiban",
+        "party": "Mgr Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "V.sundaram",
+        "address": "No, 70/183, Old Mambalam Road, Saidapet, Chennai-600015",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAR-2026-20260402022446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5415/0/bd26cd1b18/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.santhosh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Selvakumar",
+        "address": "No: 25, Chetti Thottam, West Saidapet, Chennai-600015.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAN-2026-20260406120656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9582/0/9245cec441/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthamizhan. G",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "J.gnnaprakasam",
+        "address": "No. 80/53, Sasthri Street, Kaveri Nagar, Saidapet, Chennai-600 015.",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SENTH-2026-20260409093322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16079/0/5ad0284351/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Soundararajan. N",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "P.nagarajan",
+        "address": "Door No. 8/2, Elango Street, Muthurangam Block, Jafferkhanpet, Chennai - 600 083.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NSOU-2026-20260405014833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16583/0/7965c605fe/",
+          "https://voterlist.co.in/affidavit-download/16583/1/db64021a4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srividya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "S.ganapathy Krishna",
+        "address": "No.29, Muthiyal Chetty Street, Purasaivakkam, Chennai-600007",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIVI-2026-20260330052214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/403/0/056d14156a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srividya. G",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "S.ganapathy Krishna",
+        "address": "No. 29, Muthiyal Chetty Street, Purasaivakkam, Chennai - 600 007..",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRIVI-2026-20260405015148.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16631/0/c63fdd5649/",
+          "https://voterlist.co.in/affidavit-download/16631/1/eb332e5525/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramanian. Ma",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "R.manickam",
+        "address": "No. 7/4,  Labour Colony, Guindy, Chennai - 600 032.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASU-2026-20260330041715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16669/0/b6a23bf395/",
+          "https://voterlist.co.in/affidavit-download/16669/1/923a5977d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Valarmathi. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "A.murugan",
+        "address": "No. 366, S - Block, Chitra Nagar, Kotturpuram, Chennai - 600 085.",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVAL-2026-20260406103758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14831/0/07b48c2084/",
+          "https://voterlist.co.in/affidavit-download/14831/1/e54200b242/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Yogaprakash. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Saidapet",
+        "father_husband_name": "Baskaran",
+        "address": "No. 7/25, Gangaiamman Koil Iind Street, Kamarajapuram, Velachery, Chennai-600 042.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BYOG-2026-20260406071206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14781/0/4d64287f7e/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

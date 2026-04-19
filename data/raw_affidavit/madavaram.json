@@ -1,0 +1,522 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Madavaram",
+    "count": 34,
+    "candidates": [
+      {
+        "name": "A.j.shakthivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "S.arumugam",
+        "address": "No.219, Vivekananthar Street, K.k.nagar, Attanthangal, Chennai-600067.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJS-2026-20260406040219.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10144/0/74035eb416/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.m.isakki Gopal Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "A.maharajan",
+        "address": "2/97, Bharathidasan Nagar, 2Nd Street, Shanmugapuram, Kolathur Post, Chennai-600099.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMI-2026-20260402033834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5267/0/29ef8b5b36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.nagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Ashokan",
+        "address": "No.1/91, Gandhi Street, Vadakarai, Chennai-600052.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260406031506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15623/0/f2bef5873e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.ponnalagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Arumugam",
+        "address": "No.5/8, Phase-1, Manali New Town, Chennai-600103.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/APON-2026-20260406034738.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9442/0/940902072c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sundarraj",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "P.amavasai",
+        "address": "No.2/125, Dr.ambedkar Street, Vadakarai, Redhills, Chennai-600052",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUN-2026-20260404021846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6838/0/61ab8afa94/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.nedunchezhiyan",
+        "party": "All India Mgr Makkal Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "M.bala Devar",
+        "address": "No.1/415, Pillaiyar Kovil Street, 2Nd Cross Street, Padiyanallur, Redhills, Chennai-600052.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BNED-2026-20260404033721.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6317/0/96714409f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.nedunchezhiyan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "M.bala Devar",
+        "address": "No.1/415, Pillaiyar Kovil Street, 2Nd Cross Street, Padiyanallur, Redhills, Chennai-600052.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BNED-2026-20260404033721.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8392/0/61aac1c813/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Chandaran",
+        "address": "No.2-42, Anna Street, Kottaimedu Colony, Cholavaram Post, Chennai-600067",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOORT-2026-20260406023923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12903/0/b1693bfd2d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.krithika",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Elumalai",
+        "address": "No.111/61, Perumal Kovil Street, Madhavaram, Chennai-600060",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRITH-2026-20260330030303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16582/0/8260d3dd92/",
+          "https://voterlist.co.in/affidavit-download/16582/1/d425ea6579/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.prabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Gopal",
+        "address": "No.11, Pillaiya Koil Street, Naravarikuppam, Redhills, Chennai-600052.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABH-2026-20260406030347.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15307/0/af5ba2b1fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "I.raffik",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Ibrahim",
+        "address": "No.7, Makkal Murpokku Mandram Street, Naravaaraikuppam, Redhills,Chennai-600052.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IRAF-2026-20260402021904.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5393/0/6df353039c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.r.moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Ragavan",
+        "address": "No.441/368, 7Th Street, Sasthiri Nagar, Palavedu, Tamilnadu",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRM-2026-20260330020551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/636/0/19f745bd75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kovendhan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Elumalai",
+        "address": "No.18, Vasantham Avenue, Perumal Kovil Street, Madhavaram, Chennai-600060.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KOVEN-2026-20260404035022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6469/0/e6ff2b3453/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krithika",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Elumalai",
+        "address": "No.111/61, Perumal Kovil Street, Madhavaram, Chennai-600060",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRITH-2026-20260330030303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/166/0/4c82f250c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.l.vijayprabhu",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "M.e.logabiraman",
+        "address": "Plot No.31, Flat No.d3, Secretriate Colony, 16Th Street, Lakshmipuram, Madhavaram, Kolathur, Chennai-600099.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MLV-2026-20260404012659.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6269/0/66dd058df2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.p.uthira Sakthi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Prabhu",
+        "address": "Plot No.54, 82Nd Street, 4Th Block, Muthamizh Nagar, Kodungaiyur, Chennai-600118.",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPU-2026-20260404030349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6624/0/838887788a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "V.moorthy",
+        "address": "No.27/9, Nehru Street, Madhavaram, Chennai-600060.",
+        "gender": "Female",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAM-2026-20260404125718.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6754/0/d63dc9b4bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madhavaram V.moorthy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "M.velayutham",
+        "address": "No.27/9, Nehru Street, Madhavaram, Chennai-600060",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMOO-2026-20260404023102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15766/0/279fc78456/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Chandaran",
+        "address": "No.2-42, Anna Street, Kottaimedu Colony, Cholavaram Post, Chennai-600067",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOORT-2026-20260406023923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8690/0/d2a83f6610/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.janakiraman",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "M.natarajan",
+        "address": "No.1/127, Mettu Street, Vadakarai, Redhills, Chennai-600052",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NJAN-2026-20260402015626.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5073/0/793f01169b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Ashokan",
+        "address": "No.1/91, Gandhi Street, Vadakarai, Chennai-600052.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260406031506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10344/0/849103b387/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.nedumaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Ponnusamy",
+        "address": "No.46/2B, Raghavan Street, Jambuli Street, Kodunkaiyur,Chennai-600118.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PNED-2026-20260402012513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5026/0/35da8f19cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Chellappan",
+        "address": "No.3/117, Perumal Koil Street, Vijayanallur, Chennai-600067.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260406022735.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10195/0/7ca4c4dd06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Gopal",
+        "address": "No.11, Pillaiya Koil Street, Naravarikuppam, Redhills, Chennai-600052.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABH-2026-20260406030347.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9783/0/04fc4b9c73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.karthikeyan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "G.ramachandran",
+        "address": "No.2/315, First Floor, Jeeva Street, Mondiamman Nagar, Chennai-600052.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAR-2026-20260404014554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6527/0/69178a01a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.s.balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Ramayan Azhagarsamy Subramanian",
+        "address": "No 6 2 Nd Street Ramamurthy Nager Edapalayam Alamathi Village Redhills Chennai 600052",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/9/1775004818AdobeScan12Apr202511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13362/0/55f98d24fc/",
+          "https://voterlist.co.in/affidavit-download/13362/1/1257c16856/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.saravanan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "M.raman",
+        "address": "No.218, Bajanai Kovil Street, Vadakarai, Redhills, Chennai-600052.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAR-2026-20260404020548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6711/0/cba1eee18c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramayan Subramanian Balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Ramayan Azhagarsamy Subramanian",
+        "address": "No 6 2 Nd Street Ramamurthy Nager Edapalayam Alamathi Village Redhills Chennai 600052",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/9/1775004818AdobeScan12Apr202511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5092/0/78705e7cb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "T.s.sankar",
+        "address": "No.10/31, Bank Colony, 1St Street, Madhavaram Milk Colony, Chennai-600051.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSIV-2026-20260406010856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9032/0/fce4f3baad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sudharsanam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "K.sundaram",
+        "address": "No.4/51, Anna Street, Madhavaram, Chennai-600060.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUD-2026-20260404123130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6523/0/17aae8ded1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sangeetha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "S.a.sreenivasan",
+        "address": "No.4/51, Anna Street, Madhavaram, Chennai-600060.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANGE-2026-20260404024518.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6389/0/4dca64cd9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudarsanam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Narasaiya Gona",
+        "address": "No.51, Telugu Colony, Madhavaram, Chennai-600060.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDAR-2026-20260406124220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10275/0/81d4682eb3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.moorthy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "M.velayutham",
+        "address": "No.27/9, Nehru Street, Madhavaram, Chennai-600060",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMOO-2026-20260404023102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6183/0/bb584909b2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.murthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madavaram",
+        "father_husband_name": "Veeraragavan",
+        "address": "No.261, Bajanai Koil Street, Grandline, Chennai-600052.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUR-2026-20260406025119.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9199/0/9991b24250/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

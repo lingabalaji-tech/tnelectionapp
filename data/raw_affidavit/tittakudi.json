@@ -1,0 +1,617 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Tittakudi",
+    "count": 41,
+    "candidates": [
+      {
+        "name": "A.murugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Ayyasamy",
+        "address": "Door No.32/20, East Street,  New Colony, Manalur Village, Vridhachalam Taluk",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AMUR-2026-20260404071723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7134/0/895a8b368e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.rajasekar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Ayyasamy",
+        "address": "Lig-87, Tamil Nadu Housing Board, Vilva Nagar, Cuddalore Taluk, Cuddalore District-607 001.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARAJ-2026-20260404061236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7457/0/a415870459/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amutha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Sathiyaraj",
+        "address": "Door No:2/16, North Street, Kachimayilur Village  Post, Veppur Taluk, Cuddalore- 606108",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AMUTH-2026-20260330064043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/180/0/efe645e301/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anjugam",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Palanivel",
+        "address": "Door No.2/219, Kandapankurichi Mathura A.chittur    Veppur Taluk, Cuddalore District-606 302.",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANJUG-2026-20260404055413.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7965/0/300af08017/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.v.ganesan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "P.venkattan",
+        "address": "No.5/172,  Nh Road, Kazhudur Village  Post, Tittagudi Taluk, Cuddalore- 606 304.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CVG-2026-20260406092135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11931/0/a5af7b9bb2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.kasilingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Dharumalingam",
+        "address": "No.326, Colony East Street, Mangulam Village, Rettakurichi Post, Veppur Taluk, Cuddalore",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DKAS-2026-20260406104923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12085/0/429ab57cbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.s.anandhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "R.sellaperumal",
+        "address": "No.2/143, East Main Road, Karmangkudi Village  Post, Srimushnam Taluk, Cuddalore-606 110",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRS-2026-20260406063732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9173/0/cf7d7e1754/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.venkatesan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "C.v.ganesan",
+        "address": "No.5/172,  Nh Road, Kazhudur Village  Post, Tittagudi Taluk, Cuddalore- 606 304.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GVEN-2026-20260406095223.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12265/0/1db665377a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Muniyan",
+        "address": "No.131, North Street, Sirupakkam Village  Post,  Veppur Taluk.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GANES-2026-20260406081730.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11364/0/b11ed7d31b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan C.v",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "P.venkattan",
+        "address": "No.5/172,  Nh Road, Kazhudur Village  Post, Tittagudi Taluk, Cuddalore- 606 304.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CVG-2026-20260410010521.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14948/0/0af878caff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.silambarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Jothilingam",
+        "address": "No.1/79, South Street, Narasingamangalam,Village, Edaiyur Post, Tittagudi Taluk, Cuddalore-606 302",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JSIL-2026-20260406075149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11353/0/f30072a050/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jaya K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Kaliyamoorthi",
+        "address": "No.147, Main Road, Guddalore Village  Post, Tittagudi Taluk",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KJAY-2026-20260406070144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15239/0/bc55f4ceee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaraman N",
+        "party": "Bahujan Dravida Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Nallusamy",
+        "address": "No.2/Na,  North Street,  Alathur Village, Tittagudi Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NJAY-2026-20260410011827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14742/0/f1dfa6b7e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Jaya",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Kaliyamoorthi",
+        "address": "No.147, Main Road, Guddalore Village  Post, Tittagudi Taluk",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KJAY-2026-20260406070144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9643/0/a163d6e4d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kaliyamoorthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Kumaran",
+        "address": "No.147, Main Road, Guddalore Village  Post, Tittagudi Taluk",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KKAL-2026-20260406071806.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10763/0/b3ec74f648/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.p.ravichandran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Ponnusamy",
+        "address": "Door No.14,  Old Colony, Korakkavadi Village And Post,  Tittagudi Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KPR-2026-20260402043046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5172/0/b3f7274c42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanthasamy . S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Saminathan",
+        "address": "No.40/1, Mariyamman Kovil Street, Cholan Nagar, Pennadam Village  Post, Tittagudi Taluk, Cuddalore - 606 105.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Sathiya",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Manogaran",
+        "address": "No.2/146,  Old Colony, Ambedkar Nagar, Vayalapadi Village, Kunnam Taluk, Perambalur District.",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.mukilvannan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "N.murugumaran",
+        "address": "No.66/15,  Tamil Illam,  Pidari Street, Kattumannarkoil Taluk,  Cuddalore -608 301.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMUK-2026-20260406103255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11672/0/ebd4d362ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Karunakaran",
+        "address": "Door No.210, Main Road, Keezhorathur Village  Post, Veppur Taluk, Cuddalore-606204",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAHAL-2026-20260330060204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/499/0/2657b96c79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi V",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Karunakaran",
+        "address": "Door No.210, Main Road, Keezhorathur Village Asakalathur Post, Veppur Taluk, Cuddalore-606204",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAHAL-2026-20260410010413.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16652/0/3538f01ce4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manogaran. T",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Thangavel",
+        "address": "No.2/146,  Old Colony, Ambedkar Nagar, Vayalapadi Village, Kunnam Taluk, Perambalur District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Ayyasamy",
+        "address": "Door No.32/20, East Street,  New Colony, Manalur Village, Vridhachalam Taluk",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AMUR-2026-20260404071723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15816/0/15b1791adb/",
+          "https://voterlist.co.in/affidavit-download/15816/1/106cc99d26/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugumaran N",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "D.nagarajan",
+        "address": "No.66/15,  Tamil Illam,  Pidari Street, Kattumannarkoil Taluk,  Cuddalore -608 301.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NMUR-2026-20260406101908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15080/0/d097a1cefb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Jayaraman",
+        "party": "Bahujan Dravida Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Nallusamy",
+        "address": "No.2/Na,  North Street,  Alathur Village, Tittagudi Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N.murugumaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "D.nagarajan",
+        "address": "No.66/15,  Tamil Illam,  Pidari Street, Kattumannarkoil Taluk,  Cuddalore -608 301.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NMUR-2026-20260406101908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12056/0/e64029cda3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Padmanathan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Vasudevan",
+        "address": "No.7A, Melaperumal Kovil Street, Karunkuzhi Thoppu, Pennadam Village  Post, Tittagudi Taluk, Cuddalore - 606 105.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VPAD-2026-20260410011219.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15619/0/c83e3ee697/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanivel R",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "M.rajamanickam",
+        "address": "Door No.2/219, Kandapankurichi Mathura A.chittur    Veppur Taluk, Cuddalore District-606 302.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RPAL-2026-20260404053525.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15768/0/58b5727522/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Panchavarnam",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Rajasekar",
+        "address": "Lig-87, Tamil Nadu Housing Board, Vilva Nagar, Cuddalore Taluk, Cuddalore District-607 001.",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PANCH-2026-20260404063700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6925/0/fc4acf2f84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Perinbam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Dayachandar",
+        "address": "No.38, Middle Street, Kodangudi Village, Pothiramangalam Post, Tittagudi Taluk, Cuddalore - 606 111",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PERIN-2026-20260404075715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7269/0/309b0181a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Perinbam D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Dayachandar",
+        "address": "No.38, Middle Street, Kodangudi Village, Pothiramangalam Post, Tittagudi Taluk, Cuddalore - 606 111",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PERIN-2026-20260410011320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15903/0/406d4af73f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Palanivel",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "M.rajamanickam",
+        "address": "Door No.2/219, Kandapankurichi Mathura A.chittur    Veppur Taluk, Cuddalore District-606 302.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RPAL-2026-20260404053525.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7036/0/70ed5655a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Ayyasamy",
+        "address": "Lig-87, Tamil Nadu Housing Board, Vilva Nagar, Cuddalore Taluk, Cuddalore District-607 001.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARAJ-2026-20260404061236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16003/0/157c028e95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravichandran K.p",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Ponnusamy",
+        "address": "Door No.14,  Old Colony, Korakkavadi Village And Post,  Tittagudi Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KPR-2026-20260410011427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16335/0/fe2bdaab82/",
+          "https://voterlist.co.in/affidavit-download/16335/1/db8beeb6f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathya M",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Manogaran",
+        "address": "No.2/146,  Old Colony, Ambedkar Nagar, Vayalapadi Village, Kunnam Taluk, Perambalur District.",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSAT-2026-20260407101222.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15192/0/a8677cd0b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Silambarasan J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Jothilingam",
+        "address": "No.1/79, South Street, Narasingamangalam,Village, Edaiyur Post, Tittagudi Taluk, Cuddalore-606 302",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JSIL-2026-20260410011609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15587/0/58e1b6ab2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.padmanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Vasudevan",
+        "address": "No.7A, Melaperumal Kovil Street, Karunkuzhi Thoppu, Pennadam Village  Post, Tittagudi Taluk, Cuddalore - 606 105.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.subramaniyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Vaiyapuri",
+        "address": "No.45A, V.p.singh Street, Pe.ponneri Village, Pennadam R.s  Post, Tittagudi Taluk, Cuddalore-606111",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUB-2026-20260404073328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7905/0/40bca0f694/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velmurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Govindharasu",
+        "address": "No.167, East Street, Nithinatham Village  Post,  Tittagudi Taluk, Cuddalore-606 304",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VELMU-2026-20260406083417.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10895/0/171579c3fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velmurugan G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Govindharasu",
+        "address": "No.167, East Street, Nithinatham Village  Post,  Tittagudi Taluk, Cuddalore-606 304",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VELMU-2026-20260410011654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15034/0/f73b98eada/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vethamanikam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tittakudi",
+        "father_husband_name": "Arulnathan",
+        "address": "Valliyammai Nagar, Pennadam Village, Tittagudi Taluk, Cuddalore - 606 105.",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VETHA-2026-20260330064841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/198/0/938e85f56d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

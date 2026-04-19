@@ -1,0 +1,566 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kattumannarkoil",
+    "count": 40,
+    "candidates": [
+      {
+        "name": "A Anukamalam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Anbazhagan",
+        "address": "Nadutheru,Thirunaraiyur Post,Kattumannarkoil Taluk,Cuddalore District-608303",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A Chozhan",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Anbazhagan",
+        "address": "North Street, Naduthittu,Thirunaraiyur Post,Kattumannarkoil Taluk,Cuddalore District 608303",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A Pandiyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Anbazhagan",
+        "address": "413, North Street, Naduthittu, Thirunaraiyur Post, Kattumannatkoil Taluk,Cuddalore District 608303",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A Seran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Anbazhagan",
+        "address": "413,North Street,Naduthittu,Thirunaraiyur Post,Kattumannarkoil Taluk,Cuddalore 608303",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Chozhan",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Anbazhagan",
+        "address": "Naduthittu,Thirunaraiyur Post,Kattumannarkoil Taluk,Cuddalore District 608303",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ACHO-2026-20260408060124.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13995/0/7144090b69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Sozhan",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Anbazhagan",
+        "address": "Naduthittu,Thirunaraiyur Post,Kattumannarkoil Taluk,Cuddalore District 608303",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ACHO-2026-20260410114702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15590/0/0b3b788b40/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.m.t.archunan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "M Thoppulan",
+        "address": "64/6,Thirupanazhvar Street,Srimushnam Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMT-2026-20260402052336.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Alavanthar .M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Murugan",
+        "address": "No.98 ,Periyatheru, Keezhapoovizhunthanallur,Chettithangal Post,Kattumannarkoil Taluk,Cuddalore District-608304",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ALAVA-2026-20260410114630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14789/0/660551e90e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Alavanthar. M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Murugan",
+        "address": "No.98 ,Periyatheru, Keezhapoovizhunthanallur,Chettithangal Post,Kattumannarkoil Taluk,Cuddalore District-608304",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ALAVA-2026-20260408060058.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13906/0/ef6eb7387f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Babu .B",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Baskar",
+        "address": "649, Mela Theru, Palanchanallur Village And Panchayat, Kattumannarkoil Taluk ,Cuddalore District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BABU-2026-20260408055913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14076/0/d680634df4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Babu B",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Baskar",
+        "address": "649, Mela Theru, Palanchanallur Village And Panchayat, Kattumannarkoil Taluk ,Cuddalore District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr J Elayapuratchi",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "S Balaji",
+        "address": "Metteri Theru,Rajendiracholgan,Kattumannarkoil Taluk,Cuddalore District",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G Jayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Govindasamy",
+        "address": "No.42,Ambethkar Street,Lalpettai,Kattumannarkoil Taluk,Cuddalore District-608303",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G Kalyanasundaram",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Ganapathi",
+        "address": "No.65,Nadutheru,Nattarmangalam Post,Kattumannarkoil Taluk Cuddalore District 608301",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Kalyana Sundaram",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Ganapathi",
+        "address": "No.65,Nadutheru,Nattarmangalam Post,Kattumannarkoil Taluk Cuddalore District 608301",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GKAL-2026-20260408060341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13923/0/fd0bb4e5f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Mani",
+        "address": "No.2/37,Pallikuda Theru,Enanallur,Kottur, Nagapattinam District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "L E Jothimani",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Elayaperumal",
+        "address": "No.1, Kaliyammankoil Street, Kattumannarkoil Taluk,Cuddalore District",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "L.e. Jothimani",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Elayaperumal",
+        "address": "No.1, Kaliyammankoil Street, Kattumannarkoil Taluk,Cuddalore District",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LEJ-2026-20260408060315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13926/0/e18185d9b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Alavanthar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Murugan",
+        "address": "No.98 ,Periyatheru, Keezhapoovizhunthanallur,Chettithangal Post,Kattumannarkoil Taluk,Cuddalore District-608304",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.a.t. Archunan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Thoppulan",
+        "address": "64/6,Thirupanazhvar Street,Srimushnam Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAT-2026-20260410114505.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16409/0/9d09f640b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.a.t.archunan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "M Thoppulan",
+        "address": "64/6,Thirupanazhvar Street,Srimushnam Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMT-2026-20260402052336.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N R Rajendiran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Rajagopal",
+        "address": "36/B7, Kirushnar Veethi,Salaikarai,Periyarnagar, Kattumannarkoil Taluk,Cuddalore 608303",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Periyarselvi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Alavanthar",
+        "address": "No.98, Periyatheru,Keezhapoovizhunthanallur,Chettithangal Post, Kattumannarkoil Taluk, Cuddalore District-608304",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S Murali",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Sangar",
+        "address": "No.4/194,Senkuttai,K Echampadi Post, Kalaiyamangalam Taluk,Dharmapuri District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S Sankarkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Sambantham",
+        "address": "No.162,Periyatheru,Sivakkam,Perunkalur Post,Kattumannarkoil Taluk,Cuddalore District-608303",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S Seenuvasan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Sivaganamoorthi",
+        "address": "No.5,Balaji Complex,Pagavathi Amman Koil Street, Vilva Nagar,Cuddalore Taluk District 607001",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Murali",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Sangar",
+        "address": "No.4/194,Senkuttai,K Echampadi Post,  Karimangalam Taluk,Dharmapuri District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMUR-2026-20260408060249.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13911/0/552d17b45a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Seenuvasan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Sivaganamoorthi",
+        "address": "No.5,Balaji Complex,Pagavathi Amman Koil Street, Vilva Nagar,Cuddalore Taluk, District  607001",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSEEN-2026-20260410114558.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15193/0/a1cfb26bb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sangeetha S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Seenuvasan",
+        "address": "No.5 Balaji Complex, Pagavathi Amman Koil Street, Vilvanagar, Cuddalore Taluk District-607001",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankarkumar .S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Sambantham",
+        "address": "No.162, Periyatheru,Sivakkam,Perunkalur Post,Kattumannarkoil Taluk,Cuddalore District-608303",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANKA-2026-20260410114757.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14713/0/df9ddf7205/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankarkumar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Sambantham",
+        "address": "No.162,Periyatheru,Sivakkam,Perunkalur Post,Kattumannarkoil Taluk,Cuddalore District-608303",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SANKA-2026-20260408060225.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13898/0/5a6245dbd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Satheesh Kumar M",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Mani",
+        "address": "No.15,Kamaraj Street,Vallampadugai,Ammapettai Post,Chidambaram Taluk,Cuddalore District-608401",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHE-2026-20260404045133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7907/0/a0c167b855/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Satheeshkumar .M",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Mani",
+        "address": "No.15,Kamaraj Street,Vallampadugai,Chidambaram Taluk,Cuddalore District-608401",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SATHE-2026-20260410114527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16205/0/d00bd60acb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Satheeshkumar M",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Mani",
+        "address": "No.15,Kamaraj Street,Vallampadugai,Ammapettai Post,Chidambaram Taluk,Cuddalore District-608401",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHE-2026-20260404045133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14064/0/683f9dc527/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivajothi .M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Murugaiyan",
+        "address": "No.136,Melapungudi, K. Adoor Post,Chidambaram Taluk, Cuddalore District- 608602",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SIVAJ-2026-20260410114424.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16614/0/d651b2f992/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivajothi.m",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Murugaian",
+        "address": "No.136,Melapungudi, K. Adoor.chidambaram Taluk, Cuddalore District, Pincode-608602",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAJ-2026-20260330033024.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/318/0/a2227c43ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T Annamalai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Thangasamy",
+        "address": "730, North Street,Kuchur Village,Ayangudi Post, Kattumannarkoil Taluk,Cuddalore District-608304",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Annamalai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Thangasamy",
+        "address": "730, North Street,Kuchur Village,Ayangudi Post, Kattumannarkoil Taluk,Cuddalore District-608304",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TANN-2026-20260408060157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13993/0/ba425bdb2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetriselvan J",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Jayapal",
+        "address": "No.72,Adidiravidar Street,Nagarapadi Post,Srimushnam Taluk,Cuddalore Districe 608703",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VETRI-2026-20260406122340.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Vimalraj P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kattumannarkoil",
+        "father_husband_name": "Pakkirisamy",
+        "address": "No.2, Sabanayar Street,M Udaiyur,Kattumannarkoil Taluk,Cuddalore District-608303",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Gandharvakottai",
+    "count": 14,
+    "candidates": [
+      {
+        "name": "Arunkumar . S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Selvaraj",
+        "address": "13/B Keela Theru , Kothagam, Gandarvakkottai Po, Gandarvakkottai Taluk , Pudukkottai - 613301",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNK-2026-20260402072818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13333/0/2c493d1188/",
+          "https://voterlist.co.in/affidavit-download/13333/1/eeb8b5ecb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Uthayakumar",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Chellaiah",
+        "address": "1/85, Nadu Theru, Punalkulam, Thethuvasalpatti Po, Gandarvakottai Taluk, Pudukkottai District",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CUTH-2026-20260406104450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12998/0/70dd502eb7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanarasu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Murugan",
+        "address": "3/177, South Street, Pappudaiyanpatti , Kulathur Taluk, Minnathur,Pudukkottai - 622203",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANA-2026-20260402070206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13306/0/0b5eac6fc7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanarasu",
+        "party": "Namadhu Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Murugan",
+        "address": "3/177, South Street, Pappudaiyanpatti , Kulathur Taluk, Minnathur,Pudukkottai - 622203",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANA-2026-20260402070206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16308/0/6682dc27bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Chinnadurai",
+        "party": "Communist Party Of India (Marxist)",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Marimuthu",
+        "address": "181, Adidravidar Street, Punalkulam, Thethuvasalpatti Po, Gandarvakottai Taluk, Pudukkottai District, 613303",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MCHI-2026-20260406105450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13059/0/40da3f4444/",
+          "https://voterlist.co.in/affidavit-download/13059/1/ec65f2002e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Lakshmanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Mathiyazhagan",
+        "address": "189, Hair Colony, Kalaikudipatti, Keelaiyur , Kulathur Taluk, Pudukkottai - District-622502",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MLAK-2026-20260406113303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12931/0/5b35dcab65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Subramanian",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Nallan",
+        "address": "187, Nambampatti Village, Rajalipatti Post, Illupur Taluk, Pudukkkottai District.",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSUB-2026-20260406093528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12974/0/9b0a9515a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Nadesan",
+        "address": "369/3/36A , Karumali,Theru, Pilavidithi Post, Karambakudi Taluk, Pudukkottai District -  622302",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSEN-2026-20260406092414.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13134/0/643a3a9bcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nathiya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Thamizharasan",
+        "address": "458, Vaithikoil,Vaithur -Po, Kulathur- Tk,Pudukkottai District Pin 622 203",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NATHI-2026-20260330073229.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13383/0/b8347c9c37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sasikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Panneerselvam",
+        "address": "774, Kottaikkadu ,Kottaikkadu Post, Karambakkudi Taluk,Pudukkottai District - 622304",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAS-2026-20260404055846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13165/0/065e5a81b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikumar P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Panneerselvam",
+        "address": "774, Kottaikkadu ,Kottaikkadu Post, Karambakkudi Taluk,Pudukkottai District - 622304",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAS-2026-20260404055846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15733/0/57023a5258/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilkumar N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Nadesan",
+        "address": "369/3/36A , Karumali,Theru, Pilavidithi Post, Karambakudi Taluk, Pudukkottai District -  622302",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SENTH-2026-20260410104723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15598/0/30258a1081/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Murugesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Thankamuthu",
+        "address": "524 Themmavur, Kulathur Taluk, Pudukkottai, District-622203",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMUR-2026-20260406112134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12878/0/a387856f99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.balakumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gandharvakottai",
+        "father_husband_name": "Tamilselvan",
+        "address": "187C, Nambampatti Village, Rajali Post, Illupur Taluk, Pudukkottai District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TBAL-2026-20260406095008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13095/0/d2396554ad/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

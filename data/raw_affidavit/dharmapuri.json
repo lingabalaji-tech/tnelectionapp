@@ -1,0 +1,581 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Dharmapuri",
+    "count": 38,
+    "candidates": [
+      {
+        "name": "Arumugam. Muni.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Muniyappachettiyar",
+        "address": "1/139, Echanahalli Village, Erupalli Post, B.agraharam Road, Nallampalli Taluk, Dharmapuri District-636813",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6202/0/a21e3b142d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Elangovan. V.",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Venkatachalam",
+        "address": "107,  Nethaji Bye Pass Road, Gandhi Nagar, Dharmapuri-636 701",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ELANG-2026-20260409010240.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14765/0/58bb36ca0b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elangovan. V. Dr.",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Venkatachalam",
+        "address": "107,  Nethaji Bye Pass Road, Gandhi Nagar, Dharmapuri-636 701",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ELANG-2026-20260406010912.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8718/0/65d65d90b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Harishkumar. V.",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Velumani",
+        "address": "Tc2, Avvai Nagar, Tadangam, Collectorate Post, Dharmapuri-636 705",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIS-2026-20260406083829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10603/0/9032d03ca5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Harishkumar. V.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Velumani",
+        "address": "Tc2, Avvai Nagar, Tadangam, Collectorate Post, Dharmapuri-636 705",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIS-2026-20260406083829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12900/0/d44c6c38ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar. B.",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Balaraman",
+        "address": "3/62, Palayampudhur, Palayampudhur Post, Nallampalli Taluk, Dharmapuri-636 807",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KUMAR-2026-20260406014930.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9378/0/df19cc99ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar. V.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Vajjiram",
+        "address": "7/198A, Gandhi Nagar, Narthampatti Village, Nallampalli Taluk, Dharmapuri-636 804.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260406014549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10420/0/46c7090cda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Madhu. P.",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Ponnusamy",
+        "address": "4/1149, Gandhi Nagar, Tenkaraikottai Post, Pappireddipatti Taluk, Dharmapuri-636904",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MADHU-2026-20260404121510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6405/0/2d9725bd91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. S.",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Subramaniyan",
+        "address": "2/436 Q, Jeeva Nagar, Avvai Vazhi Road, Thadangam Via, Thokkampatti Post, Dharmapuri - 636 705",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANIK-2026-20260406113839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8371/0/633421effb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Munirathinam. K. Dr.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Kuppusamy",
+        "address": "2/93, Keel Street, Samichettipatty Post, Bolanahalli, Nallampalli Taluk, Dharmapuri-636807",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6116/0/fe3aa23a6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Munirathinam. K. Dr.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Kuppusamy",
+        "address": "2/93, Keel Street, Samichettipatty Post, Bolanahalli, Nallampalli Taluk, Dharmapuri-636807",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUNIR-2026-20260406082105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13162/0/a22d50f42f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan. D.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Duraisamy",
+        "address": "30/A, Venugopal Street, Dharmapuri-636701",
+        "gender": "Male",
+        "age": "82",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/385/0/377a0e3dbe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palani. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Kumaravel",
+        "address": "5/179, C.pudhur Village, B.agraharam Post, Konangihalli, Nallampalli Taluk, Dharmapuri District",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/594/0/a65ea3e7b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhakaran. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Murugesan",
+        "address": "5/1B1, Dharmapuri Town, Duraisamy Goundar Street, Dharmapuri",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABH-2026-20260406050740.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10258/0/b8fe9d82bd/",
+          "https://voterlist.co.in/affidavit-download/10258/1/b1d0681d91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prasanth. B.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Balu",
+        "address": "4/28A, Sriram Colony, Vellaegoundanpalayam, Elakkiyampatti, Dharmapuri-636701",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRASA-2026-20260404124037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6588/0/3c095a8a31/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prasanth. Dbj.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Balu",
+        "address": "4/28A, Sriram Colony, Vellaegoundanpalayam, Elakkiyampatti, Dharmapuri-636701",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRASA-2026-20260409011535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16085/0/460b0ea042/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priya. M.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Prabakaran",
+        "address": "3/217, Venkatachalam Kottai, Palavadi Village And Post, Nallampalli Taluk, Dharmapuri-636809",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRIYA-2026-20260330062308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/175/0/d0c93ba612/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravichandran. P.",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Perumal",
+        "address": "1/58, A.velampatty Village, Agraharam Post, Harur Taluk, Dharmapuri District-636 903",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIC-2026-20260406081145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11437/0/d8f2460b9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar. K.",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Kuppu",
+        "address": "3/181-2, Adhiyaman Nagar, Konangihalli Post, B.agraharam Via, Nallampalli Taluk, Dharmapuri District-636 813",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260406060822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9172/0/be23aab71f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar. K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Kuppu",
+        "address": "3/181-2, Adhiyaman Nagar, Konangihalli Post, B.agraharam Via, Nallampalli Taluk, Dharmapuri District-636 813",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260406060822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12988/0/4139410605/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. A.",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Angappan",
+        "address": "3/120, Mettu Street, A.reddihalli, Sogathur Post, Dharmapuri-636 809",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406122027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9414/0/3836723b22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Gopal",
+        "address": "2/94, Gavundan Veetu Street, Kadagathur, Dharmapuri-636 809",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406055157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9859/0/3e71fa663d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Vengan",
+        "address": "4/644, Annai Sathiya Nagar, Sogathur Post, Dharmapuri",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406074459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11186/0/e389c487df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shantha Lakshmi. K.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Senthilkumar",
+        "address": "223, Gandhi Nagar, 5Th Street, Dharmapuri-636701",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260330054343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6076/0/d05ea25bc3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthalakshmi. K.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Senthilkumar",
+        "address": "223, Gandhi Nagar, 5Th Street, Dharmapuri-636701",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260330054343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/565/0/09c1972e90/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivagami",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Govindaraj",
+        "address": "1-216, Thumabalahalli Village, Gendikanahalli Post, Karimangalam Taluk, Dharmapuri District-635205",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6524/0/313d4e626e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivagami. G.",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Govindaraj",
+        "address": "1-216, Thumabalahalli Village, Gendikanahalli Post, Karimangalam Taluk, Dharmapuri District-635205",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SIVAG-2026-20260409125651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14975/0/ad4f0e0da4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivam. R.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Raji Naidu",
+        "address": "4/20, Balajangamanahalli Village And Post, Nallampalli Taluk, Dharmapuri District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAM-2026-20260406073154.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10529/0/b667704eae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivan. A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Anbazhagan",
+        "address": "7/143, Gandhi Nagar, Narthampatti Village And Post, Nallampalli Taluk, Dharmapuri-636 804",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAN-2026-20260406065714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9536/0/7f9db0b066/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivan. M.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Mariyappan",
+        "address": "28, Kuppan East Street, Kuppagoundar Street, Dharmapuri Taluk, Dharmapuri District-636 701",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAN-2026-20260406020814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9288/0/35e0d81b9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sowmiya Anbumani",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Anbumani Ramadoss",
+        "address": "10, Thilak Street, Thiyagaraya Nagar, Chennai, Tamilnadu-600 017",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SOWMI-2026-20260406023510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8520/0/81b3beeb21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundaramoorthy. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Manickam",
+        "address": "5/227D, Azhakapuri, Virupatchipuram, Collectorate Post, Dharmapuri-636705",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/124/0/9b5b6f50e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirupathi. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Manickam",
+        "address": "21/A, Erangadu Village, Annasagaram Post, Dharmapuri-636 707",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260406054019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8704/0/f6f81833a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeramani  Govindan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Govindan",
+        "address": "4/114, Savulupatti, A.reddihalli, Sogathur, Dharmapuri-636 809",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260406045811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9557/0/084777f4c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeramani  Govindan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Govindan",
+        "address": "4/114, Savulupatti, A.reddihalli, Sogathur, Dharmapuri-636 809",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEERA-2026-20260406045811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13044/0/c7740342b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkateshwaran. S. P.",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Perumal Goundar",
+        "address": "3/49, Mel Street, Samichettipatti Post, Nallampalli Taluk, Dharmapuri District-636 807",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406033023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8890/0/45ac575883/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkateshwaran. S. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Perumal Goundar",
+        "address": "3/49, Mel Street, Samichettipatti Post, Nallampalli Taluk, Dharmapuri District-636 807",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406033023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12941/0/2817eee60a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venketeshan. G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharmapuri",
+        "father_husband_name": "Ganesan",
+        "address": "52, Chathiram Mel Street, Dharmapuri Post, Dharmapuri Taluk, Dharmapuri District-636 701",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKE-2026-20260406071357.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10759/0/7ff90ac70b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

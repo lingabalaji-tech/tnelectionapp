@@ -1,0 +1,474 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Mailam",
+    "count": 31,
+    "candidates": [
+      {
+        "name": "Anandhababu M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Manivannan",
+        "address": "116, Gangaiyamman Koil Street, Kalaiyur, Gingee Taluk, Viluppuram -604206",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260406025526.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9441/0/15973e84f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ayyanar N",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Narayanasamy",
+        "address": "4/120A, Murugan Koil Street, Nedimozhiyanur, Tindivanam Taluk, Viluppuram District-604306",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AYYAN-2026-20260404033007.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6184/0/5f7304c568/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Divya P",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Pandiyadurai",
+        "address": "59, Eshwaran Koil Street, Nallavur Village, Vanur Taluk, Viluppuram District-604154",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DIVYA-2026-20260406051856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9100/0/c05bc5787a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhilarasan N",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Nadarajan",
+        "address": "1/345, Selliyamman Koil Street, Veernamur Village, Gingee Taluk, Viluppuram District-604203",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260330064359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/250/0/e91be0aae4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopu V S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Sokkalingam",
+        "address": "09/06, 4-Th Street, Dhamodharapuram, Velachery, Adaiyar-600020",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPUV-2026-20260406022413.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10047/0/2d2fe852a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gowri S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Shanmugam",
+        "address": "01, Pajanai Koil Street, Avvaiyarkuppam, Tindivanam Taluk, Viluppuram District-604302",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOWRI-2026-20260406040004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10082/0/407c9a39dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karvannan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Kannaiyan",
+        "address": "163, Palla Street, Kalaiyur, Gingee Taluk, Viluppuram District-604206",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARVA-2026-20260406045213.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9072/0/c22bcb8c5a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamurthy K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Kuppusamy",
+        "address": "569,Keezhandai Street, Marudheri Village, Vallam Post, Gingee Taluk, Viluppuram Distrcit-604206",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260404034228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6402/0/6aba7d341b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manavalan A",
+        "party": "Anna Mgr Dravida Makkal Kalgam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Arumugam",
+        "address": "109,Pillayar Koil Street,Kallapuliyur, Gingee Taluk, Viluppuram District-604208",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANAV-2026-20260406052642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9692/0/b269b89828/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Purushothaman K",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Kumarasamy",
+        "address": "12, Mariyamman Koil Street, Dalavalapattu, Gingee Taluk, Viluppuram -605651",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PURUS-2026-20260406024431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8957/0/3676217a3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjith Kumar  M",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Muthu",
+        "address": "Mariyamman Koil Street, Molasur, Tindivanam,Viluppuram -604102",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260402025841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13305/0/489a7f54de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjitha V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Ezhilarasan",
+        "address": "2/204,Pillayar Koil Street, Gingee, Thenputhupattu, Viluppuram District-604205",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260404033651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6305/0/2f771860b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjithkumar  M",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Muthu",
+        "address": "531, Mariyamman Koil Street, Molasur, Tindivanam,Viluppuram -604102",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260402025841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5116/0/9a4109afe1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish Kumar S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Sekar",
+        "address": "No.86, Mettu Street, Agoor, Tindivanam, Viluppuram District-604207",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406042211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12992/0/a5e90d1923/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathishkumar S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Sekar",
+        "address": "86, Mettu Street, Agoor, Tindivanam, Viluppuram District-604207",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406042211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9184/0/a13b2d18f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar Nayakar I M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Manjini Nayakkar",
+        "address": "3/530,Mariyamman Koil Street, Idaiyan Saavadi, Irumpai Village, Auroville, Vanur Taluk, Viluppuram District-605101",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260404050838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7352/0/7ecff28c27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar Nayakar I M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Manjini Nayakkar",
+        "address": "3/530,Mariyamman Koil Street, Idaiyan Saavadi, Irumpai Village, Auroville, Vanur Taluk, Viluppuram District-605101",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260404050838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9586/0/b3e1b7cf1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam C Ve",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Venugopal",
+        "address": "01, Pajanai Koil Street, Avvaiyarkuppam, Tindivanam Taluk, Viluppuram District-604302",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260406032430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8670/0/fc3f7b8b85/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Siva S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Selvam",
+        "address": "Vadakku Street, Vilukkam Village And Post, Tindivanam Taluk, Viluppuram District-604206",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAS-2026-20260406045740.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9516/0/79f4fbf390/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundar C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Chinnasamy",
+        "address": "2/24, Mariyamman Koil Street, Perumpoondi, Gingee Taluk, Viluppuram District-604210",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260406054254.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8992/0/bb222d89a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundaresan A",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Athimoolam",
+        "address": "5, Brindavanam Street, Chetpet, Chennai-600031",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260404031355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6766/0/e8bea131fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh Kumar S",
+        "party": "Indhia Kudiarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Selvaraj",
+        "address": "No.34, Kattaiyan Street, Pathirapuliyur, Tindivanam, Viluppuram -604304",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406023435.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12880/0/4478681f05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sureshkumar S",
+        "party": "Indhia Kudiarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Selvaraj",
+        "address": "34, Kattaiyan Street, Pathirapuliyur, Tindivanam, Viluppuram -604304",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406023435.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8461/0/49eaa4470f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamizharasan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Muthuvel",
+        "address": "4,M.g.r. Street, Nedimozhiyanur, Tindivanam Taluk, Viluppuram District-604306",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIZ-2026-20260404044541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7643/0/881907e5c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan L",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Lakshmanan",
+        "address": "67, Mrk Street, V.maruthur, Viluppuram Taluk,Viluppuram District-605602",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260404030645.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Vidjai Vikram S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Sankaranarayanan",
+        "address": "No.221/70, Mailam Road, Ramanathapuram, Vanur Taluk, Semangalam  Panchayat, Viluppuram Distric-605109",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIDAJ-2026-20260330061151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13377/0/92337ad07c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vidjaivikram S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Sankaranarayanan",
+        "address": "221/70, Mailam Road, Ramanathapuram, Vanur Taluk, Semangalam  Panchayat, Viluppuram Distric-605109",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIDAJ-2026-20260330061151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/188/0/0a497d5af0/",
+          "https://voterlist.co.in/affidavit-download/188/1/55282fa5fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay Niranjan A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Arumugam",
+        "address": "3/200, Mariyamman Koil Street, Morattandi, Vanur Taluk, Viluppuram District-605101",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406041229.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8582/0/f7d366889d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayaganth K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Kuppusamy",
+        "address": "88,Neer Perunthagaram, Palli Street, Athipakkam, Tindivanam Taluk, Viluppuram District-604207",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406030304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9730/0/afc39d2c9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth R",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Rathinam",
+        "address": "59, South Street, Karuvampakkam Village, Tindivanam Taluk, Viluppuram District-604207",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260330065956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/306/0/6bf33ead5d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Viswanathan N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mailam",
+        "father_husband_name": "Natarajan",
+        "address": "1/89,Pillayar Koil Street, Kalladikuppam, Gingee Taluk, Viluppuram District-605651",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VISWA-2026-20260404045509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8019/0/7083c0325b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

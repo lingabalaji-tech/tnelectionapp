@@ -1,0 +1,493 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Arakkonam",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "A.deepak",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Anbazhagan",
+        "address": "No.420, Tahdco Colony, Melpakkam, Arakkonam Taluk, Ranipet.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ADEE-2026-20260404062645.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7054/0/7d2843eee7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhil Caroline",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Ethiraj",
+        "address": "No.64, Padhamavathi Nagar, Main Road, Madambakam, Chennai  600126.",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EEZH-2026-20260402031138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5163/0/fbe718974e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhil Rahulan",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "K.ethiraj",
+        "address": "No.64, Padmavathy Nagar Main Road, Madambakkam,  Chennai  600126.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260404052243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7953/0/d7154c7204/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Mohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "S. Gajendran",
+        "address": "No.531, Mettu Colony, Thanigaipolur Village And Post, Arakkonam Taluk,  Ranipet District.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMOH-2026-20260406044924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14858/0/0c4ce7e951/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.mohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "S.gajendran",
+        "address": "No.531, Mettu Colony, Thanigaipolur Village  Post, Arakkonam Taluk,  Ranipet District.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMOH-2026-20260406044924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8928/0/98960dcab9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Rajkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "V. Karumbathai",
+        "address": "No.172, Yesunather Kovil Street, Uthirampattu, Ayarpadi Post, Nemili Taluk, Ranipet District - 632531",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KRAJ-2026-20260404062412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16035/0/ac37364420/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.rajkumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Karumbathai",
+        "address": "No.172, Yesunather Kovil Street, Uthirampattu, Ayarpadi Post, Nemili Taluk, Ranipet District - 632531",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260330045440.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/249/0/fea287f68b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "C. Murugesan",
+        "address": "No.35, Bajanai Koil Street, Kizhandurai Village And Post, Nemili Taluk,  Ranipet District - 631002.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260406043812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15571/0/0bae19d7bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Santhanam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "S.s. Munusamy",
+        "address": "No.13, New Street, Nagavedu Village And Post, Nemili Taluk, Ranipet District  - 631002.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSAN-2026-20260407034025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16027/0/3d5c08a253/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "C.murugesan",
+        "address": "No.35, Bajanai Koil Street, Kizhandurai Village  Post, Nemili Taluk,  Ranipet District  631002.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260406043812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10226/0/db6e1361c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.santhanam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "S.s.munusamy",
+        "address": "No.13, New Street, Nagavedu Village  Post, Nemili Taluk, Ranipet District  631002.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAN-2026-20260404044030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7503/0/7558f28ab7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vetrivel",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "G.marimuthu",
+        "address": "No.31, Bajanai Kovil Street, Vadamambakkam Village  Post, Arakkonam Taluk, Ranipet District  631003.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVET-2026-20260404051102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7476/0/3690d27d88/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Micheal.n",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Navaraj",
+        "address": "No.41 B, Bajanai Kovil Street, Arumbakkam, Nagavedu Post, Arakkonam Taluk, Ranipet  - 631002",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NMIC-2026-20260404062447.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10295/0/910b59d1ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Lakshmipathy",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "G. Narasimman",
+        "address": "No.273, Arunthathipalaiyam, Keezhkuppam Village, Arakkonam Taluk,  Ranipet District.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NLAK-2026-20260406041619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14813/0/c484261672/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Praveenkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "N. Neelamegan",
+        "address": "No. 84, Bajanai Kovil Street, Pinnavaram Village, Senthamangalam Post, Arakkonam Taluk, Ranipet District - 631051",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NPRA-2026-20260407034048.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15999/0/9794a4dc3e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.lakshmipathy",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "G.narasimman",
+        "address": "No.273, Arunthathipalaiyam, Keezhkuppam Village  Post, Arakkonam Taluk,  Ranipet District.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NLAK-2026-20260406041619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8827/0/ad391feffb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.micheal",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Navaraj",
+        "address": "No.41 B, Bajanai Kovil Street, Arumbakkam, Nagavedu Post, Arakkonam Taluk, Ranipet  - 631002",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NMIC-2026-20260330054307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/456/0/4722d74482/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.praveenkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "N.neelamegan",
+        "address": "No. 84, Bajanai Kovil Street, Pinnavaram Village, Senthamangalam Post, Arakkonam Taluk, Ranipet Dt - 631051",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPRA-2026-20260404035138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6488/0/2b6f5da92f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Govindaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "K. Paramasivam",
+        "address": "No.35, New Colony, Parameswaramangalam Village  And Post, Arakkonam Taluk, Ranipet District - 631151.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGOV-2026-20260404042807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15845/0/6e214d836b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Sudhakar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Palayam",
+        "address": "No.10/15, Meenambal Sivaraj Street, Ambedkar Nagar, Arakkonam  631001.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PSUD-2026-20260407034130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15053/0/cc084fa374/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.govindaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "K.paramasivam",
+        "address": "No.35, Parameswaramangalam Village  And Post, Arakkonam Taluk, Ranipet District -631151.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGOV-2026-20260404042807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6292/0/3754156b44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sudhakar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Palayam",
+        "address": "No.10/15, Meenambal Sivaraj Street, Ambedkar Nagar, Arakkonam  631001.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSUD-2026-20260404050459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7174/0/f733b1d444/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.pragadeeswaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "S.ravi",
+        "address": "No. 260/2, Arigilapadi Village And Post, Arakkonam Taluk, Ranipet District - 631151",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPRA-2026-20260330070819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/328/0/4bbb6aaae9/",
+          "https://voterlist.co.in/affidavit-download/328/1/16db3b921a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ravi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Subramani",
+        "address": "No. 260/2, Arigilapadi Village And Post, Arakkonam Taluk, Ranipet District - 631151",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRAV-2026-20260404062504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16558/0/51afcc9838/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ravi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Subramani",
+        "address": "No. 260/2, Arigilapadi Village And Post, Arakkonam Taluk, Ranipet District - 631151",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SRAV-2026-20260330060449.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/61/0/ea5831df4b/",
+          "https://voterlist.co.in/affidavit-download/61/1/64b22f31c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Muralidharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Thirumurthy",
+        "address": "No.20, Sai Nagar, 2Nd Street, Gripilespet, Palanipet, Arakkonam Taluk,  Ranipet - 631002.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMUR-2026-20260406043224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15355/0/2447609010/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.muralidharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Thirumurthy",
+        "address": "No.20, Sai Nagar, 2Nd Street, Gripilespet, Palanipet, Arakkonam Taluk,  Ranipet  631002.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMUR-2026-20260406043224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9873/0/d3f20d89fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Gandhiraj",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Vadivel",
+        "address": "No.5, Thiru.vi.ka Kurukku Sandhu, Pillaiyar Kovil Street, Griblespet, Arakkonam,  Ranipet - 631002.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGAN-2026-20260404045536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16269/0/211ae07ace/",
+          "https://voterlist.co.in/affidavit-download/16269/1/3a20b64594/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.gandhiraj",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Vadivel",
+        "address": "No.5, Thiru.vi.ka Kurukku Sandu, Pillaiyar Kovil Street, Griblespet, Arakkonam,  Ranipet  631002.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGAN-2026-20260404045536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8028/0/47da8cde37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.sathiyavathy",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "Vetrivel",
+        "address": "No.31, Vadamambakkam Colony, Arakkonam Taluk, Ranipet .",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSAT-2026-20260406044319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10455/0/6028aaee32/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetrivel. M",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "G. Marimuthu",
+        "address": "No.31, Bajanai Kovil Street, Vadamambakkam Village  And Post, Arakkonam Taluk, Ranipet District - 631003.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VETRI-2026-20260407034243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16013/0/4c7adba507/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetrivel.m",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arakkonam",
+        "father_husband_name": "G.marimuthu",
+        "address": "No.31, Bajanai Kovil Street, Vadamambakkam Village  Post, Arakkonam Taluk, Ranipet District  631003.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVET-2026-20260404051102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8398/0/57c06d3626/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

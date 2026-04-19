@@ -1,0 +1,460 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kavundampalayam",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "A Balamurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "T Alagu",
+        "address": "3/657 C51 Padmavathy Nagar, Somayampalayam, Kanuvai Post, Coimbatore 641108",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABALA-2026-20260402125008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4990/0/6c5e1eb454/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.balamurugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "T Alagu",
+        "address": "3/657 C51 Padmavathy Nagar, Somayampalayam, Kanuvai Post, Coimbatore 641108",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABAL-2026-20260409025729.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16326/0/7c795e69f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunkumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Punniyamoorthy",
+        "address": "57/P, Siruvani Nagar, Vadavalli, Coimbatore - 641041",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNK-2026-20260406040944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8420/0/6b3caaddc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunkumar Prg",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Pr Govindarajulu",
+        "address": "594C, Thoppu Thottam, Jothipuram, Coimbatore - 641047",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNK-2026-20260406124733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8728/0/d2e7175188/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.velmurugan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Karuppan",
+        "address": "Lig-Ii, 780, Poonga Nagar, Civil Aerodrome Post, Coimbatore - 641014",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260402024826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5525/0/a838c709c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalamani Jaganathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Jaganathan",
+        "address": "No. 3 Kattoor Street, Satyanand Enclave Near, Kalapatti, Coimbatore - 641018",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAM-2026-20260330055118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6078/0/f6e3efd09b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalamani Jeganathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Jeganathan",
+        "address": "No. 3 Kattoor Street, Satyanand Enclave Near, Kalapatti, Coimbatore - 641018",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAM-2026-20260330055118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/638/0/721ecf6349/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanimozhi Santhosh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "J.santhosh Kumar",
+        "address": "3, Dhanalakshmi Nagar, Narasimhanaickenpalayam, Coimbatore - 641031",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KANIM-2026-20260409025850.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15866/0/cff7de6800/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanimozhi.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Kumar",
+        "address": "23-1/126 Sri Nagar, Pricol Backside, Periyanaickenpalayam, Srkv Post, Coimbatore - 641020",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANIM-2026-20260406014405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10314/0/14552776fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnakumar Gr",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Ramasamy",
+        "address": "24, Gv Garden, Jothipuram, Coimbatore North, Coimbatore - 641047",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260404025638.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6548/0/01e135b55a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.john Bosco",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "S.masilamani",
+        "address": "E1, K.s.garden, S.p Nagar-Ii, Edayarpalayam, Coimbatore - 641025",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJOH-2026-20260406044924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8920/0/5497456136/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.rajalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Malaikolunthu",
+        "address": "12 E, Near Kala Mandram, Bharathiyar Street, Velandipalayam, Coimbatore North, Coimbatore - 641025",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260402022619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5427/0/6056530e7c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malliga M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Manogaran",
+        "address": "3, Brindavan Street, Janatha Nagar West, Saravanampatti, Coimbatore - 641035",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALLI-2026-20260404031526.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6780/0/9c06faaf93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malliga.m",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Manogaran",
+        "address": "3, Brindavan Street, Janatha Nagar West, Saravanampatti, Coimbatore - 641035",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MALLI-2026-20260409030343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16225/0/98852686de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manoharan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "L.subbaiyan",
+        "address": "1/12B, Kamban Street, Vinayagapuram, Vilankurichi, Coimbatore North, Saravanampatti, Coimbatore - 641035",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANOH-2026-20260404035319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6509/0/35b6542b01/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.arunkumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Nagarajan",
+        "address": "14A, Saravanabhavanam, Nehru Colony, 2Nd Street, E.b Colony Extension, Vadavalli, Coimbatore - 641041",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NARU-2026-20260406043331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9945/0/2191cd7eeb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Naseerahamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Basheer Ahamed",
+        "address": "6/193, Thippu Sulthan Nagar, Thirumalaigoundenpalayam, Kuttagam, Tiruppur - 638462",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NASEE-2026-20260406042333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9241/0/78072abee8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Palanisamy",
+        "address": "7/238, Kamaraj Nagar, Thadagam Road, Kanuvai, Coimbatore - 641108",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAB-2026-20260404034212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6394/0/523c788cc6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.p.muthusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "P.periyasamy",
+        "address": "186/145, Vinayakar Kovil Street, Dr.ambedkar Nagar, Jothipuram Post, Coimbatore",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPM-2026-20260406122217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9906/0/21ec5a0fda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.d.kanimozhi Santhosh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "J.santhosh Kumar",
+        "address": "3, Dhanalakshmi Nagar, Narasimhanaickenpalayam, Coimbatore - 641031",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDK-2026-20260404013119.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6324/0/64f9636921/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.v.hemalatha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Balakrishnan K",
+        "address": "Savundamman Kovil Street, Thirumalayampalayam, Kumitipathy, Coimbatore - 641032",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVH-2026-20260404010340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6820/0/245969ba42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.gowri",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Selvan",
+        "address": "6/39, North Street, 22 Nanjundapuram, Thadagam, Coimbatore North, Coimbatore - 641108",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOW-2026-20260404041643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6861/0/6775701974/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.selvadharani",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Suryaprakash K P",
+        "address": "9/54, Mamarathu Kaadu, India Gandhi Nagar, Coimbatore - 641030",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEL-2026-20260406022843.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8450/0/81ad11b3e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.thamarai Kannan",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "V.shanmugasundaram",
+        "address": "5, Postal And Telegram Colony, Kasthuripalayam, Sri Ramakrishna Vidyalaya Post, Periyanaickenpalayam, Coimbatore - 641020",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STHA-2026-20260404023114.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6191/0/cc63307883/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhosh Kumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Jaya Chandran",
+        "address": "3, Dhanalakshmi Nagar, Narasimhanaickenpalayam, Coimbatore - 641031",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANTH-2026-20260406114230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8376/0/f9b9c410c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sukumar.p",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Palanisamy",
+        "address": "1/30, Mariamman Kovil Street, Keeranatham, Coimbatore - 641035",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUKUM-2026-20260406013225.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9803/0/17f615bf23/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suriyakumar.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "2/46A, Annai Velankanni Nagar, Saravanampatti Post, Vinayagapuram, Coimbatore - 641035",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SURIY-2026-20260404042442.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6304/0/fa058d72b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Surya Prakash K.p",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Palanisamy",
+        "address": "9/54, Maramathu Kaadu, Indira Gandhi Nagar, Coimbatore - 641030",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURYA-2026-20260406021920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9765/0/f58e131f8e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thozhar.n.arunkumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Nagarajan",
+        "address": "14A, Saravanabhavanam, Nehru Colony, 2Nd Street, E.b Colony Extension, Vadavalli, Coimbatore - 641041",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THOZH-2026-20260409030629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15403/0/623c4fabda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.pushpanantham",
+        "party": "Tamizhaga Murpokku Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kavundampalayam",
+        "father_husband_name": "Veeran",
+        "address": "11-67, Simson Nagar Extension, Kovilmedu, Coimbatore - 641025",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPUS-2026-20260404040254.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6676/0/9b178cb89b/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,775 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Mettuppalayam",
+    "count": 53,
+    "candidates": [
+      {
+        "name": "A Ponnusamy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Appachi",
+        "address": "3/129, Kalampalayam, Seeliyur Via, Mettupalayam Taluk, Coimbatore District 641113",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APONN-2026-20260406060825.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A Sathiyaleela",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Arumugam",
+        "address": "106/4, Mkk Nagar, Mattukadai Road, Karamadai, Mettupalayam Taluk, Coimbatore District 641104",
+        "gender": "Female",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASATH-2026-20260406071758.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sathiyaleela",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Arumugam",
+        "address": "106/4, M.k.k Nagar, Maattukadai Road, Karamadai, Mettupalayam, Coimbatore - 641 104.",
+        "gender": "Female",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ASAT-2026-20260410024321.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15112/0/b9414e6c34/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Boopal K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Kumarasamy",
+        "address": "3/142 Vadakku Thottam, Ward No 4. Periya Thottam, Irumbarai, Mettupalayam Coimbatore 638459",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BOOPA-2026-20260406052411.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "C Mahendiran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Chinnasamy",
+        "address": "57, Bharathi Nagar 4Th Street, Periyanaickenpalayam, Coimbatore North, Coimbatore District 641020",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CMAHE-2026-20260406085716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11312/0/d7e1db31c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Nagaraj",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "K Chinnasamy",
+        "address": "5/567-A Rajiv Gandhi Nagar Mettupalayam 641301",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CNAGA-2026-20260404045554.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "C.mahendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Chinnasamy",
+        "address": "57, Bharathi Nagar 4Th Street, Periyanaickenpalayam, Coimbatore North, Coimbatore - 641 020",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CMAH-2026-20260410024525.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15538/0/4bc4614c3d/",
+          "https://voterlist.co.in/affidavit-download/15538/1/988564c13e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.nagaraj",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "K Chinnasamy",
+        "address": "5/567 A, Rajeev Gandhi Nagar, Mettupalayam, Coimbatore - 641 301",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CNAG-2026-20260410022707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16279/0/41f302cf67/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhamotharan,V.",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Viswanathan",
+        "address": "22A, Keela Mel Veedhi, Muthusamy Colony,Selvapuram,Coimbatore - 641 026.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHAMO-2026-20260409080704.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15345/0/ec7a54a6bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Arivazhagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ganesan",
+        "address": "80, Nehru Nagar, Karamadai Road, Sivanpuram Colony, Mettupalayam 641301",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GARIV-2026-20260406111753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12556/0/3529fe543c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopalakrishnan S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Subramanian A",
+        "address": "Door No 9C Sri Lakshmi Nagar Sri Ramakrishna Vidyalaya Post Gudalur Periyanaickenpalayam 641020",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GOPAL-2026-20260330034021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/172/0/f78b77e099/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J Kajamoideen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Jafar Ali",
+        "address": "5/228 Cheran Nagar -1 Karamadai Road Chikkathasampalayam Mettupalayam 641301",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JKAJA-2026-20260407122500.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K K Laamoney Krishna",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Krishnakumar",
+        "address": "1/172-5, Visaga Nagar, Muthalipalayam, Muthukavundanpudur, Neelambur, Coimbatore District 641062",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KKLAA-2026-20260407120542.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12129/0/8ed9426998/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Manoharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Karuppusamy",
+        "address": "15A, Jothipuram, Kuttai Thottam, Coimbatore Vadakku, Coimbatore District 641047",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMANO-2026-20260406091356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12176/0/cee9f40f75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalyanasundaram Smt",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Krishnappan",
+        "address": "Door No 53/1, 53/2 Kondasamy Naidu Nagar Karamadai Mettupalayam Coimbatore 641104",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALYA-2026-20260404072008.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Shanmugasundram",
+        "address": "8/190, Alangandipudur, Tholampalayam, Gopaneri R.f, Mettupalayam Taluk 641113",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260406064131.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha Kalyanasundaram Smt",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Kalyanasundaram",
+        "address": "Door No 53/1, 53/2 Kondasamy Naidu Nagar Karamadai Mettupalayam Coimbatore 641104",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260404065559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7003/0/753a6b9dbb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Palanisamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Marisamy",
+        "address": "5-57, Chikkathasampalayam Cheran Nagar, Mettupalayam Coimbatore District 641301",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPALA-2026-20260406114123.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11921/0/4bd9035cf7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.palanichami",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Marisamy",
+        "address": "5-57, Cheran Nagar, Sikkadasampalayam, Mettupalayam, Coimbatore - 641 301",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MPAL-2026-20260410024823.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14936/0/c6646c727d/",
+          "https://voterlist.co.in/affidavit-download/14936/1/5fca800afd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manoharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Karuppusamy",
+        "address": "15A, Jothipuram, Kuttai Thottam, Coimbatore North, Coimbatore -641 047.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANOH-2026-20260410024626.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15187/0/1d5160d352/",
+          "https://voterlist.co.in/affidavit-download/15187/1/4ee0816f6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N Saravanakumar",
+        "party": "Namadhu Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Nachimuthu",
+        "address": "6/226, Adhimathiyanur, Velliangadu, Coimbatore 641104",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSARA-2026-20260406070038.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N.saravana Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Nachimuthu",
+        "address": "6/226, Athimathaiyanur, Velliyangadu, Mettupalayam,Coimbatore -641 104.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NSAR-2026-20260410024301.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15346/0/4faf1d647d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "O K Chinnaraj",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Krishnasamy",
+        "address": "1/139 Tholampalayam Pudur, Tholampalayam, Mettupalayam Taluk, Coimbatore District 641113",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OKCHI-2026-20260406054753.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "O.k.chinnaraj",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Krishnasamy",
+        "address": "1/139,Tholampalayam Pudur, Tholampalayam, Mettupalayam, Coimbatore -641 113",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/OKC-2026-20260410024159.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15098/0/e448cc217b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Rangasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Palanisamy",
+        "address": "27G/14, Pattakkarar Street 2, Jothipuram Post, Coimbatore North Taluk 641047",
+        "gender": "Male",
+        "age": "83",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRANG-2026-20260406073854.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P Ravichandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ponnusamy",
+        "address": "4/106 Seeliyur, Kalampalayam Mettupalayam Coimbatore 641113",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVI-2026-20260404073400.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P.ravichandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ponnusamy",
+        "address": "4/106 Seeliyur, Seeliyur Po, Kalampalayam, Mettupalayam, Coimbatore -641 113.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRAV-2026-20260410023657.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16218/0/eeff624f49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Asha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ranjithkumar",
+        "address": "3-3/3-3, Bharathi Nagar, Mettupalayam 641301",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RASHA-2026-20260406110807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12425/0/411a94bbc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Chinnaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ramaiya",
+        "address": "4/285, Thaneer Pandal, Kemmarampalayam, Velliangadu 641113",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RCHIN-2026-20260406105720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12296/0/4f661466d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Mythili",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ramesh",
+        "address": "Door No 623, Deventhira Street, Selvapuram, Coimbatore 641026",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMYTH-2026-20260406033031.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R Sangeetha",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "S Karthikeyan",
+        "address": "14, Trs High Tech City Mangalakaraipudur Road, Karamadai Coimbatore 641104",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSANG-2026-20260406050213.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R Sivaraj",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ramasamy",
+        "address": "1/222 Amman Nagar Velliyangadu Mettupalayam 641104",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSIVA-2026-20260404061840.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.chinnaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ramiagowder",
+        "address": "4/286, Thanneer Panthal, Kemmaram Palayam, Mettupalayam, Coimbatore -641 104.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RCHI-2026-20260410024657.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15325/0/3cb94c2ebf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sangeetha",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "S Karthikeyan",
+        "address": "14, Trs Hightech City ,Mk Puthur Road, Karamadai ,Mettupalayam,Coimbatore - 641 104.",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSAN-2026-20260410024133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15389/0/674bbdbffd/",
+          "https://voterlist.co.in/affidavit-download/15389/1/87f272fd79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rangasamy,P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Palanisamy",
+        "address": "27G/14, Pattakarar Veedhi 2, Jothipuram Po, Coimbatore North, Coimbatore 641 047",
+        "gender": "Male",
+        "age": "83",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RANGA-2026-20260410024350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14991/0/f066549687/",
+          "https://voterlist.co.in/affidavit-download/14991/1/a27658ea33/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Abdul Rahiman",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "K Sowkath Ali",
+        "address": "14/9C Ayyasamy Compound 7Th Street Mahadevapuram Mettupalayam 641305",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SABDU-2026-20260404042302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6185/0/a687647253/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.abdul Rahiman",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "K Sowkath Ali",
+        "address": "14/9C,Ayyasamy Compound 7Th Street, Mahadevapuram, Mettupalayam,Coimbatore - 641 305.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SABD-2026-20260410022630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15767/0/95c5e6e5aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.gopalakrishnan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Subramanian",
+        "address": "9C, Sri Lakshmi Nagar, Sri Ramakrishna Vidyalaya Post, Gudalur, Periyanaickenpalayam, Coimbatore - 641 020.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SGOP-2026-20260410022601.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15377/0/e5addca4e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kavitha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Shanmugasundram",
+        "address": "8/190, Aalangandi Pudur,Tholampalayam,Gopanari, Mettupalayam,Coimbatore - 641 113",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SKAV-2026-20260410024237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15450/0/93f80984b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaraj,R.",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Ramasamy",
+        "address": "1/222, Amman Nagar,Velliyangadu, Mettupalayam,Coimbatore-641 104",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SIVAR-2026-20260410022939.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16138/0/5dc44a5c92/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Smt.kavitha Kalyanasundaram",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Kalyanasundaram",
+        "address": "53/1, 53/2 Kondasamy Naidu Nagar, Karamadai,Mettupalayam, Coimbatore -641 104.",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMTK-2026-20260410023252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15756/0/cdfeb4809e/",
+          "https://voterlist.co.in/affidavit-download/15756/1/a077a8105b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sunil Anand",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Nagarajan",
+        "address": "11 Mettupalayam Municipality Boraiyagowder Street W.no 22 Coimbatore 641301",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNIL-2026-20260404053431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7154/0/db926c1353/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sunilanand",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Nagarajan",
+        "address": "11,Mettupalayam M, Boraiyya Gowder Street, Ward No-22, Coimbatore-641 301",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SUNIL-2026-20260410022753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15467/0/9927eafadf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suriya Anand",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Sunil Anand",
+        "address": "9/11 Boraiya Street Ls Puram Mettupalayam Coimbatore 641301",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURIY-2026-20260404055821.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T Amirthalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Thangavel",
+        "address": "5-34-F Sree Mahalakshmi Avenue, Payappanur, Chikkathsampalayam, Mettupalayam Taluk Coimbatore District 641301",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIR-2026-20260406113315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11825/0/41bad6e127/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T R Shanmugasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Rangasamy Gowder",
+        "address": "8/113B T.r.s Garden Marudur Thimmampalayam Karamadai 641104",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TRSHA-2026-20260404075356.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T.amirthalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Thangavel",
+        "address": "5-34F, Sri Mahalakshmi Avenue, Bayappanur, Sikkadasampalayam, Mettupalayam, Coimbatore - 641 305.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TAMI-2026-20260410024727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14826/0/f3d4cf9c92/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.r.shanmugasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Rangasamy Gowder",
+        "address": "8/113B,Trs Garden, Maruthur,Thimmampalayam, Karamadai, Mettupalayam, Coimbatore - 641 104.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TRS-2026-20260410023958.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15372/0/15bf81f600/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Anand Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Varatharajan",
+        "address": "4/37 Ramampalayam Jadayampalayam Mettupalayam 641302",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VANAN-2026-20260407121619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11985/0/67674fe011/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Dhamotharan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Viswanathan",
+        "address": "Door No 22/A East West Street, Muthusamy Colony Selvapuram Coimbatore 641026",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VDHAM-2026-20260406030506.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V Senthilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "A Vellingiri",
+        "address": "11/74-D Anna Nagar North Samichettipalayam Jothipuram Post Coimbatore 641047",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSENT-2026-20260406042930.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.anandkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "Varatharajan",
+        "address": "4/37, Ramampalayam Jadaiyampalayam, Mettupalayam, Coimbatore- 641 302",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VANA-2026-20260410024850.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15002/0/630de0bb08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.senthil Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mettuppalayam",
+        "father_husband_name": "A Vellingiri",
+        "address": "11/74-D, Anna Nagar North, Samychettipalayam, Jothipuram Po, Coimbatore -641 047",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSEN-2026-20260410024019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15195/0/9ded1e420d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

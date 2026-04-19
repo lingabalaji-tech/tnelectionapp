@@ -1,0 +1,185 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Madurai South",
+    "count": 13,
+    "candidates": [
+      {
+        "name": "B.m.sumathy",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "Saravanakumar",
+        "address": "4181/1A, Tnhb Colony, Villapuram, Madurai-625012",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BMS-2026-20260330030720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/189/0/2dad4b4085/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.manikandan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "M.boominathan",
+        "address": "789, Karpaga Nagar 3Rd Street, K.pudur, Madurai-625007.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BMAN-2026-20260406075054.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "C.m.marichakkaravarthy",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "C. Marimuthu",
+        "address": "2/2253, 7Th Street, Gomathipuram, Melamadai, Madurai-625020.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CMM-2026-20260406080951.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Er.m.m.gopison",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "Mohan",
+        "address": "34/18, A.a.road, Pankajam Colony, Kuruvikaran Salai, Madurai-625009.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERM-2026-20260406075957.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "H.vinitha Iswarya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "A. Hariharan",
+        "address": "9/27A, First Floor, Kannan Nivas, Pankajam Colony 2Nd Street, Madurai-625009.",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HVIN-2026-20260404034543.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.jeya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "A.krishnamoorthy",
+        "address": "5/556, Ambethkar Nagar, Anuppanady, Madurai-625009.",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KJEY-2026-20260406083034.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.boominathan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "V.muniyandi",
+        "address": "789, Karpaga Nagar 3Rd Street, K.pudur, Madurai-625007.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBOO-2026-20260406033659.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.m.gopison",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "Mohan",
+        "address": "34/18, A.a.road, Pankajam Colony, Kuruvikaran Salai, Madurai-625009.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERM-2026-20260406075957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15109/0/4b116bfd96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.g.lakshmi Priya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "M.m.gopison",
+        "address": "34/18, A.a.road, Pankajam Colony, Kurivikaran Salai, Madurai-625009.",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGL-2026-20260406082453.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Prasanth Sharmila Prakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "K.r.m.prakashkumar",
+        "address": "2/917, Mugaperu West, Thiruvallur, Chennai-600037.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRASA-2026-20260406084912.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Raama Sreenivasan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "N. Ramasamy",
+        "address": "H77, Thirumalai Township, Thiruppalai, Suriya Mahal Back Side, Madurai-625014.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAAMA-2026-20260406074225.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.iruthayaraj",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "Saveriyar",
+        "address": "33-3, Ganesan Street, Anuppanady, Madurai-625009.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIRU-2026-20260406045006.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.iruthyaraj",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurai South",
+        "father_husband_name": "Saveriyar",
+        "address": "33-3, Ganesan Street, Anuppanady, Madurai-625009.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIRU-2026-20260406045006.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14894/0/a5ac076b10/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

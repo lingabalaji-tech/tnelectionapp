@@ -1,0 +1,1046 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Perambur",
+    "count": 69,
+    "candidates": [
+      {
+        "name": "A. Rajaram",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Arjunan",
+        "address": "No.216/235, Doss Nagar, 6Th Street, Kannigapuram, Chennai - 600012.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAJ-2026-20260406093754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11979/0/0dc156c5e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Agni Aalvar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Nallappan",
+        "address": "No.6, Nagamarai Main Road, Nagamarai Pudur, Nagamarai Post, Pennagaram Taluk, Dharumapuri - 636810.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGNIA-2026-20260406075203.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10543/0/dfe65ac861/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amala.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Raji",
+        "address": "3F-1, Avenue Garden, 14/6, Balamurugan Street, Vyasarpadi, Chennai  600039.",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMA-2026-20260402044933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16461/0/c843cb4c89/",
+          "https://voterlist.co.in/affidavit-download/16461/1/78f3a02339/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashlin Belmen .A.s",
+        "party": "Tamilnadu Mahatma Gandhi Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Antony",
+        "address": "No.2-9B, Kallingavilai, Maruthancode, Vilavancode, Kanniyakumari, Tamilnadu - 629163.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHLI-2026-20260406043637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15528/0/9a5dae8304/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashlin Belmen As",
+        "party": "Tamilnadu Mahatma Gandhi Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Antony",
+        "address": "No.2-9B, Kallingavilai, Maruthancode, Vilavancode, Kanniyakumari, Tamilnadu - 629163.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHLI-2026-20260406043637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10145/0/45e62a7260/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Azarutheen.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Mohammed Yousuf",
+        "address": "No.11, Erikkarai Street, Kamarajapuram, Nandhivaram, Guduvancheri, Chengalpattu - 603202.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAZA-2026-20260406061347.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15237/0/bc56341c68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Bhuvaneshwaran",
+        "address": "32/18, Subramani Kovil Street, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BBAL-2026-20260406044651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8679/0/f22dfa761f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Sathish Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Baskaran",
+        "address": "New No.19, Old No.7, Muniyappa Street, Sembium, Perambur, Chennai - 600011.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSAT-2026-20260406082316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10947/0/b41c1b7507/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Balaraman",
+        "address": "No. 12/22, Sarvapalli Street, Krishnamoorthi Nagar, Kodungaiyur, Chennai  600118.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVEN-2026-20260402050230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5536/0/8fb29f5c17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bowdharaj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Nagappan",
+        "address": "No.225, C Kalyanapuram, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAJ-2026-20260406053837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14709/0/fca71a8e71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Joseph Vijay",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "S. A. Chandrasekaran",
+        "address": "Door No.36, Casuarina Drive, Kapaleeswarar Nagar, Neelankarai, Chennai - 600041.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CJOS-2026-20260330045107.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/388/0/1fed0fe3e8/",
+          "https://voterlist.co.in/affidavit-download/388/1/a32d848c4d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Madan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Devaraj",
+        "address": "No.7, Rajput Street, Agaram, Chennai - 600082.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMAD-2026-20260406034751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9555/0/d3baa9fb6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.k. Meshack Kirubakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Kulandai Raj",
+        "address": "No.2 Dr.ambedkar Street, Vijayalakshmipuram, Ambattur, Chennai - 600053.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DKM-2026-20260406091439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12194/0/66877ccb42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.v. Venugopal",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Venkatakrishnan",
+        "address": "No.6, L Block, Scb Quarters, Sivalingapuram, K.k. Nagar, Chennai - 600078.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVV-2026-20260404020706.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6745/0/34ad872175/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.d. Madan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Devaraj",
+        "address": "No.7, Rajput Street, Agaram, Chennai - 600082.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMAD-2026-20260406034751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15184/0/27fb5e6905/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.g. Moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Govindaraj",
+        "address": "No.72B, 1St Main Street, Prakash Nagar, Ponniammanmedu, Madavaram, Chennai - 600110.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMOO-2026-20260406063312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15103/0/8939e2e7e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.r. Saravana Perumal",
+        "party": "Makkal Nalvaazhvuk Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Ramaswamy",
+        "address": "24/3F, Ethiraj Swamy Salai, Erukkanchery, Chennai - 600118.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAR-2026-20260406025715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15168/0/8915bdfa8b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Udhaya Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Egambaram. E",
+        "address": "16-B, 12Th Main Road, Thiruvallur Nagar, Kodungaiyur, Chennai - 600118",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDAYA-2026-20260406085906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15621/0/e04a6fdf63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Moorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Govindaraj",
+        "address": "No.72B, 1St Main Street, Prakash Nagar, Ponniammanmedu, Madavaram, Chennai - 600110.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMOO-2026-20260406063312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9375/0/98b323b9d6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Ruthra Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Gunasekar",
+        "address": "No. 900/36, S.a. Colony, 10Th Street, Sharma Nagar, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRUT-2026-20260406125702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8668/0/a2cb9fe667/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "H. Dhanasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Harikrishnan",
+        "address": "1/B, Balakrishnan New Street, Chinthadripet, Chennai - 600002.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HDHA-2026-20260406033717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9121/0/c9e39993d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Sebastin",
+        "party": "Socialist Unity Centre Of India (Communist)",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "T. Joseph",
+        "address": "No.1, Annai Sathya Nagar, 1St Street, Vyasarpadi, Chennai - 600039",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JSEB-2026-20260330020928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/650/0/3156527ab9/",
+          "https://voterlist.co.in/affidavit-download/650/1/e6b099456e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Padmarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Kunchambunair",
+        "address": "3/3-23A, Padmanivas, Raman Nagar Post, Mettur Dam, Salem District - 636403",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPAD-2026-20260404122410.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6451/0/dbbc83ee1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Vijay",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Kannan",
+        "address": "No.253, Singaravelan Nagar, 3Rd Street, Royapuram, Chennai - 600013.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVIJ-2026-20260406080548.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.m. Devan",
+        "party": "Makkal Murasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Mohan",
+        "address": "No. 7/214, 175Th Street, Muthamil Nagar, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMD-2026-20260404014716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6547/0/efe69120ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Parthiban",
+        "address": "No. 32, V.p.n Colony Main Road, Kannikapuram, Chennai - 600012",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406103241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11695/0/214b7a6bc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Azarutheen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Mohammed Yousuf",
+        "address": "No.11, Erikkarai Street, Kamarajapuram, Nandhivaram, Guduvancheri, Chengalpattu - 603202.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAZA-2026-20260406061347.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9641/0/e6ad038b2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Geeta",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Pirithivirajan",
+        "address": "Block-4, Flat No.25, Tnhb, Vanagaram Main Road, Athipattu, Ambattur, Chennai-600058.",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGEE-2026-20260330035340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/416/0/dec0986a62/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Joseph",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Magalingam",
+        "address": "46A, Doctor Ambedhkar Street, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJOS-2026-20260406085710.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11302/0/8de7701ce7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Kadhiravan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Munusamy",
+        "address": "32/79, Kandaswamy Kovil Street, Kosapettai, Chennai - 600012.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAD-2026-20260404023722.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6261/0/a43705e921/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Tamilselvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Munusamy",
+        "address": "28/32, Balaji Nagar, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTAM-2026-20260406064429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10259/0/8dfd19e61c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Thilagabama",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Mahendrasekar",
+        "address": "Door No 2/3136/8, Perumal Nagar, Viswanatham, Sivakasi, Virudhunagar  626189.",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTHI-2026-20260402122811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5109/0/1ee67cdbef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Venkatesa Perumal",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Manickam",
+        "address": "Door No.34, 1St Street, Indira Ghandhi Nagar, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260404035125.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6482/0/489e8a7d20/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Venkatesa Perumal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Manickam",
+        "address": "Door No.34, 1St Street, Indira Ghandhi Nagar, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260404035125.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13230/0/5885e9508d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.i. Thahira Banu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Mohammed Ibrahim",
+        "address": "No.47/20, Thamarai Flats, State Bank Colony, Perambur, Chennai - 600011.",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MIT-2026-20260406031641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8409/0/6f669f28fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Nagappan",
+        "address": "No.225, C Kalyanapuram, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAJ-2026-20260406053837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8585/0/e40c079bbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nivetha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Baskaran",
+        "address": "No. 22, Thiruthangal Avenue, Selavayal, Madhavaram, Kodungaiyur, Chennai - 600118.",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NIVET-2026-20260406094557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12248/0/e60b85f375/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Esakki Muthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Pandi",
+        "address": "No.11, Sasi Flat, 2Nd Cross Street, 1St Main Road, Virugambakkam, Chennai - 600092.",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PESA-2026-20260406102258.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12373/0/625f47df1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Gunasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Palani",
+        "address": "211, 3Rd Street, Selavayal, Sri Durgai Avenue, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGUN-2026-20260406072827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11366/0/697377734f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Ponraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Pandiyan",
+        "address": "10/13, R.v. Nagar, 2Nd Street, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPON-2026-20260406070922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8498/0/c4e69f9f85/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Thangamani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Palani",
+        "address": "No. 5, Balaji Nagar Extension, Koyyathoppu Street, R. V. Nagar, Kodungaiyur, Chennai - 600118",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PTHA-2026-20260406092329.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12458/0/cae21db60d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Amala",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Raji",
+        "address": "3F-1, Avenue Garden, 14/6, Balamurugan Street, Vyasarpadi, Chennai  600039.",
+        "gender": "Female",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMA-2026-20260402044933.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5384/0/b006e1f02e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Arokiadass",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Royyappan",
+        "address": "No.289,  4Th Street, Sasthri Nagar, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARO-2026-20260330043216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/69/0/86640231fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Jayaseelan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Rajakani",
+        "address": "No.3, V.o.c Street, Janakiraman Colony, Nerkundram, Chennai - 600107.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJAY-2026-20260406041654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8863/0/17847c4afd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Saravana Perumal",
+        "party": "Makkal Nalvaazhvuk Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Ramaswamy",
+        "address": "24/3F, Ethiraj Swamy Salai, Erukkanchery, Chennai - 600118.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAR-2026-20260406025715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9514/0/1a26a39193/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.d. Shekar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Rajamannar",
+        "address": "82/B, First Main Road, Thiruvalluvar Nagar, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDS-2026-20260404125258.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6677/0/106b77c1d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Reegan Prabhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Thangadurai",
+        "address": "No. 1, Eswaran Koil Street, Erukkanchery, Kodungaiyur, Chennai - 600118",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REEGA-2026-20260406100442.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11840/0/bf677311b0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Joseph",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Sebastin",
+        "address": "478, 9Th Street, Sasthri Nagar, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJOS-2026-20260406081433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10583/0/67aff5b3eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Malathi",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Sekar",
+        "address": "No. 158, Durga Devi Nagar, Ennore Highways, Tondiarpet, Chennai  600081.",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAL-2026-20260402043214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5231/0/e040c1e9e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Michael",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Sathiyanathan",
+        "address": "No.225-B, 3Rd Street, Sasthri Nagar, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMIC-2026-20260406010559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8955/0/20d53bc7af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Rajesh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Shanmugam",
+        "address": "New No.8, Old No.19, Duraisamy Street, Ayanavaram, Chennai - 600023.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260406012744.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9673/0/bb29903a9a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Sekar",
+        "address": "55A/4, Moorthingar Street, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406054932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9518/0/9ed8a041fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sangeetha Priya",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "R.d. Sekar",
+        "address": "82/B, First Main Road, Thiruvalluvar Nagar, Kodungaiyur, Chennai - 600118.",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAN-2026-20260404011908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6197/0/0c6323c1e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sureshkumar",
+        "party": "Makkalatchi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "S Samuthiram",
+        "address": "No 56, Jegajeevanram Street, Parumbu Alwarkurichi, Thenkasi Taluk, Thenkasi District  627412.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUR-2026-20260402023953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5479/0/17a65084b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vetri Thamizhan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Sebastian",
+        "address": "No.207, 3Rd Street, Sasthri Nagar, Vyasarpadi, Chennai-600039.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVET-2026-20260330041427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/595/0/4bcc05f1c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vishnu Varathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Sundaresan",
+        "address": "141/2, Avd Pudur Street,  Sivakasi Taluk, Virudhunagar - 626123.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIS-2026-20260406084206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10744/0/20b0310c5b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Vishnu Varthan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Sundaresan",
+        "address": "141/2, Avd Pudur Street,  Sivakasi Taluk, Virudhunagar - 626123.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIS-2026-20260406084206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14869/0/bf0c32969f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Basudev G",
+        "address": "No 48 6Th Street Murali Nilayam Shanthi Nagar Vyasarpadi Chennai",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/12/1775105176p.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Basudev G",
+        "address": "No 48 6Th Street Murali Nilayam Shanthi Nagar Vyasarpadi Chennai",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SATHI-2026-20260409095457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15868/0/903b3560eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar. V",
+        "party": "Tamil Telugu National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Vijayakumar",
+        "address": "44, Pillayar Kovil Street, Kamatchiamman Pettai, Gudiyatham, Vellore - 632602",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAK-2026-20260406095204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12406/0/af0c3ea1da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar.v",
+        "party": "Tamil Telugu National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Vijayakumar",
+        "address": "44, Pillayar Kovil Street, Kamatchiamman Pettai, Gudiyatham, Vellore - 632602",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAK-2026-20260406095204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15493/0/6e6a4ad624/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udayakumar. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Egambaram. E",
+        "address": "16-B, 12Th Main Road, Thiruvallur Nagar, Kodungaiyur, Chennai - 600118",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDAYA-2026-20260406085906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11397/0/62312b30a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Raji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Venkadasami",
+        "address": "16, 2Nd Palla Theru, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAJ-2026-20260406050144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9874/0/9a08c5defd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Siva",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Velu",
+        "address": "No. 129/110, Thondaiyarpet High Road, Kodungaiyur, Chennai  600118.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIV-2026-20260402030450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5140/0/bd2b6cdb7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Siva",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Velu",
+        "address": "No. 129/110, Thondaiyarpet High Road, Kodungaiyur, Chennai  600118.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIV-2026-20260402030450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13310/0/116b2d9bb0/",
+          "https://voterlist.co.in/affidavit-download/13310/1/433caab314/",
+          "https://voterlist.co.in/affidavit-download/13310/2/aee5e3e451/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetri Vel Selvam",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Selvam",
+        "address": "76/13, Ghandhi Street, Vivekanandha Nagar, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VETRI-2026-20260404041840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15730/0/ba8aaa15e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetrivel Selvam",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Selvam",
+        "address": "76/13, Ghandhi Street, Vivekanandha Nagar, Kodungaiyur, Chennai - 600118.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VETRI-2026-20260404041840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6126/0/fb6a2f576a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Kannan",
+        "address": "No.253, Singaravelan Nagar, 3Rd Street, Royapuram, Chennai - 600013.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVIJ-2026-20260406080548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15410/0/ad2c5ee79b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Perambur",
+        "father_husband_name": "Gopal",
+        "address": "No.661, 8Th Street, S.a. Colony, Vyasarpadi, Chennai - 600039.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406011431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9212/0/c766430772/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

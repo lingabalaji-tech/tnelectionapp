@@ -1,0 +1,463 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kilvaithinankuppam",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "A. Sathish",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Asaithambi",
+        "address": "Kannabiran Koil Street, K.v.kuppam, K.v.kuppam Taluk, Vellore District.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAT-2026-20260406052553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9602/0/9a508d8d4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anandalai Thangaraj. M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Munusami",
+        "address": "No.4-128, Anandalai Village, Ward-5, P.r.nagar, Anadalai, Walaja Taluk, Ranipet District-632513",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANAND-2026-20260410092230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15983/0/8508ff72f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Rusendrakumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Deivasigamani",
+        "address": "No.54, Gangai Amman Kovil Street, Appavu Nagar, Mangadu, Kancheepuram District.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRUS-2026-20260406030740.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9944/0/9b72eeef3b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Rajeswari. R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "V.p. Mohan Gandhi",
+        "address": "No. 78, Varshini Hospital Upstairs, Veppamara Street, Velapadi, Vellore District-632001",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRRA-2026-20260410092153.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16215/0/06895537d8/",
+          "https://voterlist.co.in/affidavit-download/16215/1/3ee80cbbb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Thendral Kumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "G. Egambaram",
+        "address": "No.63, Muthukumaran Nagar, Kondasamudram, Pichanur, Gudiyatham Taluk, Vellore District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ETHE-2026-20260404122151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6441/0/bb61b39120/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Thenral Kumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "G. Egambaram",
+        "address": "No.63, Muthukumaran Nagar, Kondasamudram, Pichanur, Gudiyatham Taluk, Vellore District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ETHE-2026-20260404122151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7369/0/db244fda23/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Jayabharath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Jayaraman",
+        "address": "No.3/52, Arunthathiyar Colony, Veppanganeri Village, K.v.kuppam Post, K.v.kuppam Taluk, Vellore District.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJAY-2026-20260406055502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10135/0/ea276934d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Jayashankar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Jayapal",
+        "address": "Anjugam Nagar, Vaduganthangal Post, K.v.kuppam Taluk, Vellore District.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJAY-2026-20260406062958.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9136/0/b709ba069e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jaya Bharath. J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Jayaraman",
+        "address": "No.3/52, Arundhathiyar Colony, Veppanganeri Village, K.v.kuppam Post, K.v.kuppam Taluk, Vellore District-632201",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAB-2026-20260410092349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15519/0/c28c4b662a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayashankar. J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Jayapal",
+        "address": "Anjugam Nagar, Vaduganthangal Village And Post, K.v.kuppam Taluk, Vellore District-632204",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAS-2026-20260410092407.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14963/0/cf77d8275d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegan Moorthy. M",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Munuswamy",
+        "address": "Old No.905, New No.736, Gangai Amman Koil Street, Andarasanpet, Nemam, Poonamallee Taluk, Tiruvallur District-600124",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JEGAN-2026-20260410092247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14862/0/26df124176/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalaiyenthiri R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "S Rajivgandhi",
+        "address": "No.180, Modikuppam Colony, Modikuppam, Gudiyatham Taluk, Vellore District",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAI-2026-20260330033431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/340/0/53c710e62c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalaiyenthiri. R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "S Rajivgandhi",
+        "address": "No.180, Modikuppam Colony, Modikuppam, Gudiyatham Taluk, Vellore District-632601",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KALAI-2026-20260410092117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16619/0/e2a7b0a680/",
+          "https://voterlist.co.in/affidavit-download/16619/1/e54a6b795d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaresan. L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Lakshmanan",
+        "address": "New Colony, Kavanur Village And Post, K.v.kuppam Taluk, Vellore District-632209",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KUMAR-2026-20260410092430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15191/0/a7e5988242/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.kumaresan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Lakshmanan",
+        "address": "New Colony, Kavanur Village, K.v.kuppam Taluk, Vellore District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LKUM-2026-20260406080157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11034/0/47d2fb294d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lakshmi R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "S. Arjun",
+        "address": "No.477/-1, Hari Garden, Main Road, Keel Alathur Village, K.v.kuppam Taluk, Vellore District",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LAKSH-2026-20260404062318.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7950/0/c6085da3da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jayaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Masilamani",
+        "address": "No.116, Vaduganthangal Colony, Vaduganthangal Post, K.v.kuppam Taluk, Vellore District.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406062139.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10357/0/04258106e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Jegan Moorthy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Munuswamy",
+        "address": "Old No.905, New No.736, Gangai Amman Koil Street, Andersonpet, Nemam Post, Poonamallee Taluk, Tiruvallur District.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJEG-2026-20260406024408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8935/0/bd773d9afe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Thangaraj",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Munusami",
+        "address": "No.4/128, Dr B.r Nagar, Anandalai Village, Walaja Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTHA-2026-20260404035049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6472/0/a5e9b0aab3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Perumal",
+        "address": "No.3-129/92, New Street, K.v.kuppam Village, K.v.kuppam Taluk, Vellore District.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406070147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9960/0/84fa0e23f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. K.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Perumal",
+        "address": "No.3-129/92, New Street, Kilvaithinankuppam Village, K.v.kuppam Taluk, Vellore District-632201",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MURUG-2026-20260409064507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15414/0/960a3022cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nithish Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Baskaran",
+        "address": "No.17/A, Adi-Dravidar Colony, Veppanganeri Village, K.v.kuppam Taluk, Vellore District",
+        "gender": "Male",
+        "age": "22",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NITHI-2026-20260406074011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10938/0/7f48371c18/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Vaishali",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "E. Thenral Kumar",
+        "address": "No.63, Kavin Mandabam Street, Muthukumaran Nagar, Kondasamudram, Pichanur, Gudiyatham Taluk, Vellore District.",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVAI-2026-20260406053505.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10425/0/65f2e7e11c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Munirathinam",
+        "address": "No 22-1 Mani Kovil Street Vrininjipuram Village Ananicut Taluk Vellore District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260404014243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6477/0/bffd9b21a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Munirathinam",
+        "address": "No 22-1 Mani Kovil Street Virininjipuram Village And Post, Ananicut Taluk Vellore District-632104",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJA-2026-20260410092212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15989/0/855ac48b93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeswari Mohangandhi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "V.p. Mohan Gandhi",
+        "address": "No. 78, Varshini Hospital, Veppamara Street, Arni Road, Velapadi, Vellore, Vellore District.",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260404125746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11484/0/01bee7bf12/",
+          "https://voterlist.co.in/affidavit-download/11484/1/180b1dc009/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeswari.r",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "V.p. Mohan Gandhi",
+        "address": "No. 78, Varshini Hospital, Veppamara Street, Arni Road, Velapadi, Vellore, Vellore District.",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260404125746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6761/0/04798b4ce8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathish. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Asaithambi",
+        "address": "Kannabiran Koil Street, K.v.kuppam Village And Post, K.v.kuppam Taluk, Vellore District-632201",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SATHI-2026-20260410092331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15210/0/3ae4ac0ea5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthakumar.r",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "Ravikumar",
+        "address": "No.17, Cmc Colony, Vtk Nagar, Katpadi.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260406071434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10796/0/63cd78ccaf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thenral Kumar. E",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kilvaithinankuppam",
+        "father_husband_name": "G. Egambaram",
+        "address": "No.63, Muthukumaran Nagar, Kondasamudram, Pichanur, Gudiyatham Taluk, Vellore District-632602",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THENR-2026-20260410092140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15957/0/7a8d33b7da/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

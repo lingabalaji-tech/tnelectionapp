@@ -1,0 +1,400 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Rasipuram",
+    "count": 26,
+    "candidates": [
+      {
+        "name": "Ampulimadhan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Mathiyalagan",
+        "address": "139, Anna Nagar, Gandhipuram Post, Sendamangalam Taluk, Namakkal Dt",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMPUL-2026-20260406102326.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12395/0/f474ef0d27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulkumar P",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Perumal",
+        "address": "5/86, Palapalayam Colony, Koonavelampatti, Rasipuram Taluk, Namakkal Dt - 637401",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULK-2026-20260330085229.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/583/0/fb85ea21d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulraju G",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Govindan",
+        "address": "12/15, Om Kaliyamman Kovil Street, Pillanallur, Gurusamipalayam Post, Rasipuram Taluk, Namakkal Dt - 637403",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULR-2026-20260402083137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6060/0/a54080340e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dharani A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Deepak",
+        "address": "Door No.24/27, Thirugnanam Nagar 1St Street, Dadagapatti, Salem South Taluk,Salem Dt-636006",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHARA-2026-20260407120123.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11568/0/517aa16c2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Duraisamy V P",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Perumal",
+        "address": "Old No 8/1, New No.17, Ramanujam Street, Thiyagaraya Nagar, Chennai-600017",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DURAI-2026-20260406105943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12324/0/3f4a53ca4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopi R",
+        "party": "Mannin Maithargal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Raja",
+        "address": "93/64, Mariyamman Kovil Street, Seerappalli Post, Rasipuram Taluk, Namakkal Dt -637406",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPIR-2026-20260407021128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11547/0/19c4e79185/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayanthi M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Manickam",
+        "address": "4/248 3, Syndicate Bank Colony, Elumalai Nagar, Mahendrapuri, Salem Dt-636008",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAN-2026-20260407121856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11592/0/a41335098d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamoorthi P",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Poomalai",
+        "address": "2/74, West Street, Singalandapuram,Rasipuram Taluk, Namakkal Dt-637412",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260407022333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11551/0/c8519fe8c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Logesh Tamilselvan D",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Dhanabal",
+        "address": "A2, Periyar Kudiyiruppu, Tadagapatti, Salem -636006",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LOGES-2026-20260404074847.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7064/0/136a5a3b14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Chinnan",
+        "address": "14, Indhira Colony,Rasipuram,Namakkal Dt-637408",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260407124816.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11622/0/438f73c15d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mathiventhan M Dr",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Mayavan R",
+        "address": "90, Abirami Gardens, Mariyamman Kovil Back Side, Kattur Road, Rasipuram Post, Rasipuram Taluk, Namakkal Dt - 637408",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MATHI-2026-20260402073016.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5985/0/96883fabd9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayavan R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Raman",
+        "address": "60/65, Rangar Sannathi Street, Namakkal Post, Namakkal Dt - 637001",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAYAV-2026-20260402084328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5957/0/6ba7d57020/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muniyappan M",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Muthusamy",
+        "address": "6/122, Deventhirar Street,Athipalaganoor, Kattanachampatty Post , Rasipuram Taluk, Namakkal Dt-637408",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNIY-2026-20260407123420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11607/0/e2f0d54bbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Allimuthu",
+        "address": "35B, Kamaraj Nagar, Koneripatty,Rasipuram Taluk, Namakkal Dt-637408",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260407011935.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11644/0/09c8d667a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan T K",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Kuppan",
+        "address": "4/249, Andikuttai, Ayilpatty,Rasipuram Taluk, Namakkal Dt",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260407015952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11541/0/6925b4fa7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan T K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Kuppan",
+        "address": "4/249, Andikuttai, Ayilpatty,Rasipuram Taluk, Namakkal Dt",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260407015952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14599/0/03a4bb6a5d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Kurusamy",
+        "address": "3/120, Vadugam Colony, Vadugam Post, Rasipuram Taluk, Namakkal Dt - 637407",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260404083048.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8357/0/0fb179ddc3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Neppoliyan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Kaliyannan M",
+        "address": "6/83, Anna Nagar Colony, Athanur Post, Rasipuram Taluk, Namakkal Dt - 636301",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NEPPO-2026-20260402080651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6038/0/cbb5ebe087/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premkumar S D",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Duraisamy",
+        "address": "Old No 8/1, New No 17, Ramanujam Street, Thiyagarayanagar,Chennai-600017",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMK-2026-20260406104154.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11558/0/a22f43a159/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeshkannan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Rathinasamy",
+        "address": "76A, Parameshwaran Nagar,Pattanam Post,Rasipuram Taluk,Namakkal Dt-637408",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260407024811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11556/0/693df1a699/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramadass D",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Duraisamy",
+        "address": "2/154, Puthu Street, Pettapalayam Post Mohanur Taluk, Namakkal-637015",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAD-2026-20260407030455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11561/0/655bac0f58/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikala S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Sathasivam",
+        "address": "Door No.2/67, Arunthathiyar Street, Rajapalayam, Karkoodalpatty Post, Rasipuram Taluk, Namakkal Dt-636202",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIK-2026-20260406112609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11727/0/eeac85d799/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikala V",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Sathasivam",
+        "address": "2/67, Arunthathiyar Street, Rajapalayam, Karkoodalpatti Post, Rasipuram Taluk, Namakkal Dt - 636202",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIK-2026-20260330091206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/601/0/59a9c94b71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilazhagan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Murugesan",
+        "address": "50, 2Nd Ward, Keezh Colony,Ayilpatty",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260407013320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11654/0/50fe759545/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangamani S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Sengottuvel",
+        "address": "3/115 Arunthathiyar Colony, Vaiyappamalai Via,Thottiapatti,Rasipuram Taluk, Namakkal-637410",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260407014406.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11531/0/257d4be564/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangapoornima",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rasipuram",
+        "father_husband_name": "Logesh Tamilselvan D",
+        "address": "A2, Periyar Kudiyiruppu, Tadagapatti, Salem - 636006",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404081810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7825/0/fcac785633/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

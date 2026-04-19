@@ -1,0 +1,597 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kulithalai",
+    "count": 39,
+    "candidates": [
+      {
+        "name": "B.jansi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Balasubramani",
+        "address": "47A, Pasupathi Layout, Karur, Karur District",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BJAN-2026-20260406070627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10341/0/906e702735/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.jansi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Balasubramani",
+        "address": "47A, Pasupathi Layout, Karur, Karur District",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BJAN-2026-20260406070627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13140/0/a630ed33d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.kajaa Mohideen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "K.bava Mohideen",
+        "address": "1/113, Keelavittukkatti, Kallappalli Village, Lalapettai Post. Krishnarayapuram Taluk, Karur District - 639105",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BKAJ-2026-20260330041928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/637/0/c1a2db8af0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.sampathkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "Dheeran Nagar, Keelaveliyur, Kalladai Village, Kulithalai Taluk, Karur District - 621313",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSAM-2026-20260330050506.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/294/0/393e15c2e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balasubramani G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Ganesh",
+        "address": "47A, Pasupathi Layout, Karur, Karur Taluk, Karur District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAS-2026-20260404011533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6158/0/56ad05e61a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.savitha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Selva.nanmaaran",
+        "address": "10/23, Krls Complex, Sengunthapuram Main Road, Karur Taluk, Karur District - 639002",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSAV-2026-20260402043247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5237/0/803947c7e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.thilagavathi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Suriyanur A Chandran",
+        "address": "2/178, Melappatty, Suriyanur Village, Koppu Post, Kulithalai Taluk, Karur District - 639103",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CTHI-2026-20260406064413.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10215/0/5ff9b351fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekar.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Ponnambalam",
+        "address": "27/364, Kottamedu Kadai Street, Vaiganallur Post, Kulithalai Taluk, Karur Distrcit - 639120",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHAND-2026-20260404054614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7614/0/b6c46af55f/",
+          "https://voterlist.co.in/affidavit-download/7614/1/21c2048042/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Dharmalingam",
+        "address": "4/71, Arisana Street, Pillapalayam, Krishnarayapuram Taluk. Karur District - 639105",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSAR-2026-20260330034816.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/404/0/4d75156488/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.madhavan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Jayaraman",
+        "address": "8/82, Keelakudi Street. Parali, Kulithalai Taluk, Karur District - 639107",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JMAD-2026-20260330025215.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/77/0/ccbd757d0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.prathap",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Jeganathan",
+        "address": "8/143, Seerangareddiyur, Kuppatchippatty Post, Sivayam North Village, Krishnarayapuram Taluk, Karur District - 639120",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JPRA-2026-20260406121758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9808/0/3ede038f44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.santhosh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Jaisankar",
+        "address": "28/41, Mbs Agraharam, Kulithalai, Karur District - 639104",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JSAN-2026-20260402125220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/4993/0/bdc4f79954/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.hakkim",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Kamarudeen",
+        "address": "63,Vyshyal Street, Kulithalai, Kulithalai Taluk, Karur District - 639104",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KHAK-2026-20260404043504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7296/0/31f0694970/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.mohanraj",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Kumaravel",
+        "address": "8/81, Seeegampatti, Karuveppanaickenpettai Village, Kulithalai Taluk, Karur District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOH-2026-20260406065646.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9498/0/807ccb3263/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sheik Anwardeen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Kaja Moideen",
+        "address": "34,35, Andar Main Road, Kulithalai, Karur District - 639104",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSHE-2026-20260404045358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7983/0/6c80d2e50c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.umadevi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Karunakaran",
+        "address": "22, Kudi Street, Valayappatty, Hiranyamangalam Village, Kulithalai Taluk, Karur District - 639107",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMA-2026-20260404032455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6114/0/be557d0f52/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.umadevi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Karunakaran",
+        "address": "22, Kudi Street, Valayappatty, Hiranyamangalam Village, Kulithalai Taluk, Karur District - 639107",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMA-2026-20260404032455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6377/0/da19174ecd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.veeramalai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "V.kathamuthu",
+        "address": "13/23, Melakuttappatti. Vaiganallur South Village, Kulithalai Taluk, Karur District - 639120",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEE-2026-20260330054315.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/554/0/271ae5d53e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.arunkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Muthu",
+        "address": "33, Maduvilunthanparai South, Savarimedu Post, Kulithalai Taluk, Karur District - 639110",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260404050715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7276/0/30b36f02ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gayathiri",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Mani",
+        "address": "5/85, Arijana Street, Kallappalli South, Karuppathur Post. Krishnarayapuram Taluk, Karur District - 639105",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGAY-2026-20260404061354.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7552/0/3c9dccfa21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.mayilvaganan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Murugesan",
+        "address": "2/19, Main Road, Lalapettai, Krishnarayapuram Taluk, Karur District - 639105",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAY-2026-20260406071655.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10907/0/52859f85b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.tamilselvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Muthu",
+        "address": "6/49, West Arisana Street, Marudur North I Village, Kulithalai Taluk, Karur District - 639107",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTAM-2026-20260402120214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5089/0/1845516d50/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vadivelan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Murugesan",
+        "address": "2/46, Nayakkar Kulam, Thogamalai, Kulithalai Taluk, Karur District - 621313",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVAD-2026-20260404062058.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7868/0/299b112b89/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.ramakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Narayanasamy",
+        "address": "4A, Vaiganallur Agraharam 2Nd Cross Street, Kulithalai, Karur District - 639104",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NRAM-2026-20260406115707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9388/0/618bdce842/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "O.kathalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Omanthiram",
+        "address": "4/18, Chinnakavandampatti, Neithalur Colony Post, Kulithalai Taluk, Karur District - 639110",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/OKAT-2026-20260404060212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7136/0/6967b67cb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.murugan",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Ponnusamy",
+        "address": "2/197, Ambethkar Street, Kanakkapillaiyur, Sivayam Post, Kulithalai Taluk, Karur District - 639120",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUR-2026-20260406024202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8861/0/027b1ff1be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.rajendran",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Palaniyandi",
+        "address": "10/48, Echankattuppatty, Kalugur Village, Kulithalai Taluk, Karur District - 639120",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAJ-2026-20260404012920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6308/0/f1195d30c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Ponnambalam",
+        "address": "74, Melaveliyur, Kalladai Village, Kulithalai Taluk, Karur District -  621313",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSEL-2026-20260330032410.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/288/0/3ce2c810cd/",
+          "https://voterlist.co.in/affidavit-download/288/1/94bc01410e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.arunkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Rathinam",
+        "address": "Subramaniyapuram, Neithalu South Village, Kulithalai Taluk, Karur District - 639110",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARU-2026-20260406122415.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9984/0/b9f10c5f1a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ramachandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Raman",
+        "address": "94,P.vellalappatty, Keelur, Arunthathiyar Street, Puliyur Cement Factory Post, Karur District 639114",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAM-2026-20260404051517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7648/0/cc8c3e082f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.imrankhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Sarbudeen",
+        "address": "4, Vandipettai Street, Kulithalai, Karur District - 639104",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIMR-2026-20260330052637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/439/0/91ff78b73c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.k.manoharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Kandasamy",
+        "address": "11/24, Sabapathi Nadar Street, Kulithalai, Karur District - 639104",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKM-2026-20260402044901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5378/0/82109c7814/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.karunakaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Sundaram Alias Pappasundaram",
+        "address": "22, Kudi Street, Valayappatti, Hiranyamangalam Village, Kulithalai Taluk, Karur District - 639107",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAR-2026-20260404014840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6556/0/5e919b0e3e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.senthil Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Srinivasan",
+        "address": "7/59, Keela Thanneerpalli, Rajendhiram North Village, Kulithalai Taluk,. Karur District - 639107",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEN-2026-20260330045334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/235/0/ec0f9dde73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selva.nanmaaran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Selvaraj",
+        "address": "10/23, Krls Complex, Sengunthapuram Mainroad, Karur Taluk, Karur District - 639002",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260402040044.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5363/0/80b7093a6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suriyanur A Chandran",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Angappan",
+        "address": "2/178, Melappatti, Suriyanur Village, Kulithalai Taluk, Karur District - 639103",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURIY-2026-20260406053523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10401/0/6b9c6a5269/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.murugantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "M.thangavel",
+        "address": "5/118, Pulavarpuram, Poyyamani Village, Kulithalai Taluk, Karur District - 639110",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMUR-2026-20260330055358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/651/0/e74aa73fce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.selvaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Thangavel",
+        "address": "5/30, Indira Colony, Poyyamani Village, Kulithalai Taluk, Karur District - 639110",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSEL-2026-20260406052630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9648/0/4ad1c00584/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.chinnasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kulithalai",
+        "father_husband_name": "Veeramalai",
+        "address": "6/50, Arijana Street, Karuveppanaickenpettai, Kulithalai Taluk, Karur District - 639105",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VCHI-2026-20260404050032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7000/0/dcb961be82/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Alandur",
+    "count": 37,
+    "candidates": [
+      {
+        "name": "A.saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Adaikalam",
+        "address": "No 4/92-23 Mangaliyamman Kovil Street St Thomas Mount Chennai 600016",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAR-2026-20260406050700.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.veluchamy",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Arumugam",
+        "address": "No 1412 Kulakkarai Street Pappanchantram Nazerathpet, Poonamallee, Thiruvallur.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVEL-2026-20260406064826.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A.velusamy",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Arumugam",
+        "address": "No 1412 Kulakkarai Street Pappanchantram Nazerathpet, Poonamallee, Thiruvallur.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVEL-2026-20260406064826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14714/0/d24b11dc84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Vembarasan",
+        "address": "No 3 Alagiri Street ,Alandur Chennai 600016",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260406071224.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Aravind Chandrasekar",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Chandrasekar",
+        "address": "No 8A Suguna Colony Radha Nagar Chromepet Chennai  600044",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARVIN-2026-20260404055445.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16233/0/21716ee0d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arvind Chandrasekar",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Chandrasekar",
+        "address": "No 8A Suguna Colony Radha Nagar Chromepet Chennai  600044",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARVIN-2026-20260404055445.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Kalyanaramkumar",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Balasubrimaniyam",
+        "address": "No 18 Lakshmi Nagar 1 Street Adambakkam Chennai 600088",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BKAL-2026-20260402050516.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "D.saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Dhatchinamoorthi",
+        "address": "No 6/49 A Perumal Street St Thomas Mount , Chennai 600016",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSAR-2026-20260406065833.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G.daniel Antonyraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Gnanaprakasam",
+        "address": "No 35 Sanjai Gandhi Nagar 1St Street Pallavaram , Chennai 600043",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GDAN-2026-20260406061346.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G.mahalakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Ganesh",
+        "address": "No 52/5,Sai Balaji Nagar Near Velammal School Madhavaram, Thiruvallur 601204",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMAH-2026-20260330012511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/511/0/33ff35e1b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.ramanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Gurusamy",
+        "address": "No 14 Lawyer ,Jagannathan Street,Alandur,Chennai 600016",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAM-2026-20260406074545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13971/0/e515e3a77f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.agni Selvaraju",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Jayakannan",
+        "address": "No 1-122 South Street Soraiyattu Village Kalumaram Post Kallakurichi 605754",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAGN-2026-20260406080409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13078/0/767406df6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.agni Selvarasu",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Jayakannan",
+        "address": "No 1-122 South Street Soraiyattu Village Kalumaram Post Kallakurichi 605754",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAGN-2026-20260406080409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11140/0/f883fe21d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.ramanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Gurusamy",
+        "address": "No 14 Lawyer ,Jagannathan Street,Alandur,Chennai 600016",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAM-2026-20260406074545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11219/0/1f77bc4832/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.velayudham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Kaliswamy",
+        "address": "No 14/25 Mgr Nagar 2Nd Main Road Velachery Chennai 600042",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406075307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10636/0/2ddbb1581f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.a.vaidialingam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "M.appadurai",
+        "address": "No 2/34 Veteran Lines C. Pallavaram , Cdhennai  600122",
+        "gender": "Male",
+        "age": "86",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAV-2026-20260404050953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7410/0/37cd332296/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gobu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Muthaiya",
+        "address": "No 137 Mgr Nagar 2Nd Cress Street Velachery Chennai 600042",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGOB-2026-20260406080943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11367/0/99595e7698/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.harish",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "R.mahendran",
+        "address": "No 72/84 Pudupet Street Alandur Chennai 600016",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MHAR-2026-20260402042200.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.harish",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Manickam",
+        "address": "No 13/6 17Th Street B.v Nagar Nanganallur Chennai 600061",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MHAR-2026-20260406044958.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.manjula",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Mahendran",
+        "address": "No 72/84 Pudupet Street Alandur Chennai 600016",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260402043722.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahesh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Saravanan",
+        "address": "No 7/264 Muthalamman Kovil Street, C Pallavaram Chennai 600043",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHES-2026-20260404054242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7441/0/42f4ec5344/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.hari Krishnan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Natarajan",
+        "address": "No 229 Hrnc Building , Melandai Street Kundrathur Chennai 600069",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAR-2026-20260406053706.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.jansi Rani",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Royappan",
+        "address": "No 6/16 Perumal Kovil Street, Jothi Street, Paraniputhur 600122",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJAN-2026-20260404053521.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "M.ranganathan",
+        "address": "No 7/11 Pallikuda Street,Manimedu, Thandalam, Chennai 600128",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAR-2026-20260406051909.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.selvakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Ravi",
+        "address": "No 5 Ponnamblam Salai,Kollapakkam Chennai 600122",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEL-2026-20260406073323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10605/0/bceb6fb74b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Raje",
+        "address": "Old No 10,New No 19 Ground Floor Nerhu Colony 8Th Street Palavanthangal 600114",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUR-2026-20260404061829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7752/0/41e0a900f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.karthikeyan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Saravanan",
+        "address": "No 321 Mgr Nagar 4Th Main Road ,Velachery,Chennai 600042",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAR-2026-20260406062227.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.padmapriya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Sankar Ganesh",
+        "address": "No 11/7 9Th Street P.v Nagar Nanganallur Chennai 600061",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAD-2026-20260404062504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7994/0/81c011120c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.royappan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "M.shanmugam",
+        "address": "No 6/16, Perumal Kovil Street, Jothi Nagar Paraniputhur 600122",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SROY-2026-20260404052552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8032/0/0d9697b2c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.saravanan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Sangaiya",
+        "address": "No 20 Mgr Nagar 2Nd Cross Street Velachery, Chennai 600042",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSAR-2026-20260406060406.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Sangaiya",
+        "address": "No 20 Mgr Nagar 2Nd Cross Street Velachery, Chennai 600042",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSAR-2026-20260406060406.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sengodi Vijayalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Balakrishanan",
+        "address": "No 23 Javakar Street 4Th Main Road Thirupathi Nagar ,Kolathur, Chennai 600099",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENGO-2026-20260406072715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11326/0/b8cf3ab3c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senkodi Vijayalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Balakrishanan",
+        "address": "No 23 Javakar Street 4Th Main Road Thirupathi Nagar ,Kolathur, Chennai 600099",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENGO-2026-20260406072715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15560/0/38ec63e255/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Abdul Raghuman",
+        "address": "No 13/4 3Rd Street Bakthavachalam Nagar Nanganallur 600061",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDA-2026-20260402040917.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T.m.anbarasan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "T.mohalingam",
+        "address": "No 26, Thulukka Street,Kundrathur,Chennai 600066",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMA-2026-20260404045228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7937/0/39e66433ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.anbarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Vembarasan",
+        "address": "No 3 Alagiri Street ,Alandur Chennai 600016",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAR-2026-20260406071224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14791/0/164569fd92/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Y.g.mahalakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Alandur",
+        "father_husband_name": "Ganesh",
+        "address": "No 52/5,Sai Balaji Nagar Near Velammal School Madhavaram, Thiruvallur 601204",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMAH-2026-20260330012511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16656/0/7611fcc9ea/",
+          "https://voterlist.co.in/affidavit-download/16656/1/8fa30d6398/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

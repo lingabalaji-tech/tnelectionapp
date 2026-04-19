@@ -1,0 +1,628 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Omalur",
+    "count": 41,
+    "candidates": [
+      {
+        "name": "A.jeganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Andiyappan",
+        "address": "Door No.181, Nedu Street, Panankattur, Tindamangalam, Salem-636455",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJEG-2026-20260404040532.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6717/0/09ee763391/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.r.elangovan",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Rangasamy",
+        "address": "51-H, B-Block, Green Park Apartment, Tnhb, Omalur Road, Salem District-636007",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARE-2026-20260404014437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6514/0/26ab865e3d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Adhiyamaan. R.v",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "E.vivekananth",
+        "address": "3/32, Komalikadu, Sennakiri, Salem, Tamilnadu-637501",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVA-2026-20260404030436.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16127/0/1fdf0dbe11/",
+          "https://voterlist.co.in/affidavit-download/16127/1/c3bfb65714/",
+          "https://voterlist.co.in/affidavit-download/16127/2/b7de2811bd/",
+          "https://voterlist.co.in/affidavit-download/16127/3/89443ccc30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulprakash. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Thangaraj",
+        "address": "Door No:47, Kudi Street, Puliyampatti Post, Mettupatti, Salem-636455",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TARU-2026-20260404042259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16287/0/3856f5c9d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.santhalingam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "G.chinraj",
+        "address": "Door No.2/55, J.j.nagar, Thindamangalam, Salem - 636455",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSAN-2026-20260406114940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8384/0/93ef418b3d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.krishnamoorthy",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Duraisamy",
+        "address": "3/45, Voc Nagar, Kamaraj Nagar Colony Post, Salem-636014",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DKRI-2026-20260404023129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6195/0/eb6b1a03fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.lalitha",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "A.r.elangovan",
+        "address": "51-H, B-Block, Green Park Apartment, Tnhb, Omalur Road, Salem District-636007",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ELAL-2026-20260404021142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6683/0/c96937e2de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elangovan. A.r",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Rangasamy",
+        "address": "51-H, B-Block, Green Park Apartment, Tnhb, Omalur Road, Salem District-636007",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARE-2026-20260404014437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16023/0/510a7dde43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gobinathan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Rathinam",
+        "address": "Door No.4/655, Palikadai, Panagattur Post, Omalur, Panjakalipatti, Salem -636455.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGOB-2026-20260406121517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15285/0/bb1364fad9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeganathan. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Andiyappan",
+        "address": "Door No.181, Nedu Street, Panankattur, Tindamangalam, Salem-636455",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AJEG-2026-20260404040532.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16175/0/8eab4aa109/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.ramesh",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Kuppusamy",
+        "address": "1/5, Near Komaliyur Railway Bridge, Thimirikottai Kattuvalavu, Pachanampatty, Omalur Taluk, Salem District, Tamilnadu-636455",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAM-2026-20260404044658.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7707/0/5bcf3355d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamoorthy. D",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Duraisamy",
+        "address": "3/45, Voc Nagar, Kamaraj Nagar Colony Post, Salem-636014",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DKRI-2026-20260404023129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15774/0/efb5e39134/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.jayaraman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Mari",
+        "address": "95, Melkamandappatti, Pachanampatti Post, Omalur Taluk, Salem",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAY-2026-20260406030231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9705/0/ad7e6d1598/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sivasakthi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Mani",
+        "address": "2-213, Chinnasathappadi, Mettur Taluk, Salem District, Tamilnadu-636451",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSIV-2026-20260330020625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/639/0/e389ab8cf3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sudha",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Mani",
+        "address": "3-262, Boothanoor Katuvalavu, Periyeripatty Post, Omalur Taluk, Salem District.",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSUD-2026-20260406020113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9056/0/4a42b1e4ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mani. R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Ramasamy",
+        "address": "3-262, Boothanoor Katuvalavu, Paalikadu, Vedapatty Colony, Periyeripatty Post, Omalur Taluk, Salem District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406124613.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14644/0/a5216192f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mani. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Veerappan",
+        "address": "Door No.2/598, Yenathi Puthiya Colony, Semmandappatti, Kadayammpatti Taluk, Salem - 636309",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VMAN-2026-20260407125438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15054/0/9426ab2e3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manokaran A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Anbazhagan",
+        "address": "4/261, Mecheri Privu, Kottai Mariyamman Kovil Panchayat, Omalur Taluk, Salem District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANOK-2026-20260404043437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7288/0/34e1311a22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manokaran. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Anbazhagan",
+        "address": "4/261, Mecheri Privu, Kottai Mariyamman Kovil Panchayat, Omalur Taluk, Salem District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANOK-2026-20260404043437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15918/0/02c585149a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayakkannan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "P.ranganathan",
+        "address": "Door No.1/350, R.c.chettipatti, Kottamettupatti Village, R.c.chettipatti Post, Omalur Taluk, Salem -636455",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAY-2026-20260406022149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15382/0/05f44cc84d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohanraj. P.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Murugesan",
+        "address": "No.6/136, Vattamalai Colony, Sennakiri, Salem, Tamilnadu-637501",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMM-2026-20260406024030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14792/0/8de701f61d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.m.mohanraj",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Murugesan",
+        "address": "No.6/136, Vattamalai Colony, Sennakiri, Salem, Tamilnadu-637501",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMM-2026-20260406024030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8783/0/de0522f104/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.m.mohanraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Murugesan",
+        "address": "No.6/136, Vattamalai Colony, Sennakiri, Salem, Tamilnadu-637501",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMM-2026-20260406024030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12917/0/15f2d339c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Perumal. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Sennimalai",
+        "address": "Door No.624, Thekkampatti Kattuvalavu, Thekkampatti Panchayat, Vattakadu Post, Omalur Taluk, Salem -636012",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPER-2026-20260406041812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14855/0/04e674e463/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.gobinathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Rathinam",
+        "address": "Door No.4/655, Palikadai, Panagattur Post, Omalur, Panjakalipatti, Salem -636455.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RGOB-2026-20260406121517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9746/0/50fb3bb49d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.mani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Ramasamy",
+        "address": "3-262, Boothanoor Katuvalavu, Paalikadu, Vedapatty Colony, Periyeripatty Post, Omalur Taluk, Salem District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406124613.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8428/0/ebbabc6d81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.mayakkannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "P.ranganathan",
+        "address": "Door No.1/350, R.c.chettipatti, Kottamettupatti Village, R.c.chettipatti Post, Omalur Taluk, Salem -636455",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAY-2026-20260406022149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9916/0/6dcb95f117/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.v.adhiyamaan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "E.vivekananth",
+        "address": "3/32, Komalikadu, Sennakiri, Salem, Tamilnadu-637501",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVA-2026-20260404030436.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8403/0/851c5bbef9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.v.adhiyaman",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "E.vivekananth",
+        "address": "3/32, Komalikadu, Sennakiri, Salem, Tamilnadu-637501",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVA-2026-20260404030436.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6646/0/dc52eca665/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.govindaraji",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Subramaniam",
+        "address": "Door No.1-216, Ward-1, Thumbalahalli Village, Gendiganahalli Post, Karimangalam Taluk, Dharmapuri District, Tamilnadu -635205",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOV-2026-20260406033353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9012/0/b8287c32a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.govindaraju",
+        "party": "Tamilar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Subramaniam",
+        "address": "Door No.1-216, Ward-1, Thumbalahalli Village, Gendiganahalli Post, Karimangalam Taluk, Dharmapuri District, Tamilnadu -635205",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOV-2026-20260406033353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12963/0/be4840cac1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.mani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Shanmugam",
+        "address": "Door No.2/385, Panankadu, Tholasampatti, T.maramangalam, Omalur Taluk, Salem",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAN-2026-20260406053604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8423/0/cb02538826/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.perumal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Sennimalai",
+        "address": "Door No.624, Thekkampatti Kattuvalavu, Thekkampatti Panchayat, Vattakadu Post, Omalur Taluk, Salem -636012",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPER-2026-20260406041812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8919/0/27f5cf540a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.suresh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Selvaraj",
+        "address": "Kacheri Kattuvalavu, Ku.kuttappatti, Danishpettai, Salem, Tamilnadu -636354",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUR-2026-20260406045230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9099/0/81eaa83171/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.suresh Kumar",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Selvaraj",
+        "address": "Kacheri Kattuvalavu, Ku.kuttappatti, Danishpettai, Salem, Tamilnadu -636354",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUR-2026-20260406045230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9462/0/faf2ed403c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhalingam. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "G.chinraj",
+        "address": "Door No.2/55, J.j.nagar, Thindamangalam, Salem - 636455",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSAN-2026-20260406114940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15045/0/ca15c248d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivasakthi. M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Mani",
+        "address": "2-213, Chinnasathappadi, Mettur Taluk, Salem District, Tamilnadu-636451",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSIV-2026-20260330020625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15439/0/31adbbe73d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sureshkumar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Selvaraj",
+        "address": "Kacheri Kattuvalavu, Ku.kuttappatti, Danishpettai, Salem, Tamilnadu -636354",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUR-2026-20260406045230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14950/0/2b191cf09b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sureshkumar. S",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Selvaraj",
+        "address": "Kacheri Kattuvalavu, Ku.kuttappatti, Danishpettai, Salem, Tamilnadu -636354",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUR-2026-20260406045230.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15138/0/0bb110860c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.arulprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Thangaraj",
+        "address": "Door No:47, Kudi Street, Puliyampatti Post, Mettupatti, Salem-636455",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TARU-2026-20260404042259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6858/0/1f46d1d358/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.mani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Omalur",
+        "father_husband_name": "Veerappan",
+        "address": "Door No.2/598, Yenathi Puthiya Colony, Semmandappatti, Kadayammpatti Taluk, Salem - 636309",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9283/0/76101fcce5/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

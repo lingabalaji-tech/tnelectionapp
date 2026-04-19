@@ -1,0 +1,280 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Yercaud",
+    "count": 18,
+    "candidates": [
+      {
+        "name": "A.kaliyappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Andiyappan",
+        "address": "D.no.5/155, Nochipatti, Ayothiyapattanam, Valappadi, Periyagoundapuram, Salem-636106",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAL-2026-20260404013649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6420/0/8679da8acb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.gopi",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Chinnan",
+        "address": "1/30F, Kovilur, Kombuthuki Post, Yercaud Taluk, Salem District-636601",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CGOP-2026-20260402044859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5375/0/202a279b40/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.lavanya",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Chinnasamy",
+        "address": "332, Kathiripatti, Edappatti Post, Pethanaickenpalayam Taluk, Salem District",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CLAV-2026-20260406055632.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10234/0/acc253ff75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.lakshmi Janarthanan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Janarthanan",
+        "address": "5-3455, Servoypattu, Maniyarkundam, Chinnakalrayanmalai North, Salem-636138",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JLAK-2026-20260402052654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5626/0/9306632be3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayanthi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Balachandar",
+        "address": "180, 5Th Maintheru, B1 Block, Mattrukudiyerupu, Indhiranagar, Kurichipadi Taluk, Cuddalore District",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAN-2026-20260406063910.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9814/0/d38cba83eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.palanisamy",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Kuttaperinchi",
+        "address": "D.no.999, Valavanthi, Yercaud, Salem-636601",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPAL-2026-20260404042220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6167/0/ef7f5a9a0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.pazhanivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Kaliyappan",
+        "address": "D.no.5/115, Nochipatti, Valappady Taluk, Periyakavundapuram, Salem-636106",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPAZ-2026-20260404012314.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6226/0/4224ddb8aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.suresh",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Kuppusamy",
+        "address": "5/359, Kolappadi Kadu, Puliyur, Yercaud Taluk, Salem District-636602",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSUR-2026-20260406060531.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8885/0/eb04eb4f13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.palanivel",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Malayagounder",
+        "address": "D.no.5/90, Nochippatti, Ayothiyapattanam Post, Valappadi, Periyagoundapuram, Salem-636106",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPAL-2026-20260406053302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10213/0/e1abb4d6dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.karthik",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Natesan",
+        "address": "5/137, Nochippatti, Ayothiyapattinam Post, Periyagoundapuram, Salem-636106",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKAR-2026-20260404014854.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6559/0/c92c210348/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.vijayakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Natesan",
+        "address": "149, Yelupuli, Pethanaickenpalayam Taluk, Salem District",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NVIJ-2026-20260406040320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10188/0/19a44123b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.usharani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "M.palanivel",
+        "address": "D.no.5/90, Nochippatti, Ayothiyapattanam Post, Valappadi, Periyagoundapuram, Salem-636106",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PUSH-2026-20260406052333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9411/0/05d5641fb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy.m",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Manickam",
+        "address": "142, Akkaraipatti, Neyyamalai, Pethanaickenpalayam Taluk, Salem-636114",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260330020837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/647/0/1eb87129d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Subramani",
+        "address": "100, Mariyamman Kovil Street, Yelupuli, Pethanaickenpalayam Taluk, Salem District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEN-2026-20260406031002.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10067/0/b593358239/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suganya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Jayaraj",
+        "address": "D.no.1905, Thall Veethi, Karumandurai Post, Chinnakalrayan Malai, Salem-636138",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGAN-2026-20260404043233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6361/0/3495d931c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.m.revathi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Matheswaran",
+        "address": "D.no.7/767A, Yelupuli, Pethanaickenpalayam Taluk, Salem District",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMR-2026-20260406054427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9134/0/e45b9692ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.vengateshsan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Tholan",
+        "address": "202, Main Road, Melvadakuthu, Vadakuthu Post, Kurinchippadi Taluk, Cuddlore District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TVEN-2026-20260406062258.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8415/0/495f65c57c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangadurai.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Yercaud",
+        "father_husband_name": "Nainamalai",
+        "address": "D.no.5/90, Nochipatti, Ayothiyapattanam Post, Salem-636103",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404041140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6796/0/288083eaee/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

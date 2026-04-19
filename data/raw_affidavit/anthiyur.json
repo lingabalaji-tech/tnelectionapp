@@ -1,0 +1,580 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Anthiyur",
+    "count": 38,
+    "candidates": [
+      {
+        "name": "A.m.sheik Davood",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Mahaboob Shakib",
+        "address": "14,M.g.r Street,Anthiyur",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMS-2026-20260330042344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/26/0/bdcbbb01b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.palanivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Alagirisamy",
+        "address": "11/2,Gandhiji Street Cross-3,Thavittupalayam,Anthiyur-638501",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/APAL-2026-20260406081421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10572/0/79c15a65f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.selvi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "G.arumugam",
+        "address": "3/47,Kalingadu,Kanakkampalayam,Gobichettipalayam-638505,Erode",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASEL-2026-20260406010210.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8823/0/f560f7d936/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aalangattur Anandhi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "S.mohankumar",
+        "address": "46,Polavakalipalayam,Alangkattupudur,Linguchetti Thottam,Gobichettipalayam-638476",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANA-2026-20260330043955.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15441/0/e4dd6a4b15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.m.kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Madhappan",
+        "address": "85-J,Burgur Main Road,Burgur Post,Anthiyur Taluk,Erode-638501",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BMK-2026-20260406064217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10101/0/583423bb6d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.dhanabal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Cinnasamy Gounder",
+        "address": "26/54, Pudhu Veethi, T.n.palayam, Gobi - 638 506",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CDHA-2026-20260404025849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6579/0/6a8857226f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanabal.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Cinnasamy Gounder",
+        "address": "26/54, Pudhu Veethi, T.n.palayam, Gobi - 638 506",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CDHA-2026-20260404025849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16078/0/961fc5ef90/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Easwaramurthi.k",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Kuppusamy",
+        "address": "22H, Bharathiyar Nagar, Kaikaati Valasu, Villarasampatti, Erode",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KEAS-2026-20260404020758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16209/0/48aa858dd6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.kannan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "K.ganesan",
+        "address": "20, Muthaliyar Street, Ennamangalam Village - 638 501",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GKAN-2026-20260404024431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6369/0/b69874d4ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gobal.s.c.r",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Chinnappan",
+        "address": "176,Ambedkar Street,Thavittupalayam,Anthiyur Taluk,Erode-638501",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SCR-2026-20260406054416.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14954/0/41c4b673cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Haribaskar.p",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Prakash",
+        "address": "5/142,Maamallar Street,Kallipatti Post,Kondayampalayam,Gobichettipalayam Taluk,Erode-638505",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIB-2026-20260406023907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8677/0/3fdf815a69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.a.sankarkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Ayyavu",
+        "address": "29A,Kooteswara Nagar,Gobichettipalayam-638452",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAS-2026-20260330050155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/281/0/7b958fcd96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.anandhi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "S.mohankumar",
+        "address": "46,Polavakalipalayam,Alangkattupudur,Linguchetti Thottam,Gobichettipalayam-638476",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANA-2026-20260330043955.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/142/0/410f71c49b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.anbalagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Kodhandaraman",
+        "address": "4/88,Mariyamman Kovil Back Side,Punjaithuraiyampalayam,Gobichettipalayam,Erode-638506",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANB-2026-20260406061437.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9708/0/bc4d71217c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.easwaramurthi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Kuppusamy",
+        "address": "22H, Bharathiyar Nagar, Kaikaati Valasu, Villarasampatti, Erode",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KEAS-2026-20260404020758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6755/0/11cf426a63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kavibharathi",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Kandhan",
+        "address": "14/7,Madurai Veeran Colony,P.mettupalayam,Bhavani-638315",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAV-2026-20260406082458.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11010/0/5969398670/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.veeran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Karuppan",
+        "address": "119,Athani Colony,Sembuluchampalayam,Athani-638502",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEE-2026-20260406075147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10533/0/2e40dd4b2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthi.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "A.mathappan",
+        "address": "2/414-8,M.g.r Nagar,Kanakkampalayam,Gobichettipalayam-638505,Erode",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAR-2026-20260406012351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15167/0/c235226521/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavibharathi.k",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Kandhan",
+        "address": "14/7,Madurai Veeran Colony,P.mettupalayam,Bhavani-638315",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAV-2026-20260406082458.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15162/0/1d6d3b1575/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.geetha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "G.mani",
+        "address": "55, M.g.r Street, Bargur Road, Anthiyur - 638 501",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGEE-2026-20260404022225.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6866/0/f074b9f060/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.karthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "A.mathappan",
+        "address": "2/414-8,M.g.r Nagar,Kanakkampalayam,Gobichettipalayam-638505,Erode",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAR-2026-20260406012351.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9512/0/b1ccfc46c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.r.senguttuvan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Ramakrishnan",
+        "address": "9,Kamatchiyamman Kovil Street,Moongilpatti,Keelvani Post,Anthiyur Taluk,Erode-638502",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRS-2026-20260406043411.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9979/0/d2501c93f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sivabalan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Murugaian",
+        "address": "5/397,Palaya Thottam,Thaneer Panthal,Adasapalayam,Perumugai,Kallipatti Post,Gobichettipalayam,Erode-638505",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSIV-2026-20260406015023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8601/0/e093d174b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vijay Venkatesh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Madhanagopal",
+        "address": "189/303A,Epb Nagar,Periyasemur,Veerappanchatram,Erode-638004",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJ-2026-20260404044709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7736/0/7024c0dfd0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.prakasham",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Nachimuthugounder",
+        "address": "5/146,Maamallar Street,Kallipatti,Kondayampalayam,Gobichettipalayam-638505",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NPRA-2026-20260406051010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10399/0/8d79a7f6d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.loganayaki",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "S.palanisamy",
+        "address": "507,Periyakattu Thottam,Sevagoundanur,Periyapuliyur,Bhavani-638455",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PLOG-2026-20260404050733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7290/0/c896965a9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramasamy.s",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Shanmugam",
+        "address": "60/2A,Narayanapuram,Mylampadi Post,Bhavani Taluk-638314",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406062913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14929/0/7a525af51a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.c.r.gobal",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Chinnappan",
+        "address": "176,Ambedkar Street,Thavittupalayam,Anthiyur Taluk,Erode-638501",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SCR-2026-20260406054416.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9108/0/572cd839f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ramasamy",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Shanmugam",
+        "address": "60/2A,Narayanapuram,Mylampadi Post,Bhavani Taluk-638314",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406062913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9061/0/db2150b659/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.satheeskumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Chandrasekaran",
+        "address": "40/8,Cholan Street,Chennimalai,Erode-638051",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAT-2026-20260406071641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10901/0/b1223713e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sudha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Sivabalan",
+        "address": "5/397,Palaya Thottam,Thaneer Panthal,Adasapalayam,Perumugai,Kallipatti,Erode-638505",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUD-2026-20260406021049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9370/0/def11f24cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankarkumar.k.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Ayyavu",
+        "address": "29A,Kooteswara Nagar,Gobichettipalayam-638452",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAS-2026-20260330050155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15642/0/2dba9ede36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvi.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "G.arumugam",
+        "address": "3/47,Kalingadu,Kanakkampalayam,Gobichettipalayam-638505,Erode",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASEL-2026-20260406010210.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14811/0/41c22afc0c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sheik Davood.a.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Mahaboob Shakib",
+        "address": "14,M.g.r Street,Anthiyur",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMS-2026-20260330042344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14889/0/0e85992b2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivabalan.m",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Murugaian",
+        "address": "5/397,Palaya Thottam,Thaneer Panthal,Adasapalayam,Perumugai,Kallipatti Post,Gobichettipalayam,Erode-638505",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSIV-2026-20260406015023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14716/0/341f4af10a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.sivanantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Veerappan",
+        "address": "111,Annamaduvu,Pachampalayam Post,Anthiyur-638314",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIV-2026-20260406065543.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9431/0/c7b14925f3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeran.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Karuppan",
+        "address": "119,Athani Colony,Sembuluchampalayam,Athani-638502",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEE-2026-20260406075147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14682/0/54515d5155/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay Venkatesh.m",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Anthiyur",
+        "father_husband_name": "Madhanagopal",
+        "address": "189/303A,Epb Nagar,Periyasemur,Veerappanchatram,Erode-638004",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVIJ-2026-20260404044709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15030/0/8ac3162ff5/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

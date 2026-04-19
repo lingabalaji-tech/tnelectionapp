@@ -1,0 +1,672 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Tiruchirappalli (East)",
+    "count": 44,
+    "candidates": [
+      {
+        "name": "A.siddharth",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Arulananthu",
+        "address": "379, Pandian Street, Kamarajar Nagar, Airport, Trichy 620007",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASID-2026-20260406104206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11924/0/fe64863ef3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anand Selvaraj",
+        "party": "National Maha Sabha Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Selvaraj",
+        "address": "13, Ganesh Nagar, Airport, Trichy 620007",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260406095651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12543/0/8334ea65b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Joseph Vijay",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "S.a.chandrasekaran",
+        "address": "36, Casvarina Drive, Kapaleeswarar Nagar, Neelankarai,Chennai-600041",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CJOS-2026-20260402071446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5742/0/c5e794c43b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Nanda Kumar",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "G.chelladurai",
+        "address": "6, Thondaiman Colony, K.k.nagar, Trichy 620021",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CNAN-2026-20260404082809.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16274/0/34c81433f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.joseph Vijay",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "S.a.chandrasekaran",
+        "address": "36, Casvarina Drive, Kapaleeswarar Nagar, Neelan Karai,  Chennai 600041",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CJOS-2026-20260402072243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5769/0/156ffd38f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.nandakumar",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "G.chelladurai",
+        "address": "6, Thondaiman Colony, K.k.nagar, Trichy 620021",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CNAN-2026-20260404082809.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8342/0/c14e582a8e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.krishnasamy .V",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "S.venugopal",
+        "address": "No.3, Viswas Nagar East, Tharanallur Extension, Trichy-620008",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRKR-2026-20260330023555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/74/0/986b052ed0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.abirami",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Eshwaran",
+        "address": "182/38, Kannan Store, Kuppangulam, Madurai Road, Trichy 620008",
+        "gender": "Female",
+        "age": "23",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EABI-2026-20260406101946.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12281/0/773c866dbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Rajasekaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "T.ganesan",
+        "address": "3/5, Srinivasa Puram, Thennur, Trichy 620017",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GRAJ-2026-20260408074634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15785/0/e1617a12c5/",
+          "https://voterlist.co.in/affidavit-download/15785/1/8a9d9bf7f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Sebastian Anand",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "M.gunasekaran",
+        "address": "112, Ist Floor, Meenatchi Towers, Beemanagar, Trichy 620001",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSEB-2026-20260402064334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16495/0/ee820354e2/",
+          "https://voterlist.co.in/affidavit-download/16495/1/4994be89da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.balakrishnan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "T.ganesan",
+        "address": "3/5, Srinivasa Nagar, Thennur, Trichy 620017",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBAL-2026-20260406102259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12375/0/3d5b603d0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.rajasekaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "T.ganesan",
+        "address": "3/5, Srinivasa Puram, Thennur, Trichy 620017",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAJ-2026-20260404070607.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7074/0/b9a53b1519/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.sebastian Anand",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "M.gunasekaran",
+        "address": "112, Ist Floor, Meenatchi Towers, Beemanagar, Trichy 620001",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSEB-2026-20260402064334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5900/0/e3deb42af0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.surya",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "K.ganesan",
+        "address": "2/1, L Abishekapuram, Rural Godown West, Lalgudi, Trichy 621601",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSUR-2026-20260406105216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12180/0/bebc6ea80f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Robert Christy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Joseph",
+        "address": "5/51, 7Th Cross, Thiru Nagar, Ponmalai, Trichy 620004",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JROB-2026-20260406104511.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12021/0/142df3b630/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jesurajan .K",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "A. Kulandaisamy",
+        "address": "77, 10Th Street, Sakthi Nagar, Karumandapam, Trichy 620001",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JESUR-2026-20260404082247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7923/0/3450eb4668/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.chirenjeevi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Ku.pa. Krishnan",
+        "address": "2/12, West Kulumani, Kulumani Post, Srirangam Taluk, Trichy  639103",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCHI-2026-20260402072825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5791/0/299e102e2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.chirenjeevi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Ku.pa. Krishnan",
+        "address": "2/12, West Kulumani, Kulumani Post, Srirangam Taluk, Trichy  639103",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCHI-2026-20260402072825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13335/0/346b418b5b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.raja",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Krishnan",
+        "address": "A/1, Indra Nagar, Keela Chindamani, Trichy 620002",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260406100006.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11713/0/61c42644d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan .S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "M.sivalingam",
+        "address": "19, 2Nd Street, Arumugam Garden, North Tharanallur, Trichy 620008",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAN-2026-20260406100331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14815/0/e6f4a56aaf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Gobinath",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "A.natarajan",
+        "address": "12/20, Jeeva Street, Indra Nagar Colony, Samayapuram, Manachanallur, Trichy 621112",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NGOP-2026-20260406103104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15692/0/886fcc5a61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.gopinath",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "A.natarajan",
+        "address": "12/20, Jeeva Street, Indra Nagar Colony, Samayapuram, Manachanallur, Trichy 621112",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NGOP-2026-20260406103104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12559/0/22a27f16bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.jaikumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "P.nallu",
+        "address": "14/44. Dhamodaran Eda Street, Palakkarai, Trichy 620001",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NJAI-2026-20260406101612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12205/0/b607338d48/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.jaikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "P.nallu",
+        "address": "14/44. Dhamodaran Eda Street, Palakkarai, Trichy 620001",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NJAI-2026-20260406101612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13049/0/84ccaea75b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Charles Sagayaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "A.packyaraj",
+        "address": "61F, Dhanamani Colony, Duraisamy Puram, Trichy 620001",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PCHA-2026-20260406101202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15068/0/e1e7e84e47/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Rajendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "C.palaniappan",
+        "address": "15084/15A, 7Th Floor, Prestige Bella Vista, Iyyapanthangalpoonamallee, Chennai - 600056",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAJ-2026-20260402073211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16429/0/da15734766/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.charles Sahayaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "A.packyaraj",
+        "address": "61F, Dhanamani Colony, Duraisamy Puram, Trichy 620001",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PCHA-2026-20260406101202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12049/0/eec978242c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.rajendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "C.palaniappan",
+        "address": "15084/15A, 7Th Floor, Prestige Bella Vista, Iyyapanthangalpoonamallee, Chennai - 600056",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAJ-2026-20260402073211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5992/0/f10144674a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Elangovan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Ramasamy",
+        "address": "27, Pensioner Street, Varaganery, Trichy 620008",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RELA-2026-20260406102745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15605/0/db7538e595/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Muthukumar",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Ramaiya",
+        "address": "49, Puthu Retti Street, Beemanagar, Trichy 620001",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMUT-2026-20260406095337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15564/0/c4ff63fad0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.elangovan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Ramasamy",
+        "address": "27, Pensioner Street, Varaganery, Trichy 620008",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RELA-2026-20260406102745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12490/0/eb64ab54a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.muthukumar",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Ramaiya",
+        "address": "49, Puthu Retti Street, Beemanagar, Trichy 620001",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMUT-2026-20260406095337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12462/0/1557697932/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sathyamoorthi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "M.rajarethinam",
+        "address": "8/24, Kadikana Santhu, Chinna Kadai Veethi, Trichy 620002",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAT-2026-20260406103605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11787/0/1424236ebb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Royal Raja",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Krishnan",
+        "address": "A/1, Indra Nagar, Keela Chindamani, Trichy 620002",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260406100006.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14701/0/06096f0995/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Inigo Irudayaraj",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "I. Stanislaus",
+        "address": "4/341, Ist South Main Road, Sri Kabaliswarar Nagar, Neelangarai, Chennai 600041",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SINI-2026-20260404081308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7690/0/46f0e991d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Panneer Selvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Singaram",
+        "address": "3/381A, 5Th Street, Ramnagar, Mannevakkam, Chengalpattu, 600048",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SPAN-2026-20260409050651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16268/0/57711f7046/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "M.sivalingam",
+        "address": "19, 2Nd Street, Arumugam Garden, North Tharanallur, Trichy 620008",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAN-2026-20260406100331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11812/0/be8c45bbdd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.panneerselvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Singaram",
+        "address": "3/381A, 5Th Street, Ramnagar, Mannevakkam, Chengalpattu, 600048",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAN-2026-20260404065744.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8022/0/392f381d7a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sukumar .S",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "S.seetharaman",
+        "address": "96A, Annasalai 16Th Cross, Kailash Nagar, Kattur, Trichy 620019",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUKUM-2026-20260402065421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16541/0/5d8940c582/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sukumar S",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "S.seetharaman",
+        "address": "96A, Annasalai 16Th Cross, Kailash Nagar, Kattur, Trichy 620019",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUKUM-2026-20260402065421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5945/0/ad9d767452/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Gangai Ulaganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Thangaraj",
+        "address": "27, Nadu Street, Mela Chindamani, Trichy 620002",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TGAN-2026-20260406104759.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15100/0/0f585758d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.gangai Ulaganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "Thangaraj",
+        "address": "27, Nadu Street, Mela Chindamani, Trichy 620002",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TGAN-2026-20260406104759.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12076/0/266c78ae20/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijaia Mohanaaji .Ma",
+        "party": "Vidial Valarchi Perani",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "N.manickam Pillai",
+        "address": "37J2, East Street, Ichikamalai Patti, K.k.nagar, Trichy-620021",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAI-2026-20260402063133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5839/0/72841378bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay .K",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Tiruchirappalli (East)",
+        "father_husband_name": "T.s.kumar",
+        "address": "22, Damodaran Street, Perambur, Chennai 600011",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406100806.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11937/0/07165df209/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

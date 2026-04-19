@@ -1,0 +1,479 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Chidambaram",
+    "count": 33,
+    "candidates": [
+      {
+        "name": "D. Manimaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Dhanapal",
+        "address": "157 Salai Main Road, Sivapuri, Chidambaram Taluk, Cuddalore District, 608002",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMAN-2026-20260404073201.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7858/0/4c92590eed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Deenapillai",
+        "address": "36 A, Omakkulam Street, Chidambaram, Chidambaram Taluk, Cuddalore District, 608001",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "D.kalaiyarasi",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "M.dhanasekaran",
+        "address": "29 Agrakar Street, Keelaparuthigudi, Mullangudi Post, Kattumannarkoil Taluk, Cuddalore District, 608302",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DKAL-2026-20260406081151.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanasekaran. M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Manickam",
+        "address": "29, Agrahara Street, Keezhaparuthikudi, Mullangudi Post, Kattumanarkoil Taluk-608302",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANA-2026-20260410101758.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15424/0/03fca94a93/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.veera.anbuselvan",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Veerasamy",
+        "address": "429/A Kaliyamman Koil Street, Sivapuri, Sivapuri Post, Chidambaram Taluk, Cuddalore District, 608002",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRVE-2026-20260404080013.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8031/0/190fdb8622/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Easan Natarajan. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Thangarasu",
+        "address": "74, Andiyappan Street, West Mambalam, Kasikkulam, Mettupalayam, Chennai 600033",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EASAN-2026-20260404063154.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15777/0/c4e96c6a6c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Easan Natarajan.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Thangarasu",
+        "address": "74, Andiyappan Street, West Mambalam, Kasikulam, Mettupalayam, Chennai 600033",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EASAN-2026-20260404063154.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7056/0/8e6a6a5949/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Er. Jayakkumar. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Ramanujam",
+        "address": "54, Sakthi Nagar, Usuppur, Chidambaram Taluk - 608001",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ERR-2026-20260407061046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15186/0/c734d74e2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Er.r.jayakkumar. M.e",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "T.ramanujam",
+        "address": "54 Sakthi Nagar, Usuppur, Chidambaram Taluk, Cuddalore District, 608001",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERR-2026-20260406074156.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Aanandhi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "U. Kannan",
+        "address": "237 Velangipattu Main Road, Manikkollai, Bhuvanagiri Taluk, Cuddalore District, 608501",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAAN-2026-20260406065740.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9611/0/54e257a68c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Munisankar",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Kuppusamy",
+        "address": "1063, Mariyamman Koil Street, Paluthangarai, Chidambaram Taluk, Cuddalore District, 608102",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMUN-2026-20260404072242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7279/0/53a9698b19/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Thirugnanam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Kathavarayan",
+        "address": "1 Quaters Street, B. Maduvangarai, Thillaividangan Post, Chidambaram Taluk, Cuddalore District, 608102",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KTHI-2026-20260406081853.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.a.pandian",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "V Arigovindan",
+        "address": "432/81C, Kadai Street, Kumaratchi, Kattumannarkoil Taluk, Cuddalore District,",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAP-2026-20260404052804.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6902/0/2d9aee2b8d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.kannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Kandhasami",
+        "address": "8B Sorwarnaburi Layout, Kombari Thottam, Thiruppur 641604",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAN-2026-20260406091753.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.rajaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Kothandaraman",
+        "address": "3-10, Ponnankoil,  Parathur Chavadi Post, Chidambaram Taluk, Cuddalore District, 608201",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260406094054.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Surendar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Muthusamy",
+        "address": "667  Govinthasami Nagar, Annamalai Nagar, Uthamasozhapuram, Chidambaram Taluk, Cuddalore District, 608002",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSUR-2026-20260406085110.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.dhanasekaran",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "P.manickam",
+        "address": "29 Akragar Street, Keelaparuthigudi, Mullangudi Post, Kattumannarkoil Taluk, Cuddalore District, 608302",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHA-2026-20260406080608.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.swatheesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "G. Marimuthu",
+        "address": "4 Ganesan Street, Badmavathi Nagar, Kundrathur, 600069",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSWA-2026-20260406092758.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.thamimun Ansari",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Mohamed Ali",
+        "address": "26 Kasi Street, Thopputhurai Post, Vedaranyam Taluk, Nagapattinam District, 614809",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTHA-2026-20260406075123.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Manimaran. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Dhanapal",
+        "address": "157, Salai Main Road, Sivapuri, Chidambaram Taluk - 608002",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DMAN-2026-20260407061518.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16178/0/449c8f0b10/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Munisankar. K",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Kuppusamy",
+        "address": "1063, Mariyamman Koil Street, Paluthankarai, Keezhamungiladi,  Chidambaram Taluk, 608102",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KMUN-2026-20260404072242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15914/0/6178f13b21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Ibrahim",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "S. Abdul Salam",
+        "address": "222 Cuddalore Main Road, Neyveli, Cuddalore District, 607802",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NIBR-2026-20260406075850.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Manikandan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Nadanasigamani",
+        "address": "E1, Pillaiyar Kovil Street, C.mutlur, Bhuvanagiri Taluk, Cuddalore District, 608102",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NMAN-2026-20260404065644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7999/0/b0c10dc8bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nedunchezhiyan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Azhagirisamy",
+        "address": "117, Mariyamman Koil Street, Prasannaramapuram, Ambapuram Post, Bhuvanaigiri Taluk, Cuddalore District, 608704",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NEDUN-2026-20260406071046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8588/0/1f86408025/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Arisakthivel",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "K.a. Pandian",
+        "address": "432/81C, Kadai Street, Kumaratchi, Kattumannarkoil Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARI-2026-20260404060055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7061/0/593130c963/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paari",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Nedunchezhiyan",
+        "address": "117 Mariyamman Koil Street South, Prasannaramapuram, Ambapuram Post, Bhuvanagiri Taluk, Cuddalore District, 608704",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAARI-2026-20260406072020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11027/0/fdf83ef83b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandian. K.a",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Arigovindhan",
+        "address": "432/81C, Kadai Theru, Kumaratchi, Kattumannarkoil Taluk, 608302",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PANDI-2026-20260410094100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15707/0/3ca02b8e98/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sudha",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Surendar",
+        "address": "667 Govindasami Nagar, Annamalai Nagar, Uthamasozhapuram, Chidambaram Taluk, Cuddalore District, 608002",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUD-2026-20260406090933.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Subasri",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Kumaravelu",
+        "address": "E1 Nadumettu Street, K. Adoor, Chidambaram Taluk, Cuddalore District, 608602",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBAS-2026-20260406082659.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamimun Ansari. M",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Mohammed Ali",
+        "address": "26 Kasi Street, Thopputhurai Post, Vedaranyam Taluk, Nagapattinam District, 614809",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTHA-2026-20260406075123.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15690/0/1b0034bb8a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamizh",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Jayaraman",
+        "address": "E1, Riverside Street, C.mutlur, Bhuvanagiri Taluk, Cuddalore District - 608 102",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMI-2026-20260330065114.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/282/0/097d20250c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirugnanam. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Kathavarayan",
+        "address": "No.1, Quarters Street, P.maduvangarai , Thillaividangan P.o, Chidambaram Taluk, Cuddalore District - 608102",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KTHI-2026-20260406081853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14888/0/b76bf808a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chidambaram",
+        "father_husband_name": "Deenapillai",
+        "address": "36/A Omakkulam Street, Chidambaram, Chidambaram Taluk, Cuddalore Dist. - 608001",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DVEN-2026-20260402064715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16259/0/7473e15cc7/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

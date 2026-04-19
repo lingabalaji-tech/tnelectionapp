@@ -1,0 +1,533 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Mannargudi",
+    "count": 35,
+    "candidates": [
+      {
+        "name": "Anandhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Mariyapan",
+        "address": "865,Neermangalam,Koothanallur-Taluka,Thiruvarur-Dt",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260406053932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8635/0/9e4371dd90/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aravindan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Ramasamy",
+        "address": "38/2,Keel Mel Rukmani Palayam Main Road,Mannargudi-614001",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARAVI-2026-20260330040430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/465/0/a03f200513/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulprakash. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Pethaperumal",
+        "address": "71, Keela Theru, Neduvakottai, Mannargudi-Tk, Thiruvarur Dt. Pin-614014",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARULP-2026-20260410121815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15577/0/5bae2be173/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.bharathi",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Balu",
+        "address": "80/5,Tharisuvely,13 Karnavoor,Mannargudi-Tk-Thiruvarur-614014",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BBHA-2026-20260406075058.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11451/0/296d443959/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharathi.b",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Balu",
+        "address": "80/5, Tharisuveli, 13. Karnavur, Mannargudi -Tk, Thiruvarur Dt. Pin-614014",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BHARA-2026-20260410122740.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15677/0/e0b76e1d1e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharathiselvan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Ramachandran",
+        "address": "24,Kamal Nagar,Mannargudi-614001",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BHARA-2026-20260330032742.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/256/0/eea8d8755f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharathiselvan.r",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Ramachandran",
+        "address": "24,Kamal Nagar, Mannargudi-Tk, Thiruvarur Dt. Pin-614001",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BHARA-2026-20260410122042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16601/0/4dd0038759/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai Arasan.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Kesavan",
+        "address": "5/172, Railway Line South, Alangadu, Muthupettai-Tk, Thiruvarur Dt. Pin-614704",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DURAI-2026-20260410123217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15637/0/443670f71b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Duraiarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Kesavan",
+        "address": "5/172 Railway Line South,Alangadu,Muthupettai Tk-614704",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DURAI-2026-20260406081555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11413/0/f1dd0c2e41/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.govindaraj",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Ganesan",
+        "address": "4/60-2,Iyyappan Nagar,1St Street,Ashesam,Mannargudi-614016",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GGOV-2026-20260404065030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7820/0/d5d5b354e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Govindaraj.g",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Ganesan",
+        "address": "4/60-2 Ayyappan Nagar, First Street, Ashesham, Mannargudi, Thiruvarur Dt. Pin-614018",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GOVIN-2026-20260410122652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14987/0/c10d6e10eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.vimalrajkumar",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Kovilselvam",
+        "address": "1-255,North Street,Paravakkottai-2,Mannargudi-Tk-614015",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVIM-2026-20260406063216.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9270/0/e879335a3a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Kaliyaperumal",
+        "address": "439,Koraiyaru Thalaippu,Pannimangalam,Needamangalam-614404",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamaraj. S",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Soundarajan",
+        "address": "28, Annavasal Street, Mannargudi, Thiruvarur Dt. Pin-614001",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAMAR-2026-20260410121637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15676/0/2778bcd100/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamaraj.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Arumugam",
+        "address": "851, Therku Street, Tharkasu, Kovilvenni, Needamangalam-Tk, Thiruvarur Dt. Pin-614403",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAMAR-2026-20260410123136.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15864/0/e807945250/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamaraj.s",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Subramaniyan",
+        "address": "31, Keela Theru, Thalikkottai, Mannargudi-Tk, Thiruvarur Dt. Pin-614018",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAMAR-2026-20260410121242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15357/0/2fcab4a0c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.marimuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Murugaiyan",
+        "address": "395/2, North Street,Athangudi,Koothanallur-614103",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MMAR-2026-20260330050833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/278/0/bb1c7fb7c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marimuthu.a.v.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Murugaiyan",
+        "address": "395/2, North Street, Athangudi, Koothanallur-Tk, Thiruvarur Dt. Pin-614103",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MARIM-2026-20260410123548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16605/0/cd59819666/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuvel",
+        "party": "Tamilaga Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Vadivel",
+        "address": "81,Sivan Kovil Street,Puthudevangudi,Needamangalam-612803",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260402013759.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5031/0/f7538636b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuvel.v",
+        "party": "Tamilaga Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Vadivel",
+        "address": "81, Sivan Kovil Street, Puthudevengudi, Needamangalam-Tk, Thiruvarur Dt.  Pin-612803",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260410122839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16382/0/ad7d966def/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Namasivayam.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Natarajan.s",
+        "address": "694,Muthupettai Main Road,Serankulam,Mannargudi",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NAMAS-2026-20260404021005.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6765/0/50a177ae99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.arulprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Pethaperumal",
+        "address": "71,Keela Street,Neduvakkottai,Mannargudi-Tk-614014",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARU-2026-20260406064419.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10235/0/5b29f35e28/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sivasubramanian",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Perumal",
+        "address": "534,South Street,Sitheri,Serankulam-614016",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSIV-2026-20260404052953.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7001/0/1a6c4a956e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhu. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Saminathan",
+        "address": "23, Vadakku Sothiriyam, Rajapaiyan Chavadi, Needamangalam-Tk, Thiruvarur Dt. Pin-612803",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRABH-2026-20260410123344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15258/0/ff13c53c70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manmatha",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "U.rajarajan",
+        "address": "91,Mudukku Street,Eda Keelaiyur,Needamangalam-Tk-614013",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406072849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11386/0/d4fd8dc40a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajaa.t.r.b",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "T.r.baalu",
+        "address": "2-459.A, South Street, Thalikkottai, Mannargudi - Tk, Thiruvarur Dt. Pin-614018",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJAA-2026-20260410122556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16295/0/0bc61c7455/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajarajan.u",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "V.uthirapathi",
+        "address": "91, Mudukku Theru, Edakeelaiyur, Needamangalam-Tk, Thiruvarur Dt. Pin-614013",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJAR-2026-20260410123026.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14824/0/b9c6f01cdf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rasupillai.s",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Subiramanian",
+        "address": "26A, Kunnuji Rajambalayam Street,  Mannargudi Town And Tk, Thiruvarur Dt. Pin-614001",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RASUP-2026-20260410121406.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15759/0/fc77ea9759/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kamaraj",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Soundarajan",
+        "address": "28,Annavasal Street,Mannargudi-614001,Thiruvarur-Dt",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAM-2026-20260406060009.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8672/0/19c4e62506/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kamaraj",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Subramaniyan",
+        "address": "31,Keela Street,Thalikkottai,Mannargudi-Taluka,Thiruvarur-614018",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAM-2026-20260406061549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9876/0/d09f5d2300/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.prabhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Saminathan",
+        "address": "23,North Sothiriyam,Rajapaiyanchavadi,Needamangalam-Tk-612803",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPRA-2026-20260406065840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9694/0/ffa0d3966f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.rasupillai",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Subiramanian",
+        "address": "26A,Kunuji Rajampalayam Street,Mannargudi-614001",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAS-2026-20260404055943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7013/0/e71a5cf8da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "Kaliyamoorthy",
+        "address": "298,Vandaiyarkudikadu,Peraiyur-614018",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260404061528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7602/0/6cdd32ea78/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.r.b.rajaa",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "T.r.baalu",
+        "address": "2-459A,South Street,Thalikottai,Mannargudi-Tk,Thiruvarur-Dt-614018",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TRB-2026-20260404050156.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7164/0/0087c9e39a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "U.rajarajan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Mannargudi",
+        "father_husband_name": "V.uthirapathi",
+        "address": "91,Muduku Street,Eda Keelaiyur,Needamangalam-Tk-614013",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/URAJ-2026-20260406071257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10691/0/7fc011f927/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

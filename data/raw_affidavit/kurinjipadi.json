@@ -1,0 +1,403 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kurinjipadi",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "A  Bhuvanenthiran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Ayyadurai",
+        "address": "No.521, Thaikkal Thonithurai, Pachayankuppam, Cuddalore Taluk, Cuddalore District-607003.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABHUV-2026-20260410041745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15567/0/a3905bb151/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Bhuvanenthiran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Ayyadurai",
+        "address": "No.521, Thaikkal Thonithurai, Pachayankuppam, Cuddalore Taluk, Cuddalore District - 607003.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Kolanji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Arirav",
+        "address": "643, North Street, Pacharapalayam,Kurinjipadi Taluk,  Cuddalore, Tamilnadu - 607302.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKOL-2026-20260330053619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/506/0/471954ae76/",
+          "https://voterlist.co.in/affidavit-download/506/1/825b6cb7bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.c.t. Dhanakesavamoorthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "A.c.thanakodi",
+        "address": "No.1, Dhanakodi Nagar, Panruti Salai East, Abatharanapuram, Vadalur Post, Kurinjipadi Taluk, Cuddalore District - 607303.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ACT-2026-20260404061716.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam  R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Raju",
+        "address": "No.b-43, Ganga Salai, Block-4, Neyveli Township, Cuddalore District.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RARU-2026-20260407055650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14677/0/3e7dfaae77/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B. Kalpana Devi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "A. Bhuvanenthiran",
+        "address": "No.521, Thaikkal Thonithurai, Pachayankuppam, Cuddalore Taluk, Cuddalore District - 607003.",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "D.rajkumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "T.devarajan",
+        "address": "No. 1/99, South Street, Seplanatham South, Viruthachalam Taluk, Cuddalore District, Neyveli - 607802.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRAJ-2026-20260402055336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5831/0/2fbcc00efa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanakesavamoorthy A.c.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "A.c.thanakodi",
+        "address": "No.1, Dhanakodi Nagar, Panruti Salai, East Abatharanapuram, Vadalur Post, Kurinjipadi Taluk, Cuddalore District-607303.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ACT-2026-20260407032358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15715/0/fee166a208/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Paneerselavam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Krishnan",
+        "address": "No. 81/2, Murugan Kovil Street, Karunguzhi, Vadalur, Kurinjipadi Taluk, Cuddalore District - 607303.",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Paneerselvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Krishnan",
+        "address": "No. 81/2, Murugan Kovil Street, Karunguzhi, Vadalur, Kurinjipadi Taluk, Cuddalore District - 607303.",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KPAN-2026-20260407055436.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14773/0/a8187269d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Subalakshmi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "T. Kannan",
+        "address": "No. 11/2, Ranganathan Nagar, Beach Road, Cuddalore - 607001.",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha Renganathan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Paridhimaran",
+        "address": "No 258, New Tsunami Nagar 2, Sonangkuppam, Cuddalore Port, Po: Cuddalore Mudhunagar, Dist: Cuddalore, Tamilnadu -607003",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260330040723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/512/0/a87a429639/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M  Kanagaraj",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Mani",
+        "address": "No.10/10, Mariyamman Koil Street, Vizhapallam Colony, Kurinjipadi, Cuddalore District-607302.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MKAN-2026-20260404050751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16278/0/825f1fba1d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kanagaraj",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Mani",
+        "address": "No.10/10, Mariyamman Koil Street, Vizhapallam Colony, Kurinjipadi, Cuddalore - 607302",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MKAN-2026-20260404050751.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.r.k. Panneerselvam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "M.r. Krishnamurthy",
+        "address": "Old No.2/1, New No. 251, North Street, Muttam And Post, Kattumannarkoil Taluk, Cuddalore District - 608306.",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRK-2026-20260406081153.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.r.k.panneerselvam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "M.r. Krishnamurthy",
+        "address": "Old No.2/1, New No.251, North Street, Muttam And Post, Kattumannarkoil Taluk, Cuddalore District-608306.",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRK-2026-20260406081153.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15669/0/1bfb1a8708/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manimala  R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "G. Rajarajasozhan",
+        "address": "No.670, East Street, Pacharapalayam, Keezhoor Post, Kurinjipadi Taluk, Cuddalore District.",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406065719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15185/0/22cf868349/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthazhagan  N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Nadesan",
+        "address": "No.116, Manal Mettu Street, Kundiyamallur And Post, Kurinjipadi Taluk, Cuddalore District-607301.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NMUT-2026-20260407091731.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15001/0/932fa2119d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Muthazhagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Nadesan",
+        "address": "No.116, Manal Mettu Street, Kundiyamallur And Post, Kurinjipadi Taluk, Cuddalore District - 607301.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R  Srinivasan",
+        "party": "Tamil Telugu National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Ramachandran",
+        "address": "No.7/13, New Amaranjipuram, Radhakrishnan Nagar, Tandiarpet, Chennai-600081.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSRI-2026-20260407052031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15581/0/f7036f9cfa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Arumugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Raju",
+        "address": "B-43, Ganga Salai, Block - 4, Neyveli Township.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Manimala",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "G. Rajarajasozhan",
+        "address": "No.670, East Street,Pacharapalayam, Keezhoor Post, Kurinjipadi Taluk, Cuddalore District",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406065719.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Srinivasan",
+        "party": "Tamil Telugu National Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Ramachandran",
+        "address": "No.7/13, New Amaranjipuram, Radhakrishnan Nagar, Tandiarpet, Chennai - 600081.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar D",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "T.devarajan",
+        "address": "No.1/99, South Street, Seplanatham South, Neyveli, Viruthachalam Taluk, Cuddalore District-607802.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRAJ-2026-20260407092557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16453/0/efa614041e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Prashanya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Shanmugam",
+        "address": "No. 1/4, North Street, Seplanatham South, Virudhachalam Taluk, Cuddalore District - 607802",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T  Kannan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "T. Thirunavukarasu",
+        "address": "No.11/2, Ranganathan Nagar, Beach Road, Cuddalore-607001.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TKAN-2026-20260406103753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15647/0/4718468e08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Kannan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "T. Thirunavukarasu",
+        "address": "No. 11/2, Ranganathan Nagar, Beach Road, Cuddalore - 607001.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinitha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kurinjipadi",
+        "father_husband_name": "Devasundaram",
+        "address": "No. 78, Middle Street, Odhiyadikuppam, Vellakarai Post, Cuddalore Taluk And District - 607003.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      }
+    ]
+  }
+}

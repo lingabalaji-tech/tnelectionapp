@@ -1,0 +1,715 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ambur",
+    "count": 47,
+    "candidates": [
+      {
+        "name": "A.c.vilwanathan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Chengalvarayan",
+        "address": "3/15, Guttakindoor Village, Raja Veethi Mittalam Post, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ACV-2026-20260404020000.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6660/0/79af6ab550/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.kareem Basha",
+        "party": "All India Majlis-E-Inquilab-E-Millat",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohammed Ismail",
+        "address": "D.no.39/2, Eidgah Road, Ambur, Tirupathur District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAR-2026-20260406054827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9412/0/ce41683fb2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Afshia Nasrin",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Thoufic Ficreth",
+        "address": "Door No.4, Girama Savadi Street, Arakkonam, Ranipet District",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AFSHI-2026-20260330042122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5/0/9d409ea2b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Afshia Nasrin. S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "K.m.thoufic Ficreth",
+        "address": "Door No.4, Girama Savadi Street, Arakkonam, Ranipet District",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AFSHI-2026-20260330042122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13175/0/20e3268b6f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asadullah. B",
+        "party": "Indian National League",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Abdullah Basha",
+        "address": "48/8, Kathiriya Nagar, Devalapuram, Ambur Taluk, Tirupathur, District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASA-2026-20260404024954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13225/0/753699d049/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.asadullah",
+        "party": "Indian National League",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Abdullah Basha",
+        "address": "48/8, Kathiriya Nagar, Devalapuram, Ambur Taluk, Tirupathur, District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASA-2026-20260404024954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6462/0/55a0487f17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.haroon Rasheed Badu",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Saleem Basha",
+        "address": "D.no.26/9, Achari Street, Pernambut, Vellore District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHAR-2026-20260406050936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10375/0/9d546ce03f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.vilvanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Balaji",
+        "address": "D.no.186, Pillaiyar Kovil Street, Thirumalaikuppam, Palur, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BVIL-2026-20260406030214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9680/0/38eb56a285/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Fathima Hanabi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Imthiyaz Pandarattudu Abdu",
+        "address": "No.5/2, 23Rd East Cross Road, 8Th Main Road, Gandhinagar, Katpadi Taluk, Vellore District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/FATHI-2026-20260402035538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5328/0/e3471c38be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Fathima Hanabi P.k.m.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Imthiyaz Pandarattudu Abdu",
+        "address": "No.5/2, 23Rd West Cross Road, 8Th Main Road, Gandhinagar, Katpadi Taluk, Vellore District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/FATHI-2026-20260402035538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11505/0/69b48db22d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Fathima Hanabi. P K M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Imthiyaz Pandarattudu Abdu",
+        "address": "No.5/2, 23Rd West Cross Road, 8Th Main Road, Gandhinagar, Katpadi Taluk, Vellore District",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/FATHI-2026-20260402035538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13349/0/66c18b9f7a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Firdose Ahmed M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Maqthiar Ahmed",
+        "address": "D.no.4/9, 1St Street, 2Nd Cross, K.m. Nagar, Pudumanai, Ambur, Tirupathur District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/FIRDO-2026-20260406044909.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8902/0/52af626eee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Firdose Ahmed. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Maqthiar Ahmed",
+        "address": "D.no.4/9, 1St Street, 2Nd Cross, K.m. Nagar, Pudumanai, Ambur, Tirupathur District. 635802",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/FIRDO-2026-20260409034535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14848/0/47b3132e97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Govindhan",
+        "party": "All India Youth Development Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Anumuthu",
+        "address": "No.6, 5Th Street, Indira Nagar, Ambur, Tirupathur District",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOVIN-2026-20260404041202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6807/0/9be5d4356b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Govindhan. A",
+        "party": "All India Youth Development Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Anumuthu",
+        "address": "No.6, 5Th Street, Indira Nagar, Ambur, Tirupathur District",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOVIN-2026-20260404041202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13293/0/0263138cb7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Haroon Rasheed Badu",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Saleem Basha",
+        "address": "D.no.26/9, Achari Street, Pernambut, Vellore District",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHAR-2026-20260406050936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13145/0/316a95ef4d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Imthiyaz Pandarattudu Abdu",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Abdu",
+        "address": "No.5/2, 23Rd East Cross Road, 8Th Main Road, Gandhinagar, Katpadi Taluk, Vellore District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IMTHI-2026-20260402033519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5254/0/70d9694e02/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.viswanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Janarthanan",
+        "address": "D.no.30A, Kovil Street, Pattur, Vengadasamuthiram, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JVIS-2026-20260406042619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9443/0/f149095931/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.wazeer Ahmed",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohamed Ibrahim",
+        "address": "D.no.34, Niyamath Street, 1St Street, Pernambut, Vellore District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/WAZEE-2026-20260404030327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11479/0/d04c2dcf3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kareem Basha. A",
+        "party": "All India Majlis-E-Inquilab-E-Millat",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohammed Ismail",
+        "address": "D.no.39/2, Eidgah Road, Ambur, Tirupathur District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAR-2026-20260406054827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13020/0/a3873f7071/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Khaleel Nisar Ahmed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Abdul Hamed",
+        "address": "4/58, Mosque Street, Melvazithunaankuppam, Pernambut Taluk Vellore District",
+        "gender": "Male",
+        "age": "77",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KHALE-2026-20260404023257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6208/0/e0d132bcb8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaravel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Perumal",
+        "address": "D.no.5/650, Kizh Pananthoppu, Periyankuppam Village, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260406051959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9185/0/1a0d435e9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaravel. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Perumal",
+        "address": "D.no.6/650, Kizh Pananthoppu, Periyankuppam Village, Ambur Taluk, Tirupathur District. 635802",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PKUM-2026-20260409034451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14997/0/2437a9d6ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.panchatcharam",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Murugaiyan",
+        "address": "D.no.154, Sannathi Street, Nellorepet, Gudiyatham Town, Vellore District",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPAN-2026-20260406021603.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9635/0/5a5098e3f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sartaj Banu",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Riyas Ahmed",
+        "address": "D.no.26/402, 5Th Street, K.m.nagar, Pudhumanai, Ambur, Tirupathur District",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARTA-2026-20260404052746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11489/0/14a8b58088/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.venkatesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohan",
+        "address": "D.no.4/10A, Nesavukkara Street, Kaspa A, Ambur Town, Tirupathur District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260406024036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8794/0/f472084556/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mushtaq Ahmed Kutlappai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohammed Yacoob",
+        "address": "3Rd Street, Peshimam Nagar, Bangi Shop. Devalapuram, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUSHT-2026-20260404010051.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6580/0/ced75c6e1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.kumaravel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Perumal",
+        "address": "D.no.5/650, Kizh Pananthoppu, Periyankuppam Village, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260406051959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12993/0/ce7a44abd7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.vengatesan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Raji",
+        "address": "D.no.no.29, Gandha Podikara Street, Ambur Town, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENGA-2026-20260404045100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9999/0/e83092911a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.afshia Nasrin",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "K.m.thoufic Ficreth",
+        "address": "Door No.4, Girama Savadi Street, Arakkonam, Ranipet District",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AFSHI-2026-20260330042122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10476/0/dae1e62fed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sartaj Banu",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Riyas Ahmed",
+        "address": "26/402, 5Th Street, K.m.nagar, Pudhumanai, Ambur, Tirupathur District",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARTA-2026-20260404052746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8084/0/dfd0deefd5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasi Reka",
+        "party": "Makkal Arasial Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Yogaraj",
+        "address": "A.r.police Quartess Backside, Pachal Village, Tirupathur",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIR-2026-20260402012639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5028/0/23b002a258/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasi Reka. Y",
+        "party": "Makkal Arasial Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Yogaraj",
+        "address": "A.r.police Quartess Backside, Pachal Village, Tirupathur, Tirupathur District",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIR-2026-20260402012639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13321/0/7c62f28307/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinath",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Thasarathan",
+        "address": "Door No.5/30, Pillaiyar Kovil Street, Asanampattu, Vellore District",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRINA-2026-20260330035340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/417/0/2647c2dee3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.d.afroze Ahmed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Dhasdhakeer",
+        "address": "D.no.6, Ahaz Nagar, Mosque Street, Ambur Town, Tirupathur District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TDA-2026-20260406011842.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9333/0/56c1264e38/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.padmavathi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "A.c.vilwanathan",
+        "address": "3/15, Guttakindoor Village, Raja Veethi, Mittalam Post, Ambur Taluk, Tirupathur District",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VPAD-2026-20260404021507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6802/0/da83289b61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.vijayalakshmi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Venkatesan",
+        "address": "D.no.1/141, Mel Koormapalayam, Mittalam Village, Ambur Taluk, Tirupathur",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404051316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10483/0/35f19f5ca4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vengatesan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Raji",
+        "address": "No.29, Kandha Podikara Street, Ambur Town, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENGA-2026-20260404045100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7881/0/97b81fc57b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vengatesan. R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Raji",
+        "address": "D.no.no.29, Gandha Podikara Street, Ambur Town, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENGA-2026-20260404045100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13103/0/2ad030c897/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohan",
+        "address": "D.no.4/10A, Nesavukkara Street, Kaspa A, Ambur Town, Tirupathur District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVEN-2026-20260406024036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12919/0/69ee64da08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Raji",
+        "address": "D.no.no.29, Gandha Podikara Street, Ambur Town, Ambur Taluk, Tirupathur District. 635802",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENGA-2026-20260409034108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15436/0/fc97c85e83/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayalakshmi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Venkatesan",
+        "address": "No.1/141, Mel Koormapalayam, Mittalam, Ambur Taluk, Tirupathur",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404051316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7544/0/ae0c5ad0ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vilwanathan. A.c.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Chengalvarayan",
+        "address": "3/15, Guttakindoor Village, Raja Veethi Mittalam Post, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ACV-2026-20260404020000.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13262/0/35efa69f41/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Viswanathan. J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Janarthanan",
+        "address": "D.no.30A, Kovil Street, Pattur, Vengadasamuthiram, Ambur Taluk, Tirupathur District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JVIS-2026-20260406042619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13023/0/a740d155ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Wazeer Ahmed",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohamed Ibrahim",
+        "address": "34, Niyamath Street, Pernambut, Vellore District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/WAZEE-2026-20260404030327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6617/0/5aa2cc7c0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Wazeer Ahmed. J",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Mohamed Ibrahim",
+        "address": "D.no.34, Niyamath Street, 1St Street, Pernambut, Vellore District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/WAZEE-2026-20260404030327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13251/0/2a607b9576/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Y.sasi Reka",
+        "party": "Makkal Arasial Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ambur",
+        "father_husband_name": "Yogaraj",
+        "address": "A.r.police Quartess Backside, Pachal Village, Tirupathur, Tirupathur District",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIR-2026-20260402012639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11493/0/1b942adaba/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

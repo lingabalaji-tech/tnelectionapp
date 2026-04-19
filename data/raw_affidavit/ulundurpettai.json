@@ -1,0 +1,431 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ulundurpettai",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "Arasan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Kesavan",
+        "address": "No.143, New Colony,Pandur Village, Ulundurpet Taluk, Kallakurichi District - 606102",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARASA-2026-20260406062522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8754/0/96ef7b9dfb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnan K",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Kaliyan",
+        "address": "No.58A, East Street, Katchirayapalaiyam Village Vadakanandhal Post, Chinnasalem Taluk, Kallakurichi District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAK-2026-20260404092628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8270/0/9e56d177a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elaiyaperumal S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Selvaraj",
+        "address": "No.17/3, East Street Adhaiyur Ulundurpet Taluk",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELAIY-2026-20260406080338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11095/0/c26340f830/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Geetha R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Manikandan",
+        "address": "127, Mariyamman Kovil Street, Sirunagalur, Ulundurpet Taluk, Kallakurichi District -606 205",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GEETH-2026-20260330034409.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/382/0/fefd785483/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasundari V",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Vasanthavel G R",
+        "address": "No.03,South Street, Elavathadi Village, Mudapalli Post, Ulundurpet Taluk, Kallakurichi District - 607805",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GUNAS-2026-20260404083947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8154/0/0e07434dba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathirvel M",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Mottaiyandi",
+        "address": "First Street, Kiliyur Village, Ulundurpet Taluk Kallakurichi District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KATHI-2026-20260406090833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11917/0/418b50d00c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnamoorthy V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Vellaiyan",
+        "address": "No.3/352, East Street, Kilapalayam Village, Aadhanur Post, Ulundurpet Taluk",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406093135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11815/0/a5833f70dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaraguru R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Ramasamy",
+        "address": "No.2/3, Main Road, Edaikal Village, Thirupeyar Post, Ulundurpet Taluk",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260406083728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10573/0/ec3f8a30c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Logeshwari S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Sivasankaran",
+        "address": "16/28, Mariyamman Kovil Street, A.puthur, Elavanasur Post",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LOGES-2026-20260330040115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/224/0/110f481caf/",
+          "https://voterlist.co.in/affidavit-download/224/1/afde6ba032/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Pazhani R",
+        "address": "No.31, North Street, Kattu Edaiyar Palaiyam Village, Ulundurpet Taluk, Kallakurichi District - 605751",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260404090602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8235/0/54943ad236/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mayilmani K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Kumaraguru",
+        "address": "No.2/3, Main Road, Edaikal Village, Thirupeyar Post, Ulundurpet Taluk",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAYIL-2026-20260406085837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11377/0/006aebdd71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthiban V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Vijayakumar",
+        "address": "No.9/55-2, Mariyamman Kovil Street, Vandipalayam,  Periyakuppam Post, Ulundurpet Taluk, Kallakurichi District - 607 204.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARTH-2026-20260406092014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12371/0/a5c2326010/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponnurangam J",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Jeyaraman M",
+        "address": "No.9/623, Indhra Kudiyiruppu, North Street, Nannaram  Po, Ulundurpet Taluk, Kallakurichi District - 606102",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PONNU-2026-20260404091309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8249/0/755c141fb6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premkumar R",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Ramar",
+        "address": "No.64, Thendral Nagar Ulundurpet Taluk Kallakurichi - 606 107",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMK-2026-20260406075004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11403/0/36eb410b60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh G",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Gnanajothy",
+        "address": "No.14A,Amaichar Kovil Street,Ulundurpet Taluk,Kallakurichi District - 606 107.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260406081840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10754/0/1cbe259500/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramakrishnan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Ramachandiran",
+        "address": "No.884, South Street Thoppaiyankulam Vanampattu Post Ulundurpet Taluk Kallakurichi District - 607 204",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAK-2026-20260406080817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11300/0/2a5fae6518/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Subramaniyan",
+        "address": "No.07, Thuppuravu Thozhilalar Kudiyiruppu, Ulundurpettai Post  Taluk, Kallakurichi District",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260404100014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8331/0/bf0b7c07c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhosh G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Gnanajothy",
+        "address": "No.1-14, Amaichar Kovil Street, Ulundurpet Taluk, Kallakurichi District - 606 107.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANTH-2026-20260406082849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11162/0/887ee4996e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikumar N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Narayanan",
+        "address": "No.5-599, Old No.77 Chinna Street Saravanampakkam Villupuram District - 607 209.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIK-2026-20260406075533.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10770/0/f51ed0de32/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthil",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Periyasamy",
+        "address": "Kesavan Nagar, Virudhachalam Main Road, Ulundurpet",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260404081043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7609/0/7ce4abcb54/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthil P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Periyasamy",
+        "address": "Kesavan Nagar, Virudhachalam Main Road, Ulundurpet",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260404081043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16076/0/2dc5c323cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sharmila D",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Sudhakar",
+        "address": "Plot No.138, 5Th Avenue, Metro Grant Cityphase, Kundrathur Taluk, Kanchipuram District - 600069",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHARM-2026-20260406094650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12255/0/f6692171c7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sozhan E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Elumalai",
+        "address": "No.99, River Street, Iruvelpattu Post, Thiruvennainallur Taluk, Villupuram District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SOZHA-2026-20260406100801.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11928/0/760ce67624/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudhakar M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Murugesan",
+        "address": "Plot No.138, 5Th Avenue, Metro Grant Cityphase, Kundrathur, Kanchipuram District - 600069",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260404085429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8211/0/9c981f5538/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sureshkumar V S",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Santhanam",
+        "address": "No.4/28A, New Street, Ulundurpet, Kallakurichi District - 606107",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260404094406.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8299/0/99449c17ec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayakumar R",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Ramar",
+        "address": "No.64, Thendral Nagar Ulundurpet Taluk Kallakurichi District - 606 107",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDHAY-2026-20260406073908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10885/0/78833b0e55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanthavel G R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Rajavelu",
+        "address": "No.03,South Street, Elavathadi Village, Mudapalli Post, Ulundurpet Taluk, Kallakurichi District - 607805",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260404082139.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7875/0/1019ba0371/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayakanth A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ulundurpettai",
+        "father_husband_name": "Annamalai",
+        "address": "No.68C/24, East Kandhasamipuram, Ulundurpet Post  Taluk, Kallakurichi District",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260404095320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8318/0/0f6e917cb7/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

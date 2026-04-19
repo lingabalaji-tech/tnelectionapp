@@ -1,0 +1,645 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kinathukadavu",
+    "count": 44,
+    "candidates": [
+      {
+        "name": "Arthi S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Sabarikarthikeyan",
+        "address": "18, Rangasamy Street,Kaliappanpalayam, Negamam, Pollachi, Coimbatore -642120",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARTH-2026-20260406065655.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12143/0/bebd936f4e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balasubramanian R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Ramasamy",
+        "address": "170,Kurichy Housing Unit, Phase Ii, Coimbatore-641021",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBALA-2026-20260406101655.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12217/0/2977ae6f22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Manikandan",
+        "address": "Door No 8, A D B Nagar, Palladam Road, Peria Negamam, Pollachi Tk, Coimbatore",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BANUP-2026-20260406052309.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Manikandan",
+        "address": "8, A T P Nagar, Palladam Road, Periya Negamam, Pollachi Tk, Coimbatore-642120",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BANUP-2026-20260406052309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12086/0/6b7ef7ae4a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Maruthamuthu",
+        "address": "Aandiyappa Gounder Veethi, Kaliyappampalayam,Periya Negamam, Pollachi Tk, Coimbatore 64212",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBANU-2026-20260406071127.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11739/0/bd73ae18f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Senthilkumar.e",
+        "address": "Kalkuzhi Thottam,Marapalam,Madukkarai,Coimbatore-641105",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BANUP-2026-20260409113952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15038/0/9756f78b2d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya.m",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Senthilkumar.e",
+        "address": "Kalkuzhi Thottam,Marapalam,Madukkarai,Coimbatore-641105",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BANUP-2026-20260330051317.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/347/0/777b68a4cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Boopalan E",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Ellappan",
+        "address": "2/184, New House Check Post, Anna Nagar, Near Eb, Kinathukadavu, Coimbatore -642109",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BOOPA-2026-20260406090853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11922/0/d7f18ba8a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D Indirani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Damodaran",
+        "address": "3/33, T.nalligoundenpalayam, Thalakarai, Pollachi Tk, Coimbatore",
+        "gender": "Female",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DINDI-2026-20260406050341.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Damodaran S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Sellamuthugoundar",
+        "address": "3/33, T Nalli Gounden Palayam Thalakkarai Post, Pollachi, Coimbatore",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDAMO-2026-20260406034831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12184/0/93228915f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Damotharan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Mani",
+        "address": "Tn Kovil Street, Zamin Uthukuli, Kunjipalayam, Pollachi, Coimbatore  -642004",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DAMOT-2026-20260404072538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7715/0/934e20ff7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhamotharan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Kanthasamy",
+        "address": "3/13A, Kurunallipalayam, Kinathukadavu,Coimbatore-641202",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDHAM-2026-20260406060637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11872/0/48a4d2b01d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhamotharan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Mani",
+        "address": "Tn Kovil Street, Zamin Uthukuli, Kunjipalayam, Pollachi, Coimbatore  -642004",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DAMOT-2026-20260404072538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8275/0/1b61447b54/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indirani S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Damodaran",
+        "address": "3/33, T.nalligoundenpalayam, Thalakarai Post, Pollachi Tk, Coimbatore",
+        "gender": "Female",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DINDI-2026-20260406050341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12367/0/d9278a440f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Dhamotharan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Kanthasamy",
+        "address": "3/13A, Kurunallipalayam, Kinathukadavu,Coimbatore-641202",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDHAM-2026-20260406060637.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthika M",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Murugeswaran",
+        "address": "Sf No 133/1A ,Site No 40, Vadakkuthottam Road, Sundar Nagar, Malumichampatti, Coimbatore-641050",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260404064650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7674/0/d36c92cc1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Keerthika",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Vignesh",
+        "address": "Door No-14, Harsha Garden, Machampalayam Main Road, Sundarapuram Coimbatore -641024",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KEERT-2026-20260406083150.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Keerthika V",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Vignesh",
+        "address": "14, Harsha Garden, Machampalayam Main Road, Sundarapuram Coimbatore -641024",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KEERT-2026-20260406083150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11693/0/62c2cf8e94/",
+          "https://voterlist.co.in/affidavit-download/11693/1/10701a6b38/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Banupriya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Maruthamuthu",
+        "address": "Aandiyappa Gounder Veethi, Kaliyappampalayam, Pollachi, 642120",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBANU-2026-20260406071127.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M Sabari Giri Vasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Marimuthu",
+        "address": "1/71 Vivekanandar Street, Sulakkal, Pollachi Tk Coimbatore Dt",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSABA-2026-20260406025605.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Manimasanamuthu M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Mani",
+        "address": "14/32, Muniyappan Kovil Street, Vellalore, Coimbatore -641111",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIM-2026-20260406102710.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12468/0/9fa403f003/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mariyappan R",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Ramasamy",
+        "address": "9/138, Csr Colony, Pachapalayam, Perur Chettipalayam, Coimbatore-641010",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIY-2026-20260404065501.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7934/0/5275bb975e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maruthachalam S M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Manickam",
+        "address": "9-13-2, Saravana Nagar, Perur Pachapalayam, Coimbatore-641010",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARUT-2026-20260404063651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7285/0/0c71ad5519/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Safi S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Sheik Dasthagir",
+        "address": "D-70, Kurichi Housing Unit Phase Ii, Madukkarai Roa, Coimbatore-641021",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMOHA-2026-20260406092008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12368/0/aef39a2cba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N Thavaselvakumaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Nataraj",
+        "address": "3/181, Post Office Street, T Nallikoundanpalayam, Thalakarai Post Pollachi",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NTHAV-2026-20260406031432.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Noor Muhamad A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Abdul Majeed",
+        "address": "38,Astalakshmi Nagar, Madukkarai Road, Sundarapuram Post, Coimbatore -641024",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANOO-2026-20260404060016.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7040/0/ca2c2893e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ragupathy T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Thirumoorthy",
+        "address": "5/11, Immidipalayam, Solavampalayam, Kinathukadavu Tk, Coimbatore-642109",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAGUP-2026-20260406100728.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11904/0/03cc08184d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramalingam S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Shanmugam",
+        "address": "Door No 28A, Pandian Street, Coimbatore South, Thirumalayampalayam, Coimbatore-641105",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAL-2026-20260406115728.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S Arthi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Sabari Karthikeyan",
+        "address": "18, Rangasamy Street,Kaliappan Palayam, Negamam, Pollachi Tk, Coimbatore -642120",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARTH-2026-20260406065655.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S Damodaran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Sellamuthu Gounder",
+        "address": "3/33, T Nalli Gounden Palayam Thalakkarai Post, Pollachi",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDAMO-2026-20260406034831.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S Sabari Karthikeyan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "K K Subramainiam",
+        "address": "18, Rangasamy Street, Kaliappam Palayam, Negamam,Pollachi Tk, Coimbatore-642120",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSABA-2026-20260406063150.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sabari Karthikeyan K.v.k.s",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "K K Subramainiam",
+        "address": "18, Rangasamy Street, Kaliappampalayam, Negamam,Pollachi, Coimbatore-642120",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SABAR-2026-20260410122451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15027/0/8843d4d3d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sabarigirivasan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Marimuthu",
+        "address": "1/71 Vivekanandar Street, Sulakkal, Pollachi Tk Coimbatore",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSABA-2026-20260406025605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12130/0/a4f26ffc32/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sabarikarthikeyan S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "K K Subramainiam",
+        "address": "18, Rangasamy Street, Kaliappampalayam, Negamam,Pollachi, Coimbatore-642120",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSABA-2026-20260406063150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12005/0/b3dd41c452/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugavel T",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Thirumoorthy",
+        "address": "3/438 Indira Nagar,Perur Chettipalayam Post, Perur, Coimbatore-641010",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSHA-2026-20260402051425.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12530/0/640546ec18/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramanian S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Seerangan",
+        "address": "4/29,Annai Nagar, Kurumbapalayam Road, Madukkrai Post, Coimbatore-641105",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSUB-2026-20260404054242.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7437/0/68089d5bc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.shanmugavel",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Thirumoorthy",
+        "address": "3/438 Indira Nagar,Perur Chettipalayam Post, Perur, Coimbatore-641010",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSHA-2026-20260402051425.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5585/0/c1465f4e0c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thavaselvakumaran N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Natarasugounder",
+        "address": "3/181, Post Office Street, T Nallikoundanpalayam, Thalakarai Post, Pollachi Tk, Coimbatore",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NTHAV-2026-20260406031432.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12492/0/82fe8e57d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Vignesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Velumani",
+        "address": "2/21 Kilakku Kamatchi Yamman Kovil Street, Peria Negamam, Pollachi, Coimbatore -642120",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVIGN-2026-20260406054211.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Varunukumar R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Ramachandiran",
+        "address": "A-114 Kurichi Housing Unit, Phase -2, Sidco, Coimbatore -641023",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VARUN-2026-20260406095214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12410/0/360e5bc8bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Kathirvel Pandian",
+        "address": "14,Harsha Garden, Thulasi Garden Backside, Sundarapuram, Machampalayam Road,  Coimbatore-641024",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIGNE-2026-20260404061844.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7769/0/4a9327a196/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Sanmugam",
+        "address": "Iyyasami Kovil Street, Kaliyappampalayam, Peria Negamam, Pollachi Tk, Coimbatore-642120",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIGNE-2026-20260404070932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7186/0/3525377808/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Velumani",
+        "address": "2/21 Kilakku Kamatchi Yamman Kovil Street, Periya Negamam, Pollachi, Coimbatore -642120",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVIGN-2026-20260406054211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11842/0/416c5ce64f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vigneshprabhu C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kinathukadavu",
+        "father_husband_name": "Chelladurai",
+        "address": "3/49 G Sulakkal Main Road, Vadakkipalayam, Pollachi Tk-642110",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIGNE-2026-20260406033012.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      }
+    ]
+  }
+}

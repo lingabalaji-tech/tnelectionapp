@@ -1,0 +1,460 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Killiyoor",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "A.antony",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Ambaiyan",
+        "address": "3/163C,Pilakkavilai,Paloor,Pottety,Kanyakumari",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AANT-2026-20260406053456.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10400/0/e35b0eb5f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.gopal Raja",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Ayyapan",
+        "address": "2/23,Ootukuzhi,Vavarai,St.mankad Post,Kanyakumari-629172",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGOP-2026-20260404061106.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7471/0/8603664af6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajai (Alias) Nagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Kumaraswamy",
+        "address": "14/131,Saralvilai,Ozhiparai,Pootteti Post,Kanniyakumari District-629157",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KNAG-2026-20260404041140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16239/0/308d640f2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baby Raj. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Perumal",
+        "address": "4/45A,Kollanvilai,Ananthamangalam,Painkulam Post,Kanniyakumari District-629173",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAB-2026-20260406055134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15300/0/d9ccce5d3b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Berrila. L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "M.lazer",
+        "address": "18/98,Kanla Cottage,Pilavilai,Poovanchanthi,Karungal Post,Kanniyakumari District-629157",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LBER-2026-20260406070253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15458/0/330b92de99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Ramachandran. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Muthiah",
+        "address": "Palanintavilai,Keezhkulam Post,Kanniyakumari District-629193",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRM-2026-20260406075453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14845/0/03b290b311/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.m.ramachandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Muthiah",
+        "address": "7/52A,Palanintavilai,Keezhkulam Post,Kanyakumari District-629193",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRM-2026-20260406075453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10717/0/2803e1b7d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.arokia Maria Lincy",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "J.nivin Simon",
+        "address": "18/113A1,Paduvoor,Palapallam Post,Kanyakumari-629159",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GARO-2026-20260406064631.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10437/0/f56455abac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Himlar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Prince.a",
+        "address": "188/17-79A,Kodumutti,Bethelpuram Post,Kanniyakumari District-629803",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVH-2026-20260330033138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16616/0/84cca65823/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.nivin Simon",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "John Jacob",
+        "address": "18/113A1,Paduvoor,Palapallam Post,Kanyakumari-629159",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JNIV-2026-20260406061819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10053/0/78f2ffbff3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Justin. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Maria Arputham",
+        "address": "1/193,Siriya Kadampara Vilai,Kaisoondi,Puthukkadai Post,Kanniyakumari District-629171",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJUS-2026-20260406074030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15113/0/3a3a24c229/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Justin. T",
+        "party": "Indian Christian Front",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Thomas",
+        "address": "17/55B1,Thenamthottam,Kanjampuram Post,Ezhudesam,Kanniyakumari District-629154",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TJUS-2026-20260404062610.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16273/0/2ee3b9b138/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.nagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Kumaraswamy",
+        "address": "14/131,Saralvilai,Olliparai,Pootteti Post,Kanyakumari District-629157",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KNAG-2026-20260404041140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6799/0/e6af9145de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.berrila",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "M.lazer",
+        "address": "18/98,Kanla Cottage,Pilavilai,Poovanchanthi,Karungal Post,Kanyakumari District-629157",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LBER-2026-20260406070253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10044/0/13a15d9dc4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L.febcin Lara",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "A.lazer",
+        "address": "10/117,Marumuri,Vadakke Vilagam,Midalam,Udayamarthandam Post,Kanyakumari-629178",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LFEB-2026-20260406051545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8835/0/73d2bc3ec2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.justin",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Maria Arputham",
+        "address": "1/193,Sriyakoomparavilai,Kaisoondi,Puthukadai Post,Kanyakumari District-629171",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJUS-2026-20260406074030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10963/0/b27e42efe8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nivin Simon. J",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "John Jacob",
+        "address": "18/113A1,Paduvoor,Palappallam Post,Kanniyakumari District-629159",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JNIV-2026-20260406061819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15461/0/e9afbcef42/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.baby Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Perumal",
+        "address": "4/45A,Kollanvilai,Ananthamangalam,Painkulam Post,Kanyakumari-629173",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PBAB-2026-20260406055134.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9769/0/491c205423/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.v.himlar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "A. Prince",
+        "address": "Door No. 188/17/79A,Kodumutti,Bethelpuram Post -629803",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVH-2026-20260330033138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/323/0/7c958de87c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhu. S",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Sreerengan",
+        "address": "6/29,Saralvilai,Vilavancode,Udayamarthandam Post,Kanniyakumari District-629178",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPRA-2026-20260404035203.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16007/0/2f213eede2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh Kumar. S",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Selvaraj.g",
+        "address": "18-45/1,Poovanchanthi,Karungal Post,Kanniyakumari District-629157",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260406044541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14697/0/00760067ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rubin Antony",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Selvan",
+        "address": "13/94,Kalluvettankuzhi,Nithiravilai Post,Kanyakumari District",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RUBIN-2026-20260404012421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6152/0/512a1b8ad9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.jain Mary",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "S.rajesh Kumar",
+        "address": "18-45/1,Poovansanthi,Karungal Post, Kanyakumari District",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SJAI-2026-20260406071720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10922/0/b2161ea3f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.prabhu",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Sreerengan",
+        "address": "6/29,Saralvilai,Vilavancode,Udhayamarthandam Post,Kanyakumari-629178",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPRA-2026-20260404035203.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6496/0/b9fdd6fc1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.rajesh Kumar",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "G.selvaraj",
+        "address": "18/45/1,Poovanchanthi,Karungal Post,Kanyakumari District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAJ-2026-20260406044541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8568/0/d17cc48c1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sabin",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Sanththappan",
+        "address": "11/33,11-28F,R.c.street,Attoor,Thiruvattar,Thiruvattar Post,Kanyakumari-629177",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAB-2026-20260404055455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7981/0/fb8dad6b84/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.satheesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Sreepadmanathan",
+        "address": "17/76,Thenanthottam,Kanjampuram Post,Kanyakumari-629154",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAT-2026-20260404063811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7325/0/31544b108b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sabin. S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Sanththappan",
+        "address": "11/33,11/28F,R.c.street,Attoor,Thiruvattar Post,Kanniyakumari District-629177",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAB-2026-20260404055455.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16240/0/30c595236d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Satheesh. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Sreepadmanathan",
+        "address": "17/76,Thenamthottam,Kanjampuram Post,Kanniyakumari District-629154",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAT-2026-20260404063811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15941/0/caa928bb2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.justin",
+        "party": "Indian Christian Front",
+        "state": "Tamil Nadu",
+        "constituency": "Killiyoor",
+        "father_husband_name": "Thomas",
+        "address": "17/55B,Jeyanamthottam,Ezhudesam,Kanchampuram Post,Kanyakumari-629154",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TJUS-2026-20260404062610.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8037/0/b38302882d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

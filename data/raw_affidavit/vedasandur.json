@@ -1,0 +1,661 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Vedasandur",
+    "count": 43,
+    "candidates": [
+      {
+        "name": "Anbazhagan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Rajagobal",
+        "address": "49, Kambar Street, Samathuvapuram, Senankottai, Vedasandur Taluk, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBAZ-2026-20260406044147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10423/0/0f00a0d501/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnan C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Chinnasamy",
+        "address": "356, Kuppaiyadipatti, Puthur, Vedasandur Taluk, Dindigul - 624801.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAK-2026-20260406015352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8757/0/dd5b55e3da/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Kanniyappan",
+        "address": "3/135/18, Manickpuram, Landakottai Post, Dindigul - 624620.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406122407.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9976/0/fc250843ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Boomiraj K",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Karuppasamy",
+        "address": "4/203, Vairampatti, Landakottai Post , Guziliamparai Taluk, Dindigul - 624620.",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BOOMI-2026-20260404032422.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6106/0/2cefc3f628/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Boomiraj. K",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Karuppasamy",
+        "address": "4/203, Vairampatti, Lanthakottai Post , Gujiliyamparai, Dindigul - 624620.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BOOMI-2026-20260404032422.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15718/0/333c97cce1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhivakar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Arumugam",
+        "address": "89, Rajagopalapuram, Vedasandur Town, Vedasandur Taluk, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHIVA-2026-20260406030656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9899/0/0965047e5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhivakar. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Arumugam",
+        "address": "89, Rajagopalapuram, Aathumedu, Vedasandur, Dindigul.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHIVA-2026-20260406030656.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15375/0/ab17f5e174/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.nakajothi N",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Nadarajan N",
+        "address": "3/154, Max Worth Nagar, 5Th Street, Melakuilkudi Road, Near Sboa School, Nagamalai, Pudthukottai, Madurai - 625019.",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRNA-2026-20260404035943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6608/0/ce2fb786db/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.nakajothi. N",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Nadarajan N",
+        "address": "3/154A, Max Worth Nagar, 5Th Street, Melakuilkudi Road, Near Sboa School, Nagamalai, Pudthukottai, Madurai - 625019.",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRNA-2026-20260404035943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16097/0/02293166f5/",
+          "https://voterlist.co.in/affidavit-download/16097/1/845f2e59ca/",
+          "https://voterlist.co.in/affidavit-download/16097/2/1b6574d61a/",
+          "https://voterlist.co.in/affidavit-download/16097/3/72d52e765b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Khaja Hussain Ahamed A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Abbas",
+        "address": "4/50 Kadai Veethi Theru, Sitharevu, Athoor, Dindigul - 624204",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KHAJA-2026-20260330023019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/57/0/577a4ef910/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Khaja Hussain Ahamed. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Abbas",
+        "address": "4/50, Kadai Veethi Theru, Sitharevu, Dindigul - 624204",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KHAJA-2026-20260330023019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16559/0/76979d5ade/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Magesh P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Pomma Naicker",
+        "address": "4/44 Palvarpatti, Gudalur, D Gudalur, Dindigul - 624620",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHES-2026-20260404025829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6571/0/1bb71822b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maneeshankar M.g.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Palanichamy",
+        "address": "Mahalakmipuram, E Pudhur, Kulathur Post, Vedasandur Taluk, Dindigul - 624005.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANEE-2026-20260402040237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5394/0/1348ac82dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maneeshankar. M.g.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Palanichamy",
+        "address": "Mahalakshmipuram, E Pudhur, Kulathur Post, Vedasanthur, Dindigul - 624005.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANEE-2026-20260402040237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16464/0/2e59f748de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandaprabhu N C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Chandrasekaran N",
+        "address": "3/39, G.puthupatti, Gurunathanaickanur Village, Dindigul West Taluk, Dindigul - 624622.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406012552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9607/0/1efef70560/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandaprabhu. N C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Chandrasekaran N",
+        "address": "3/39, G.puthupatti, Gurunathanaickanur Village, Dindigul West Taluk, Dindigul - 624622.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406012552.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15216/0/69b261304a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marimuthu S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Sundarraj",
+        "address": "Mariamman Kovil Street, Vedasandur Town, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIM-2026-20260406054729.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9329/0/ffcb2fda5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marimuthu. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Sundarraj",
+        "address": "Mariyamman Kovil Street, Vedasandur, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARIM-2026-20260406054729.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15075/0/cd3873598a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Vetrivel",
+        "address": "24, Ayyalur Road, Eriyodu, Vedasandur Taluk, Dindigul - 624702.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406021600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9625/0/72a09eaf60/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Vetrivel",
+        "address": "24, Ayyalur Road, Eriyodu, Vedasandur Taluk, Dindigul - 624702.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406021600.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15229/0/d0237a4c10/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natchimuthu R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Ramakrishnan",
+        "address": "Nagampatti, Vedasandur Taluk, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATCH-2026-20260406052142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9300/0/484a693814/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natchimuthu. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Ramakrishnan",
+        "address": "Nagampatti, Vedasandur, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATCH-2026-20260406052142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15061/0/ba11fcf36d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paramasivam V.p.b.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Balasubramanian",
+        "address": "H1-3 R.m.colony, 2Nd Cross, Dindigul - 624001.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARAM-2026-20260402010251.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5001/0/dc4eeab66e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paramasivam. V.p.b.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Balasubramanian",
+        "address": "H1-3 Ranimangammal Colony, 2Nd Cross Street, Dindigul - 624001.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PARAM-2026-20260402032659.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16342/0/282d948a9f/",
+          "https://voterlist.co.in/affidavit-download/16342/1/edac459195/",
+          "https://voterlist.co.in/affidavit-download/16342/2/c75f7c432d/",
+          "https://voterlist.co.in/affidavit-download/16342/3/3371d1c4e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rahul Baba R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Rajamohan",
+        "address": "10 A, Pottinaicken Patti, Ayyalur, Vedasandur Taluk, Dindigul.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAHUL-2026-20260404042607.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6258/0/8cd7790f71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Sonnaimuthu",
+        "address": "9-3-110S, Sengulathupatty, Mottanampatti Post, Vadamadurai, Vedasandur Taluk, Dindigul - 624802.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406071732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10930/0/d8480c0fdd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh T",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Thangavel",
+        "address": "352/3, Sepuruttipatti, Chinnuluppai, C Ammapatti, Guziliamparai Taluk, Dindigul - 624703.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406043122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9812/0/dceb6ba0ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh. T",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Thangavel",
+        "address": "352/3, Seppuruttipatti, Chinnaluppai, C Ammapatti, Gujiliyamparai, Dindigul - 624703.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406043122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15322/0/ae47abf721/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravi R",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Raju",
+        "address": "161 Ettikulathu Patti, Padiyur Post, Vedasandur, Dindigul - 624005.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAVIR-2026-20260402032343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5376/0/9a286e35f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravi. R",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Raju",
+        "address": "161 Ettikulathu Patty, Paadiyur Post, Vedasanthur, Dindigul - 624005.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAVIR-2026-20260402032343.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16457/0/2db8e8dad6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rojamani N",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Narayanan",
+        "address": "12 Paraimettu Theru, Dindigul - 624001.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ROJAM-2026-20260402015217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5064/0/b90c1455e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saminathan T",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Thangaraju",
+        "address": "24/E/2 Kongu Nagar, South Athumedu, Vedasandur Taluk, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMIN-2026-20260404010229.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6108/0/3c124165af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saminathan. T",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Thangaraju",
+        "address": "24/E/2 Kongu Nagar, South Athumedu, Vedasandur, Dindigul - 624710.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMIN-2026-20260404010229.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15720/0/fcea0544b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarojaa S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Savadamuthu",
+        "address": "3/154A, Max Worth Nagar, 5Th Street, Melakuil Kudi, Near Sboa School, Madurai - 625019.",
+        "gender": "Female",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAROJ-2026-20260406064604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10402/0/3da13f5727/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarojaa S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Savadamuthu",
+        "address": "3/154A, Max Worth Nagar, 5Th Street, Melakuil Kudi, Near Sboa School, Madurai - 625019.",
+        "gender": "Female",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAROJ-2026-20260406064604.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15645/0/5f7454af32/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Venkatraman",
+        "address": "2/40, Sangalpatti, Kombaripatti, Paganatham, Dindigul - 624702.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406061530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9807/0/77197f7991/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Venkatraman",
+        "address": "2/40, Sangalpatti, Paganatham, Dindigul - 624702.",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVA-2026-20260410105056.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15318/0/8f82ada8b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sikkanthar A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Abbas",
+        "address": "4/50 Kadai Veethi Theru, Sitharevu, Athoor Taluk,  Dindigul - 624204.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIKKA-2026-20260402121650.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5099/0/573df36c6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Bomminaickar",
+        "address": "3/2, Mallamanayaganpatti, Ayyalur, Dindigul - 624801.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406125707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8682/0/80fb2329ac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Bomminaickar",
+        "address": "13/2, Mallamanaickanpatty, Ayyalur, Dindigul - 624801.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406125707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14752/0/a56831097a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suriyaprakash S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Subramani",
+        "address": "8/169-1, Malnaickanru, R Vellodu Post, Guziliamparai Taluk, Dindigul - 624620.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURIY-2026-20260406024045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8817/0/4706c61035/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamaraiselvi S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Saminathan",
+        "address": "24/E/2 Kongu Nagar, South Athumedu, Vedasandur Taluk, Dindigul - 624710",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMA-2026-20260404020745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6751/0/1ae9745b1e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vedasandur",
+        "father_husband_name": "Balagurusamy",
+        "address": "Ramanathapuram, Kovilur, Vembur, Dindigul - 624706.",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406050258.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9971/0/4091d0d2de/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

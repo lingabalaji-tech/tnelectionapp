@@ -1,0 +1,519 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Cheyyur",
+    "count": 34,
+    "candidates": [
+      {
+        "name": "Ambethkar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Subburayan",
+        "address": "No 42 Agaram, No 53-155, Mariyamman Kovil Street, Agaram Village, Andarkuppam Post, Cheyyur Taluk, Chengalpet Dist, 603401",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/34/1774958603img2026033113223728.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ambethkar. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Subburayan",
+        "address": "No 53-155, Mariyamman Kovil Street, Agaram Village, Andarkuppam Post, Cheyyur Taluk, Chengalpet District- 603401.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AMBET-2026-20260410112312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15154/0/7a06ff689a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arun",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Chellappan",
+        "address": "77/2, Mariyamman Kovil Street, Perumattunallur, Chengalpattu-603202",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUN-2026-20260406011950.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Arun. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Chellappan",
+        "address": "77/2, Mariyamman Kovil Street, Perumattunallur, Chengalpattu-603202.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUN-2026-20260406011950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15094/0/2e924f2c4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Dhasarathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Dhanapal",
+        "address": "Door No.6, Cheyyur Taluk, Bajanai Kovil Street, Cheyyur, Chengalpattu District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7828/0/800b7becb2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Gopikrishna",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Dhanapal",
+        "address": "No.6, Bajanai Kovil Street, Cheyyur Taluk And Post, Chengalpattu District.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DGOP-2026-20260404061714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7687/0/07eb60f508/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.dhasarathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Dhanapal",
+        "address": "Door No.6, Cheyyur Taluk, Bajanai Kovil Street, Cheyyur, Chengalpattu District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DDHA-2026-20260407121919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13272/0/613eca3cc6/",
+          "https://voterlist.co.in/affidavit-download/13272/1/85a32e99b8/",
+          "https://voterlist.co.in/affidavit-download/13272/2/ec5cb544d6/",
+          "https://voterlist.co.in/affidavit-download/13272/3/5831ad5769/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.gopikrishna",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Dhanapal",
+        "address": "No.6, Bajanai Kovil Street, Cheyyur Taluk And Post, Chengalpattu District.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DGOP-2026-20260404061714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13254/0/d1cbb0f9aa/",
+          "https://voterlist.co.in/affidavit-download/13254/1/57256d1bfb/",
+          "https://voterlist.co.in/affidavit-download/13254/2/ad15ced46c/",
+          "https://voterlist.co.in/affidavit-download/13254/3/e41e633b9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.ezhil",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Eagambaram",
+        "address": "No.2, Mariyamman Kovil Street, Chinnakalakkadi Village, Cheyyur Taluk.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EEZH-2026-20260404012206.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "E.s.gurunathan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Elumalai",
+        "address": "106, Renugammal Koil Street, Vittilapuram, Thirukazhukundram, Chengalpattu.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESG-2026-20260404060434.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7200/0/6e313689e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhil. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Eagambaram",
+        "address": "No.2, Mariyamman Kovil Street, Chinna Kalakkadi Village, Cheyyur Taluk.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EZHIL-2026-20260410112342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15792/0/520ca7fbaf/",
+          "https://voterlist.co.in/affidavit-download/15792/1/712c747a25/",
+          "https://voterlist.co.in/affidavit-download/15792/2/4165d545fb/",
+          "https://voterlist.co.in/affidavit-download/15792/3/8074495ae2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gangadurai. K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Kirushnan",
+        "address": "No.291, Annai Therasa Street, Ayapakkam Village And Post, Thirukazhukundram Taluk, Chengalpattu District.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KGAN-2026-20260406084429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14958/0/efc2ff2cd9/",
+          "https://voterlist.co.in/affidavit-download/14958/1/ffa75e2dbb/",
+          "https://voterlist.co.in/affidavit-download/14958/2/3a7839aa7f/",
+          "https://voterlist.co.in/affidavit-download/14958/3/5a316b674c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopikrishna. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Dhanapal",
+        "address": "No.6, Bajanai Kovil Street, Cheyyur Taluk And Post, Chengalpattu District.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GOPIK-2026-20260410112248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16111/0/c239822bfd/",
+          "https://voterlist.co.in/affidavit-download/16111/1/5579c1a988/",
+          "https://voterlist.co.in/affidavit-download/16111/2/a153562992/",
+          "https://voterlist.co.in/affidavit-download/16111/3/95142f94ed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Murugan",
+        "address": "No.4/51A, Pettai Street, Cheyyur Taluk And Post, Chengalpattu District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJEG-2026-20260406121936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15342/0/731cdafcca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Mohan Raja",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Kanagasabai",
+        "address": "No.42R, Mig Nandhanar Street, Maraimalai Nagar, Nh-32, Chengalpattu Taluk And District- 603209.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOHA-2026-20260404124649.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.gangadurai",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Kirushnan",
+        "address": "No.291, Annai Therasa Street, Ayapakkam Village And Post, Thirukazhukundram Taluk, Chengalpattu District.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KGAN-2026-20260406084429.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "E.kuppan",
+        "address": "52, Mariyamman Kovil Street, Sirunagar Village And Post, Cheyyur Taluk, Chengalpattu District-603310",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260406091529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12220/0/14dcdee8b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnakanth",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Elumalai",
+        "address": "Door No.23, Cheyyur Taluk, Cheyyur Post, Vandavasi Road, Near Jayanthi Theatre, Chengalpattu District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406014907.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnakanth. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Elumalai",
+        "address": "Door No.23, Vandavasi Road, Cheyyur, Chengalpattu District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260406014907.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14673/0/6d1cf23524/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.jegan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Murugan",
+        "address": "No.4/51A, Pettai Street, Cheyyur Taluk And Post, Chengalpattu District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJEG-2026-20260406121936.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sinthanai Selvan",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Mahimai Nathan",
+        "address": "No.1, Thamizh Solai, Koliyanur Koot Road, Koliyanur, Villupuram Taluk And District.",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSIN-2026-20260404070803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7355/0/2a61932cf4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan Raja.m.g.k",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Kanagasabai",
+        "address": "42R, Mig Nandhanar Street, Maraimalai Nagar, Nh-32, Chengalpattu Taluk And District- 603209.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMOHA-2026-20260404124649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16107/0/fec23b6df4/",
+          "https://voterlist.co.in/affidavit-download/16107/1/24ccbf1e2e/",
+          "https://voterlist.co.in/affidavit-download/16107/2/1a814f6cb6/",
+          "https://voterlist.co.in/affidavit-download/16107/3/4c9a09daea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugavel A",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Ariyan",
+        "address": "No.2, F2, First Floor, Balaj Periyar Nagar, Jegadhambal Street, Nesapakkam, Chennai-600078.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406081939.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10793/0/4851f7146c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugavel. A",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Ariyan",
+        "address": "No.2, F2, First Floor, Balaj Periyar Nagar, Jegadhambal Street, Nesapakkam, Chennai-600078.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406081939.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14907/0/04f52b2321/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N. Gajendran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Nagendiran",
+        "address": "No.2/31, Pavalar Street, Puthirankottai Post, Cheyyur Taluk, Chengalpattu.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NGAJ-2026-20260402042709.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Rajkiran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "E Rajasekar",
+        "address": "Old No.1/334, New No.3/78, First Main Road, Perumbakkam, Chennai- 600 100.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260402035551.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "E.kuppan",
+        "address": "52, Mariyamman Kovil Street, Sirunagar Village And Post, Cheyyur Taluk, Chengalpattu District-603310.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260406091529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15242/0/4323776d36/",
+          "https://voterlist.co.in/affidavit-download/15242/1/9bb84630e8/",
+          "https://voterlist.co.in/affidavit-download/15242/2/dcaf62cd80/",
+          "https://voterlist.co.in/affidavit-download/15242/3/beae953c3d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar E",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Ethirajan",
+        "address": "Old No.1/334, New No. 3/78, First Main Road, Perumbakkam, Chennai- 600 100",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260402024855.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekar. E",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Ethirajan",
+        "address": "Old No.1/334, New No.3/78, First Main Road, Perumbakkam, Chennai- 600100.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJAS-2026-20260410123503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16525/0/468e216891/",
+          "https://voterlist.co.in/affidavit-download/16525/1/62d4395aee/",
+          "https://voterlist.co.in/affidavit-download/16525/2/cae773a6e2/",
+          "https://voterlist.co.in/affidavit-download/16525/3/169c8de9a2/",
+          "https://voterlist.co.in/affidavit-download/16525/4/28ccd24e97/",
+          "https://voterlist.co.in/affidavit-download/16525/5/84d7f486d6/",
+          "https://voterlist.co.in/affidavit-download/16525/6/d786957b0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samoondeeshwari.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Sekar",
+        "address": "3 First Street,Periya Velikkadu,Cheyyur Taluk,Chengalpattu District - 603 312",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMOO-2026-20260330061848.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sinthanai Selvan",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Mahimai Nathan",
+        "address": "No.1, Thamizh Solai, Koliyanur Koot Road, Koliyanur, Villupuram Taluk And District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MSIN-2026-20260404070803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15951/0/4390f8c056/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Swathilakshmi Sekar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Praveen Kumar.r",
+        "address": "3 First Street, Periya Velikkadu,Thiruvathur Post,Cheyyur Taluk,Chengalpattu District-603 312",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SWATH-2026-20260330060424.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Nathiya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Thirumalai",
+        "address": "No.1, Perumal Kovil Street, Seekinankuppam Village, Cheyyur Taluk, Chengalpattu District.",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TNAT-2026-20260406085653.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Madhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cheyyur",
+        "father_husband_name": "Vinayagam",
+        "address": "No.18, Mayana Street, Madaiyambakkam Village , Perumbakkam Post, Cheyyur Taluk, Chengalpattu District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMAD-2026-20260406090612.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      }
+    ]
+  }
+}

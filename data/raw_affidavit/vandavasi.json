@@ -1,0 +1,550 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Vandavasi",
+    "count": 36,
+    "candidates": [
+      {
+        "name": "Ambedkar  K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Kannayiram",
+        "address": "No.233, Old Colony, Kizhseesamangalam Village, Salavedu Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604403",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMBED-2026-20260406101350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12092/0/b8bf130a74/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ambedkar  T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Tirumalai",
+        "address": "No.44, Ambedkar Street, Kalyanapuram Village, Melacheri Post, Chetpat Taluk, Tiruvannamalai District. Pincode:604502",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMBED-2026-20260406070202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9975/0/a94208b360/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ambedkar. T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Tirumalai",
+        "address": "No.44, Ambedkar Street, Kalyanapuram Village, Melacheri Post, Chetpat Taluk, Tiruvannamalai District. Pincode:604502",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMBED-2026-20260406070202.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15423/0/f0600db600/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ambethkumar S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Shanmugam",
+        "address": "No.319 Arasoor Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604408",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMBET-2026-20260406071034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8571/0/35d5f0b694/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ambethkumar. S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Shanmugam",
+        "address": "No.319 Arasoor Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604408",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMBET-2026-20260406071034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14698/0/d937bd581a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Archunan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Muthu",
+        "address": "No.366, Puthiya Colony, Sengunam Village  Post, Polur Taluk, Tiruvannamalai District. Pincode:606803",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARCHU-2026-20260406102404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12407/0/90eb1cbf99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arjunan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Muthu",
+        "address": "No.366, Puthiya Colony, Sengunam Village  Post, Polur Taluk, Tiruvannamalai District. Pincode:606803",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARCHU-2026-20260406102404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15494/0/5108611d35/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashokan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Devadoss",
+        "address": "No.244, Mgr Nagar Second Street, Thenthinnalur Village, Desur, Vandvasi Taluk, Tiruvannamalai District. Pincode:604501",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHOK-2026-20260406070602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10299/0/e5496a0a58/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Ramasamy",
+        "address": "No.222 South Street , Sathanoor Village, Vazhur Post, Vandavasi Taluk , Tiruvannamalai District, Tamilnadu. Pincode:604405",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260330075957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/482/0/3aebf496f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesh. R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Ramasamy",
+        "address": "No.222, Colony South Street, Sathanoor Village, Vazhur Post, Vandavasi Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GANES-2026-20260410120036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15739/0/53ef9716b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jaisankar. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Maniyan",
+        "address": "No.222, Mariyamman Koil Street, Badhur Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604403",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAISH-2026-20260406095247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15526/0/93828b99b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jaishankar  M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Maniyan",
+        "address": "No.222, Mariyamman Koil Street, Badhur Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604403",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAISH-2026-20260406095247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12428/0/b2743b656a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanniyappan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Subban",
+        "address": "No.2/235, Pillaiyar Koil Street Thunaiyampattu, Mazhuvankarani Madhura, Vandavasi Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNI-2026-20260406094814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12276/0/9a8fab151c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanniyappan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Subban",
+        "address": "No.2/235, Pillaiyar Koil Street Thunaiyampattu, Mazhuvankarani Madhura, Vandavasi Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNI-2026-20260406094814.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15306/0/167a0e90e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Ellappan",
+        "address": "No.220, Pillaiyar Koil Street, Vachanur Village Post, Cheyyar Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406085143.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11115/0/1ba63a1278/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuperumal K",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Kanniyappan",
+        "address": "N0.489, Ricemill Street, Old Colony, Kilkuvalaivedu Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604404",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260406093749.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11973/0/18c9e06d71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuperumal. K",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Kanniyappan",
+        "address": "N0.489, Ricemill Street, Old Colony, Kilkuvalaivedu Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604404",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260406093749.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14982/0/6d4cf189e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuselvam",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Venkatesan",
+        "address": "No.230, Nethaji Street, Elaneerkundram Village  Post, Cheyyar Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260404062021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7831/0/97244cee5a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuselvam. V",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Venkatesan",
+        "address": "No.230, Nethaji Street, Elaneerkundram Village  Post, Cheyyar Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260404062021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16164/0/0610f6f234/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Ponnambalam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Perumal",
+        "address": "No.390, Acharapakkam Road, Kilkodungkalur Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode: 604403",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPONN-2026-20260402040302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5402/0/b1650d1242/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponnambalam. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Perumal",
+        "address": "No.390, Acharapakkam Road, Kilkodungkalur Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode: 604403",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPONN-2026-20260402040302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16468/0/76f7d0bd5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabavathi G",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Ganesh",
+        "address": "No.222 South Street , Sathanoor Village, Vazhur Post, Vandavasi Taluk , Tiruvannamalai District, Tamilnadu. Pincode:604405",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABA-2026-20260404062549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8021/0/9c8c6dc3b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Rakesh Sharma",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Rajamani",
+        "address": "No.45, Second Street, Third Cross Street, Annanagar, Tindivanam Taluk, Villupuram District, Pincode:604001",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAKE-2026-20260402042227.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5146/0/84064cab13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeshkumar P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Perumal",
+        "address": "No.291, Koil Street, Parasur Village  Post, Cheyyar Taluk, Tiruvannamlai District. Pincode:604409",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260404055941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7007/0/4385698b57/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rakesh Sharma. R",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Rajamani",
+        "address": "No.45, Second Street, Third Cross Street, Annanagar, Tindivanam Taluk, Villupuram District, Pincode:604001",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RRAKE-2026-20260410115853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16325/0/c95fe99c09/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Adhimoolam",
+        "address": "No.84, Periya Colony, Vandavasi Town, Vandavasi Taluk, Tiruvannamlai District. Pincode:604408",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANI-2026-20260406080404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11131/0/919ea25d7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rani P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Perumal",
+        "address": "No.291, Koil Street, Parasur Village  Post, Cheyyar Taluk, Tiruvannamlai District. Pincode:604409",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANIP-2026-20260404054320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7477/0/0d575c74fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rani. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Adhimoolam",
+        "address": "No.84, Periya Colony, Vandavasi Town, Vandavasi Taluk, Tiruvannamlai District. Pincode:604408",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANI-2026-20260406080404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15600/0/e00aa7261b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rani. P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Perumal",
+        "address": "No.291, Koil Street, Parasur Village  Post, Cheyyar Taluk, Tiruvannamlai District. Pincode:604409",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANIP-2026-20260404054320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16014/0/b908aa8756/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sanjay S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Shanmugam",
+        "address": "No.319 Arasoor Village  Post, Vandavasi Taluk, Tiruvannamalai District. Pincode:604408",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANJA-2026-20260406073555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10734/0/916fbb8990/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamarai Selvi. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Santhavel",
+        "address": "No.287, Mariyamman Koil Street, Old Colony, Vilanallur Village, Melnemili Post, Vandavasi Taluk, Tiruvannamlai District. Pincode:604505",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMA-2026-20260406065738.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15212/0/0353754ffd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamaraiselvi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Santhavel",
+        "address": "No.287, Mariyamman Koil Street, Old Colony, Vilanallur Village, Melnemili Post, Vandavasi Taluk, Tiruvannamlai District. Pincode:604505",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMA-2026-20260406065738.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9605/0/119742b406/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayakumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Munusamy",
+        "address": "No.618, Kaliyamman Koil Street, Anakkavoor Village  Post, Cheyyar Taluk, Tiruvannamalai District. Pincode:604401",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDHAY-2026-20260404061112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7478/0/e3fe46eea5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayakumar N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Natarajan",
+        "address": "No.184/75, Puthiya Colony 5Th Cross Street, Kottai Colony, Vandavasi Town, Vandavasi Taluk, Tiruvannamalai District. Pincode:604408",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDHAY-2026-20260406082811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11148/0/ec286b5a1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayakumar. M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Munusamy",
+        "address": "No.618, Kaliyamman Koil Street, Anakkavoor Village  Post, Cheyyar Taluk, Tiruvannamalai District. Pincode:604401",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDHAY-2026-20260404061112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16015/0/05eb3a495d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhayakumar. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vandavasi",
+        "father_husband_name": "Nataraj",
+        "address": "No.184/75, Puthiya Colony 5Th Cross Street, Kottai Colony, Vandavasi Town, Vandavasi Taluk, Tiruvannamalai District. Pincode:604408",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UDHAY-2026-20260406082811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15648/0/e510201ed2/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Cuddalore",
+    "count": 36,
+    "candidates": [
+      {
+        "name": "A.s.chandarasekaran",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Selladurai",
+        "address": "No.28, Anaikaran Street, Thirupapuliyur, Cuddalore-607002",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASC-2026-20260406070244.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "B.rajkumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Bagavanthasamy",
+        "address": "No.50-B, Rajam Nagar, Thirupathiripuliyur, Cuddalore-607002",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BRAJ-2026-20260404024555.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Shanmuga Priya",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Pravin",
+        "address": "No.28, Anaikaran Street, Thirupathiripuliyur, Cuddalore-607002",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSHA-2026-20260406071529.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Dharmadurai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Dharmalingam",
+        "address": "No.125, Mariyamman Koil Street, Gundu Uppalavadi, Ambedkar Nagar, Cuddalore-607006",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DDHA-2026-20260406074327.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dakshanaamurthy.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Vijayan",
+        "address": "Soorasamhara Street, New Vandipalayam, Cuddalore-607004",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DAKSH-2026-20260330032204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/280/0/2427273e96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.farook Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Ebrahim",
+        "address": "No.63A, Pallivasal Street, Cuddalore Old Town, Cuddalore-607003",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EFAR-2026-20260406063349.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "E.gurubaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Elangovan",
+        "address": "Door No.8A, Sovaiyan Street, Malumiyar Pet, Cuddalore O.t, Cuddalore - 607003",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EGUR-2026-20260404013617.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopal.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Munusamy",
+        "address": "No.9, Appavu Street, Cuddalore Old Town, Cuddalore Taluk",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPAL-2026-20260402120241.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "J. John Paul",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Jayaraman",
+        "address": "No.2, 5Th Street, Jeeva Nagar, Nellikuppam, Gudithangi Chavadi, Cuddalore District-607105",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JJOH-2026-20260406103633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11805/0/31a8b7f57a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Naveenan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Kalvi",
+        "address": "No.234, South Street, Ekkiyarkuppam, Marakanam, Villupuram District - 604303",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KNAV-2026-20260406101200.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12044/0/add8922dbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.lenin",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "No.421, Kaliyamman Koil Street, Sandror Palayam, Cuddalore O.t, Cuddalore -607003",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KLEN-2026-20260404043804.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.c.sampath",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Chinnasamy",
+        "address": "No.413, New Street, Melkumaramangalam Post, Panruti Taluk, Cuddalore District-607205",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MCS-2026-20260406092427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11721/0/7685279ef7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gopal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Munusamy",
+        "address": "No.9, Appavu Street, Cuddalore Old Town, Cuddalore Taluk",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPAL-2026-20260402120241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11512/0/986435dde5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sathiyaseelan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Mani",
+        "address": "No.729, Ampethkar Nagar, Bathirakottai And Post, Panruti Taluk - 607102",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAT-2026-20260404050642.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Mathipriya.c",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Sankar",
+        "address": "No.100 D, Perappankuttai Street, Manjakuppam, Cuddalore-607001.",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MATHI-2026-20260330055931.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/32/0/16a8e50fc3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagasundaram.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Pakkiri",
+        "address": "No.41, 42, Maruthi Nagar, Thottapattu, Cuddalore-607109",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAS-2026-20260330030826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/199/0/b2cff4c141/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.nagasundaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Pakkiri",
+        "address": "No.41, 42, Maruthi Nagar, Thottapattu, Cuddalore-607109",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAS-2026-20260330030826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11520/0/0fd9f171fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.natarajan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Pakkiri",
+        "address": "No.22, Main Road, Pakkiripalayam, Melkavarapet Post, Panruti Taluk - 607112",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PNAT-2026-20260404045644.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Karikalan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Ramasamy",
+        "address": "No.22, Mariyamman Koil Street, Kuttiyankuppam, M.p. Agaram Mathura, Thookanampakkam Post, Cuddalore-607402",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAR-2026-20260406080650.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Veeramani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Ravindhiran",
+        "address": "No. 82, Mariyamman Koil Street, Kondur, Cuddalore-607002",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVEE-2026-20260406081650.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.mayavan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Ramalingam",
+        "address": "No.5/1A, Anbukarasi Nagar, Sellankuppam, Cuddalore Old Town, Cuddalore - 607003",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAY-2026-20260404042336.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ramachandran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Ramalingam",
+        "address": "No.37, Velli Mottan Street, Thirupathiripuliyur, Cuddalore-607002.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260402012150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16376/0/e574712551/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.saraladevi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Rajkumar",
+        "address": "No.50 B, Rajam Nagar, Thirupathiripuliyur, Cuddalore - 607002",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSAR-2026-20260404051633.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamohan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Subbramanian",
+        "address": "No.55, Muppanar Nagar, Kondur And Post, Cuddalore-607006",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260402010219.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Ramalingam",
+        "address": "No.37, Velli Mottan Street, Thirupathiripuliyur, Cuddalore-607002.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260402012150.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Diviya",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Sampath",
+        "address": "No.413, New Street, Melkumaramangalam Post, Panruti Taluk, Cuddalore District-607205",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDIV-2026-20260406090740.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ramasamy",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Subburayan",
+        "address": "No.22, Mariyamman Koil Street, Kuttiyankuppam, Thookanampakkam Post, Cuddalore-607402",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406075504.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Shanmugam",
+        "address": "No.2, Alai Street, Old Vandipalayam, Cuddalore-607004",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAM-2026-20260406102115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12330/0/c906a83c35/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sambathkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Stalin",
+        "address": "No. 47/43, Mariyamman Koil Street, Kuttiyankuppam, Thookanampakkam, Cuddalore Taluk And District-607402",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAM-2026-20260406064957.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.krishnakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Dhandapani",
+        "address": "No.68/28, Akkil Naidu Street, Thirupathiripuliyur, Cuddalore - 607002",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKRI-2026-20260406062159.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.rajamohan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Subbramanian",
+        "address": "No.55, Muppanar Nagar, Kondur And Post, Cuddalore-607006",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260402010219.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11492/0/c1df1b93c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sarasu",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Selvakumaran",
+        "address": "Door No.e 1, Main Road, Perur And Post, Srimushnam Taluk",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAS-2026-20260330054228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16660/0/c815d3636f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sarasu.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Selvakumaran",
+        "address": "No.4/53, Main Road, Perur And Post, Srimushnam Taluk",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAS-2026-20260330054228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/546/0/fae46c67cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tharakesh. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Ezhilmurugan",
+        "address": "No.155, Pennai Garden, Unnamalai Chetty Chavadi, Kondur, Cuddalore-607002",
+        "gender": "Male",
+        "age": "23",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THARA-2026-20260406073103.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Suganthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Vilvazhagan",
+        "address": "No.46, East Street, Uchimedu, Suba Uppalavadi Post, Cuddalore-607002",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUG-2026-20260406100233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11786/0/e87d7181cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.dakshanaamurthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cuddalore",
+        "father_husband_name": "Vijayan",
+        "address": "Soorasamhara Street, New Vandipalayam, Cuddalore-607004",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DAKSH-2026-20260330032204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11522/0/36b90e1735/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

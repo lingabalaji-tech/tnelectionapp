@@ -1,0 +1,747 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Gobichettipalayam",
+    "count": 49,
+    "candidates": [
+      {
+        "name": "A.bhuvaneshwari",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Annadurai",
+        "address": "2/64 Poyar Street P.vellalapalayam Gobichettipalayam Erode",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABHU-2026-20260404033629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6301/0/49e7e79262/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.sivakumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Ayyasamy",
+        "address": "6/104 Koramadai Kadathur Nambiyur Erode - 638454",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASIV-2026-20260406023348.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8440/0/05a8e31740/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anandhakumar.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "C.muthusamy",
+        "address": "124/2, Nandha Nagar, Vadugapalayam, Modachur, Gobichettipalayam Taluk,     Erode District.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANA-2026-20260330040128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16643/0/ed928eb53c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bhuvaneshwari.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Annadurai",
+        "address": "2/64, Boyar Street, P.vellalapalayam, Gobichettipalayam Taluk,  Erode District.",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABHU-2026-20260404033629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15854/0/d165687d6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.n.nagarajacholan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Nalakgounder",
+        "address": "87/2 Cinnakulam Kalingiyam Gobichettipalayam Erode - 638453",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CNN-2026-20260402031733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5191/0/0224e4f593/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanapal.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Karuppusamy",
+        "address": "74/86, Pillaiyar Kovil Street, Chettiyampathi,  Nambiyur Taluk,  Erode District.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDHA-2026-20260402012754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16380/0/7db1c04cbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.sakthivel",
+        "party": "India Dravida Makkal Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "M.gurunathan",
+        "address": "9A Ootadurai  Main Road Thalakombupudur Kugalur Gobichettipalayam Erode - 638313",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSAK-2026-20260406051644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8944/0/6cddd010fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.shanmugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Gurusamy",
+        "address": "104,Pajanai Kovil Street, P.vellalapalayam,Gobichettipalayam Taluk,Erode - 638476",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260406030140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12224/0/35a0e2edc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.sumathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "V.ganesan",
+        "address": "259 Main Road Kulavikkaradu  Nanjaigobi Gobichettipalayam Erode - 638476",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSUM-2026-20260404013355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6380/0/67abc7f99c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.chandrasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "K.jayaraman",
+        "address": "46 Yahoop Street Gobichettipalayam Erode",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JCHA-2026-20260406015226.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8683/0/7253078702/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.a.sankarkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "D.ayyavu",
+        "address": "29A Kodishvara Nagar Gibichettipalayam",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAS-2026-20260330021215.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10/0/831595e57f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.a.sengottaiyan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "K.s.arthanarigounder",
+        "address": "73 Mariyamman Kovil Street Kullampalayam Gobichettipalayam Erode  - 638476",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAS-2026-20260330034025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/370/0/6b2436a650/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.dhanapal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Karuppusamy",
+        "address": "74/86  Pillayarkovil Street Settiyampathi Nambiyur Erode",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDHA-2026-20260402012754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5029/0/ab4b99ef14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan .V.p",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Palanisamy",
+        "address": "1/132 Nanjai Gobi P.vellalapalayam Gobichettipalayam - 638476",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260404120147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6358/0/f07f545187/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.anandhakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "C.muthusamy",
+        "address": "124/2 Nandha Nagar Vadugapalauam Modachur Gobichettipalayam Erode 638452",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANA-2026-20260330040128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/460/0/5626c3d74e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.arulramachandraa",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "M.c.mani",
+        "address": "46,Kalingiyam Road Nainampalayam Gobichettipalayam Erode",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARU-2026-20260402015234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5067/0/4253a1f326/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.k.seethalakshmi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "R.chezian",
+        "address": "6/112 A Marappampalayam Otathurai Bhavani Erode - 638455",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKS-2026-20260330014112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/560/0/fac17972cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.palanisamyraaj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Marappagounder",
+        "address": "609 Jawahar Main Road Punjai Puliyampatti - 638459",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPAL-2026-20260330124336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/467/0/1205e403e3/",
+          "https://voterlist.co.in/affidavit-download/467/1/cc9f550907/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.thiruvengatesh",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Murugesan",
+        "address": "106, Perumal Kovil Karadu Thirththampalayam Chinnaripalayam Nambiyur Erode - 638458",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTHI-2026-20260404032327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6089/0/d6c85be2ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malarvizhi",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Karthikeyan.v.p.",
+        "address": "1/132 Nanjai Gobi P.vellalapalayam Gobichettipalayam - 638476",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALAR-2026-20260404113819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6285/0/2452480049/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mubarak.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Ahamanulla",
+        "address": "3 Pugalenthi Street Gobichettipalayam Erode",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUBAR-2026-20260406115015.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8385/0/81b7dcb349/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.maragathaselvi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "N.nallasivam",
+        "address": "179/1 Ther Street Kullampalayam Gobichettipalayam Erode - 638476",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NMAR-2026-20260406024735.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9086/0/f6f1a3885e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.nallasivam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "V.nallasamy",
+        "address": "179/1 Ther Street Kullampalayam Gobichettipalayam Erode - 638476",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NNAL-2026-20260406021041.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9364/0/0cd4e7f984/",
+          "https://voterlist.co.in/affidavit-download/9364/1/f165580ec1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nallasivam.n",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "V.nallasamy",
+        "address": "179/1, Dher Veethi, Kullampalayam Po,  Gobichettipalayam Taluk,  Erode District - 638476.",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NNAL-2026-20260406021041.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15095/0/3350aa7485/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.mohanapriya",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "V.b.praphu",
+        "address": "11, Aasari Pattarai Moola Vaikkal Karatatipalayam Gobichettipalayam - 638453",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260404125439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6697/0/b7bae5375a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "K.paulraj",
+        "address": "2/108 Kalipalayam Colony Senapathi Chettipalayam Avinasi Thiruppur - 641752",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAM-2026-20260406033004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8855/0/4e6d9d3bea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamyraaj.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Marappagounder",
+        "address": "609, Jahawar Main Road,  Punjai Puliyampatti - 638459 Sathyamangalam Taluk, Erode District.",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPAL-2026-20260330124336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16629/0/de56267415/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhu.v.b",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "V.p.balasubramaniyam",
+        "address": "11, Aasaripattarai Medu, Moolavaikkal, Karatadipalayam, Gobichettipalayam Taluk,  Erode District - 638453.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBP-2026-20260404123602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16043/0/5bab4fbd1b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Punithadevi A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Abimanyu P",
+        "address": "8/157 Palanigoundenpalayam Kurumanthur Nambiyur Erode 638457",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PUNIT-2026-20260330030206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/160/0/8ebe7e4a06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Punithadevi.a",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Abimanyu.p",
+        "address": "8/157 Palanigoundanpalayam Kurumandhur Nambiyur Via  Erode - 638457",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PUNIT-2026-20260330030206.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11518/0/32efc4f019/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.ravikumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Rangan",
+        "address": "2/47 Vinnapalli Pungampalli Valipalayam Sathyamangam - 638402",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAV-2026-20260404011908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6194/0/fb56535631/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.seetha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "P.ramasamy",
+        "address": "Manthai Mariyamman Kovil Street, Anthiyur,Erode - 638501",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEE-2026-20260406120918.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9606/0/8a4b991017/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.selvakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Ranaganathan",
+        "address": "233 Society Street Kullampalayam Gobichettipalayam Erode",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEL-2026-20260406031252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10160/0/cdb94d6a0c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "K.paulraj",
+        "address": "2/108, Kalipalayam Colony, Senapathychettipalayam Po, Avinashi Taluk,  Tirupur District - 641752.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAM-2026-20260406033004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14828/0/dc7f9960ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rangan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Perumal",
+        "address": "Old No.270 New No.27 Anna Nagar Kullampalayam Gobichettipalayam Taluk",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANGA-2026-20260406031930.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11692/0/cb2710ea26/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rangann P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Perumal",
+        "address": "270/27 Anna Nagar Kullampalayam Gobichettipalayam",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANGA-2026-20260406031930.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8512/0/ec9fc42c30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravikumar.r",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Rangan",
+        "address": "2/47, Vinnappalli, Pungampalli, Valipalayam,  Sathyamangalam Taluk,  Erode District-638402.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAV-2026-20260404011908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15773/0/0e61165ed0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "M.gurunathan",
+        "address": "9A, Odathurai Main Road, Thalaikombupudur,  Kugalur Po, Gobichettipalayam Taluk,  Erode District - 638313.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSAK-2026-20260406051644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14867/0/d3c1ef7aa5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seetha.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "P.ramasamy",
+        "address": "6B, Mandhai Mariyamman Kovil Street, Kamarajar Salai, Anthiyur - 638 501,  Erode District",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEE-2026-20260406120918.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15215/0/cf7b9bdcb4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seethalakshmi.m.k",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "R.chezhian",
+        "address": "6/112, A, Marappam Palayam, Odathurai,  Bhavani Taluk,  Erode District - 638 455.",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKS-2026-20260330014112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16242/0/1359eb6e8d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakumar.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Ranaganathan",
+        "address": "233/201 Society Street Kullampalayam Gobichettipalayam Taluk  Erode",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEL-2026-20260406031252.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12439/0/f3e109c8e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sengottaiyan.k.a",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "K.s.arthanarigounder",
+        "address": "73, Mariamman Kovil Street, Kullampalayam Post, Gobichettipalayam, Erode District - 638 476.",
+        "gender": "Male",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAS-2026-20260330034025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16624/0/d43cbdc182/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Gurusamy",
+        "address": "104,Bajanai Kovil Street, Pa.vellalapalayam,Gobichettipalayam,Erode - 638476",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260406030140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9653/0/9b64ec8d05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Gurusamy",
+        "address": "104, Pajanai Kovil Street, P.vellalapalayam, Gobichettipalayam Taluk,  Erode District.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260406030140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15243/0/acbe5b5606/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sumathi.g",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "V.ganesan",
+        "address": "259, Main Road, Kulavikaradu, Nanjaigobi,  Gobichettipalayam Taluk,  Erode District - 638476.",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSUM-2026-20260404013355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15907/0/13e19c95d6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.senkottiyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Thimma Naiyakkar",
+        "address": "76 Salavaikalpalayam Nagadevampalayam Gobichettipalayam Erode",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSEN-2026-20260404025338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6515/0/6c8719d45a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thiruvengatesh.m",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Murugesan",
+        "address": "106, Perumal Kovil Karadu, Theethampalayam Po,  Chinnaripalayam Village, Nambiyur Taluk,  Erode District - 638458.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTHI-2026-20260404032327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15698/0/c2b276d0cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.b.prabhu",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "V.p.balasubramaniyam",
+        "address": "11, Aasari Pattarai Medu Moolavaikkal Karatatipalayam Gobichettipalayam - 638453",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VBP-2026-20260404123602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6544/0/6649376174/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatachalam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gobichettipalayam",
+        "father_husband_name": "Palani",
+        "address": "2/123 Harijana Colony  Senapathi Chettipalayam Kalipalayam Avinasi Triuppur - 641752",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406050158.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9911/0/4335e21e06/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

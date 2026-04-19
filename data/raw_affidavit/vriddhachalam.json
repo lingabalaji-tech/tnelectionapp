@@ -1,0 +1,783 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Vriddhachalam",
+    "count": 55,
+    "candidates": [
+      {
+        "name": "A.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Azhagesan",
+        "address": "20E, South Street, Mangalampet - 606104, Virudhachalam Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAN-2026-20260404043526.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7322/0/ca1239ed50/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.n.arivazhagan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "S.narayanasamy",
+        "address": "166/1 Elumitchai Street, Umangalam Post, Virudhchalam Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANA-2026-20260404012818.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananthi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Selvakumar",
+        "address": "11-2/5-2, North Street, Kovilur, Tittakudi Tk, Cuddalore Dt, 606302",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANANT-2026-20260330012458.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/508/0/a33fc6cf5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananthi Dhandapani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Selvakumar",
+        "address": "11-2/5-2, North Street, Kovilur, Tittakudi Tk, Cuddalore Dt, 606302",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANANT-2026-20260403114446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16654/0/ecbc6dbc21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Archana",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Dhandapani",
+        "address": "55/2, North Street, Ko.kothanur, Varambanur Post, Veppur Taluk, Cuddalore District",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARCHA-2026-20260330014121.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/563/0/1d14a055b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arivazhagan.e.n",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "S.narayanasamy",
+        "address": "166/1 Elumichai Street, Umangalam Post,Vridhachalam Taluk",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANA-2026-20260404012818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15853/0/22f60da5e5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arivudainambi.s",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Swaminathan",
+        "address": "Old Colony, Karnatham Village And Post, Vridhachalam Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARI-2026-20260330122527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16638/0/acba8709d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.murugananthan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "K.balraj",
+        "address": "No:50,Rasi Nagar, Mangalampettai,Virudhachalam Taluk,Cuddalore District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BMUR-2026-20260404023415.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "B.sathya",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "R.bhakiyaraj",
+        "address": "6/2, Mela Street, Kovilanur Village, Mangalampet Post, Virudhachalam Taluk, Cuddalore District",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSAT-2026-20260402122919.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Balu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Pandurengan",
+        "address": "No.6/2, North Street, Koodalur Village And Post,Tittakudi Taluk,Cuddalore District-606111",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALU-2026-20260406063012.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Balu.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Pandurengan",
+        "address": "No.6/2, North Street, Koodalur Village And Post, Tittakudi Taluk, Cuddalore District-606 111",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALU-2026-20260406063012.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14973/0/d2389429a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.jayachanthiran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Devan",
+        "address": "2/134. North Street, Visalur Village, Mangalampettai Po,Virudhachalam Tk, Cuddalore Dt,606104",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DJAY-2026-20260406032343.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Deiveegadas",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Maridas",
+        "address": "324,Ganthiji Veethi, Semakottai Village,Panruti Taluk,Cuddalore District-607106",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEIVE-2026-20260406083614.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Deiveegadass.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Maridas",
+        "address": "No.324, Gandhiji Street, Semakottai Village, Panruti Taluk, Cuddalore District-607 106",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEIVE-2026-20260406083614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15686/0/dbeb32baec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.p.tamizharasi",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Athimolam",
+        "address": "122,Bharathiyar Street, North Periyar Nagar, Virudhachalam,Cuddalore District-606001",
+        "gender": "Female",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRP-2026-20260406035601.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.s.anandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Sellaperumal",
+        "address": "2/43, East Mainroad,Karmankudi Village And Post 606110 Srimushnam Taluk, Cuddalore District.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRS-2026-20260402031914.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.tamizharasi.p",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Athimolam",
+        "address": "No.122, Bharathiyar Street,  Periyar Nagar North, Vridhachalam, Cuddalore District-606 001",
+        "gender": "Female",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRTA-2026-20260410102427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15354/0/bff2036a3c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Durai.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kasinathan",
+        "address": "Old No.33/D, New No.14, Pennadam Road, Karunanithi Nagar, Vridhachalam Taluk, Cuddalore District-606 001",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDUR-2026-20260406085000.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15198/0/9dd68b0311/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhilkumar.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kolanji",
+        "address": "No.3/31A Main Road, Sathiyavadi, Sathiyavadi Post, Vridhachalm Taluk",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KEZH-2026-20260406031444.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15608/0/1d82cd9e01/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gnanasundari.m",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Mani",
+        "address": "No.3/91, North Street, Kachiperumanatham Village, Paravalur Po, Vridhachalam Taluk, Cuddalore District-606 003",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGNA-2026-20260406015149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14747/0/cce6a50f04/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.karthikeyan",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Jayabal",
+        "address": "10/46,6Th Kurukkutheru, Thiruvalluvar Nagar,Kattukodalur Road, Virudhachalam-606001, Cuddallore District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JKAR-2026-20260406041000.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaprakash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Selvaraj",
+        "address": "No.3/54,4Th Street,Pudukooraipettai Village,Virudhachalam Tk, Cuddalore District-606003",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAP-2026-20260406090707.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaprakash.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Selvaraj",
+        "address": "No.3/54, 4Th Street, Pudukooraipettai Village, Vridhachalam Taluk, Cuddalore District-606 003",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAP-2026-20260406090707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14891/0/aafb0639ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.durai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kasinathan",
+        "address": "Old No : 33/D, New No:14, Pennadam Road, /Karunanithi Nagar, Virudhachalam Tk, Cuddalore District-606001",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDUR-2026-20260406085000.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.ezhilkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kolanji",
+        "address": "3/31A,Mainroad, Sathiyavadi,Sathiyavadi Post,Virudhachalam Taluk",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KEZH-2026-20260406031444.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.narayanasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kolanji",
+        "address": "No.62,West Street,Erukkankuppam,Paravalur Po, Virudhachalam Tk, Cuddalore District-606003",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KNAR-2026-20260406092104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12387/0/cea2470820/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sundhararajan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Krishnasamy",
+        "address": "West Street, T.kopurapuram And Post, Virudhachalam Taluk, Cuddalore District 606003",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSUN-2026-20260406105404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12213/0/dcc84f5668/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gnanansundari",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Mani",
+        "address": "3/91, North Street, Kachiperumanatham Village, Paravalur Po, Virudhachalam Tk, Cuddalore606003",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGNA-2026-20260406015149.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Periyasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Ramasamy",
+        "address": "4/377,Mettu Street, Sirunesalur Village, Veppur Post And Taluk, Cuddalore District-606304",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PERIY-2026-20260406042126.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabakaran.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "R.tamilarasan",
+        "address": "No.45/3, East National Highway, Pennadam Post, Tittakudi Taluk, Cuddalore District-606 105",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TPRA-2026-20260403115654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16479/0/a2ab4de4e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premalatha",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Vijayakanth",
+        "address": "10/12A,Kannammal Street,Saligramam,Chennai-600093",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMA-2026-20260406060840.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Premallatha Vijayakant",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Vijayakanth",
+        "address": "10/12A,Kannammal Street,Saligramam,Chennai-600093",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMA-2026-20260406060840.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15007/0/cd8a21ce51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.anju",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Narayanasamy",
+        "address": "62,West Street, Erukkankuppam, Paravalur Po, Virudhachalam Tk, Cuddalore District, 606003",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJ-2026-20260406030204.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.arul",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Ramachanthiran",
+        "address": "485/23, Balaji Nagar, Periyar Nagar South Virudhachalm, Cuddalore District 606001",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARU-2026-20260406110106.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12349/0/c5a96270c6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.chinnapan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Rathinam",
+        "address": "494/14, Anbumani Nagar, Karuveppilankurichi,Virudhachalam, Cuddalore District 606110",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RCHI-2026-20260402040308.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.rajivganthi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "A.radhakrishnan",
+        "address": "152,South Street,Virudhakirikuppam,Mudhanai Post,Virudhachalam Taluk-607804",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAJ-2026-20260404013958.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.seenivasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Raji",
+        "address": "120, 3Rd Street, Ayiyarmadam, Virudhachalam-606001,Cuddalore District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSEE-2026-20260402013044.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.srinivasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Raji",
+        "address": "190, 3Rd Street, Ayiyarmadam,Virudhachalam-606001,Cuddalure District,",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSRI-2026-20260402032957.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Arivudainambi",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Swaminathan",
+        "address": "Old Colony, Karnatham Village And Post, Vridhachalam Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARI-2026-20260330122527.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/444/0/cbf689fc4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.pazhanivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Seenivasan",
+        "address": "45,Puthucolony, Sathukoodal Keezhpathi, Sathukoodal Post, Virudhchalam Taluk, Cuddalore District-606110",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAZ-2026-20260404020231.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sidhardhan",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Sanmuganantham",
+        "address": "14/13, Bharathidasan Theru, Virudhachalam-606001",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSID-2026-20260404044934.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7813/0/aa38ecd277/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.vijay",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Sakthivel",
+        "address": "No.245, Melatheru, Erumanur Village, Vridhachalam Taluk, Cudddalore District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIJ-2026-20260404022518.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sachudhananthan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Dencing",
+        "address": "No.8, Seppakkam, Veppur Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SACHU-2026-20260406093146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11822/0/f874ff867c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathiya.b",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "R.bhakiyaraj",
+        "address": "No.6/12, Mela Veethi, Kovilanur Village, Mangalampettai Post, Vridhachalam Taluk, Cuddalore District",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSAT-2026-20260402122919.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16536/0/0740ebdf71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sidharthan.s",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Sanmuganantham",
+        "address": "14/13, Bharathidasan Street, Virudhachalam-606 001",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSID-2026-20260404044934.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16158/0/8f8a51f634/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaprakasam.v",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Veeramuthu",
+        "address": "No,21,North Street, Thoravalur Post,Virudhachalam Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VSIV-2026-20260403115612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16526/0/b3a2295f48/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivasankaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kolanchi",
+        "address": "No.9,2Nd Main Street,Sozhan Nagar,Pennadam,Tittakudi Taluk,Cuddalore District-606105",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAS-2026-20260406064752.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivasankaran.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kolanchi",
+        "address": "No.9, 2Nd Main Street, Cholan Nagar, Pennadam, Tittakudi Taluk, Cuddalore District-606 105",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAS-2026-20260406064752.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14703/0/aacc6c6ecb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinivasan.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Raji",
+        "address": "No.190, 3Rd Street, Aayiyar Madam, Vridhachalam, Cuddalore District-606 001",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSRI-2026-20260403115204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16375/0/2aa9a16634/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Kolanji",
+        "address": "156,West Street,Erukkankuppam Village,Paravalur Post, Virudhchalam Taluk Cuddalore District",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406103327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11720/0/1fc26fddf8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.alibabu",
+        "party": "Indhia Kudiarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Thangarasu",
+        "address": "139,New Colony, Karnatham Village, Virudhachalam Taluk, Cuddalore District- 606101",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TALI-2026-20260404050623.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7230/0/35a9b6e44c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.prabakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "R.tamilarasan",
+        "address": "45/3, East National Highway, Pennadam Post, Tittakudi Taluk, Cuddalore District,606105",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TPRA-2026-20260402045541.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.ilayaperumal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Vellaiyan",
+        "address": "6/88,Sathiyavadi ,Sathiyavadi Po, Mayilkal Street, Mainroad. Virudhachalam Taluk 606110",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VILA-2026-20260406033648.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.sivapragasam",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Veeramuthu",
+        "address": "No,21,North Street, Thoravalur Post,Virudhachalam Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIV-2026-20260402041546.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijay.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Vriddhachalam",
+        "father_husband_name": "Sakthivel",
+        "address": "No.245, Mela Street, Erumanur Village, Vridhachalam Taluk, Cuddalore District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVIJ-2026-20260404022518.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15726/0/4bfd8e2081/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

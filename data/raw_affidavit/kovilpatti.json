@@ -1,0 +1,828 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kovilpatti",
+    "count": 54,
+    "candidates": [
+      {
+        "name": "Arumugavel.t",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Thangapandi",
+        "address": "6/39, Sudalaiyapuram, Matha Nagar, Thoothukudi - 628002",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TARU-2026-20260330040634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16653/0/584c6243be/",
+          "https://voterlist.co.in/affidavit-download/16653/1/6b90bb0782/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Athikumar Kudumbar.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Parathithasan",
+        "address": "8/825V/1, Indira Colony, South Thittankulam, Iluppaiyurani Post, Kovilpatti Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BATH-2026-20260406042454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15074/0/6637be6897/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.athikaran Athikumar",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Parathithasan",
+        "address": "825V/1, Indira Colony, South Thittankulam, Kovilpatti Taluk - 628502, Thoothukudi District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BATH-2026-20260406042454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9327/0/5d40e5a9fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.athikaran Athikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Parathithasan",
+        "address": "825V/1, Indira Colony, South Thittankulam, Kovilpatti Taluk - 628502, Thoothukudi District",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BATH-2026-20260406042454.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13936/0/ec7729a17d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.jothi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Balasubramanian",
+        "address": "177B/5, Shanmugasigamani Nagar, Pandavarmangalam 628 502. Kovilpatti Taluk, Thoothukudi District.",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BJOT-2026-20260406083558.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11448/0/204487936a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balasubramanian.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Sankarasubbu",
+        "address": "4/88, Dhanasekaran Nagar 1St Street West, Thoothukudi - 628002",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SBAL-2026-20260406044712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14762/0/035c7b48b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.sekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Chellaiah",
+        "address": "339, Shanumugsigamani Nagar, Pandavarmangalam, Kovilpatti 628 502, Thoothukudi District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSEK-2026-20260406073924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10905/0/e71cc904f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinna Maharaja.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Karuppasamy",
+        "address": "6/82, Rice Mill Street, Thalaiyoothu - 627357, Tirunelveli District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CHINN-2026-20260409101701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15125/0/c3352c3e3d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gunasekaran.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Pappu",
+        "address": "25A, Pattatharasiyamman Kovil Street, Kumarapalayam - 638183, Namakkal District",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GUNAS-2026-20260409101508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14641/0/c68c63ca7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gurusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Karuppasamy",
+        "address": "6/A4, Bharathi Nagar 3Rd Mettu Street, Kovilpatti  - 628501, Thoothukudi District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GURUS-2026-20260406023155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10413/0/1e7c074585/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gurusamy.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Karuppasamy",
+        "address": "6/A4, Bharathi Nagar 3Rd Mettu Street, Kovilpatti  - 628501, Thoothukudi District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GURUS-2026-20260406023155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15653/0/0a9134fa9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Har Balakrishnan",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Gurusamy",
+        "address": "2/106, South Street, Puliyankulam, Chithirampatti, Kovilpatti Taluk, Thoothukudi District.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARBA-2026-20260404024754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6455/0/c14ec34fbb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Hari Balakrishnan",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Gurusamy",
+        "address": "2/106, South Street, Puliyankulam, Chithirampatti, Kovilpatti Taluk, Thoothukudi District.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARBA-2026-20260404024754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7388/0/b8e07884d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Hari Balakrishnan.g",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Gurusamy",
+        "address": "2/106, South Street, Puliyankulam, Chithirampatti, Kovilpatti Taluk, Thoothukudi District.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/HARIB-2026-20260409102114.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15968/0/5d904ac58f/",
+          "https://voterlist.co.in/affidavit-download/15968/1/490661f851/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.chinna Maharaja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Karuppasamy",
+        "address": "6/82, Rice Mill Street, Thalaiyuthu - 627 357, Tirunelveli District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCHI-2026-20260406080027.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10974/0/e9cc148bc2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.pandimuneeswari",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Vijayakumar",
+        "address": "7, Kumaresan Nagar, Kalugumalai - 628 552, Kovilpatti Taluk, Thoothukudi District",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPAN-2026-20260406084255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10798/0/f8f042028e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.poundurai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Krishnasamy",
+        "address": "177/3, Kanthari Amman Kovil Street, Usilankulam - 628 952. Kayathar Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPOU-2026-20260406082429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10992/0/326e562cc1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kadambur Raju",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "R.chelliah",
+        "address": "3/34, K.chidambarapuram, Kadambur - Po,  Kayathartaluk-628714, Thoothukudi District.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KADAM-2026-20260404125322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6685/0/97c874014a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kadambur Raju.c",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "R.chelliah",
+        "address": "3/34, K.chidambarapuram, Kadambur - Post,  Kayathar Taluk-628714, Thoothukudi District.",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KADAM-2026-20260409101902.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16154/0/ec4b8fbe79/",
+          "https://voterlist.co.in/affidavit-download/16154/1/9d43632a04/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan.s",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Subbaiah",
+        "address": "15, Rajapather Street, Perambur, Chennai - 600011",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAN-2026-20260406025359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15065/0/bd8ce57c35/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karunanithi.k",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Kalipadian",
+        "address": "85F1, Athai Kondan Road, Kovilpatti - 628502, Thoothukudi District",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARUN-2026-20260406040538.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10294/0/3cd2a7e6ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.hariharan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Murugan",
+        "address": "359, Sasthiri Nagar, Kovilpatti - 628501, Thoothukudi District.",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MHAR-2026-20260404015152.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6589/0/115abc0de1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ponnusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Muthusamy",
+        "address": "69/6-1, East Street, Sankaralingapuram, Kovilpatti - 628501",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MPON-2026-20260402023042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5401/0/abd22368ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.shenbagaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Valliammal",
+        "address": "6, 4Th Bangalaw Street, Kadalaiyur Road, Kovilpatti 628 501, Thoothukudi District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSHE-2026-20260406085133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11107/0/2864b05e4e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sumathi",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Mutharasu",
+        "address": "7/139, South Street, Manankathaan, Kayathar Taluk - 628952, Thoothukudi District",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSUM-2026-20260406013833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10073/0/147a4b0a2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manjula.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Shenbaga Moorthy",
+        "address": "4/88, Dhanasekaran Naga 1St Street West, Thoothukudi - 628002",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAN-2026-20260406050234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15394/0/a63483a824/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marichamy.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Ramasamy",
+        "address": "201, Dr. Radhakrishnan Nagar, G.v.n. College Post, Appaneri, Kovilpatti Taluk, Thoothukudi District.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAR-2026-20260404021727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16271/0/a63b4ef3a0/",
+          "https://voterlist.co.in/affidavit-download/16271/1/c0710e36ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muneeswaran.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Ravi",
+        "address": "16/5, Subramaniapuram 6Th Street, Kovilpatti Taluk , Thoothukudi District - 628501",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMUN-2026-20260406075254.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14753/0/0ac2734ada/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.arjun",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Ponnaiah",
+        "address": "1449, Tnhb Colony, Mela Anuppanadi, Madurai - 625009",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARJ-2026-20260406030450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9810/0/1dc16ab4f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.gunasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Pappu",
+        "address": "25A, Pattatharasiamman Kovil Street, Kumarapalayam - 638 183, Namakkal District",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGUN-2026-20260406081244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10494/0/5db43d37e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.poolpandy",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Poolpandi Thevar",
+        "address": "210, North Street, Vadakku Ilanthaikulam - 628952, Kayathar Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPOO-2026-20260330021806.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/45/0/f0c0543915/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandi.p",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Poolpandi Thevar",
+        "address": "210, North Street, Vadakku Ilanthaikulam, Kayathar Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPOO-2026-20260330021806.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16554/0/0241db04a7/",
+          "https://voterlist.co.in/affidavit-download/16554/1/737ec4b2c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandimuneeswari.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Vijayakumar",
+        "address": "7, Kumaresan Nagar, Kalugumalai - 628552, Kovilpatti Taluk, Thoothukudi District",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPAN-2026-20260406084255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14913/0/03848b9229/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paramasivan.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Sudalai",
+        "address": "850/1, Muthu Nagar, Thittankulam, Kovilpatti - 628501, Thoothukudi District",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARAM-2026-20260406031513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8419/0/471d29b3f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ponnusamy.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Muthusamy",
+        "address": "69/6-1, East Street, Sankaralingapuram, Kovilpatti Taluk, Thoothukudi - 628501",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MPON-2026-20260402023042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16467/0/1687f3b464/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poundurai.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Krishnasamy",
+        "address": "177/3, Kanthariamman Kovil Street, Usilangulam - 628952. Kayathar Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPOU-2026-20260406082429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15141/0/8199f70c90/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Kanthasamy",
+        "address": "3/142, Periya Kinatru Street, Villiseri - 628716, Kovilpatti Taluk",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PREMK-2026-20260331043516.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/283/0/421ae6b748/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premkumar.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Kanthasamy",
+        "address": "3/142, Periya Kinatru Theru, Villiseri - 628716, Kovilpatti Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PREMK-2026-20260409012833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16606/0/90143da98f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.marichamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Ramasamy",
+        "address": "201, Dr. Radhakrishnan Nagar, G.v.n. College Post, Appaneri, Kovilpatti Taluk, Thoothukudi District.",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAR-2026-20260404021727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6834/0/37c59b1a45/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.muneeswaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Ravi",
+        "address": "16/5, Subramaniapuram 6Th Street, Kovilpatti - 628 501, Thoothukudi District.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMUN-2026-20260406075254.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10617/0/94bd886625/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran.r",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Ramasamy",
+        "address": "448, North Street Kammapatti, Kurumalai Post, Kayathar Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260404034108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15305/0/f0f1b21585/",
+          "https://voterlist.co.in/affidavit-download/15305/1/d2ad5d3e49/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachanran.r",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Ramasamy",
+        "address": "448, Kammapatti North Street, Kurumalai, Kayathar Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAC-2026-20260404034108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6382/0/b414e7003c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjani.k",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Karunanithi",
+        "address": "85F1, Athaikondan Road, Gandhi Naga, Kovilpatti - 628502, Thoothukudi District",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJA-2026-20260406043510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10035/0/a875acfaec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Renganayagalu.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Seenivasan",
+        "address": "2/71, West Street. Pillaiyarnatham Village, Kovilpatti Taluk, Thoothukudi District 628 721",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SREN-2026-20260407033112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15454/0/1333e5a07a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.balasubramanian",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Sankarasubbu",
+        "address": "4/88, Dhanasekar Nagar 1St Street West, Thoothukudi - 628002",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SBAL-2026-20260406044712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8712/0/bc453668ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.kannan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Subbaiah",
+        "address": "15, Rajapather Street, Perambur, Chennai - 600011",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAN-2026-20260406025359.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9306/0/3b931ae1ca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.manjula",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Shenbaga Moorthy",
+        "address": "4/88, Dhanasekaran Naga 1St Street West, Thoothukudi - 628002",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAN-2026-20260406050234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9933/0/e8c4a30852/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.renganayagalu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Seenivasan",
+        "address": "2/71, West Street. Pillaiyarnatham, Kovilpatti Taluk, Thoothukudi District 628 721",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SREN-2026-20260406074611.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11247/0/6977e83cf1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.saravanan",
+        "party": "Thamizh Perarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Selvaraj",
+        "address": "184/13-34, Natarajapuram, 6Th Street, Kovilpatti - 628502, Thoothukudi District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAR-2026-20260404121250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6400/0/77b9fe702c/",
+          "https://voterlist.co.in/affidavit-download/6400/1/41bc589398/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan.s",
+        "party": "Thamizh Perarasu Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Selvaraj",
+        "address": "184/13-34, Natarajapuram, 6Th Street, Kovilpatti - 628502, Thoothukudi District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAR-2026-20260404121250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15919/0/10ee0fe80d/",
+          "https://voterlist.co.in/affidavit-download/15919/1/cc16220e09/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Chellaiah",
+        "address": "339, Sanmugasigamani Nagar, Pandavarmangalam, Kovilpatti Taluk, Thoothukudi District",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSEK-2026-20260406073924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15047/0/febdf1335f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.arumugavel",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Thangapandi",
+        "address": "6/39, Sudalaiyapuram, Matha Nagar, Thoothukudi - 628002",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TARU-2026-20260330040634.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/502/0/0e37f96788/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.indiragandhi",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Kadambur Raju",
+        "address": "3/34,  K.chidambarapuram, Kadambur-Po,  Kayathar Taluk - 628714 Thoothukudi District.",
+        "gender": "Female",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIND-2026-20260404012433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6241/0/f0770c8019/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vetrivel.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kovilpatti",
+        "father_husband_name": "Marimuthu",
+        "address": "286, Pillaiyar Kovil Street, Vadakku Ilanthaikulam - 628952, Thoothukudi District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VETRI-2026-20260406023954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8730/0/1158720393/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

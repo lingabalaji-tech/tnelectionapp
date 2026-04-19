@@ -1,0 +1,545 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Namakkal",
+    "count": 36,
+    "candidates": [
+      {
+        "name": "Aadithiyan A",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Arumugam",
+        "address": "W1/146, Sevaliya Sivaji Gannesan Street, 4 Street, N.kosavampatty, Namakkal Taluk, Namakkal District - 637002",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AADIT-2026-20260404041834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6119/0/ee07e1a000/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abineshkumar T",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Thangarasu",
+        "address": "6/16, Kuttikaradu Thottam, Thandagoundanur, Belukurichi Post, Senthamangalam Taluk, Namakkal District - 637402",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABINE-2026-20260407011217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11638/0/c82426ab8a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abineshkumar T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Thangarasu",
+        "address": "6/16, Kuttikaradu Thottam, Thandagoundanur, Belukurichi Post, Senthamangalam Taluk, Namakkal District - 637402",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABINE-2026-20260407011217.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12850/0/ee553552a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aravinth S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Selladurai",
+        "address": "3/48, Melapatty Melmugam, Thummankurichi Post, Namakkal Taluk, Namakkal District - 637003",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAVI-2026-20260406124258.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10282/0/f28a9b2778/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandra P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Periyasami",
+        "address": "4-121, Kerayur, Mohanur Taluk, Namakkal District - 637015",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/94/1775206487chandrafinalpassport.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10136/0/09c5edf0df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dilip C S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Sekar",
+        "address": "60B/4, Four Square Apartments, Upa Sandhu, Trichengode Road, Namakkal Taluk, Namakkal District- 637001",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DILIP-2026-20260404010417.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Gandhian Ramesh T",
+        "party": "Ahimsa Socialist Party",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Thiyagarajan",
+        "address": "5/125, West Palapatti, Sellappampatti Post, Namakkal District - 637 019",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMES-2026-20260331020117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12852/0/1af95b28bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayakumar R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Ramasamy",
+        "address": "1/46A, Kadappalli Post, Namakkal Taluk, Namakkal District - 637019",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAK-2026-20260406122014.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9869/0/7d01de7420/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaraman M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Muthusamy",
+        "address": "5/45A, Kuttamookkanpatty, S.nattamangalam, Namakkal Taluk, Namakkal District - 637403",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAR-2026-20260404035212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6499/0/17d1168da1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kanakaraj K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Kuttiannan",
+        "address": "105, Periyapatt Road, Santhaipettaipudur, Namakkal Taluk, Namakkal District - 637001",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANAK-2026-20260406112146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11673/0/662455ff7d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Loganayaki R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Raju",
+        "address": "60 B/4, Four Square Apartments, Upa Sandhu, Thiruchengode Road, Namakkal Taluk, Namakkal District - 637001",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LOGAN-2026-20260406014841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8449/0/0be8fb30a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Loganayaki R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Raju",
+        "address": "60 B/4, Four Square Apartments, Upa Sandhu, Thiruchengode Road, Namakkal Taluk, Namakkal District - 637001",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LOGAN-2026-20260406014841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12879/0/06a63512d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahendran P",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Panneerselvam",
+        "address": "7/1-2, Vandikkaran Kadu, Pillanallur, Gurusamiplayam Post, Rasipuram Taluk, Namakkal District - 637403",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHEN-2026-20260407125957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11628/0/1025ed9236/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malarvizhi Mohan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Mohan P S",
+        "address": "1/2D, Ponnar Sankar Nagar, Periyapatti Road, Periyapatti Post, Namakkal Taluk, Namakkal District - 637002",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALAR-2026-20260406044503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8514/0/1df1198fe3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Ramasamy",
+        "address": "3/93, Athi Dhiravidar Street, Thummankurichi Post, Namakkal Taluk, Namakkal District - 637003",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406011127.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9145/0/04a577dd5b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Matheswaran C",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Chinnusamy",
+        "address": "4/215, Devendhirar Street, Sedapatti, Thalambadi, Namakkal Taluk, Namakkal District - 637019",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MATHE-2026-20260407123256.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11604/0/ef1cd06a27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Manickam",
+        "address": "4/88,Kaattukottai, Karaikurichi Post, Namakkal Taluk, Namakkal District - 637014",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406113855.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11891/0/61fb6a1925/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Palanisamy",
+        "address": "1/12, Marankadu, Kalikarattupudurrangappanayakkanpalayam, Ernapuram, Namakkal Taluk, Namakkal District - 637003",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406111429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12503/0/c261a509a9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Subramani",
+        "address": "278 K2/1, Savadi Street, Anbu Nagar -2, Ramapurampudur, Namakkal Town, Namakkal Taluk, Namakkal District - 637001",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406110223.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12366/0/77dcd08153/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Monika R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Premnath",
+        "address": "H1/5A, Mullai Nagar, Mohanur Road, Namakkal Town, Namakkal Taluk, Namakkal District - 637001",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MONIK-2026-20260406025243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9236/0/3ba713b181/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthusamy S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Subrayan",
+        "address": "1/55, Vellalar Street, Siluvampatty, Namakkal Taluk, Namakkal District - 637 003",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260402015509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5070/0/c592984beb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natarajan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Muthusamy S",
+        "address": "13, Kandar Hostel Street, Mohanur Road, Namakkal - 637 001",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5007/0/b83ebee85e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Naveenkumar T",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Thiyagarajan",
+        "address": "1/80A, Kullikattu Street, Bommasamuthiram, Ramanathapuram Pudhur, Senthanmangalam Taluk, Namakkal District - 637409",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAVEE-2026-20260406105032.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12142/0/2b8cab7d44/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Netajikaviarasu V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Viswanatham M S",
+        "address": "2/108, Thiruvalluvar Nagar, Sarkar Manappalli, Manappalli Post, Mohanur Taluk, Namakkal District - 637017",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NETAJ-2026-20260406120116.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9473/0/ee81ad610a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy M P",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Periyasamy",
+        "address": "6/36, Melapettapalayam, Sarkar Manappalli, Manappalli Post, Mohanur Taluk, Namakkal District - 637017",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260407121423.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11588/0/02588342ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paramasivam K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Kalimuthu",
+        "address": "4/102, L N Street, Nadu Street, Nallipalayam Post, Namakkal Taluk, Namakkal District - 637003",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARAM-2026-20260404013150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6334/0/d8b09b45f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveenkumar K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Kathiresan",
+        "address": "5/84E, Kullikattu Street, Bommasamuthiram Village, Senthamangalam Taluk, Namakkal District - 637 409",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260402032536.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramasamy P",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Palanisamy",
+        "address": "1/81, Peramandampalayam, S.vazhavanthi Post, Mohanur Taluk, Namakkal District - 637017",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAS-2026-20260404032823.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6166/0/bca37d66a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Annadurai",
+        "address": "225, Kadaiveethi, Namakkal Town, Namakkal Taluk, Namakkal District - 637001",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260407124438.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11617/0/f72d18e14c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh T",
+        "party": "Ahimsa Socialist Party",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Thiyagarajan",
+        "address": "5/125, West Palapatti, Sellappampatti Post, Namakkal District - 637 019",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMES-2026-20260331020117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/558/0/1c5ff03585/",
+          "https://voterlist.co.in/affidavit-download/558/1/9526429d33/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rani P",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Palanisamy",
+        "address": "H1/5A - 5/672-1, Mullai Nagar, Mohanur Road, Namakkal Town, Namakkal Taluk, Namakkal District - 637001",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANIP-2026-20260406020732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8684/0/6720f0d993/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Gopal P",
+        "address": "9/5, Pound Street, Salem Road, Namakkal - 637 001",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260402121305.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5095/0/fbf9f9ae11/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sridevi Mohan P S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Sengottaiyan",
+        "address": "1/2D, Ponnar Sankar Nagar, Periyapatti Road, Periyapatti Post, Namakkal Taluk, Namakkal District - 637002",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIDE-2026-20260406042141.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9133/0/f65099a4aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Stalin R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Rajendran",
+        "address": "14C, Vellavari Street, Namakkal Taluk, Namakkal District - 637 001",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STALI-2026-20260402034643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5296/0/29156bd4ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sureshkannan P",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Perumal",
+        "address": "6/821, Ponvizha Nagar, Trichy Road, Vagurampatti, Namakkal Taluk, Namakkal District - 637002",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260404021857.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Thiyagarajan R",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Namakkal",
+        "father_husband_name": "Rajendran",
+        "address": "118/B5, Rasikumaripalayam Street, Mohanur Post, Mohanur Taluk, Namakkal District - 637015",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIYA-2026-20260406115823.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12202/0/f12cf06160/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

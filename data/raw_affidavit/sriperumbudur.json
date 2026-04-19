@@ -1,0 +1,290 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sriperumbudur",
+    "count": 19,
+    "candidates": [
+      {
+        "name": "A. Guruanandhan",
+        "party": "Anaithinthiya Anna Dravida Makkal Seyal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Anandhan",
+        "address": "No. 3/388, Alamaram Street, Navalur Village, Sriperumbudur Taluk, Kancheepuram District - 602 105",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGUR-2026-20260406060838.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9196/0/b00d485b24/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.gnanasekaran",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Anandhan",
+        "address": "No.4/186,Othavadai Street, Sivanthangal, Sikkarayapuram, Kancheepuram District, Tamil Nadu - 600069",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AGNA-2026-20260404055643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8054/0/30eb7134af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Vairamuthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Deivasikamani",
+        "address": "No : 7/27, Gandhi Street, Kalattipettai , Sirukalathur Village, Kundrathur Taluk, Kancheepuram District - 600069",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVAI-2026-20260406052446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9541/0/8e7bb1a8a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.purushothaman",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Durairaj",
+        "address": "No.441/504, Molachur Village, Sriperumbudur Taluk, Kancheepuram District, Tamil Nadu - 602106",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DPUR-2026-20260404030614.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6661/0/14afdd78d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Murugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Elumalai",
+        "address": "No.258, Mariamman Koil Street, Adhanur Village, Madambakkam Post, Kundrathur Taluk, Kancheepuram District- 603 202",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EMUR-2026-20260406030337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9766/0/173b6e6cd5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elangovan Sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Sivakumar",
+        "address": "No.65,  T.v.a Koil 1St Street , Aminjikarai , Chennai District - 600 029",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELANG-2026-20260406071150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8699/0/d79454a660/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Rajathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "K. Vadivelu",
+        "address": "No.151, Pushpa Nagar, Vadamelpakkam Village, Kavanur Post, Kundrathur Taluk,  Kancheepuram District - 603 203",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAJ-2026-20260406062348.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8518/0/129b918c9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Nithya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Jayavel",
+        "address": "No.721,Kamarajar Street, New Colony, Santhavellore Village, Sriperumbudur Taluk, Kancheepuram District - 602106",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JNIT-2026-20260406063959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9948/0/1a8055f362/",
+          "https://voterlist.co.in/affidavit-download/9948/1/1bd23be090/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Palani",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Kumarasamy",
+        "address": "No: 8/32, Bharathiyar Street, Kollacheri Village, Kundrathur Taluk, Kanchipuram District - 600069",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KPAL-2026-20260406013342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9844/0/a24ad3364c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Selvaperunthagai",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Kuppusamy",
+        "address": "No. 66, Dr Ambethkar Street, Manimangalam Village, Kundrathur Taluk, Kancheepuram District -601 301",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406050529.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10105/0/9561a547e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Ranjani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "A. Naveenkumar",
+        "address": "No 3, Buddhar Street, Mullipakkam Village, Thirupporur Taluk, Chengalpattu District-603105",
+        "gender": "Female",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MRAN-2026-20260402030539.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5559/0/6246f2466c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Sindhu Ezhilarasan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Ezhilarasan",
+        "address": "525,Mariyamman Kovil Street,Vadakupattu Village,Kundrathur Taluk, Kancheepuram District-603204",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.dhamodharan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Munusami",
+        "address": "No.2/765/1, Marthamman Kovil Street, Molachur Village, Sriperumbudur Taluk, Kancheepuram District - 602106",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHA-2026-20260404033905.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M.tamilarasan",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "J.murugaiyan",
+        "address": "3/364, Arunthathipuram,Athikathur,Kadampathur Post, Thiruvallur - 631203",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MTAM-2026-20260330020816.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Harivendhar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Palani",
+        "address": "No : 8/32, Bharathiyar Street, Kollacheri Village, Kundrathur Taluk, Kanchipuram District - 600069",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PHAR-2026-20260406015521.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8839/0/1ae4f45c1a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Vedhagiri",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Perumal",
+        "address": "No. 37, Arignar Anna Street, Vattambakkam Village, Sarappanancherry Post, Kundrathur Taluk, Kanchipuram District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVED-2026-20260406024318.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8909/0/3570de4f26/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Umayal",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "K. Selvaperunthagai",
+        "address": "No.66, Dr Ambethkar Street, Manimangalam Village, Kundrathur Taluk, Kancheepuram District - 601 301",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUMA-2026-20260406055421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10061/0/7463390e91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thennarasu.k",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Kanniyappan",
+        "address": "No.55,Cross Street, Sirunaiperukal Village, Kancheepuram Taluk, Kancheepuram District - 631551",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THENN-2026-20260404040739.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6738/0/40c4699dbe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.suganya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sriperumbudur",
+        "father_husband_name": "Thennarasu",
+        "address": "101, Pillayar Koil Street, Sirunaiperukal, Baluchetty Chatram Post, Kancheepuram Taluk, Kancheepuram District - 631551",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUG-2026-20260404044623.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7681/0/e19913f53e/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

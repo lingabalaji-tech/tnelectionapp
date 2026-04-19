@@ -1,0 +1,818 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Rajapalayam",
+    "count": 54,
+    "candidates": [
+      {
+        "name": "Alagu Pandian A",
+        "party": "All India Mgr Makkal Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Alisodai Thevar",
+        "address": "40, Jeganathapuram 3Rd Street, Chetpet, Chennai - 600031",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ALAGU-2026-20260406100302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11797/0/62915e4713/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Alagumurugan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Suppuram",
+        "address": "1, Sevalpatti, North Street, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ALAGU-2026-20260406050711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13989/0/1614382519/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Alagumurukan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Suppuram",
+        "address": "1,Sevalpatti North Street, Rajapalayam - 626117",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ALAGU-2026-20260406050711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10221/0/8942ab4614/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Alagupandian. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Alisodai Thevar",
+        "address": "40/24,Jaganathapuram, 3Rd Street, Chetpet, Chennai- - 600031",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ALAGU-2026-20260406100302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13908/0/280068e88d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Veerapandian",
+        "address": "18A/39 School Street, Rayagiri, Sivagiri Tk, Tenkasi Dt- 627755",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260404052509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8020/0/004622ae59/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamurugan. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Veerapandian",
+        "address": "18A/39 School Street,Vadugapatti Post, Sivagiri Taluk, Tenkasi District- 627755",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260404052509.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14071/0/3b2f58fc94/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Karthikeyan. T.e.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Esakkipandian",
+        "address": "48/2, E.h.road, Vyasarpadi, Chennai 600039",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260330065106.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14113/0/1cb4f58cf9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Arumugam",
+        "address": "1/288 D14 , Vayakattu Street, Samusika Puram, Rajapalayam",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260406043901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10285/0/32ff396dc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Krishnasamy",
+        "address": "5/267 North Street, Maharajapuram, Watrap Taluk- 626149",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260404042337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6203/0/4a93a64689/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Arumugam",
+        "address": "1/288 D14 , Vayakattu Street, Samusigapuram, Rajapalaym Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260406043901.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13999/0/881c1fdd69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Krishnasamy",
+        "address": "5/267, North Street Maharajapuram, Watrap Taluk, Virudhunagar District- 626149",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260404042337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14023/0/d787577b3e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Harish",
+        "party": "All India Mgr Makkal Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Alagupandian",
+        "address": "40, Jeganathapuram 3Rd Street, Chettupat, Chennai -31",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIS-2026-20260404062047.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7861/0/dc5c80c35a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Harish. A",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Alagupandian",
+        "address": "40, Jaganathapuram, 3Rd Street, Chetpet, Chennai - 600031",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIS-2026-20260404062047.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14061/0/8ad49a1f17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegadeshwari. K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Kumaravel",
+        "address": "312/A, Sankarapandia Puram Street, Rajapalayam, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEGAT-2026-20260404063419.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14026/0/5b78d8775a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegateshwari K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Kumaravel",
+        "address": "312 A Sankarapandiapuram Street, Rajapalayam - 626117",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEGAT-2026-20260404063419.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7159/0/1f92700654/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegathishwari N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Nambirajan",
+        "address": "4/69 Pillayar Kovil Street, Krishnapuram Village, Rajapalayam - 626142",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEGAT-2026-20260406103324.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11718/0/5ac3db12fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jegathishwari. N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Nambirajan",
+        "address": "4/69, Pillayar Kovil Street, Krishnapuram, Rajapalayam Taluk, Virudhunagar District- 626142",
+        "gender": "Female",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEGAT-2026-20260406103324.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13897/0/0c99bb9209/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalavathi T",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Thangapandian",
+        "address": "52J4/205 Indra Nagar, Naidu South Street, Chettiyar Patti, Rajapalayam 626122",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAV-2026-20260404045357.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7980/0/8a6a6d0780/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan T E",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Esakki Pandiyan",
+        "address": "48/2, Eh Road, Vyasarpadi, Chennai 600039",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260404070532.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7042/0/48266d79ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan T.e.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Esakkipandian",
+        "address": "48/2, E.h.road, Vyasarpadi, Chennai 600039",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260330065106.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/279/0/b4fc8b22be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manmathan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Marimuthu V",
+        "address": "1/239, Colony South Street, Nakkaneri, Ayankollankondan Village, Rajapalayam Taluk, Virudhunagar District - 626 142",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANMA-2026-20260330063046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/196/0/ee97e17023/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manmathan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Marimuthu",
+        "address": "1/239, Colony South Street, Ayyankollankondan Village, Rajapalayam Taluk, Virudhunagar District - 626 142",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANMA-2026-20260330063046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14109/0/9b8e7f1d07/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Durairaj",
+        "address": "5/64, Middle Street, Valliyammalpuram, Kadayanallur Taluk, Tenkasi District - 627804",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404081815.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Durairaj",
+        "address": "5/64, Middle Street, Valliammalpuram, Kadaiyanallur Taluk, Tenkasi District",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404081815.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14058/0/4193ceca9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthulakshmi R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Ramamoorthy",
+        "address": "322 Bharathi Nagar, Rajapalayam Town, Virudhunagar",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260406104829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12108/0/281c170d06/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthulakshmi. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Ramamoorthy",
+        "address": "322, Bharathi Nagar, P.a.c.m Ammani Ammal School Opposite, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260406104829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13943/0/65e07e6d81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nandhagopal R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Ramesh",
+        "address": "230M/3, Mullai Street, North Andalpuram, Rajapalayam - 626117",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NANDH-2026-20260404064619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7657/0/8a3d88b674/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nandhagopal. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Ramesh",
+        "address": "230/M/3, Mullai Nagar, North Andalpuram, Rajapalaym Taluk, Virudhunagar District- 626117",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NANDH-2026-20260404064619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14056/0/84334478f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nasrin Banu  T",
+        "party": "Republican Party Of India (A)",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Thanga Karthic",
+        "address": "101 Ashok Nagar, Thendral Nagar East, Rajapalayam Taluk , Virudhunagar",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NASRI-2026-20260406111711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12549/0/b6c094a367/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nasrin Banu. T",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Thanga Karthick",
+        "address": "101, Ashok Nagar, Thendral Nagar, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NASRI-2026-20260406111711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14011/0/c9090540af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pasumpon S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Seenivasan",
+        "address": "12/25 Sankaran Kovil Street, 1St Cross Street, Rajapalayam- 626117",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PASUM-2026-20260406105648.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12274/0/21321ac3e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priscilla Pandian. J",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "John Pandian",
+        "address": "6/565 A, Anna North Street, M.k.p Nagar,Palayamkottai Taluk, Tirunelveli District - 627002",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRISE-2026-20260406045007.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13917/0/e8b5fc4bc5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priseilla Pandian J",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "John Pandian",
+        "address": "6/565 A, Anna North Street, Mkp Nagar, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Female",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRISE-2026-20260406045007.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8990/0/482d4a4e73/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramadevi T",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Murugan",
+        "address": "181 Kamarajar Colony Street, South Devathanam Rajapalayam Taluk",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAD-2026-20260406043049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9739/0/d5ade427b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramadevi. T",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Murugan",
+        "address": "181 , Kamarajar Colony Street, South Devathanam, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAD-2026-20260406043049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13957/0/5fc9f25234/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samuel Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Arulmani",
+        "address": "289/3, Csi Church Street, Mela Ilandaikulam, Tirunelveli District - 627951",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUE-2026-20260406110727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13982/0/2ced10697f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samuel Raj A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Arulmani",
+        "address": "289/3 Csi Kovil Street, Mela Ilanthaikulam, Tirunelveli District - 627951",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUE-2026-20260406110727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12423/0/aab1c2fb19/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Gurusamy",
+        "address": "1/39 Middle Street, K.supramaniya Puram, Kayathar Taluk, Tuticorin District -628552",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260404033327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6239/0/4f8dfa7928/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Gurusamy",
+        "address": "1/39, Middle Street, K.subramaniya Puram, Kayathar Taluk, Tuticorin-628552",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260404033327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14024/0/2aeddaf95c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakumar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Anthony",
+        "address": "5/106, Middle Street, Valliyammalpuram, Kadayanallur Taluk, Tenkasi District - 627804",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404080259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7408/0/bd900ed18b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakumar. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Anthony",
+        "address": "5-106, Middle Street, Valliammalpuram, Kadaiyanallur Taluk, Tenkasi District",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404080259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14037/0/964003c2ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvi K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Karuppasamy",
+        "address": "432/2  North Malaiyadi Patti, Rajapalayam - 626117",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVI-2026-20260406031310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10182/0/7e27431752/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvi. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Karuppasamy",
+        "address": "432/2  North Malaiyadipatti, Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVI-2026-20260406031310.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13985/0/2c0a8649a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmuga Chandra Velavan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Chinnathambi",
+        "address": "3-4-177, Kannamotchi, Mettur Taluk, Salem District - 636303",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260404082243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7919/0/4aa126d39a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugachandra Velavan. C.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Chinnathambi",
+        "address": "3-4-177, Kannamotchi, Mettur Taluk,Salem District",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260404082243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14066/0/89bed28de2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundari V",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Vanaraj",
+        "address": "1/272 Colony Street, Nakkaneri, Ayankollankondan, Rajapalayam - 626142",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260406063941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9927/0/30774b8a3f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sundari. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Vanaraj",
+        "address": "1/272, Colony Street, Nakkaneri, Rajapalayam Taluk Virudhunagar District",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUNDA-2026-20260406063941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13967/0/722764e9e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangapandi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Baluchamy",
+        "address": "348, Padallamkovil Street, Silaimalai, Podinaickanur, Theni District - 625528",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404081137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7628/0/73051c1c61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangapandi. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Balusamy",
+        "address": "348, Pattalamman Kovil Street, Silaimalai, Bodinaickanur Taluk, Theni District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404081137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14052/0/5b48bbba51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangapandian S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Soundarapandian",
+        "address": "52J4/205, Indra Nagar, Naidu South Street, Chettiyar Patti, Rajapalayam - 626122",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404035803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6576/0/2f1867142c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangapandian. S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Soundarapandian",
+        "address": "52J4/205, Inthira Nagar, Naidu South Street, Chettiyar Patti, Rajapalayam Taluk, Virudhunagar District - 626122",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260404035803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14048/0/cf321b748f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijendran G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Govindan",
+        "address": "10/66, Meenatchiyapuram, P.s.k Nagar Post, Rajapalayam Taluk, Virudhunagar- 626108",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJEN-2026-20260330061818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/148/0/c2ebdcdfd2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijendran. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Govindan",
+        "address": "10/66, Meenatchipuram, P.s.k Nagar Post, Samusigapuram Revenue Village,  Rajapalayam Taluk, Virudhunagar District",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJEN-2026-20260330061818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14107/0/a5b15a260c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinolin Nivetha J",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Rajapalayam",
+        "father_husband_name": "Navin",
+        "address": "6/565 A, Anna North Street, Mkp Nagar, Palayamkottai, Tirunelveli District- 627002",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOL-2026-20260406065207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9128/0/9cbc2ebb53/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

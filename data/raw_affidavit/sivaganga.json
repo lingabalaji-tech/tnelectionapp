@@ -1,0 +1,580 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Sivaganga",
+    "count": 38,
+    "candidates": [
+      {
+        "name": "Abirami K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Karthigai",
+        "address": "D.no 64 B, Murugan Koil Street, Pacheri, Sivagangai Taluk",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABIRA-2026-20260406085534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11227/0/a7091e9fe9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulprakasam S",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Santhanam",
+        "address": "D.no. 55/6 J2, Sasthiri 4Th Street, Meenatchi Nagar, Sivaganga - 630561",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULP-2026-20260404050602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7205/0/f655452dd5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulprakasam S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Santhanam",
+        "address": "D.no. 55/6 J2, Sasthiri 4Th Street, Meenatchi Nagar, Sivaganga - 630561",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULP-2026-20260404050602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13202/0/b4b969c517/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B Ramasamy",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Balusamy",
+        "address": "D.no.164, Mela Theru, Pillur, Pillur Post, Sivagangai Taluk - 630561",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BRAMA-2026-20260404063726.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7304/0/87cb279cd9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Rajkumar",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Chandran",
+        "address": "D.no.147, Mettuchavadi, Ladanenthal, Thiruppuvanam Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAJK-2026-20260404071119.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7250/0/dbc290d221/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Guru. Muruganantham",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Gurusamy",
+        "address": "D.no. 2/115, Velar Street, Rajagambiram, Manamadurai Taluk, Sivagangai",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GURU-2026-20260406071138.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8681/0/28db2b4b2c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indhuja R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Ramesh",
+        "address": "123/1A, First Floor, Sasthiri 5Th Street, K.p.k Nagar, Sivaganga",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/INDHU-2026-20260330034608.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/390/0/deb781546f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Irudayaraj V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Vedamuthu",
+        "address": "D.no. 1429/B, Muthu Nagar, Vandavasi Road, Paiyur Pillaivayal, Sivagangai Taluk 630561",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIRUD-2026-20260406065743.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15219/0/ec32ea9191/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Grace",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "S Karunaas",
+        "address": "No 21/23, F2 Poorna Sri Apartment, Sathyamurthy Street, Devaraj Nagar, Saligramam, Chennai - 600093",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KGRAC-2026-20260406082750.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10553/0/bfbbd494f2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Kavitha",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Guru Muruganatham",
+        "address": "D.no. 2/115, Velar Street, Rajagambiram, Manamadurai Taluk, Sivaganga",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAVI-2026-20260406072831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11370/0/5012af24ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Kavitha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Guru Muruganatham",
+        "address": "D.no. 2/115, Velar Street, Rajagambiram, Manamadurai Taluk, Sivaganga",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAVI-2026-20260406072831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13136/0/4346df9bad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Marimuthu",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Karuppan",
+        "address": "D.no.1587/3, Thondi Road, Srinivasa Nagar, Paiyur Pillaivayal Village, Sivagangai Taluk - 630561",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMARI-2026-20260404072042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7542/0/37e65597ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Kalaiyappan",
+        "address": "D.no. 3/409, Arasinipatti, Kanjirangal, Sivaganga 630561",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAME-2026-20260406064620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10426/0/bf643a0a80/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaleeswaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Muthiah",
+        "address": "D.no.1421, Annanagar, Panangadi Road, Sivagangai Taluk",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALEE-2026-20260406022430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10066/0/2b60232469/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaleeswaran M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Muthiah",
+        "address": "D.no.1421, Annanagar, Panangadi Road, Sivagangai Taluk",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALEE-2026-20260406022430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15470/0/e0b2142280/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Muniyandi",
+        "address": "Pottavayal, Puthukulam, Mudikarai, Kalayarkoil Taluk",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406090349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10620/0/fbc738b818/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karunaas S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Sethu Devar",
+        "address": "21/23, F2 Poorna Sri, Apartment Sathyamurthy Street, Devaraj Nagar, Saligramam, Chennai 600093",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKARU-2026-20260406074839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14754/0/ef5dff1e23/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kulanthai Rani A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Arulprakasam S",
+        "address": "D.no 55/6 J2 Sashthiri 4Th Street, Meenakshi Nagar, Sivaganga - 630561",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KULAN-2026-20260404015807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16120/0/1b36845119/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kulanthairani A",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Arulprakasam S",
+        "address": "D.no 55/6 J2 Sashthiri 4Th Street, Meenakshi Nagar, Sivaganga - 630561",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KULAN-2026-20260404015807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6637/0/820b108661/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Rajamanickam",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Masanam",
+        "address": "124,Kovanoor.pillur Post,Sivagangai  Taluk - 630561",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJA-2026-20260404052427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7997/0/7264e1f0c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marimuthu K",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Karuppan",
+        "address": "D.no.1587/3, Thondi Road, Srinivasa Nagar, Paiyur Pillaivayal Village, Sivagangai Taluk - 630561",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MARIM-2026-20260410122259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16042/0/365a9db340/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muruganantham Guru",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Gurusamy",
+        "address": "D.no. 2/115, Velar Street, Rajagambiram, Manamadurai Taluk, Sivagangai",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MURUG-2026-20260410122431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14750/0/d585027e55/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagabrabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Sethuramachandran",
+        "address": "D.no.52A, Sathyamurthy Street, Sivagangai - 630561",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAB-2026-20260406084851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10993/0/d16cdab1f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagaprabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Sethuramachandran",
+        "address": "D.no.52A, Sathyamurthy Street, Sivagangai - 630561",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAB-2026-20260406084851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14663/0/f7f02206f8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paulsamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Kasi",
+        "address": "D.no,96, Sathani, Vittaneri, Kalaiyarkoil Taluk",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAULS-2026-20260406091743.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12297/0/089f47f64e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pr Senthilnathan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Periyaiyah",
+        "address": "D.no. 323, Old No 1/55, Chinna Nagadi, Periyakarai Post, Devakottai Taluk, Sivagangai District - 630311",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRSEN-2026-20260404055712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8069/0/2327434735/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabakaran S.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "S Thirumal",
+        "address": "295, Devaki Pradise, Thendral Nagar, Ilanthankudipatti, Kanjirankal Post, Sivaganga 630562",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STPRA-2026-20260402060240.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16336/0/20830882d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamanickam M",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Masanam",
+        "address": "124,Kovanoor.pillur Post,Sivagangai  Taluk - 630561",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJA-2026-20260404052427.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16249/0/668a855f81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh X",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Xavier",
+        "address": "D.no.10-1,Kalavasal,Madurai Road, Sivagangai Town",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/XRAJE-2026-20260404053848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15927/0/d8e003dda8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajkumar C",
+        "party": "Party For The Rights Of Other Backward Classes",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Chandran",
+        "address": "D.no.147, Mettuchavadi, Ladanenthal, Thiruppuvanam Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAJK-2026-20260404071119.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15890/0/6541ccb633/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Kalaiyappan",
+        "address": "D.no. 3/409, Arasinipatti, Kanjirangal, Sivaganga 630561",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMES-2026-20260410122345.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15661/0/fcdde46bcd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Aruldass",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Selvaraj",
+        "address": "D.no 607, Kolanthi, Sakur Post, Kalaiyarkoil Taluk - 630713",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARUL-2026-20260406091149.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12091/0/324d151879/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Karunaas",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Sethu Devar",
+        "address": "21/23, F2 Poorna Sri, Apartment Sathyamurthy Street, Devaraj Nagar, Saligramam, Chennai 600093",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKARU-2026-20260406074839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10618/0/f6a8b77942/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S T Prabakaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "S Thirumal",
+        "address": "295, Devaki Pradise, Thendral Nagar, Ilanthankudipatti, Kanjirankal Post, Sivaganga 630562",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STPRA-2026-20260402060240.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5686/0/a64a08cbcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Santhanam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Periyampillai",
+        "address": "D.no 2/2-16 , Panangadi, Kalaiyarkoil Taluk",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANTH-2026-20260406092420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12493/0/80c43a1d15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthilnathan Pr",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Periyaiyah",
+        "address": "D.no. 323, Old No 1/55, Chinna Nagadi, Periyakarai Post, Devakottai Taluk, Sivagangai District - 630311",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRSEN-2026-20260404055712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16290/0/b23a61faca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Irudayaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Vedamuthu",
+        "address": "D.no. 1429/B, Muthu Nagar, Vandavasi Road, Paiyur Pillaivayal, Sivagangai Taluk 630561",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIRUD-2026-20260406065743.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9616/0/f05f3abe13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "X Rajesh",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Sivaganga",
+        "father_husband_name": "Xavier",
+        "address": "D.no.10-1,Kalavasal,Madurai Road, Sivagangai Town",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/XRAJE-2026-20260404053848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7307/0/02cb5e12d5/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

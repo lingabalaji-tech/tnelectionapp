@@ -1,0 +1,345 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Madurantakam",
+    "count": 23,
+    "candidates": [
+      {
+        "name": "A Ezhil Edinburgh Komagan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Anandraj",
+        "address": "No.70, Akash Adith Apartments, Mohan Nagar, 1St Street, Madambakkam, Chennai-600126",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AEZHI-2026-20260404051845.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7756/0/63b1243d52/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A Sekar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Annamalai",
+        "address": "No.39, Madha Kovil Street,Kolampakkam Village, Palayanur Post, Madurantakam Taluk, Chengalpattu District-603308",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASEKA-2026-20260404075417.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7209/0/102fb9925a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.thamaraikani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Boobalan",
+        "address": "No.30, 30Th Street, Kolathur Village, Madurantakam Taluk, Chengalpattu District - 603 309",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BTHA-2026-20260406053421.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "E Ramkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "L Ekambaram",
+        "address": "No.4/24, Muthumariyamman Kovil Street, Nelamangalam Village, Neepair Post, Madurantakam Taluk, Chengalpattu District-603313",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERAMK-2026-20260402014828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5062/0/fd1f7faba1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhil Katharine Ezhilmalai",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Ezhilmalai",
+        "address": "No.70, Akash Adith Apartments, Mohan Nagar, 1St Street, Madambakkam, Chennai - 600126",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260404045337.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7963/0/a3d9f50aa5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Sivakumar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Ganapathy",
+        "address": "No.01, Valluvar Street, Perumperkandigai Village, Madurantakam Taluk, Chengalpattu District - 603310",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSIVA-2026-20260406072903.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "G.janakiraman",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "K.govindasamy",
+        "address": "35A, Gangai Amman Kovil Street, Dharmapuram Village, Pavunjur Post, Madurantakam Taluk, Chengalpattu District - 603312",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GJAN-2026-20260330043913.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/139/0/ed2d06eeab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaravel S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Subramani",
+        "address": "1/241, Eswaran Koil Street, Senganmal, Thaiyur, Kelampakkam Post, Thiruporur Taluk, Chengalpattu District-603103",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KUMAR-2026-20260404024041.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6227/0/40637fe829/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Kadirvel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Mariyappan",
+        "address": "No.109, Chinnacolony, Madurantakam Town And Taluk, Chengalpattu District - 603 306",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKADI-2026-20260406064118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10011/0/e765c401e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kadirvel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Mariyappan",
+        "address": "No.109, Chinna Colony, Madurantakam Town And Taluk, Chengalpattu District - 603 306",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKADI-2026-20260406064118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15440/0/64b51855fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maragatham Kumaravel K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "S Kumaravel",
+        "address": "1/241, Eswaran Kovil Street, Senganmal, Thaiyur, Kelampakkam Post, Thiruporur Taluk, Chengalpattu District-603103",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARAG-2026-20260404014340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6498/0/bf06c8d33a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maragatham Kumaravel.k",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "S.kumaravel",
+        "address": "No.1/241, Eswaran Koil Street, Senganmal, Thaiyur, Kelampakkam Post, Thiruporur Taluk, Chengalpattu District-603103",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MARAG-2026-20260407050739.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16011/0/c7db84451a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Neelam E Ramkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "L Ekambaram",
+        "address": "No.4/24, Muthumariyamman Kovil Street, Nelamangalam Village, Neepair Post, Madurantakam Taluk, Chengalpattu District-603313",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERAMK-2026-20260402014828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13337/0/df57808d8d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Neelam E.ramkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "L.ekambaram",
+        "address": "No.4/24, Muthumariyamman Kovil Street, Neelamangalam Village, Neepair Post, Madurantakam Taluk, Chengalpattu District-603313",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERAMK-2026-20260402014828.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16417/0/7668e7173c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Sugan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Ramadass",
+        "address": "No.7, Thulukkanathamman Koil Street, Palayanur Village And Post, Madurantakam Taluk, Chengalpattu District - 603308",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUGA-2026-20260406080457.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sugan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Ramadass",
+        "address": "No.7, Thulukkanathamman Koil Street, Palayanur Village And Post, Madurantakam Taluk, Chengalpattu District - 603 308",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RSUGA-2026-20260409065536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15352/0/8d9283bcda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjitham M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Muthu",
+        "address": "No.32, Mariyamman Koil Sreet, Sathanoor Village, Madurantakam Taluk, Chengalpattu District - 603 306",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260406061503.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjitham.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Muthu",
+        "address": "No.32, Mariyamman Koil Sreet, Sathanoor Village, Madurantakam Taluk, Chengalpattu District - 603 306",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RANJI-2026-20260406061503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15294/0/a98adaad3b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Amulu Ponmalar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Sivakumar",
+        "address": "No.01, Valluvar Street, Perumperkandigai Village, Madurantakam Taluk, Chengalpattu District - 603310",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUL-2026-20260406065902.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S Amuluponmalar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Sivakumar",
+        "address": "No.01, Valluvar Street, Perumperkandigai Village, Madurantakam Taluk, Chengalpattu District - 603310",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUL-2026-20260406065902.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13069/0/8bb5420f82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Punniyakotti",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "A Sekar",
+        "address": "No.39, Madha Kovil Street,Kolampakkam Village, Palayanur Post, Madurantakam Taluk, Chengalpattu District-603308",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPUNN-2026-20260404074035.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8087/0/959e3b376a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.amulu Ponmalar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "Sivakumar",
+        "address": "No.1, Valluvar Street, Perumperkandigai Village, Madurantakam Taluk, Chengalpattu District - 603 310",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMUL-2026-20260406065902.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15272/0/edbb59927f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.punniyakotti",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madurantakam",
+        "father_husband_name": "A.sekar",
+        "address": "No.39, Madha Kovil Street,Kolampakkam Village, Palayanur Post, Madurantakam Taluk, Chengalpattu District-603308",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPUNN-2026-20260404074035.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16300/0/04fe4306a7/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

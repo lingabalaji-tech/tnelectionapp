@@ -1,0 +1,434 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Poonamallee",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "A.krishnaswamy",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "A.adhisivam",
+        "address": "No.5, 5Th Cross Street, M.g.road, Pattabiram,Chennai-600072",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AKRI-2026-20260404070331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8073/0/93777a1f1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.purushothaman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Balaraman",
+        "address": "No.336, Bhudhar Street, Aranvoyal, Thiruvallur-602025",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BPUR-2026-20260404071513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7344/0/a76cf06f9a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhasarathan.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Rathinam",
+        "address": "No.18, Mgr Street, Kosavanpalayam, Thiruninravur,Thiruvallur-602024",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHA-2026-20260406054135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12935/0/08183de052/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.jayanthi.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Sankar",
+        "address": "No.97, New No.6/38, Eswaran Kovil Street, Kozhumanivakkam, Mangadu,Chennai-600122",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAN-2026-20260406061810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13105/0/efcf13e4ab/",
+          "https://voterlist.co.in/affidavit-download/13105/1/7eecb03d36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E.imayavarman",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "T.a.elumalai",
+        "address": "No.345, Jj Street, Anna Nagar, No.76, Thanneerkulam Village, Kakkalur Post, Thiruvallur Taluk, Thiruvallur District-602003",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EIMA-2026-20260406065051.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8962/0/5c6b3b2229/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elumalai.t.a",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Appadurai",
+        "address": "No.345, Jj Street, Anna Nagar,No.76, Thanneerkulam Village, Kakkalur Post, Thiruvallur Taluk, Thiruvallur District-602003",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAE-2026-20260406063700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13058/0/c9e23ab830/",
+          "https://voterlist.co.in/affidavit-download/13058/1/5784919a8f/",
+          "https://voterlist.co.in/affidavit-download/13058/2/f9f822f557/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.purushothaman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Gnanaprakash",
+        "address": "No.2/228, Mariyamman Kovil Street, Thandalam Village, Kelampakkam Post, Thiruvallur Taluk And Dist-602 025",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GPUR-2026-20260406074151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11025/0/927c0b73c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.rajasekar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Gangan",
+        "address": "No.546, Perumal Kovil Street, Aranvoyal Kuppam, Aranvoyal Post, Thiruvallur District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GRAJ-2026-20260406080429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11150/0/fa59d9060a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayalakshmi.k",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Kushaldass",
+        "address": "239, 21St Century Nagar, Veppampattu-88, Veppampattu, Tiruvallur-602 024",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAL-2026-20260404023430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6235/0/97b98c3d2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayanthi.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Sankar",
+        "address": "No.97, New No.6/38, Eswaran Kovil Street, Kozhumanivakkam, Mangadu,Chennai-600122",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAN-2026-20260406061810.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10029/0/30c0002f65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.rajasekaran",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Karumban",
+        "address": "No.3-330, Bharathi Nagar, Old Colony, Velliyur, Thiruvallur-602027",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260406075248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10601/0/de41c694c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.selvaraj",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "C.kannaiyan",
+        "address": "No.3/34, 2Nd Cross Street, Krishnapuram Extn, Ambattur, Chennai-600053",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406055727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10297/0/1929524fa8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnaswamy.a",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Adhisivam",
+        "address": "No.5, 5Th Cross Street, M.g.road, Pattabiram,Chennai-600072",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AKRI-2026-20260404070331.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13302/0/174209def0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mekala.j",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Karthik.s",
+        "address": "No.4-211, Kumaran Nagar, Sevvapet, Tiruvallur Taluk, Tiruvallur District-602025",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MEKAL-2026-20260330031327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/229/0/29d76a4415/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan Muthusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Muthusamy",
+        "address": "No.36, Ashok Nagar, Rajiv Gandhi Salai, Kilambakkam, Tiruvallur-602025",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260404074030.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8078/0/d6bf07cc17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prakasam.r",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Raja",
+        "address": "No.36, New Colony, Mettu Street, Periyakuppam, Thiruvallur-602001",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPRA-2026-20260404080500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13143/0/81433b03c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Purushothaman.b",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Balaraman",
+        "address": "No.336, Bhudhar Street, Aranvoyal, Thiruvallur-602025",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BPUR-2026-20260404071513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13217/0/8dced3e735/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.dhasarathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "P.rathinam",
+        "address": "No.18, Mgr Street, Kosavanpalayam, Thiruninravur,Thiruvallur-602024",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHA-2026-20260406054135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8857/0/6a6b2098d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.prakasam",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Raja",
+        "address": "No.36, New Colony, Mettu Street, Periyakuppam, Thiruvallur-602001",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPRA-2026-20260404080500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7467/0/87e5fda80d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekaran.k",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Karumban",
+        "address": "No.3-330, Bharathi Nagar, Old Colony, Velliyur, Thiruvallur-602027",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRAJ-2026-20260406075248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12899/0/d1943246bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Murugesan",
+        "address": "No.157, J J Street, Anna Nagar, No.76, Thanneerkulam Village, Kakkalur Post, Thiruvallur Taluk, Thiruvallur District-602003",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIK-2026-20260406071237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8803/0/7847f12bdb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravikumar.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Murugesan",
+        "address": "No.157, J J Street, Anna Nagar, No.76, Thanneerkulam Village, Kakkalur Post, Thiruvallur Taluk, Thiruvallur District-602003",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIK-2026-20260406071237.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12921/0/381a0d9bc8/",
+          "https://voterlist.co.in/affidavit-download/12921/1/34cf6fc9ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.gopu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Subaramani",
+        "address": "No.636/4, Perumal Kovil Street, Kuthambakkam South, Village And Post, Poonamallee Taluk, Thiruvallur Dist-600 124",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOP-2026-20260406072823.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11362/0/79affbfa0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sivakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "M.k.srinivasan",
+        "address": "No.1/1, Tondiar Nagar,2Nd Street, Tondiarpet, Chennai-600081",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSIV-2026-20260404065905.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7744/0/24dcbb8abf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.velu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "C.siyalam",
+        "address": "No.4/228, New Colony, Velliyur, Thiruvallur-602027",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEL-2026-20260404081954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7853/0/cb8dc885ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivakumar.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Srinivasan",
+        "address": "No.1/1, Tondiar Nagar,2Nd Street, Tondiarpet, Chennai-600081",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SSIV-2026-20260404065905.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13261/0/3178980d23/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.a.elumalai",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "M.appadurai",
+        "address": "No.345, Jj Street, Anna Nagar,No.76, Thanneerkulam Village, Kakkalur Post, Thiruvallur Taluk, Thiruvallur District-602003",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAE-2026-20260406063700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9671/0/42c3c130f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Poonamallee",
+        "father_husband_name": "Siyalam",
+        "address": "No.4/228, New Colony, Velliyur, Thiruvallur-602027",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVEL-2026-20260404081954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13279/0/55b525f312/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

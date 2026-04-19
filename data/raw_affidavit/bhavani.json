@@ -1,0 +1,535 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Bhavani",
+    "count": 35,
+    "candidates": [
+      {
+        "name": "Ammasai.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Kurunathan",
+        "address": "76A, Velampalayam Colony, Kavindapadi, Singanallur Post, Bhavani Taluk, Erode - 638 455",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMMAS-2026-20260404060231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7141/0/3a5c0cfefc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam. P.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Vaiyapuri",
+        "address": "81/1A, Nanthavana Thottam 4Th Street, Chinnasemur, Periyasemur Post, Erode Taluk, Erode - 638 004",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVA-2026-20260406055805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14872/0/4be3cfb7d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Palanivel Gounder",
+        "address": "781 E2, Manickampalayam, Kurichi, Bhavani Taluk, Erode District - 638 314",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAK-2026-20260402122334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5105/0/21115e32b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Boopathi Rajaraja Chozhan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Murugan.m",
+        "address": "495, Kavery Veethi, Bhavani Taluk, Erode - 638 301",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBOO-2026-20260406053853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14718/0/ffe6af2978/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.prabha",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "K.a.chandrasekar",
+        "address": "2/1067, Annai Sathya Society, North Street, Kuruppanaickenpalayam, Bhavani Taluk, Erode - 638 301",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CPRA-2026-20260404051637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7704/0/93610fb213/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekar. K.a",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Arthanari",
+        "address": "2/1067, North Street, Kuruppanaikenpalayam, Bhavani Taluk, Erode - 638 301",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAC-2026-20260404050616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15870/0/3e496b3a6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chellapandiyan.a",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Arumugam",
+        "address": "68, Gurunathan Street, Varnapuram, Bhavani Taluk, Erode - 638 301",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHELL-2026-20260404053317.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7121/0/9fe1a33716/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Myvizhi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "K. Jayapraksh",
+        "address": "1/734, Mettur Main Road, Kuruppanaickenpalayam, Bhavani Taulk, Erode - 638 301",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMYV-2026-20260404061453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7584/0/9bbbf6aee3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.a.chandrasekar",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Arthanari",
+        "address": "2/1067, North Street, Kuruppanaikenpalayam, Bhavani Taluk, Erode - 638 301",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAC-2026-20260404050616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7214/0/29aed9e8b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.c.ganesan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Chinniyagounder",
+        "address": "3, Kattu Valasu, Singanallur Post, Kavindapadi, Bhavani Taluk, Erode - 638 455",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCG-2026-20260406052520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9578/0/51a4b0e0e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.c.karuppanan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Chinniyagounder",
+        "address": "3, Kattu Valasu, Singanallur Post, Kavindapadi, Bhavani Taluk, Erode - 638 455",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KCK-2026-20260406051520.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8798/0/96cbfc4809/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sasikumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Kandhasamy",
+        "address": "189, Nathakattu Street, Karukkupalayam, Jambai Village, Bhavani Taluk, Erode - 638 312",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSAS-2026-20260406043037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9707/0/c41e742672/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sekar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Kittan",
+        "address": "2/118, Kasipillampalayam, Kampuliyampatti Post, Perundurai Taluk, Erode - 638 056",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEK-2026-20260404052457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8012/0/5d706d6fa4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Mathesan.c",
+        "address": "17/32, Barma Street, Karumariyamman Nagar, Thandaiyarpettai, Chennai - 600 081",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAN-2026-20260406044504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14683/0/84153383fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Palanisamy.p",
+        "address": "14/252, Sankaragoundenpalayam, Varadhanallur Post, Bhavani Taluk, Erode - 638 311",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKAR-2026-20260406061308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15197/0/f5f7494339/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuppanan. K.c",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Chinniyagounder",
+        "address": "3, Kattu Valasu, Singanallur Post, Kavindapadi, Bhavani Taluk, Erode - 638 455",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARUP-2026-20260409084706.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14799/0/6c24dbb201/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Boopathi Rajaraja Chozhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "M. Murugan",
+        "address": "495, Kavery Veethi, Bhavani Taluk, Erode - 638 301",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MBOO-2026-20260406053853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8607/0/022ea34e7e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "C.mathesan",
+        "address": "17/32, Barma Street, Karumariyamman Nagar, Thandaiyarpettai, Chennai - 600 081",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAN-2026-20260406044504.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8522/0/9b69ed9bbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.loganathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Murugan",
+        "address": "14/68, Main Road, Merku Veethi, Olagadam, Bhavani Taluk, Erode - 638 314",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MLOG-2026-20260406043630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10139/0/2342471b9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikkam. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Palani",
+        "address": "Nathakattu Colony, Jambai, Bhavani Taluk, Erode - 638 312",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260406042140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14961/0/576f59addc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohanadevi. R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Ramalingam.s",
+        "address": "54, Thalapalayam Kattukottai, Olagadam, Bhavani Taluk, Erode - 638 314",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMOH-2026-20260330024228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15851/0/e5452ea6ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "P. Palanisamy",
+        "address": "14/252, Sankaragoundenpalayam, Varadhanallur Post, Bhavani Taluk, Erode - 638 311",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKAR-2026-20260406061308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9580/0/15d5b05055/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.k.palanisamy",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Kandhasamy",
+        "address": "16/259/5, Uratchikottai, Kuruppanaickenpalayam Post, Bhavani Taluk, Erode - 638 301",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKP-2026-20260404043707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7380/0/dc3bc410a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.manikkam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Palani",
+        "address": "Nathakattu Colony, Jambai, Bhavani Taluk, Erode - 638 312",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAN-2026-20260406042140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9122/0/2439bf8764/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.parasakthi",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Palanivel",
+        "address": "8A, Amman Nagar, Nehru Street, Kumarapalayam, Namakkal - 638 183",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAR-2026-20260406045221.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9089/0/ab3540e527/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.v. Arumugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Vaiyapuri",
+        "address": "81/1A, Nanthavana Thottam 4Th Street, Chinnasemur, Periyasemur Post, Erode Taluk, Erode - 638 004",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVA-2026-20260406055805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8952/0/c1687f02ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palanisamy. P.k",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Kandhasamy",
+        "address": "16/259/5, Uratchikottai, Kuruppanaickenpalayam Post, Bhavani Taluk, Erode - 638 301",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKP-2026-20260404043707.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15964/0/31d11ddb3d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parasakthi. P",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Palanivel",
+        "address": "8A, Amman Nagar, Nehru Street, Kumarapalayam, Namakkal - 638 183",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PPAR-2026-20260406045221.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14946/0/7c551a8608/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Perumal. V.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Maaran",
+        "address": "15/18, Velampalayam Arijana Colony, Kavindapadi, Singanallur Post, Bhavani Taluk, Erode - 638 455",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMP-2026-20260404054942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16150/0/b205da415d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Vimalraj",
+        "party": "Makkal Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Ramasamy",
+        "address": "104, Perumal Kovil Street, Siraimeetanpalayam, Chinnapuliyur, Jambai Post, Bhavani Taluk, Erode - 638 312",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIM-2026-20260402025304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5546/0/8aa646f926/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.mohanadevi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "C.ramalingam",
+        "address": "54, Thalapalayam Kattukottai, Olagadam, Bhavani Taluk, Erode District - 638 314",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMOH-2026-20260330024228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/104/0/bf39fed919/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ravi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "K. Subramani",
+        "address": "36/42, Karuppamuppanur, Kurichi Post, Bhavani Taluk, Erode - 638 314",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRAV-2026-20260406061910.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10148/0/79b87c93ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar. K",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Kittan",
+        "address": "2/118, Kasipillampalayam, Kampuliyampatti Post, Perundurai Taluk, Erode - 638 056",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEK-2026-20260404052457.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16263/0/4d3993268e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.m.perumal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Maaran",
+        "address": "15/18, Velampalayam Arijana Colony, Kavindapadi, Singanallur Post, Bhavani Taluk, Erode - 638 455",
+        "gender": "Male",
+        "age": "72",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMP-2026-20260404054942.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7789/0/01e07458ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vimalraj. R",
+        "party": "Makkal Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Bhavani",
+        "father_husband_name": "Ramasamy",
+        "address": "104, Perumal Kovil Street, Siraimeetanpalayam, Chinnapuliyur, Jambai Post, Bhavani Taluk, Erode - 638 312",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIM-2026-20260402025304.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16534/0/6668da64cd/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

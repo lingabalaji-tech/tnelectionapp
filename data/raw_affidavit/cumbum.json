@@ -1,0 +1,491 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Cumbum",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "Anbuselvi A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Asaithambi.p.r",
+        "address": "Ward-1/23-Q9 Kannammal Garden Chinnamanur.theni District.625515",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANBUS-2026-20260410121800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14851/0/ca066c8b85/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbuselvi.a",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Asaithambi.p.r",
+        "address": "Ward-1/23-Q9 Kannammal Garden Chinnamanur.theni District.625515",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANBUS-2026-20260330040349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/484/0/9c24929bf1/",
+          "https://voterlist.co.in/affidavit-download/484/1/7f0f2a4691/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arunkumar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Arasamani Ts",
+        "address": "Door No 23,Ward 19, Varatharajapuram North 8 Th Street, Cumbum.625516",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUNK-2026-20260406113041.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11791/0/0cb6bbf754/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ashok Kumar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Arasamani R",
+        "address": "26-Q1, Bharathiyar Nagar, South 5Th Street, Cumbum.625516",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHOK-2026-20260406113451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11848/0/fad28d4f95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balamanimarbhan  K.j",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Jakkaiyan S.t.k",
+        "address": "8-1-2B/Ward-8 Society Street, C.pudhupatti, Uthamapalayam Taluk-625556",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAM-2026-20260406105122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12157/0/aa0b55cf26/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Rajamani P",
+        "address": "12-1-14 Sugadev Street, Palanichettipatti, Theni.625531",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAN-2026-20260406105822.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12315/0/e872c7a720/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eramakrishnan N",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Narayanasamy M",
+        "address": "40 Ward 26, Ramaiyan 2Nd Street, Cumbum-625516",
+        "gender": "Male",
+        "age": "77",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ERAMA-2026-20260406074302.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Jakkaiyan S.t.k.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Kullappagowder S.t.",
+        "address": "8-1-2B/Ward-8 Society Street, C.pudhupatti, Uthamapalayam Taluk-625556",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAKKA-2026-20260406090633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11054/0/ed26462401/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeganathmishra Pla",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Alagarsamy L",
+        "address": "214, Pla Illam Lf Main Road, Cumbum.625516",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEGAN-2026-20260404054425.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7534/0/68f9de2cf1/",
+          "https://voterlist.co.in/affidavit-download/7534/1/ed84436a4c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathiravan S",
+        "party": "New Generation People's Party",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Sivanesan K",
+        "address": "47E/79, New Municipal Street, Cumbum.625516",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KATHI-2026-20260406110517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12411/0/c048b661ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthu Bagavathi M.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Muthaiya K",
+        "address": "62/2, Nattamaikarar Street, Uthamapalayam.625533",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260410122123.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15967/0/19e7f39aa7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthubagavathi M",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Muthaiya K",
+        "address": "62/2, Nattamai Karar Street, Uthamapalayam.625533",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260404060908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7386/0/a61e491a82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuselvam G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Govindan P",
+        "address": "Door No.9-3-4, Ward 9, Muthumariyamman Kovil Street, Hanumanthanpatti,Uthamapalayam.625533",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260404063705.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7293/0/d8c5b0ace4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthuselvam G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Govindan P",
+        "address": "Door No.9-3-4, Ward 9, Muthumariyamman Kovil Street, Hanumanthanpatti,Uthamapalayam.625533",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260410124054.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15920/0/b30e9c0684/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nanthakumar A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Anbarasan P",
+        "address": "6-3-95 Udayali Illam, Vaigai Street, Indira Nagar, Uthamapalayam",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NANTH-2026-20260406082346.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10972/0/b842694bb2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nanthakumar A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Anbarasan P",
+        "address": "6-3-95 Udayali Illam, Vaigai Street, Indira Nagar, Uthamapalayam.625533",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NANTH-2026-20260410124433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15121/0/1e32588dfa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parameshwari G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Jeganathmishra Pla",
+        "address": "214 Pla Illam Lf Main Road, Cumbum",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARAM-2026-20260404055849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6961/0/11e789dae0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parameshwari G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Jeganathmishra Pla",
+        "address": "214 Pla Illam Lf Main Road, Cumbum",
+        "gender": "Female",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARAM-2026-20260404055849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13167/0/3b53145172/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prakash P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Paulraj P",
+        "address": "Door No.444 Ward 29, Maninagaram L.f.road, Cumbum.625516",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAKA-2026-20260404072241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7645/0/2daf064c61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prakash P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Palaniyandi P",
+        "address": "75-D/Ward-11 Bharathi Nagar, South Car Street, Uthamapalayam.625533",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRAKA-2026-20260410123228.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14730/0/d14c7c1053/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajadurai S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Sivaraman R.s.",
+        "address": "Door No 11A/7/32, Muthu Chamandi Pillai Street, Cumbum.625516",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAD-2026-20260406095320.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12459/0/1459df32cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamohammed T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Thangalmeeran",
+        "address": "29/75, Poomariyamman Kovil Street, Villapuram Colony, Madurai-11",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJAM-2026-20260410123649.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15855/0/aa51dc5bc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamohammed.t",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Thangalmeeran",
+        "address": "29/75, Poomariyamman Kovil Street, Villapuram Colony, Madurai-11",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260404070945.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7192/0/d7069f6b12/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan S.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Rangaraj S",
+        "address": "Door No.19, Ward-25, Nanthagobalan Kovil South Street, Cumbum 625516",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260404065356.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7928/0/49ca81e80a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan S.r.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Rangaraj S",
+        "address": "Door No.19, Ward-25, Nanthagobalan Kovil South Street, Cumbum 625516",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SARAV-2026-20260410124152.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16214/0/0d357e0783/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramaniyam L R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Ramgandhi",
+        "address": "10/22, Thiyagi Venkatachalam Street, Cumbum.625516",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SUBRA-2026-20260406111223.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12434/0/d3eedd5e4e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilselvi.a",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Ashokkumar.k",
+        "address": "253 R /Ward-7, West Street, Chinnaovulapuram, Theni District 625515",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260330041954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/641/0/1f2f853f51/",
+          "https://voterlist.co.in/affidavit-download/641/1/3ff7b2fd57/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thasthakeer",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Esmayl",
+        "address": "20/24A, North Street, Sangumal Line, Keelakarai, Ramnad Dist.623517",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAST-2026-20260404062408.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7978/0/4b9ecd7e89/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thasthakeer I",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Esmayl",
+        "address": "20/24A North Street, Sangumal Line, Keelakarai, Ramnad Dist.623517",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THAST-2026-20260410120040.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16238/0/a868367147/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thiruppathi Dhanaraja A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Alagarsamy L",
+        "address": "27, Varatharajapuram, 2-Nd Middle Street, Cumbum.625516",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260406103619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11794/0/553b8a15be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanthan R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Ramakrishnan N",
+        "address": "40/26 Ramaiyan 2Nd Street, Cumbum-625516",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260406071829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10980/0/32f57bda54/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth Kumar R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Cumbum",
+        "father_husband_name": "Rasu A",
+        "address": "Door No 32, Ayyanarpuram, Chinnamanur Post, Uthamapalayam Taluk.625515",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260406104442.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12008/0/69851a0305/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

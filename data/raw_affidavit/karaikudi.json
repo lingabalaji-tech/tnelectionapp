@@ -1,0 +1,921 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Karaikudi",
+    "count": 61,
+    "candidates": [
+      {
+        "name": "A.kalimuthu",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Asokan",
+        "address": "S 100 Valaiyar Street, K. Alagapuri , Vallampar Iti Near, Karaikudi Taluk, Sivaganga 630106",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAL-2026-20260406072500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11239/0/75def8a38a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amrita Dora. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Dr.tk.prabhu",
+        "address": "3-37, Irumathi Village, Thidakottai Post, Devokottai Taluk,  Sivagangai 630312",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AMRIT-2026-20260409125405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14944/0/2d851d4046/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aziz Abdul Rahman. J",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "John Peter",
+        "address": "Door No.12, Ansari Street, Kalanivasal, Karaikudi",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AZIZA-2026-20260409120517.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16339/0/387439ce0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.ranjithkumar Balusamy",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Balusamy",
+        "address": "No.533, Melakavanavayal, Devakottai Post, Sivagangai District 630302",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BRAN-2026-20260404060516.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7227/0/b75c0b98d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.shanthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Babu",
+        "address": "72, Baskaran Vilas, Swaminathan Aasari Street, Sekkalaikottai, Karaikudi, Sivagangai District 630002",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSHA-2026-20260404063421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7163/0/6fcc83909c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.newton Babu",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": ".Chellamuthu",
+        "address": "Poonkudiyenthal, Vengalor Post , Devakottai",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CNEW-2026-20260406104151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11914/0/9d5f83bf56/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dherpoki V.pandi",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Velu",
+        "address": "No.416/2, Therpoki, Mithiravayal Post, Devakottai Taluk 630108",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHERP-2026-20260402062832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5827/0/026c99d68a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dinesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kuppusamy",
+        "address": "16-23, Karunanidhi Nagar , Sowripalayam, Coimbatore, Tamil Nadu -641028",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/184/1775213479IMGL9715copy.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Dinesh. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kuppusamy",
+        "address": "16-23, Karunanidhi Nagar , Sowripalayam, Coimbatore, Tamil Nadu -641028",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DINES-2026-20260409123522.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15399/0/1620feb371/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.p.amrita Dora",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Dr.tk.prabhu",
+        "address": "3-37, Irumathi Village, Thidakottai Post, Devokottai Taluk,  Sivagangai 630312",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRP-2026-20260406104211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11929/0/edab237ecd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.p.amrita Dora",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Dr.tk.prabhu",
+        "address": "3-37, Irumathi Village, Thidakottai Post, Devokottai Taluk,  Sivagangai 630312",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRP-2026-20260406104211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12973/0/ac34018472/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.prabhu. Tk",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Thurai Karunanidhi",
+        "address": "Door No.276, Irumathi Village, Thidakkottai Post, Devakottai Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRPR-2026-20260409122327.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15928/0/38817bf6ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.tk.prabhu",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Thurai Karunanidhi",
+        "address": "Door No.276, Irumathi Village, Thidakkottai Post, Devakottai Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRTK-2026-20260330064545.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/258/0/d4a95bd824/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.prabu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "S.ganesan",
+        "address": "226/2/5, Kumaramangalam, Sadayamangalam, Kannakudi Post, Devakottai Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GPRA-2026-20260404065708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8014/0/79fa7a0121/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.aziz Abdul Rahman",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "John Peter",
+        "address": "Door No.12, Ansari Street, Kalanivasal, Karaikudi",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAZI-2026-20260402070341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5690/0/fe57b98f33/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeevitha. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Balasekar",
+        "address": "118/115, Madha Kovil Street, Ariyakudi, Karaikudi, Sivagangai District 630202",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JEEVI-2026-20260409121620.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16276/0/2a2b9dc738/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jeevitha.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Balasekar",
+        "address": "118/115, Madha Kovil Street, Ariyakudi, Karaikudi 630202",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JEEVI-2026-20260404062624.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8041/0/87a7d0667f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.karuppiah",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kandasamy",
+        "address": "No.2/3061, Pavalem Street, Navarathina Nagar, Karaikudi - 630002",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KKAR-2026-20260402061241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5770/0/9e2c5d9d74/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.muthukumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kalimuthu",
+        "address": "239-2/3-5, Kodikottai, Maviduthikottai Post, Devakottai Taluk, Sivagangai District 630303",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMUT-2026-20260404071205.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7272/0/578e95f23d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.selvi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kannayeeram",
+        "address": "8/96 Indra Nagar 2Nd Street, Railway Road, Karaikudi 630001",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSEL-2026-20260406084615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10904/0/d7aeeed439/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.velu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kamatchi",
+        "address": "862, Nehru Nagar 3Rd Steet, Cecri , Karaikudi",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVEL-2026-20260406102114.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12326/0/0ac1370570/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalidass. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Rakkappan",
+        "address": "20, Periyar Street, Devakottai 630302, Devakottai Taluk",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KALID-2026-20260409125135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15456/0/fe8b4e9ab4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalimuthu. A",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Asokan",
+        "address": "S 100 Valaiyar Street, K. Alagapuri , Vallampar Iti Near, Karaikudi Taluk, Sivaganga 630106",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KALIM-2026-20260409123000.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15447/0/908d78a182/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karuppiah. K",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kandasamy",
+        "address": "No.2/3061, Pavalem Street, Navarathina Nagar, Karaikudi - 630002",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARUP-2026-20260409115937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16402/0/3f663a20a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kayalvizhi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kalimuthu",
+        "address": "No.5, Sandeep Avenue, 2Nd Cross Street, Chinna Neelangarai, Chennai 600115",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAYAL-2026-20260330061521.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/116/0/bbcf3e16fe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lakshmanan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Ravichandran",
+        "address": "180, Saathikkottai, Devakottai Post And Taluk, Sivagangai 630302",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LAKSH-2026-20260409124832.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15246/0/7754518281/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.devi",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Mangudi",
+        "address": "2/3400 S-3 Street, Maha Madhu Madhes Illam, Karpagavinayagar Nagar , Karaikudi",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDEV-2026-20260406100744.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11915/0/b863cd0f2b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.ramu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Marimuthu",
+        "address": "Door No.146, Melasiruvachi Village, Kannangudi Post, Devakottai Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAM-2026-20260404061422.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7563/0/2e08d0b162/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.s.udhuman Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Mohamed Salibu",
+        "address": "2/235A, Muslim Street, Puliyal 630312",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSU-2026-20260404064839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7766/0/ba55636167/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mangudi. S",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Sathaiah",
+        "address": "2/3400 S-3 Street, Karpagavinayagar Street, Maha Madhu Madhes Illam, Barma Colony, Karaikudi",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANGU-2026-20260409124644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15539/0/a743246772/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manimaran. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Ramanathan",
+        "address": "11/18 Natarajapuram 2Nd Street, Devakottai",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANIM-2026-20260409123332.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15624/0/c033ad2a17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthukumar. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kalimuthu",
+        "address": "239-2/3-5, Kodikottai, Maviduthikottai Post, Devakottai Taluk, Sivagangai District 630303",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MUTHU-2026-20260409122215.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15905/0/a13785cec3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Newton Babu. C",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": ".Chellamuthu",
+        "address": "Poonkudiyenthal, Vengalor Post , Devakottai",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NEWTO-2026-20260409125244.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14928/0/076a81180c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.gunasekaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Pappu",
+        "address": "25A, Pattatharsi Amman Kovil Street, Kumarpalayam 638183, Namakkal District",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGUN-2026-20260402065231.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5936/0/14cd2fe53d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvi",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Dherpoki V.pandi",
+        "address": "No.416/2, Therpoki, Mithiravayal Post, Devakottai Taluk 630108",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSEL-2026-20260402063903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5876/0/5c086eff89/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.selvi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Dherpoki V.pandi",
+        "address": "No.416/2, Therpoki, Mithiravayal Post, Devakottai Taluk 630108",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSEL-2026-20260402063903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13355/0/446ddf045f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandi. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Subbaiah",
+        "address": "1, Irumathi Village, Thidakottai Post, Devakottai Taluk, Sivagangai District 630312",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PANDI-2026-20260409125524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15137/0/63353c79b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabu. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "S.ganesan",
+        "address": "226/2/5, Kumaramangalam, Sadayamangalam, Kannakudi Post, Devakottai Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PRABU-2026-20260409122102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16264/0/acda0794c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.kalidass",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Rakkappan",
+        "address": "20, Periyar Street, Devakottai 630302, Devakottai Taluk",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAL-2026-20260406102312.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12378/0/3b6bae5a21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.lakshmanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Ravichandran",
+        "address": "180, Saathikkottai, Devakottai Post And Taluk, Sivagangai 630302",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RLAK-2026-20260406101706.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12227/0/4bbdedbcc8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manimaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Ramanathan",
+        "address": "11/18 Natarajapuram 2Nd Street, Devakottai",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406074952.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11399/0/1f4df53fa5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.radhakrishnan",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Rajasekaran",
+        "address": "167 Sukkanenthal , Jayankondan, Karaikudi  630108",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAD-2026-20260406074008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10931/0/58c9ac9ea1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.radhakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Rajasekaran",
+        "address": "167 Sukkanenthal , Jayankondan, Karaikudi  630108",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RRAD-2026-20260406074008.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13008/0/95698ec8a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Radhakrishnan. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Rajasekaran",
+        "address": "167 Sukkanenthal , Jayankondan, Karaikudi  630108",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RADHA-2026-20260409123148.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15078/0/92bc9397d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramanathan. S.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Sivasamy",
+        "address": "22/1 Gurunathan Kovil Street, Eravuseri, Devakottai",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMAN-2026-20260409124004.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14696/0/c29e47e00b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramu. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Marimuthu",
+        "address": "Door No.146, Melasiruvachi Village, Kannangudi Post, Devakottai Taluk, Sivagangai District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAM-2026-20260404061422.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16054/0/d5f3ea1fdf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ranjithkumar Balusamy",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Balusamy",
+        "address": "No.533, Melakavanavayal, Devakottai Post, Sivagangai District 630302",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RANJI-2026-20260409120632.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15875/0/85df4b2848/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.brabhu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Subaramanian",
+        "address": "3/61, Oyyavanthan North, Panangadi, Sivagangai District 630556",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SBRA-2026-20260406103335.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11726/0/dbf48cec08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.mangudi",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Sathaiah",
+        "address": "2/3400 S-3 Street, Karpagavinayagar Street, Maha Madhu Madhes Illam,Karaikudi",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAN-2026-20260406095308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12441/0/861585190a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.pandi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Subbaiah",
+        "address": "1, Irumathi Village, Thidakottai Post, Devakottai Taluk, Sivagangai District 630312",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAN-2026-20260406104914.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12120/0/58112737f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.v. Ramanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Sivasamy",
+        "address": "22/1 Gurunathan Kovil Street, Eravuseri, Devakottai",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVR-2026-20260406083719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10557/0/efb20a6b30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seeman",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Senthamizhan",
+        "address": "No.5, Sandeep Avenue, 2Nd Cross Street, Chinna Neelangarai, Chennai 600115.",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SEEMA-2026-20260330055222.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/559/0/f002109d61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvi. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kannayeeram",
+        "address": "8/96 Indra Nagar 2Nd Street, Railway Road, Karaikudi 630001",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVI-2026-20260409124128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15044/0/79234d0f7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvi. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Dherpoki V.pandi",
+        "address": "No.416/2, Therpoki, Mithiravayal Post, Devakottai Taluk 630108",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVI-2026-20260409120404.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16478/0/c4f62eec2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthi. B",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Babu",
+        "address": "72, Baskaran Vilas, Swaminathan Aasari Street, Sekkalaikottai, Karaikudi, Sivagangai District 630002",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHANT-2026-20260409121820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15835/0/37e8eb952b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Vanarajan",
+        "address": "118/3 Vairavapuram 3Rd Street, Karaikudi 630003",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SURES-2026-20260409124243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15371/0/4f97c86f69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Udhuman Ali. M.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Mohamed Salibu",
+        "address": "2/235A, Muslim Street, Puliyal 630312",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/UDHUM-2026-20260409121940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16139/0/12603e183b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Veeramanikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Veerasamy",
+        "address": "1/57 Nagavayal Road, Devakottai Rastha, Karaikudi - 630005",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VVEE-2026-20260406081345.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10544/0/66ee769046/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.suresh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Vanarajan",
+        "address": "118/3 Vairavapuram 3Rd Street, Karaikudi 630003",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSUR-2026-20260406085415.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Veeramanikandan. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Veerasamy",
+        "address": "1/57 Nagavayal Road, Devakottai Rastha, Karaikudi - 630005",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VEERA-2026-20260409123628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14687/0/a3bc851350/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velu. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Karaikudi",
+        "father_husband_name": "Kamatchi",
+        "address": "862, Nehru Nagar 3Rd Steet, Alagappapuram Post , Karaikudi",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VELU-2026-20260409125022.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15379/0/d97945a455/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

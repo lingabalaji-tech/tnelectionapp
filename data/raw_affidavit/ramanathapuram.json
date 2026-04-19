@@ -1,0 +1,573 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ramanathapuram",
+    "count": 39,
+    "candidates": [
+      {
+        "name": "A. Chinna Raja",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Ashokmetha",
+        "address": "2/6, Puthu Theru, Rameswaram, Ramanathapuram",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ACHI-2026-20260406055021.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Chinna Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Ashokmetha",
+        "address": "2/6, Puthu Theru, Rameswaram, Ramanathapuram",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ACHI-2026-20260406055021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13051/0/7741288359/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.mani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Amirtham",
+        "address": "Solanthur Post, Pottagavayal Via, Ramanathapuram-623537",
+        "gender": "Male",
+        "age": "81",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAN-2026-20260406053459.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Allapichai",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Ibrahimkani",
+        "address": "1/930-1, Bharathinagar, 3Rd Main Street, Pattinamkathan, Ramanathapuram-623503",
+        "gender": "Male",
+        "age": "81",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ALLAP-2026-20260406044534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8551/0/840d0b8153/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amudhan",
+        "party": "Namadhu Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Chelladurai",
+        "address": "278, Nadarajapuram, Rameswaram",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUDH-2026-20260402031037.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5158/0/deda0e4744/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Ramu",
+        "address": "1/44, Yadavar Street, Kanjirankudi Village, Kilakarai Taluk, Ramanathapuram-623517",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BALAK-2026-20260406050535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10114/0/296def9c71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran",
+        "party": "Indhu Dravida Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Kuppusamy",
+        "address": "9/59, Chinna Regunathapuram  , Regunathapuram Post, Regunathapuram, Ramanathapuram",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASKA-2026-20260406060014.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Parirajan",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Cheliyan",
+        "address": "15, Kamarajar Nagar,Rameswaram, Ramanathapuram District-623526",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CPAR-2026-20260330031835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16603/0/43e7379bae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.parirajan",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Cheliyan",
+        "address": "15, Kamarajar Nagar,Rameswaram-623526",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CPAR-2026-20260330031835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/264/0/d6836eb889/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.j. Abubakkar Sithick",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "M.e.m.john Mohamed",
+        "address": "5/2175, Nisa Foundation Bus Stand, Yagappa Nagar, Alavandan, Madurai,Madurai District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JABU-2026-20260404023338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15794/0/2067e13735/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gbs K.nagendran",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Kathirvel",
+        "address": "2/35/2, R.kannapuram ,Regunathapuram, Ramanathapuram",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GBSK-2026-20260406015439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8816/0/9f8967cb8c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J. Habeeb Mohamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Jamal Mohamed",
+        "address": "3/232A, New East Street, Kilakarai, Ramanathapuram-623517",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JHAB-2026-20260404020551.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "J.abubakkar Sithick",
+        "party": "Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "M.e.m.john Mohamed",
+        "address": "5/2175, Nisha Foundation Bus Stand, Yahappa Nagar, Alavanthan, Madurai-",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JABU-2026-20260404023338.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Maleswaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Krishnan",
+        "address": "3/2802-49, Krishnanagar, Pattinamkathan, Ramanathapuram District-623503",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALES-2026-20260406031639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15687/0/26466da229/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.mari",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Karuppan",
+        "address": "76E-18/112, Ramanathaswamy Nagar, Rameswaram-623526",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "K.muniasamy",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "R.kali",
+        "address": "1/84, Panaikulam, Ekkakudi Post, Kilakarai Taluk, Ramanathapuram-623533",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMUN-2026-20260406124726.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10387/0/6fcf88f92d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.nagasundaram",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Kathirvel",
+        "address": "2/393-1, Narayana Chettiyar Colony, Bank Colony, Thirupalai, Madurai-625014",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KNAG-2026-20260406022025.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9836/0/57f307eb81/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kan Ilango",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Kannaiya",
+        "address": "7C4-6, Maravar Street, Rameswaram Taluk, Ramanathapuram-623526",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANIL-2026-20260330022808.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/48/0/83f1915a03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karpagavalli",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Palanisamy",
+        "address": "Maruthankudi Village, Pandukudi Post, Tiruvadanai Taluk, Ramanathapuram",
+        "gender": "Female",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARPA-2026-20260406043518.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10040/0/bd77880a5c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthigai Pandi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Ananthan",
+        "address": "7/94, Yadavar Street, Sakkarakottai, Ramanathapuram-623504",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406045736.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9509/0/ee2e5b2459/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Katharbatcha Muthuramalingam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Katharbatcha Vellaisamy",
+        "address": "31-25C, Melaramanathy, Kamuthi Taluk, Ramanathapuram-623603",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KATHA-2026-20260404123741.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Maleswaran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Krishnan",
+        "address": "3/2802-49, Krishnanagar, Pattinamkathan, Ramanathapuram-623503",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALES-2026-20260406031639.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10467/0/27496bfe13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mooventhan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Vellaisamy",
+        "address": "31-3, Sayakara Street, Kamuthi Taluk, Ramanathapuram-623603",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOOVE-2026-20260404010214.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "N.murali Kumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Natarajan",
+        "address": "1-12, Ramartheertham,Rameswaram,Ramathapuram-623562",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NMUR-2026-20260404044737.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7746/0/81caad58ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pullani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Sathaiya",
+        "address": "2/77, Pokkanarenthal, Thiruppullani, Ramanathapuram-623532",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPUL-2026-20260406025819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15176/0/e97b106af4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.kanagasabapathy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Rethinasamy",
+        "address": "12/1,Naarkaratheru, Kamuthi-623603",
+        "gender": "Male",
+        "age": "75",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Riyas Ahamed",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Kurathu Nishabegam",
+        "address": "6/91,Sakkarakottai, Ramanathapuram Taluk, Ramanathapuram",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RIYAS-2026-20260406052113.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9259/0/14dd05b0e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Murugaboopathy",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Shanmugam",
+        "address": "1/843, Vallalar Street, Bharathi Nagar, Ramanathapuram-623503",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMUR-2026-20260409012703.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16657/0/0eaba5e060/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.m. Muthu Kesavan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Malaiyaman",
+        "address": "Astalakshmi Nagar,4Th Cross Street, Velleeswaran Temple Back Side, Mangadu, Kanchipuram-600122",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMM-2026-20260330030035.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16580/0/d7b75db7e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.m.muthu Kesavan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Malaiyaman",
+        "address": "B4, Ashtalakshmi Nagar,4Th Cross Street, Velleeswaran Kovil Back Side, Mangadu, Kanchipuram-600122",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMM-2026-20260330030035.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/156/0/2dca3830fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.murugaboopathy",
+        "party": "Communist Party Of India (Marxist-Leninist) (Liberation)",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Shanmugam",
+        "address": "1/843, Vallalar Street, Bharathi Nagar, Ramanathapuram-623503",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUR-2026-20260330013102.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/519/0/2d32fa1fd2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.murugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Subramani",
+        "address": "14/14, Sriramnagar, Rameswaram, Ramanathapuram-623526",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9057/0/387842847c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.pullani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Sathaiya",
+        "address": "2/77, Pokkanarenthal, Thiruppullani, Ramanathapuram-623532",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPUL-2026-20260406025819.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9539/0/a3104bcefb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.saminathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Selvam",
+        "address": "8/131, Melavalasai, Regunathapuram, Ramanathapuram-623523",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAM-2026-20260406032708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8784/0/a3c5f3c710/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Samsu Nisha",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "A.shahul Hameed",
+        "address": "4/621, East Street, Sathankulam, Perunkulam Post, Ramanathapuram-623536",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMSU-2026-20260406011534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9247/0/e1aee85403/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathishkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Chandran",
+        "address": "5/43, Keelavalasai, Vtc Kanjirankudi Post, Kilakarai Taluk, Ramanathapuram-623517",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SATHI-2026-20260406051316.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8595/0/c4f452c839/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shahul Hameed",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Abdul Karim",
+        "address": "4/621, East Street, Sathankulam, Perunkulam Post, Ramanathapuram-623536",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAHU-2026-20260404012707.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Thomas Jerone Kumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "Jebamalai Pitchai",
+        "address": "30B, Olaikkuda, Rameswaram-623526",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.kasinathadurai",
+        "party": "New Generation People's Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ramanathapuram",
+        "father_husband_name": "A.velu",
+        "address": "172,Sumaithangi Village, Kalari Post, Thiruuthirakosamangai Via,,Ramanathapuram  Kilakarai Taluk-623533",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VKAS-2026-20260404082024.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7327/0/9c135132db/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

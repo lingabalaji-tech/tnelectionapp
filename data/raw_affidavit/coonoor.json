@@ -1,0 +1,223 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Coonoor",
+    "count": 14,
+    "candidates": [
+      {
+        "name": "A. Ramu",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Ajja Gowder",
+        "address": "2/217, Ketti Keri Village, Aravenu Post, The Nilgiris- 643201",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARAM-2026-20260406074111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10994/0/b69bf77ad5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A. Sudhakar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Azhagusundaram",
+        "address": "3/528, S Kaikatty, Kotagiri, The Nilgiris",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUD-2026-20260404062350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7966/0/4e2085047c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Dinesh Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "T. Chandrasekar",
+        "address": "2/168, Anna Nagar, Wellington, Coonoor, The Nilgiris, Tamil Nadu - 643232",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CDIN-2026-20260404064612.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7644/0/0b74022115/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Thangaraju",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "S. Chidambaram",
+        "address": "14A, Barani Nagar, Mohanur Road, Namakkal Town, Namakkal District - 637001",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CTHA-2026-20260404055833.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6920/0/50c9c69a12/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Vidhyasagar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Duraisamy",
+        "address": "23/89, Mailoor Estate, Kottakkal, Kolacombai Post, The Nilgiris - 643218",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVID-2026-20260404053841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7298/0/5e2d3d4d05/",
+          "https://voterlist.co.in/affidavit-download/7298/1/b20105b029/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Bhojan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Krishnan",
+        "address": "43/28C, Club Road, Mission Compound-2, Ramchand Square, Kotagiri, The Nilgiris - 643217",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KBHO-2026-20260406083829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10606/0/1445aca08c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Deenu",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Vimal",
+        "address": "Old Door No. 5/15A, New Door No. 19/12, Jackanarai, Kilkeri, Aravenu Post, Kotagiri, The Nilgiris - 643201",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KDEE-2026-20260330051233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/336/0/2e25eb98b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kari",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Mathan",
+        "address": "5/556D, Pudiyangi, Naduhatty, Gundada, The Nilgiris-643217",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARI-2026-20260406075211.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10551/0/d69e145701/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Raju",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Mahalingam",
+        "address": "446, Kotta Nalli, Nedugula , Nedugula Post, Kotagiri, The Nilgiris - 643217",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRAJ-2026-20260406082142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10882/0/214d9ee451/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Saravanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Maruthai",
+        "address": "5/78, Bharathi Nagar , Kakkachi,Hullical,Kilinjada,The Nilgiris",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAR-2026-20260404063541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7232/0/9661795e2d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seema .K",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Kadan M",
+        "address": "3-95, Konavakarai , Konavakarai Post, Kotagiri - 643217",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEEMA-2026-20260406071759.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10966/0/f83aaa52a9/",
+          "https://voterlist.co.in/affidavit-download/10966/1/a2379214ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Aravinth",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "C. Thangaraju",
+        "address": "14A, Bharani Nagar, Mohanur Road, Namakkal District - 637001",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TARA-2026-20260406065920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9752/0/0ea1e09e95/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Aravinth",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "C. Thangaraju",
+        "address": "D.no. 14A, Bharani Nagar, Mohanur Road, Namakkal Town, Namakkal District - 637001",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TARA-2026-20260406065920.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13073/0/9f26d899e0/",
+          "https://voterlist.co.in/affidavit-download/13073/1/2824fce29c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Muthu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Coonoor",
+        "father_husband_name": "Velu",
+        "address": "18/108 - 1, Bhavani Estate, Katery, Hullical, Coonoor, The Nilgiris - 643213",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUT-2026-20260406080502.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11179/0/9fb86130e8/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

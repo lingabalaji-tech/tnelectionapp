@@ -1,0 +1,730 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Jayankondam",
+    "count": 48,
+    "candidates": [
+      {
+        "name": "Abirami Kesavan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Vinothsavariremijeas",
+        "address": "53, V.k.s. Nagar, Puthumariamman Temple, Valaiyapettai Agraharam, Valaiyapettai, Kumbakonam Taluk, Thanjavur District, 612702",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABIRA-2026-20260406053551.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10470/0/64c414ada3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anandhakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Rajamanickam",
+        "address": "55, Colonytheru, Sundipallam, Muthuservamadam Post, Udayarpalayam Taluk, Ariyalur District, 612903",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260404054523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7583/0/625e0af5bc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anandhakumar R.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Rajamanickam",
+        "address": "55, Colonytheru, Sundipallam, Muthuservamadam Post, Udayarpalayam Taluk, Ariyalur District, 612903",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAND-2026-20260404054523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16064/0/2586db74ae/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Azhagesan",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Rengarajan",
+        "address": "22-2, Vanniyar Nadutheru, Vethiyarvettu Post, Udayarpalayam Taluk, Ariyalur District, 621803",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AZHAG-2026-20260404063425.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7177/0/c64e385b27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Azhagesan V.r.",
+        "party": "Desiya Makkal Sakthi Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Rengarajan",
+        "address": "22-2, Vanniyar Nadutheru, Vethiyarvettu Post, Udayarpalayam Taluk, Ariyalur District, 621803",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AZHAG-2026-20260404063425.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15839/0/7f779d4900/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chanthirasekar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Sampath",
+        "address": "1049, North Street, Udayanatham Village And Post, Udayarpalayam Taluk, Ariyalur District, 621902",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHANT-2026-20260406044112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10382/0/582d490dbd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chanthirasekar S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Sampath",
+        "address": "North Street Udayanatham Village, Udayarpalayam Taluk Ariyalur District, 612 902.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHANT-2026-20260406044112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15639/0/e521ff1e77/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnadurai",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Samikannu",
+        "address": "1/53, South Street, Pilichikuzhi Village And Post, Udayarpalayam Taluk, Ariyalur District, 621804.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHINN-2026-20260402035851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5350/0/175e72d12e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnadurai S.",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Samikannu",
+        "address": "1/53, South Street, Pilichikuzhi, Udayarpalayam Taluk, Ariyalur District, 621 804.",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CHINN-2026-20260402035851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16448/0/8f10a9746c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gurunathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Narayanan",
+        "address": "2-22, North Puthutheru, Variyangaval Village, Andimadam Taluk, Ariyalur District, 621806",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GURUN-2026-20260406045940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9676/0/6edf10bf39/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gurunathan N.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Narayanan",
+        "address": "2-22, North Puthutheru, Variyangaval Village, Andimadam Taluk, Ariyalur District, 621806",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GURUN-2026-20260406045940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15253/0/333de97972/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Isac Newtan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Johnpeter",
+        "address": "42-97B2, Hospital Street, Jayankondam, Udayarpalayam Taluk, Ariyalur District, 621802",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ISACN-2026-20260406063922.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9877/0/8fd534f6be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Isac Newtan J.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Johnpeter",
+        "address": "42-97B2, Hospital Street, Jayankondam, Udayarpalayam Taluk, Ariyalur District, 621802",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ISACN-2026-20260409084117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15358/0/d5d9fc50d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayabalan",
+        "party": "Vada Tamil Nadu Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Govindasamy",
+        "address": "1951, Annai Anjugam Nagar Extn,  Ullur, Kumbakonam Post And Taluk, Tanjore District,  612001",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAB-2026-20260404061752.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7732/0/71941adfa3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayabalan G.",
+        "party": "Vada Tamil Nadu Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Govindasamy",
+        "address": "1951, Annai Anjugam Nagar Extn,  Ullur, Kumbakonam Post And Taluk, Tanjore District,  612001",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAB-2026-20260404061752.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16129/0/7f5927a22a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayalakshmi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Kavitha Rajendran",
+        "address": "1419, New Street, Vilandai, Andimadam Post And Taluk, Ariyalur District, 621801",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAL-2026-20260404060405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7180/0/252eeb53f0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayasrisivaloganathar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Chinnapillai",
+        "address": "3-27, Kamatiyamman Temple Road, Kallathur, Udayarpalayam Taluk, Ariyalur District, 621803",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAS-2026-20260406062637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8913/0/f5e24cb995/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ka.so.ka.kannan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Ganesan",
+        "address": "237, Sengal Oda Street, Kodali Kandiyankollai, Kodalikaruppur Post, Udayarpalayam Taluk, Ariyalur District, 612902",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASO-2026-20260406051701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8959/0/c75822e91d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kabil Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Panner Selvam",
+        "address": "343, Poovaikulam Village, Vizhappallam Post, Udayarpalayam Taluk, Ariyalur District, 621803",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KABIL-2026-20260406073011.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11450/0/2f8c9a3a56/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Karuppaiyan",
+        "address": "125, Thenvadal Theru, Keela Kudiyiruppu, Jayankonda Cholapuram, Udayarpalayam Taluk, Ariyalur District, 621802",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260406060042.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8466/0/d541eb4c8c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan K.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Karuppaiyan",
+        "address": "125, Thenvadal Theru, Keela Kudiyiruppu, Jayankonda Cholapuram, Udayarpalayam Taluk, Ariyalur District, 621802",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KANNA-2026-20260409083945.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14660/0/48dc2af7e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan Ka.so.ka.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Ganesan",
+        "address": "237, Sengal Oda Theru, Ko.kandiyankollai, Udayarpalayam Taluk, Ariyalur District. 612902",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASO-2026-20260406051701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14876/0/14fd5478ad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha Rajendran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Govindharasu",
+        "address": "1419, New Street, Vilanthai South,  Andimadam Post And Taluk, Ariyalur District, 621801",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260404055400.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7939/0/11bfc36ed6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha Rajendran G.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Govindharasu",
+        "address": "No. 1419, Puthu Theru, Vilanthai, Andimadam Taluk, Ariyalur District, 621801.",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260404055400.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15627/0/6f5246917a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pagutharivalan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Annadurai",
+        "address": "4-394, Periyar Nagar, Sendurai Post And Taluk, Ariyalur District, 621714",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAGUT-2026-20260406050720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10227/0/4223b01be4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pagutharivalan A.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Annadurai",
+        "address": "4-394, Periyar Nagar, Sendurai Post And Taluk, Ariyalur District, 621714",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAGUT-2026-20260406050720.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15572/0/e122b0fb53/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Mathiyazhagan",
+        "address": "1-109, Nadutheru, Kaduvettankurichi, T.cholankurichi Post, Udayarpalayam Taluk, Ariyalur District, 621904",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406044932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8936/0/f3d83c408c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravanan",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Mahalingam",
+        "address": "4-84, South Street, Asaveeran Kudikadu Village And Post, Sendurai Taluk, Ariyalur District, 621719",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVAN-2026-20260402052532.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5619/0/77e815a9ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravanan M.",
+        "party": "Naadaalum Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Mahalingam",
+        "address": "4-84, South Street, Asaveeran Kudikadu Village And Post, Sendurai Taluk, Ariyalur District, 621719",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVAN-2026-20260402052532.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16418/0/d0795675cf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravisankar",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Narayanan",
+        "address": "2-172, South Street, Kaduvetti, Papakudi North, Udayarpalayam Taluk, Ariyalur District, 612903",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIS-2026-20260406055132.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9760/0/9240f4b9bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravisankar N.",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Narayanan",
+        "address": "2-172, South Street, Kaduvetti, Papakudi North, Udayarpalayam Taluk, Ariyalur District, 612903",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIS-2026-20260406055132.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15293/0/14ad7839e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Revathi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Kalaimani",
+        "address": "1-2A,  North Street, Kaduvetti, Udayarpalayam Taluk, Ariyalur District-612903",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/REVAT-2026-20260330042212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/480/0/35e2932fb8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Revathi K.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Kalaimani",
+        "address": "1-2 A,  North Street, Kaduvetti, Udayarpalayam Taluk, Ariyalur District-612903",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/REVAT-2026-20260330042212.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16648/0/635d7f72fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Muthusamy",
+        "address": "4-212, South Street, Chinna Kalleri Village, Eravangudi Panchayat, Udayarpalayam Taluk, Ariyalur District, 621803",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260406054342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9066/0/52bbbbb854/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankar M.",
+        "party": "Rashtriya Samaj Dal (R)",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Muthusamy",
+        "address": "4-212, South Street, Chinna Kalleri Village, Eravangudi Panchayat, Udayarpalayam Taluk, Ariyalur District, 621803",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANKA-2026-20260406054342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14932/0/a48db13cda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Kasinathan",
+        "address": "3A,  Anna Nagar, Jayankondam Post, Udayarpalayam Taluk, Ariyalur District, 621802",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406072049.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11050/0/edbc71516a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasi",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Ravisankar",
+        "address": "2-85, South Street, Kaduvetti, Papakudi North, Udayarpalayam Taluk, Ariyalur District, 612903",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASI-2026-20260406061103.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9320/0/db4bf8ade8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thamizhmaravan",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Komagan",
+        "address": "2/104, Asaritheru, Gangaikondacholapuram, Udayarpalayam Taluk, Ariyalur District, 612901",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THAMI-2026-20260404052243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7956/0/79dde95452/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thenmozhi",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Vaithilingam",
+        "address": "4/115A, Main Road, South Street, Periyathathur Village, Periyakrishnapuram Post, Andimadam Taluk, Ariyalur District, 621805",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THENM-2026-20260404043625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7351/0/4df33db37b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thenmozhi V.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Vaithilingam",
+        "address": "4/115A, Main Road, South Street, Periyathathur Village, Periyakrishnapuram Post, Andimadam Taluk, Ariyalur District, 621805",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THENM-2026-20260404043625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15950/0/eef5750eed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaithilingam",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Ganesan",
+        "address": "4/115A,  Main Road, South Street, Periyathathur Village, Periyakrishnapuram  Post, Andimadam Taluk, Ariyalur District, 621805",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAITH-2026-20260404040259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6680/0/3d46fd2ca1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vaithilingam G.",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Ganesan",
+        "address": "4/115A, South Street, Periya Thathur Village, Periyakrishnapuram  Post, Andimadam Tk, Ariyalur Dt, 621 805",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VAITH-2026-20260404040259.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16149/0/bb3590f386/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatajalapathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Ramalingam",
+        "address": "5/115J9, Viruthachalam Road, Andimadam Post And Taluk, Ariyalur District, 621801",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406065513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9376/0/17da4e3a46/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatajalapathi R.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Ramalingam",
+        "address": "5/115J9, Viruthachalam Road, Andimadam Post And Taluk, Ariyalur District, 621801",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406065513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15104/0/b1b6e82d30/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vezhaventhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Durairaj",
+        "address": "2-33, Main Road, Guruvalapar Kovil Village, Udayarpalayam Taluk, Ariyalur District, 612901",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEZHA-2026-20260402054911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5902/0/1d31b34b79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vezhaventhan D.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Durairaj",
+        "address": "2-33, Main Road, Guruvalapar Kovil Village, Udayarpalayam Taluk, Ariyalur District, 612901",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEZHA-2026-20260402054911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16497/0/647bd4337b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinothsavariremijeas",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Chinnappan",
+        "address": "53, Vks Nagar, Puthumariamman Temple, Valaiyapettai Agraharam, Kumbakonam Taluk, Thanjavur District, 612702",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260404050423.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7145/0/9436416294/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinothsavariremijeas C.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Jayankondam",
+        "father_husband_name": "Chinnappan",
+        "address": "53, Vks Nagar, Puthumariamman Temple, Valaiyapettai Agraharam, Kumbakonam Taluk, Thanjavur District, 612702",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260404050423.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15822/0/3c0a217605/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

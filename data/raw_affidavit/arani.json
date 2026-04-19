@@ -1,0 +1,863 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Arani",
+    "count": 57,
+    "candidates": [
+      {
+        "name": "Ammu. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Varghese. M",
+        "address": "No. 113 Pazhaiya Colony, Murugapadi Village And Post, Polur Taluk Tiruvannamalai District, 606803",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AMMU-2026-20260409023928.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14852/0/e8e743c887/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ammu. V.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Varghese. M.",
+        "address": "No. 113 Pazhaiya Colony, Murugapadi Village And Post, Polur Taluk Tiruvannamalai District, 606803",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMMU-2026-20260406084145.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10727/0/5409fd33c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Subramani",
+        "address": "No.23,  Vanagara Street, Kannamangalam,  Arani Taluk.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASKA-2026-20260406113652.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11876/0/8bd976523b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Silambarasan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Chinnadurai",
+        "address": "No.162, Mettu Street, Pudhukottai Village, Melmattai Vinnamangalam Post, Cheyyar Taluk, Tiruvannamalai District, 604503",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSIL-2026-20260402073817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6002/0/fd5f8d5160/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D. Venkatesh Kumar",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "V. Dhanusu",
+        "address": "227, Bajanai Koil Street, Thiruvampattu Village And Post, Gingee Taluk, Villupuram District, 604205",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVEN-2026-20260402083943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5953/0/f0796fcc8f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Damodaran. M.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Munusamy",
+        "address": "No.1104A, Anna Nagar, Millers Road, Piyur, Arani Taluk, Tiruvannamalai District, 632317.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DAMOD-2026-20260406103311.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11702/0/112dbb8f4b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhamotharan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Munusamy",
+        "address": "No.1104A, Anna Nagar, Millers Road, Paiyur, Arani Taluk, Tiruvannamalai District, 632317.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DAMOD-2026-20260409065647.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14688/0/e3983079c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhavamani R.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Rajendiran",
+        "address": "1/391, Kannadhasan Street, Sakthi Nagar, Chetpet Road, Arani Tk, Tiruvannamalai District, 632317",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHA-2026-20260330072515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6878/0/04a919717f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhavamani. R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Rajendiran",
+        "address": "No.1/391, Kannadhasan Street, Sakthi Nagar, Chetpet Road, Arani, Thiruvannamalai District - 632317",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHAVA-2026-20260409013848.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16626/0/0afed633a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "E. Selvakotti",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Elumalai",
+        "address": "No.217, Road Street, Anna Nagar, Gangasoodamani Village, Polur Taluk, Tiruvannamalai District, 606801",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESEL-2026-20260402041507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5521/0/ea7ef5be9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ekambaram V.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Vajjiravel",
+        "address": "No.663, Bajanai Kovil Street, Kamakurpalayam Village, Arani Taluk, Tiruvannamalai District, 606903",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEKA-2026-20260402044904.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6873/0/72c28026f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ekambaram. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Vajjiravel",
+        "address": "No.663, Bajanai Kovil Street, Kamakurpalayam Village, Arani Taluk, Tiruvannamalai District, 606903",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EKAMB-2026-20260409014713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16458/0/8393804e31/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganapathy S.",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sambandamurthy",
+        "address": "12/A, Gopal Mudhaliyar Street, Kosappalayam, Arani Taluk, Tiruvannamalai District, 632301",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGAN-2026-20260402091654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6869/0/19e8137007/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganapathy. S",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sambandamurthy",
+        "address": "No. 12/A, Gopal Mudaliyar Street, Kosapalayam, Arani, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GANAP-2026-20260409072906.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16353/0/a895f050d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Govarthanan. K.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Krishnamoorthy",
+        "address": "No.72/7A, Agm Street, Kannamangalam, Arani Taluk, Tiruvannamalai District, 632311",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOVAR-2026-20260406095924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11701/0/8ca6d366a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayanthi. E",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Elumalai",
+        "address": "No.3/351, Kannagi Nagar, Mullipattu, Arani Taluk, Tiruvannamalai District.",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAN-2026-20260409065954.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15602/0/c05f53cccb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayanthi. E.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Elumalai",
+        "address": "No.3/351, Kanagi Nagar, Mullipattu, Arani Taluk, Tiruvannamalai District.",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAN-2026-20260406111323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12487/0/eb69ee6527/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayanthi. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Murali",
+        "address": "No.1/44, Bajanai Kovil Street, Kannamangalam, Arani Taluk, Tiruvannamalai District.",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAN-2026-20260406112335.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11696/0/1910218f0d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayasudha. L",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Lakshmikanthan. K",
+        "address": "No. 5/4, 2Nd Cross Street,  Indra Nagar, Diversion Road, Polur Taluk, Tiruvannamalai District-606803",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAS-2026-20260409065541.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15130/0/48cc24ebf7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayasudha. L.",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Lakshmikanthan. K.",
+        "address": "5/4, 2Nd Cross Street,  Indra Nagar,  Diverson Road, Polur.-606803",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAS-2026-20260406101752.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalaimani. V",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Veerasamy",
+        "address": "No. 4/443, Bajanai Kovil Street, Panaiyur Village, Arani Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KALAI-2026-20260409023553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15498/0/ad084d2eda/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kalaimani. V.",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Veerasamy",
+        "address": "No. 4/443, Bajanai Koil Street, Panaiyur Village, Arani Taluk, Tiruvannamalai District, 632518",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KALAI-2026-20260406053106.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10106/0/cd8e3be6b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan. S.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sambath. M.",
+        "address": "No. 52, Kottai South Street, Government Hospital Road, Periyar Nagar, Arani, Tiruvannamali District, 632301",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406082513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11019/0/73c1f8e65d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Mohan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "B. Manjunathan",
+        "address": "64/16, Kalyanasundaranar Street, Arunagiri Chathiram, Arani, Tiruvannamalai District, 632301",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMOH-2026-20260330075029.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/449/0/4047cae491/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi Govarthanan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Govarthanan. K.",
+        "address": "No.72/7A, Agm Street, Kannamangalam, Arani Taluk, Tiruvannamalai District, 632311",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MAHAL-2026-20260408074020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13893/0/71e3cc0746/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Ganesan",
+        "address": "826/350,   Rajiv Gandhi Street, Mgr Nagar,  Paiyur Village, Arani Taluk.",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAL-2026-20260407120847.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11579/0/78e8623f6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi. G.",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Govarthanan. K.",
+        "address": "No.72/7A, Agm Street, Kannamangalam, Arani Taluk, Tiruvannamalai District, 632311",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAL-2026-20260406090111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10528/0/9d703d44d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mahalakshmi. G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Gopalakrishnan",
+        "address": "Kulathumettu Street, 3Rd Cross Street, Devikapuram Village, Chetpet Taluk, Tiruvannamalai District, 606902",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAL-2026-20260406095051.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12372/0/f6335edc27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan M.",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Manjunathan B.",
+        "address": "64/16, Kalyanasundaranar Street, Arunagiri Chathiram, Arani, Tiruvannamalai District, 632301",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMOH-2026-20260330075029.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6879/0/d24129cd63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Dhavamani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Rajendiran",
+        "address": "1/391, Kannadhasan Street, Sakthi Nagar, Chetpet Road, Arani Tk, Tiruvannamalai District, 632317",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHA-2026-20260330072515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/389/0/dd619c95cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Ganapathy",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sambandamurthy",
+        "address": "12/A, Gopal Mudhaliyar Street, Kosappalayam, Arani Taluk, Tiruvannamalai District, 632301",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGAN-2026-20260402091654.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5976/0/50ecfdf2f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Sakthivel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "R. Sivaraj",
+        "address": "No.870, Arignar Anna Street, Mgr Nagar, Paiyur Village, Arani Taluk, Tiruvannamalai District, 632317",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAK-2026-20260402081835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6051/0/6b831ad788/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sivaraj R.",
+        "address": "No.870, Arignar Anna Street, Mgr Nagar, Paiyur Village, Arani Taluk, Tiruvannamalai District, 632317",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAK-2026-20260402081835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6876/0/a47ad72858/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sivaraj. R",
+        "address": "No.870, Arignar Anna Street, Mgr Nagar, Paiyur Village, Arani Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAKTH-2026-20260409015536.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16511/0/7f8989b0fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sachithanandam",
+        "address": "No.28, Pillayar Koil Street, Kannamangalam,  Arani Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406112911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11784/0/af5c316fd5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakotti E.",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Elumalai",
+        "address": "No.217, Road Street, Anna Nagar, Gangasoodamani Village, Polur Taluk, Tiruvannamalai District, 606801",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESEL-2026-20260402041507.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6877/0/94e3f8f36e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakotti. E",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Elumalai",
+        "address": "No.217, Road Street, Anna Nagar, Gangaisoodamani Village, Chetpet Taluk, Tiruvannamalai District, 606801",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SELVA-2026-20260409014251.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16522/0/cc214bce22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakumar D.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Dhanusu V.",
+        "address": "No.227, Bajanai Koil Street, Thiruvampattu Village And Post, Gingee Taluk, Villupuram District, 604205",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404042601.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6250/0/f8c3c18162/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sethurama Sashthri. G.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Ganesan",
+        "address": "No.1296/683, Kattabomman Street, Akash Nagar, Kunrathur Gerugambakkam, Kancheepuram District, 600128.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SETHU-2026-20260406105428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12228/0/c5a9bcfa91/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sethurama Sasthri. G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Ganesan",
+        "address": "No.1296/683, Kattabomman Street, Akash Nagar, Kunrathur Gerugambakkam, Kancheepuram District, 600128.",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SETHU-2026-20260409065856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15247/0/db5adde611/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Silambarasan .C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Chinnadurai",
+        "address": "No.162, Mettu Street, Pudhukottai Village, Melmattai Vinnamangalam Post, Cheyyar Taluk, Tiruvannamalai District, 604503",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSIL-2026-20260402073817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6871/0/e11e31b320/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Silambarasan. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Chinnadurai",
+        "address": "No.162, Mettu Street, Pudhukottai Village, Cheyyar Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SILAM-2026-20260409015255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16441/0/6158c1524b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudha. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Selvaraj",
+        "address": "No.23B, New Colony, Kannamangalam, Arani Taluk, Tiruvannamalai District.",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SUDHA-2026-20260409072644.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15035/0/d59c556b21/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudha. S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Selvaraj",
+        "address": "No.23B, New Colony, Kannamangalam, Arani Taluk, Tiruvannamalai District.",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406114807.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12017/0/aa42bf5601/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. S",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sambath. R",
+        "address": "No. 29, Karthikeyan Road, Saidhapettai, Arani, Tiruvannamalai District- 632301",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SURES-2026-20260409023712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14721/0/52d15f45ac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. S.",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Sambath. R.",
+        "address": "No. 29, Karthikeyan Road, Saidapettai, Arani, Tiruvannamalai District, 632301",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406081430.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10577/0/90543b0292/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilmannan. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Dharuman",
+        "address": "No. 420, Povundu Street, Alisoor Village, Uthiramerur Taluk, Kancheepuram District, 603402",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260407121601.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11589/0/d49ad55116/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilmannan. D",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Dharuman",
+        "address": "No. 420, Povundu Street, Alisoor Village, Uthiramerur Taluk, Kancheepuram District, 603402",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TAMIL-2026-20260409070846.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14614/0/4c35f4ebbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Ekambaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Vajjiravel",
+        "address": "No.663, Bajanai Kovil Street, Kamakurpalayam Village, Arani Taluk, Tiruvannamalai District, 606903",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEKA-2026-20260402044904.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5381/0/6c8f6b4a1c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Padavettan",
+        "address": "No. 366, Pillaiyar Koil Street, Araiyalam Village, Arani Taluk. Tiruvannamalai District, 632326.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260409070554.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15179/0/e7d684f041/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesan. P.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Padavettan",
+        "address": "No. 366, Pillaiyar Koil Street, Araiyalam, Arani Taluk. Tiruvannamalai District, 632326.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VENKA-2026-20260406115704.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12170/0/f3f5060c86/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh Kumar D.",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Dhanusu V.",
+        "address": "227, Bajanai Koil Street, Thiruvampattu Village And Post, Gingee Taluk, Villupuram District, 604205",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DVEN-2026-20260402083943.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6868/0/5d958f8fa4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh Kumar. D",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Dhanusu. V",
+        "address": "No.227, Bajanai Kovil Street, Thirvampattu Village And Post, Gingee Taluk, Villupuram District, 604205",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260409015719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16310/0/97621b583c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayalakshmi. K.",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Kalaimani",
+        "address": "No. 4/443, Bajanai Koil Street, Panaiyur Village, Arani Taluk, Tiruvannamalai District, 632518",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260406075128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10500/0/2a22ecfdf8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vimalraj . L",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Lakshmikanthan. K",
+        "address": "No. 5/4, 2Nd Cross Street, Indra Nagar, Diversion Road, Polur Taluk, Tiruvannamalai District, 606803",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIMAL-2026-20260406092254.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12448/0/540c9740d9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Annamalai. K",
+        "address": "No.35, Kannappan Street, Arunagirichathiram, Arani Town, Arani Taluk, Tiruvannamalai District, 632301.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VINOT-2026-20260409065732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14970/0/2e81e36da5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinoth. A.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arani",
+        "father_husband_name": "Annamalai. K.",
+        "address": "No.35, Kannappan Street, Arunagirichathiram, Arani Town, Arani Taluk, Tiruvannamalai District, 632301.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260406104248.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11960/0/68309ab483/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

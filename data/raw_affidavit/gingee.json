@@ -1,0 +1,460 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Gingee",
+    "count": 30,
+    "candidates": [
+      {
+        "name": "Advocate Krishnan E",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Elumalai V",
+        "address": "786, Cth Road, Cholan Nagar, Pattabiram, Avadi, Chennai-600072",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KRISH-2026-20260409060751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16331/0/a5c98a733c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anbalagan M",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Mannagounder",
+        "address": "No.3/111B, Manthoppu Pillaiyar Koil, Thottan Kuppam, Nechalur, Viluppuram District-604 201",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANBAL-2026-20260406054941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8476/0/62dd78537b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arun",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Marimuthu",
+        "address": "57, Kothamangalam Salai, Krishnapuram, Gingee.",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUN-2026-20260404045903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6969/0/9c8b2d98a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banukumar R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Ragavan",
+        "address": "No.200, Throwpathiamman Koil Street, Mampattu Village, Vandavasi Taluk -604408",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BANUK-2026-20260406060944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8831/0/73fee05beb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chandrasekaran B",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Balasubramaniyan",
+        "address": "11, Railway Station Road, Gnaamurthy Nagar, Extn, Ambathur, Thiruvallur-600053",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CHAND-2026-20260404030851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6531/0/6dfe87fdb9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Deebika R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Chandrasekaran B",
+        "address": "11, Railway Station Road, Gnaamurthy Nagar, Extn, Ambathur, Thiruvallur-600053",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEEBI-2026-20260406040605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10329/0/54ef6531fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devendiran M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Mari E",
+        "address": "No.113, Pudur Colony Street, Manalapadi Village, Gingee Taluk - 604151",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVEN-2026-20260406042122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9098/0/449973e677/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganeshkumar A",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Arunachalam S",
+        "address": "R6/4, Vaigai Street, Kalashetra Kalani, Besant Nagar, Chennai-600090",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260406051716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8979/0/2fae249d9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gingee Masthan K S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Kajaa Basha",
+        "address": "59, Desurpattai Salai, Krishnapuram, Gingee Town, Viluppuram District-604202",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GINGE-2026-20260409063255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14863/0/342527fe14/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gokulraj S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Subramanian",
+        "address": "4, Perumal Street, Periyakaram, Gingee, Villupuram. 604202",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOKUL-2026-20260404050713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7270/0/561818de1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayanthi R",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Perumal N",
+        "address": "1/5, Bajanaikoil Street, Barathanthangal Village, Alampoondi Post, Gingee Taluk-604151",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JAYAN-2026-20260406035241.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9738/0/4cd0fc00d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnan E",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Elumalai V",
+        "address": "786, Cth Road, Chozhan Nagar, Pattabiram, Avadi, Chennai-600072",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260402030918.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5156/0/d97c815d47/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Masthan K S",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Kajaa Basha",
+        "address": "No. 59, Desurpattai Salai, Krishnapuram, Gingee Town, Viluppuram District-604202",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MASTH-2026-20260406062648.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8937/0/ad4aeada77/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohammad Siddiq M H",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Mohammad Haroon Rasheed",
+        "address": "11, Gudusayabu Street, Sakkarapuram, Gingee - 605202",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260330034055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/359/0/f3c93fcec1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Arjunan",
+        "address": "No.10/004, Main Road, Mavanandal Mathura Neelampoondi Village, Kadali Post, Melmalaiyanur Taluk, Viluppuram District-604210",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406032738.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8795/0/19da72a8c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Munusamy A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Ariputhiran",
+        "address": "17, Desurpattai Street, Krishnapuram, Gingee-604202",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNUS-2026-20260404034218.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6399/0/ae527ddeec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Perumal N",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Natesan",
+        "address": "1/5, Bajanaikoil Street, Barathanthangal Village, Alampoondi Post, Gingee Taluk-604151",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PERUM-2026-20260406034805.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9575/0/9c1c95939d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poyadhappan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Kesavan",
+        "address": "142, Akilandeswari Street, Gajalakshmi Nagar, Vandavasi Town, Vandavasi Taluk-604408",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POYAD-2026-20260406055332.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9990/0/b5c34579b5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poyyathappan K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Kesavan",
+        "address": "142, Akilandeswari Street, Gajalakshmi Nagar, Vandavasi Town, Vandavasi Taluk,Thiruvannamalai-604408",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/POYYA-2026-20260409062736.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15430/0/c2ae72f4de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabakaran M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Murugesan",
+        "address": "29, Pookkara Street, Sirukadambur, Gingee, Viluppuram-604202",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABA-2026-20260404051341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7551/0/1841a5becf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Ramasamy",
+        "address": "No.1/81, Keezhanda Street, Nallanpillaipetral Village, Kattuchittamur, Gingee Taluk, Viluppuram District-604152",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260404045034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7854/0/ff33c8b401/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rangarajan E",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Elangovan M",
+        "address": "No.39, M.g.r. Street, Gidangal-2, Tindivanam, Viluppuram District-604001",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RANGA-2026-20260404032122.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6762/0/9e4974f8c0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rasanayagam N",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Narayanasamy",
+        "address": "No.4/146, Meettu Street, Kozhapalur Village, Melmalaiyanur Taluk-604152",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RASAN-2026-20260406033610.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9070/0/d90dcbc01b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sadasivam D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Duraisamy",
+        "address": "1/240, Othavadai Street, Muniyammal Samy Adhinam, Melmalaiyanur, Viluppuram-604204",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SADAS-2026-20260402042036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5120/0/412a788867/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel A",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Arumugam G",
+        "address": "386, Marriyamman Kovil Street, Vallam, Gingee-604206",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTH-2026-20260402023147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5450/0/d03ae8bfe4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikumar S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Shanmugam E",
+        "address": "No.44/119, Rangasamynaidu Street, Periyagaram, Gingee, Viluppuram District-604202",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIK-2026-20260406065446.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9322/0/cfd47a2d07/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sayedane Be",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Masthan K S",
+        "address": "No. 59, Desurpattai Salai, Krishnapuram, Gingee Town, Viluppuram District-604206",
+        "gender": "Female",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAYED-2026-20260406064629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8866/0/d5c4452f6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sridhar G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Gopal",
+        "address": "84, Palla Street, Kazhziyur Village, Cheyyar Taluk, Thiruvannamalai District-604407",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SRIDH-2026-20260406061451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9743/0/c14280b036/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thanigaimalai R",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Ramalingam",
+        "address": "No.46/2, Vinayagar Kovil Street, Sitheri Village, Devanur Post, Melmalaiyanur Taluk-604208",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANI-2026-20260404041534.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6840/0/42889c6201/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayaganth P",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gingee",
+        "father_husband_name": "Perumal",
+        "address": "1/129E, Vanniyar Street, Seeyapoondi, Viluppuram District-604204",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIJAY-2026-20260402034945.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5238/0/cda1f69973/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

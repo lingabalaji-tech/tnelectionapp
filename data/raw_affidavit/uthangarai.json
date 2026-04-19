@@ -1,0 +1,385 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Uthangarai",
+    "count": 25,
+    "candidates": [
+      {
+        "name": "A Samraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Arunachalam",
+        "address": "Dharuma Thoppu Village, Sivampatti Post, Bargur Taluk, Krishnagiri District, Pincode 63 5203",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAMR-2026-20260406052505.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9558/0/c05f46103b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bagyalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Annadurai",
+        "address": "80 B, Nerunagar, Denkanikottai Raod, Hosur, Krishnagiri District, 635109",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BAGYA-2026-20260406064508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10334/0/129bdd6137/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bagyalakshmi",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Annadurai",
+        "address": "80 B, Nerunagar, Denkanikottai Raod, Hosur, Krishnagiri District, 635109",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BAGYA-2026-20260406064508.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11389/0/efe13931e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bakkiyaraj R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Raja",
+        "address": "121 A Viswasampatti Village, Maganoor Patti Post, Uthangarai Taluk, Krishnagiri District Pin - 635307",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BAKKI-2026-20260404033130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6216/0/ea2dcfd50d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Geetha",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Chinnadurai",
+        "address": "216, Pillayarkovil Street, Kanndhahalli ,Athikanur Post, Bargur Taluk, Krishnagiri District, Pin-635203",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CGEET-2026-20260402050307.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5551/0/eadbc13813/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Ramesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Chinnathambi",
+        "address": "109 , Kondampatti Village, Marampatti Post, Uthangarai Taluk, Krishnagiri District, Pincode - 635207",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAME-2026-20260406053255.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10204/0/d77cbd367c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G Sakthi",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Gopal",
+        "address": "1/83C, Indira Nagar, Mahadevagollahalli Village, Anagodi Post, Pochampalli Taluk, Krishnagiri District, Postal Code - 635207",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSAKT-2026-20260406081135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11429/0/e53f52b2ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Iswriya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Jayavel",
+        "address": "27, Kuppanatham Village, Nadupatti Post, Uthangarai Taluk, Krishnagiri District, Pin - 635307.",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ISWRI-2026-20260404050319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7101/0/beb6d4ea9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Thavaraj",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Kanthiya",
+        "address": "183, Bharathipuram, Uthangarai Taluk, Krishnagiri District, 635207",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KTHAV-2026-20260406073542.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10729/0/7e26e39fa6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumaravel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Ponnusamy",
+        "address": "No.6/719, Park Avenue Meppur, Nasarathpettai, Thiruvallur District, Pin Code - 600 123",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260406054420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9117/0/2b201d7fb3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "L Kalaivani",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Lakshmanan",
+        "address": "Kannichi Village , Samalpatti Village, Uthangarai , Krishnagiri 635306",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LKALA-2026-20260406085630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11258/0/e380178b51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mekala",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Balakrishnan",
+        "address": "1/109, Chinna Thallappadi Village,  Mittapalli Post, Uthangarai Taluk, Krishnagiri District. Pin - 635307",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MEKAL-2026-20260404044714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7291/0/11bb36b369/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muniraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Munisamy",
+        "address": "Do.n 123/2, Omsakthi Nagar, Samalpatti Village And Post, Uthangarai Taluk, Krishnagiri District Pin -635306",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUNIR-2026-20260406031450.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10310/0/72c0778b79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N Elaiyaraja",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Natesan",
+        "address": "No.19T, Selam Mainroad, Kamarajnagar, Uthangarai Post And Taluk, Krishnagiri District Pin - 635207",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NELAI-2026-20260406023835.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8640/0/a3d594f919/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N Kumaresan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "J Nadesan",
+        "address": "D.no.12 Kamaraj Nagar, Mittapalli  Post, Uthangarai Taluk ,Krishnagiri District, Pincode- 6353 07",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NKUMA-2026-20260406065837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9687/0/6942c72955/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palani R",
+        "party": "Thakkam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "K M Raja",
+        "address": "1/78, Guttur, Ampalli, Bargur Tk, Krishnagiri Dt Pin-635104",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAN-2026-20260402043147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5228/0/e900d6901d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Kuppusamy",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Ramasamy",
+        "address": "No.80, Chennasamuthiram Village, Chengam Taluk, Tiruvannamalai District, Pincode -  606 701",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKUPP-2026-20260406051019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8778/0/0ecb0df2ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Murugan",
+        "address": "145 Ambedkar Nagar ,.Uthangarai Village ,Uthangarai Taluk, Krishnagiri District Pin-635207",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406033811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9162/0/11d64cb3de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rameshwari",
+        "party": "Bharat Jan Chikitsa Party",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Kuppusamy",
+        "address": "113/1, Reddiyr Thottam, Kamaraj Nagar West, Uthangarai, Krishnagiri District 635207",
+        "gender": "Female",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260406091214.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12112/0/81e00699df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Revathi",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Thavaraj",
+        "address": "D No 183, Bharathipuram , Uthangarai , Krishnagiri District, 635207",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REVAT-2026-20260406083636.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10527/0/dcfa77a2a1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Ajithkumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Sampath",
+        "address": "1/247, Balethottam Village , Pochampalli Taluk, Krishnagiri District, 635206",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAJIT-2026-20260406092741.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11670/0/377db2d110/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T Haridas",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "T M  Tamilselvam",
+        "address": "No. 23 ,Dharuma Thoppu Village ,Sivampatti Post, Bargur Taluk ,Krishnagiri District, Pincode - 635203",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THARI-2026-20260406045643.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9436/0/f3c535ae94/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T M  Tamilselvam",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Manikkam",
+        "address": "No. 23 ,Dharuma Thoppu Village, Sivampatti Post, Bargur Taluk ,Krishnagiri District ,Pincode - 635203",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMTAM-2026-20260406035344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9757/0/022f14a778/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilmani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Subramani",
+        "address": "D.no 54, Cuddalore Mainroad, Uthangarai Taluk, Krishnagiri District Pin - 635207",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260404025516.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6528/0/1343fd40dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijiyal",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Uthangarai",
+        "father_husband_name": "Rangasamy",
+        "address": "Kannichi Village, Samalpatti Post, Uthangarai Taluk, Krishnagiri District, Pin - 635306",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VIJIY-2026-20260406075823.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10693/0/728932d462/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

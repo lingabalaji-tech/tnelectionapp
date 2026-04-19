@@ -1,0 +1,520 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Polur",
+    "count": 34,
+    "candidates": [
+      {
+        "name": "A. Shanmugavelu",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Arunagiri",
+        "address": "No.2,  Bharathiyar Street,  Kalambur, Polur Taluk, Tiruvannamalai District - 606 903",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHA-2026-20260330053328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/495/0/da7367dbd9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abishek. R",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Ravikumar",
+        "address": "No.a-16, Anna Nagar 6Th Cross Street, Chengalpattu - 603001.",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABISH-2026-20260402060734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5726/0/1851bdd7e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arul Selvam. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Arokiaswamy",
+        "address": "Madha Kovil Street, Polur Town, Polur Taluk. Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULS-2026-20260404060940.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7417/0/3aad1215d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arulpandian. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Arumugam",
+        "address": "No.119. South Street, Potharai Village  Post,  Polur Taluk,  Tiruvannamalai District. - 606 803.",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULP-2026-20260406085716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11308/0/2f19cd0f7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Banupriya. D",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Desinguraja",
+        "address": "Door No.254, Mariamman Koil Streer, Appedu, Chetpet  Taluk,  Tiruvannamalai  606 801",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BANUP-2026-20260406060804.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9126/0/fd35e0df19/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Barathmugundan. S",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Subramanian",
+        "address": "20. Bajanai Koil Street, Kundianthandalam Village, Menallur Post, Vembakkam Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BARAT-2026-20260406065414.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9286/0/45ec8a65ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Arumugam",
+        "address": "No.164. Road Street, Seiyananthal, Thatchampadi Post, Chetpet Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASKA-2026-20260406074745.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11314/0/c156dbe7be/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran. C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Chinnakuzhandai",
+        "address": "No.8/2 Sennu Street, Polur Town, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASKA-2026-20260406073923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10902/0/401e0b2a8f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran. C. R",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Rukmangathan",
+        "address": "No.94/35 . Kailasanather  Koil Street,  Big Nattham Chengalpattu.  Pin 603 001.",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASKA-2026-20260406063747.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9709/0/6631387de8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Baskaran. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Mani",
+        "address": "Pillaiyar Kovil Stret, Sengunam Village, Polur Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BASKA-2026-20260406072657.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11315/0/41e4e5c2e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Boopathi. T",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Thirunavukkarasu. D.",
+        "address": "No.124. Erikuppam Koot Road, Parvathiagaram Village, Erikuppam Panchayat , Polur Taluk, Tiruvannamalai District - 606 903",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BOOPA-2026-20260406061428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9685/0/72981f9088/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhavamani. P",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Ponnusami",
+        "address": "No.275. Vinayagar Koil Street,  Banampattu Village, Satthappoondi Post, Vandavasi Taluk.",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHAVA-2026-20260404054339.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7495/0/304842e0e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhil Arasu. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Mariya Doss",
+        "address": "No.6/334 Mogappair West, Chennai-37.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/EZHIL-2026-20260404053729.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7253/0/c93df94563/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ezhil Arasu. M M.a. L.l.m.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Mariya Doss",
+        "address": "No.6/334 Mogappair West, Chennai-600 037",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EZHIL-2026-20260409074034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15892/0/4e77b1b6bf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Haripriya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Janakiram",
+        "address": "No.149, Besant Road, Ice House, Thiruvallikeni, Chennai - 600005.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIP-2026-20260402061849.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5799/0/67f7206548/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan. R",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Rajendiran",
+        "address": "21. Pattai Street. Anmaruthai Village, Chetpet Taluk. Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260406070115.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9914/0/ee68d5cf7f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. O",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Oyieelu",
+        "address": "140. Pillaiyar Koil Street, Periyakaram Village  Post, Polur Taluk- 606 803.",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406062117.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10333/0/a8e9bceb7a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Priya. S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Subramani",
+        "address": "808/1, Arani Road Street, Karunkalikuppam, Kalvasal, Tiruvannamalai District. Tamil Nadu - 606903.",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRIYA-2026-20260402064052.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5888/0/bac6226d61/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Purushothaman. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Munusamy",
+        "address": "1/5 Pillaiyar Kovil Street, Veerasambanur Village,  Thumbur Post, Chetpet Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PURUS-2026-20260402065045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5933/0/6688606421/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Purusothaman. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Munusamy",
+        "address": "1/5 Pillaiyar Kovil Street, Veerasambanur Village,  Thumbur Post, Chetpet Taluk, Tiruvannamalai District.-606 902",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PURUS-2026-20260409073830.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16529/0/a7814449a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajagopal. S",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Sankar Achari",
+        "address": "358,  Bajanai Koil Street,  Kalvasal Village Post, Polur Taluk, Tiruvannamalai District",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAG-2026-20260402063224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5852/0/5875cbb5d8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramesh. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Rajendiran",
+        "address": "15, Pillaiyar Koil Street, Kattipoondi,  Kelur Post, Polur Taluk.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMES-2026-20260402070036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5671/0/cf8d3fb64c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rathakrishnan. V",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Varathan",
+        "address": "2/30. Pattai Street. Anmaruthai Post, Chetpet Taluk. Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RATHA-2026-20260406071413.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10768/0/1b09fd4cfc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Murugesan",
+        "address": "No.295 Road Street, Aathurai Village  Post, Chetper Taluk,  Tiruvannamalai District. - 606 902.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406091355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12171/0/96982fa1b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. P",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Panneerselvam",
+        "address": "22. Velalar Street, Akkur Village  Post, Cheyyar Taluk,  Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406064417.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8563/0/44b86b231c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Saravanan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Pandurangan",
+        "address": "No.20. Road Street, Koralpakkam, Sanikkavadi Post,  Polur Taluk,  Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SARAV-2026-20260406083632.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10512/0/cd2738d54e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sham Sundar. D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Devasagayam",
+        "address": "17/49. Sivaraj Nagar,  Polur,  Tiruvannamalai District. Pin 606 803.",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAMS-2026-20260406082944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11204/0/03ddd67950/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugavelu. A",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Arunagiri",
+        "address": "No.2,  Bharathiyar Street,  Kalambur, Polur Taluk, Tiruvannamalai District - 606 903",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHA-2026-20260330053328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13391/0/f409a0d602/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subha. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Gunasekaran",
+        "address": "No.638 . Road Street, Periyakaram Village , Tiruvannamalai,  Tamil Nadu-  606 803",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBHA-2026-20260406063150.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9240/0/793f2f5fff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Mukram. R. N",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Syed Najirulla",
+        "address": "No. 3A, Kalkudhirai Thakka Street. Tiruvannamalai -606 601",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDM-2026-20260404055601.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12955/0/06a6b8f993/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Mukram. R.n",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Syed Najirulla",
+        "address": "3A, Kalkudhirai Thakka Street. Tiruvannamalai Town.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDM-2026-20260404055601.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8016/0/14a78308f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Mukram. R.n",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Syed Najirulla",
+        "address": "3A, Kalkudhirai Thakka Street. Tiruvannamalai Town.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDM-2026-20260404055601.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8961/0/dc5d89d83b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Umadevi. A",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Prakash",
+        "address": "No. 356/78, Bajanai Kovil Street, Kalvasal Village And Post, Polur Taluk, Tiruvannamalai District - 606 903.",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UMADE-2026-20260330045425.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/246/0/a9afee11b0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Velayutham. A",
+        "party": "Pattali Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Polur",
+        "father_husband_name": "Arumugam",
+        "address": "No.290 Kitten Area, Kongarampattu, Kannamangalam Post, Arni Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VELAY-2026-20260406075341.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10667/0/034219a7b6/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

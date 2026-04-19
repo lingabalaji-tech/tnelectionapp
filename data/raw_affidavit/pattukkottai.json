@@ -1,0 +1,265 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Pattukkottai",
+    "count": 17,
+    "candidates": [
+      {
+        "name": "Annadurai C N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Nagarajan",
+        "address": "New No 103 Door No-98-11 Mela Adidiravidar Street Pattukkottai Town-614601",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANNAD-2026-20260406050959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10392/0/e51bd93f86/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Annadurai K",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Kasinathan",
+        "address": "1/155 West Street North Mannangadu Pattukkottai-614613",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANNAD-2026-20260406021358.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9553/0/e1a2f5be5a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gurumoorthy M",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Mari",
+        "address": "56-B Adidravidar Street Pannavayal Post Pattukkottai -614602",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GURUM-2026-20260406025155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9214/0/22c46d1988/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kannan S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Saminathan",
+        "address": "43/2 Sivakkollai Nainankulam Post Pattukkottai-614602",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KANNA-2026-20260330024500.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/117/0/ea1f8f4650/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kasirajan A",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Annadurai K",
+        "address": "1/155 West Street North Mannangadu, Mannangadu Post Pattukkottai -614613",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASIR-2026-20260406030852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10014/0/94be073668/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manimaran P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Panneerselvam",
+        "address": "60 Pattunoolkara Street Pattukkottai-614601",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIM-2026-20260406041926.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8977/0/66ce96291b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mathan C",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Chidambaram",
+        "address": "172, East Street Enathi, Pattukkottai-614615",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/Matha-2026-20260404023535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6246/0/918c20b38d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Sharif M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Mohamed Ansari",
+        "address": "3 Kaliyar Street Adirampattinam Pattukkottai-614701",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260406052957.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10052/0/9648245475/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muthukumar D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Dhakshinamoorthy",
+        "address": "915 Railway Street, Thambikottai Vadakadu  Pattukkottai Thjanjavur 614704",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MUTHU-2026-20260402021755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5388/0/5648af2257/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Reka M",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Mathan C",
+        "address": "172, East Street Enathi, Pattukkottai-614615",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/REKAM-2026-20260404031630.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6772/0/e7c0e43c15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sekar C V",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Vellaisamy",
+        "address": "3/70 South Street Alathur, Alathur Post Pattukkottai-614901",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEKAR-2026-20260406034118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9273/0/2d50ebdcd3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh M R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Rajendran",
+        "address": "287/A Anaivilunthan Kulatheru Pattukkottai-614601",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260404033513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13194/0/738c70f6b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Rajendran",
+        "address": "287/A Anavilanthan Kulatheru Pattukkottai-614601",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260404033513.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6275/0/fe753925cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh R",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Ramachandran",
+        "address": "21F/125 East Street Soorappallam Pattukkottai Taluk 614602",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260406044641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8661/0/841db7a79a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thileep S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Sekar C V",
+        "address": "3/70 South Street Alathur, Alathur  Post  Pattukkottai-614901",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THILE-2026-20260406035811.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9970/0/ccc698fb2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Uthayakumaran T",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Thiruchitrambalam",
+        "address": "988 Karunkulam Manjavayal Post Thamarankottai South- 614613",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UTHAY-2026-20260330034100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/362/0/789fa6466b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ziaudeen A J",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Pattukkottai",
+        "father_husband_name": "Abdul Jaleel",
+        "address": "20/17 Hospital Street Adirampattinam Pattukkottai-614701",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ZIAUD-2026-20260406015017.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8590/0/1c0a03bf97/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Gudiyattam",
+    "count": 28,
+    "candidates": [
+      {
+        "name": "A.rajesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "K.arumugam",
+        "address": "1J, Aandiyappa Mudali Street, Bosepet, Seruvangi, Gudiyattam, Vellore District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260406101104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15040/0/07fe47f6cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Azhagappan B",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "G. Babu",
+        "address": "113A, Rs Nagar, Pichanoor, Gudiyattam Taluk, Gudiyattam, Vellore- 632602",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AZHAG-2026-20260404065220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7869/0/e3c3381b3f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharath  M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "M.mathiruban",
+        "address": "21/13, Bakar Hussain Street-3, Pernambut  635 810  Vellore District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHARA-2026-20260404072549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7727/0/63f0bb4f0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Bharath  Mathiruban",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "M.mathiruban",
+        "address": "21/13, Bakar Hussain Street-3, Pernambut  635 810  Vellore District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BHARA-2026-20260404072549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16126/0/471c59ea37/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Emalan J",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "C Jadaiyan",
+        "address": "74B/133 Avvai Nagar, Seruvangi, Gudiyattam 632602, Vellore District.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EMALA-2026-20260330061402.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/425/0/546a14c345/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.emalan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "C Jadaiyan",
+        "address": "74B/133 Avvai Nagar, Seruvangi, Gudiyattam 632602, Vellore District.",
+        "gender": "Male",
+        "age": "73",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/EMALA-2026-20260330061402.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16484/0/1c5d1ce3ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.asha",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "K.kandhan",
+        "address": "No.168, Masuthi Street, Gowtham Pet, Gudiyattam Town, Vellore District",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KASH-2026-20260406095137.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12388/0/ca87a50aa5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.b.pradap",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "K.balu",
+        "address": "No.29/4, Ambedkar Kilai Street, Kazhinjur, Katpadi Taluk, Vellore District- 632 006",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRADA-2026-20260406075530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14887/0/5e9db16cea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.sindu",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "B.azhagappan",
+        "address": "1/166, Sivan Kovil Street, Latheri, K.v.kuppam, Vellore- 632202",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SINDU-2026-20260404063609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15893/0/92cbdc4798/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.thabithal",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "R.jeevan",
+        "address": "9/31, Mangaliyamman Kovil Street, Thazhaiyatham, Gudiyatham, Vellore District",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KTHA-2026-20260409090802.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14671/0/1dc0f441d1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sumathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "S.murali",
+        "address": "No.107A, Sengundram Village And Post, Gudiyattam Taluk, Vellore District- 632601",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUMAT-2026-20260406080007.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15114/0/81b7e1053a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malavika C",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "Chandrakumar",
+        "address": "No: 24-1 Mangaliyamman Kovil Street, Thazhaiyatham, Gudiyattam- 6326021",
+        "gender": "Female",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALAV-2026-20260406082200.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10891/0/4584613aac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paritha Purushothaman.g",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "R.purushothaman",
+        "address": "No.18, Dobith Street, Masigam Village , Pernambut- 635810",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PARIT-2026-20260406074247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14977/0/0cb326e10b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parithapurushothaman G",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "R.purushothaman",
+        "address": "No.18, Dobith St, Masigam Village , Pernambut- 635810",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PARIT-2026-20260406074247.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10845/0/b1dfbb0db7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Poovarasan T",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "G.thirunavukarasu",
+        "address": "No.7, Bakar Hussain Street-4, Pernambut  Vellore District. 635 810",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/POOVA-2026-20260404074243.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6917/0/bb8188744e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pradap.b.",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "K.balu",
+        "address": "No.29/4, Ambedkar Kilai Street, Kazhinjur, Katpadi Taluk, Vellore District- 632 006",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRADA-2026-20260406075530.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10760/0/8efa6fc717/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajesh A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "K.arumugam",
+        "address": "1J, Aandiyappa Mudhali Street, Bosepet, Seruvangi, Gudiyattam, Vellore District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJES-2026-20260406101104.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12020/0/03404d4e96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raju D",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "Duraisamy",
+        "address": "No:4/5, 80 Feet Road, Pasumpon Nagar, Coimbatore South, Coimbatore District- 641045",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAJUD-2026-20260406100754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11884/0/91cf042b0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sampath S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "Soundar",
+        "address": "Door No: 66, Kovil Street, Kallipettai Village, Sathkar Po, Pernambut-635810 Vellore District Tamilnadu",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAMPA-2026-20260406074826.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11340/0/0260a1a42e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sindu K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "B.azhagappan",
+        "address": "1/166, Sivan Kovil Street, Latheri, K.v.kuppam, Vellore- 632202",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SINDU-2026-20260404063609.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7255/0/7e25cf8bd2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subakaran A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "K.anandan",
+        "address": "35/19, Hospital Street, Pernambut, Vellore- 635810",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBAK-2026-20260404071923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7462/0/cf833e63fd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subakaran.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "K.anandan",
+        "address": "35/19, Hospital Street, Pernambut, Vellore- 635810",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBAK-2026-20260404071923.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16006/0/7133d1e474/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramanian M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "Munisamy K",
+        "address": "No.50/59/25 2Nd Cross Street Kamaraj Nagar.  Thorapadi-2 Vellore.",
+        "gender": "Male",
+        "age": "82",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBRA-2026-20260402044342.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5327/0/2667313a83/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sumathi M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "S.murali",
+        "address": "No.107A, Sengundram Village And Post, Gudiyattam Taluk, Vellore District- 632601",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUMAT-2026-20260406080007.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10964/0/80cdaa731d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.poovarasan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "G.thirunavukarasu",
+        "address": "No.7, Bakar Hussain Street-Iii, Pernambut  Vellore District. 635 810",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/POOVA-2026-20260406080825.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15288/0/d4890586f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thabithal K",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "R.jeevan",
+        "address": "No:9/31, Mangaliyamman Kovil Street, Thazhaiyatham, Gudiyattam, Vellore District",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/THABI-2026-20260406081559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10526/0/6964753ccc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasugi J",
+        "party": "Desiya Murpokku Dravida Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "B Prathap",
+        "address": "No.29/4, Ambedkar Kilai Street, Kazhinjur, Katpadi Taluk, Vellore District- 632 006",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASUG-2026-20260404073422.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7962/0/23a0360a38/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinothkumar V",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Gudiyattam",
+        "father_husband_name": "C Vijayan",
+        "address": "256, Ambethkar Nagar, Sathkar, Pernambut, Vellore District. 635810",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VINOT-2026-20260330055829.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/27/0/348821e2da/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

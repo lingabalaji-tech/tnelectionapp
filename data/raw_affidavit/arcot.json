@@ -1,0 +1,568 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Arcot",
+    "count": 37,
+    "candidates": [
+      {
+        "name": "A. Vijay",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Arumugam",
+        "address": "No. 12/3, Ameen Piran Duka Street, Arcot - 632503, Ranipet District",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIJ-2026-20260406095146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12397/0/6d8063ed05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.vijay",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Arumugam",
+        "address": "No. 12/3, Ameen Piran Duka Street, Arcot - 632503, Ranipet District",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIJ-2026-20260406095146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15482/0/eb4c31cbf6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Archana Narasimman",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Narasimman.m",
+        "address": "47. Pillaiyar Koil Street, Sarvanthangal, Ladavaram Post, Arcot, Ranipet - 632503",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARCHA-2026-20260330054317.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14118/0/c54ed7b5d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Archana.k",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Narasimman.m",
+        "address": "47. Pillaiyar Koil Street, Sarvanthangal, Ladavaram Post, Arcot, Ranipet - 632503",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARCHA-2026-20260330054317.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/556/0/3d37bdcee9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eswarappan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "S. Mani",
+        "address": "No. 66/16A, Kollapalayam Street, Arcot - 632503",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MESW-2026-20260406094429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13952/0/ee834ce690/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Eswarappan.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "S. Mani",
+        "address": "No. 66/16A, Kollapalayam Street, Arcot - 632503",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MESW-2026-20260406094429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15205/0/7d719cfece/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Vijay Mohan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "S. Gurunathan",
+        "address": "No 31, Thakkadi Muthiyal Street, Walajapettai, Ranipet District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GVIJ-2026-20260402040152.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5374/0/2fb57945a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.vijay Mohan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "S. Gurunathan",
+        "address": "No 31, Thakkadi Muthiyal Street, Walajapettai, Ranipet District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GVIJ-2026-20260402040152.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16456/0/99e3524d26/",
+          "https://voterlist.co.in/affidavit-download/16456/1/b9daee42a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.l. Eswarappan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "J. Lakshmanan",
+        "address": "No. 50, 51, New Street, Arcot, Ranipet District - 632503",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JLE-2026-20260406091553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12230/0/f7bf9038cd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.l.eswarappan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "J. Lakshmanan",
+        "address": "No. 50, 51, New Street, Arcot, Ranipet District - 632503",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JLE-2026-20260406091553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15249/0/b400472994/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K. Manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "V. Kannan",
+        "address": "No. 11/4A, Thoppukana Street, Arcot - 632503, Ranipet District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAN-2026-20260406093734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11968/0/c1a1e08d85/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "V. Kannan",
+        "address": "No. 11/4A, Thoppukana Street, Arcot - 632503, Ranipet District",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAN-2026-20260406093734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14978/0/3118fa7f70/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Eswarappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "S. Mani",
+        "address": "No. 66/16A, Kollapalayam Street, Arcot - 632503",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MESW-2026-20260406094429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12190/0/0724d6c0fc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Sasikala",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "G. Vijay Mohan",
+        "address": "No.31, Thakkadi Muthiyal Street, Walajahpet",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAS-2026-20260404081124.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7622/0/de69966f26/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Vasantha Kumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "P. Moorthy",
+        "address": "No. 186, Bajanai Kovil Street, Avarakkarai, Thangal Post, Navlok Panchayath, Wallajah Taluk",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVAS-2026-20260406083615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13887/0/f9a03e9f41/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Vasanthakumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "P. Moorthy",
+        "address": "No. 186, Bajanai Kovil Street, Avarakkarai, Thangal Post, Navlok Panchayath, Wallajah Taluk",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVAS-2026-20260406083615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10490/0/364b766e5e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vasanthakumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "P. Moorthy",
+        "address": "No. 186, Bajanai Kovil Street, Avarakkarai, Thangal Post, Navlok Panchayath, Wallajah Taluk",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVAS-2026-20260406083615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14637/0/7a4f3a9e9d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Mohan Kumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "S. Parthiban",
+        "address": "No. 34, Vanapadi Road, Vasantham Avenue, Ranipet",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMOH-2026-20260404073908.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8056/0/dbb4812d6c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P. Venkatesan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Palani",
+        "address": "No 33A, Anna Nagar, 3Rd Vellore Main Road, Arcot.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVEN-2026-20260404084142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8169/0/09973facb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.venkatesan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Palani",
+        "address": "No 33A, Anna Nagar, 3Rd Vellore Main Road, Arcot.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PVEN-2026-20260404084142.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15820/0/b7778ea4ab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Eswarappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "M. Ramasamy",
+        "address": "21/2, Periya Thandukara Street, Arcot - 632503, Ranipet District",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RESW-2026-20260406095900.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11698/0/c2a704ddd3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Indhumathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "K. Rajesh",
+        "address": "No:2/147, Mariyamman Kovil Street, Krishanapuram, Tajpura Post, Tajpura, Arcot Taluk, Ranipet - 632521",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RIND-2026-20260402034603.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5294/0/afdc477b53/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.indhumathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "K. Rajesh",
+        "address": "No:2/147, Mariyamman Kovil Street, Krishanapuram, Tajpura Post, Tajpura, Arcot Taluk, Ranipet - 632521",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RIND-2026-20260402034603.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16423/0/e04db20bc3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Reena. E",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "J.l. Eswarappan",
+        "address": "No. 50 51, New Street, Arcot - 632503, Ranipet District",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/REENA-2026-20260406092715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11660/0/38f7fde0a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. P. Shanmugam",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "M. Patthusamy",
+        "address": "No. 62, Brahmanar Street, Nallur Village, Kalavai Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPS-2026-20260406090046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10495/0/c6f9c00b71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.m. Sukumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Muruganandham",
+        "address": "No.5, Ivth Cross Street, Anna Avenue, Ranipet",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMS-2026-20260404072429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7689/0/15d4007e96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.m.sukumar",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Muruganandham",
+        "address": "No.5, Ivth Cross Street, Anna Avenue, Ranipet",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMS-2026-20260404072429.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16113/0/359da3d9cc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.p.shanmugam",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "M. Patthusamy",
+        "address": "No. 62, Brahmanar Street, Nallur Village, Kalavai Taluk, Ranipet District",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPS-2026-20260406090046.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14642/0/4bd5fc5e39/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanthi. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "G.gopal",
+        "address": "No. 34B Cotton Bazaar Street, Karai, Ward - 17, Ranipet.",
+        "gender": "Female",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260404082224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7896/0/3e28f95526/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Gandhi",
+        "party": "Vanchit Bahujan Aaghadi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Vazhanthan",
+        "address": "No.88, Bajanai Kovil Street, Vembi Village, Kalavai Taluk, Ranipet - 632518",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGAN-2026-20260406082036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10841/0/80e6c8ca6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Gowtham",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "P. Venkadesan",
+        "address": "No, 33B, Anna Nagar - 3, Vellore Main Road, Arcot, Ranipet - 632503",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGOW-2026-20260404090220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8228/0/ae079b8005/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Seetharaman",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Vadamalai",
+        "address": "71. Durgai Amman Kovil Street, Pulivalam Village, Vembakkam Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSEE-2026-20260404075937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7312/0/8abc9c607a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Shanthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "G.gopal",
+        "address": "No. 34B Cotton Bazaar Street, Karai, Ward - 17, Ranipet.",
+        "gender": "Female",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260404082224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14062/0/e1acc50629/",
+          "https://voterlist.co.in/affidavit-download/14062/1/82b7d3e747/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.gandhi",
+        "party": "Vanchit Bahujan Aaghadi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Vazhanthan",
+        "address": "No.88, Bajanai Kovil Street, Vembi Village, Kalavai Taluk, Ranipet - 632518",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGAN-2026-20260406082036.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14968/0/372c1f4cdc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.seetharaman",
+        "party": "Anti Corruption Dynamic Party",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Vadamalai",
+        "address": "71. Durgai Amman Kovil Street, Pulivalam Village, Vembakkam Taluk, Tiruvannamalai District.",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSEE-2026-20260404075937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15932/0/17152546af/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.shanthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "G.gopal",
+        "address": "No. 34B Cotton Bazaar Street, Karai, Ward - 17, Ranipet.",
+        "gender": "Female",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANT-2026-20260404082224.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16195/0/782119da11/",
+          "https://voterlist.co.in/affidavit-download/16195/1/fb5d4c0096/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vijayprabhu.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Arcot",
+        "father_husband_name": "Sambath.m",
+        "address": "2. New Arunthathiyar Street, Timiri, Arcot Taluk, Ranipet - 632512",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIJAY-2026-20260330055528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9/0/739e55c13a/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Erode (East)",
+    "count": 32,
+    "candidates": [
+      {
+        "name": "A.manikandan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Annamalai",
+        "address": "86, Muniyappan Kovil Street, Manickampalayam,  Periyasemur, Erode-638004",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMAN-2026-20260406033041.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8918/0/78abd0b655/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.chitra",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Boopathy",
+        "address": "30, Palamangalam Arisana Theru, Minnapalayam, Modakuruchi, Erode-638109",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BCHI-2026-20260406013641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10005/0/607122394e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.thiyagarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Chenniyappan",
+        "address": "53, E.m.muthukumarasamy Street-3,Chennimalai Road, Erode-638001",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CTHI-2026-20260406120958.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9506/0/d572f7467c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanyaa",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Balaji",
+        "address": "37, Sagan Street, Erode-638001",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DHANY-2026-20260404015648.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6598/0/3e2b4cff08/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.reena",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Gopinath Palaniyappan",
+        "address": "29, Pushpa Nagar, 5Th Street, Kangeyam Cross Road, Tiruppur - 641604",
+        "gender": "Female",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GREE-2026-20260406022839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10238/0/dc8edc38ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gopinath Palaniyappan",
+        "party": "Indian National Congress",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Palaniyappan",
+        "address": "29, Pushpa Nagar, 5Th Street, Kangeyam Cross Road, Tiruppur - 641604",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOPIN-2026-20260406021817.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9704/0/fc0a73fd0e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "H.m.jaffer Saddique",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Hithayathullah Mohammed",
+        "address": "45/42, Kunthavai Street, Erode-638001",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HMJ-2026-20260406030435.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9804/0/807b157329/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "H.mohamed Gaipeer",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Hanifa",
+        "address": "43, Venkatasamy Street, Seeniyan Thottam, Marappalam, Erode - 638001",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260330025433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16575/0/4fa8c6aa32/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Hari Prasad.p",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Palanisamy M",
+        "address": "12A,Sivaraman Street, Periyasadayampalayam Near,Erode Outer Ring Road, Erode-638002",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/HARIP-2026-20260330023834.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/84/0/93b702838a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.muthu Bava",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "S.jaffer Hussain",
+        "address": "103/82, Joseph Thottam, B.p.agraharam,Erode-638005",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JMUT-2026-20260402013105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5038/0/1f3460c7aa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.dhavasiappan",
+        "party": "Tamilaga Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Karuppanan",
+        "address": "710 E.v.n. Road Erode-638001",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KDHA-2026-20260330011820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/474/0/e89f0a99e5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.manikannan",
+        "party": "Samaniya Makkal Nala Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Karuppapillai",
+        "address": "166, Kilakku Veethi, Chithode, Erode-638102",
+        "gender": "Male",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAN-2026-20260404022405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6099/0/87c8eff7a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M V Karthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Viswanathan",
+        "address": "31/20, Perumal Kovil Street, Erode-638001",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVKAR-2026-20260406031456.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10322/0/c50ce8ffc0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Vijay Balaji",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Mathialagan",
+        "address": "37, Sagan Street, Erode-638001",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MVIJA-2026-20260404013602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6342/0/eec0a38bab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.dharani Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "P.madheswaran",
+        "address": "20,Solai Hospital Backside, Perundurai Road, Erode-638011",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MDHA-2026-20260406024925.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9131/0/d58157bb8d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kamal Kumar",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Murugesan",
+        "address": "215/154, Muniyappan Kovil Street, Ram Nagar, Periyasemur, Erode-638004",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAM-2026-20260404021555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16251/0/bfe0f168b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kamalkumar",
+        "party": "Vishwa Tamil Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Murugesan",
+        "address": "215/154, Muniyappan Kovil Street, Ram Nagar, Erode-638004",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKAM-2026-20260404021555.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6814/0/5d31d1f4c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.murugesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Muthusamy",
+        "address": "41A, Maaniyamkattu Thottam, Therkkupallam, Keel Thindal, Erode-638012",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMUR-2026-20260406034201.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9316/0/77d791a12c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.praveen",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "R.manoharan",
+        "address": "M-34, Periyar Nagar, Erode-638001",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPRA-2026-20260406020151.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9069/0/e5569e1cbb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.v.karthy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Viswanathan",
+        "address": "31/20, Perumal Kovil Street, Erode-638001",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MVKAR-2026-20260406031456.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15614/0/e1e2883eaa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.vijay Balaji",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Mathialagan",
+        "address": "37, Sagan Street, Erode-638001",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MVIJA-2026-20260409090803.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15878/0/b5dd014d9f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohamed Gaipeer",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Hanifa",
+        "address": "43, Venkatasamy Street, Seeniyan Thottam, Erode - 638001",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAM-2026-20260330025433.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/145/0/7a9efc68b3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nathiya.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Sabapathi.m",
+        "address": "E-85, Periyar Nagar, Erode-638001",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NATHI-2026-20260404125340.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6691/0/5f264e91bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.dhandapani",
+        "party": "Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Ramasamy",
+        "address": "26 Kannimar Nagar, Kothukarar Thottam, Erode-638004",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHA-2026-20260330031647.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/248/0/90886cfadf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.manoharan",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Ramasamy",
+        "address": "M-34, Periyar Nagar, Erode-638001",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMAN-2026-20260406014858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8471/0/e604d7da2a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.vairam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Ramasamy",
+        "address": "45/5, C.s.subramaniyam Nagar Extension 2, Periyasemur,Veerappanchatiram, Erode-638004",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RVAI-2026-20260404032038.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6829/0/16215ef26d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.lakshmanathan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Sundaram",
+        "address": "41, Sambanthar Street, Erode-638001",
+        "gender": "Male",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SLAK-2026-20260404121851.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6434/0/1983621365/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.thandavamoorthy",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Sennimalai Gounder",
+        "address": "167, Onakkaradu, Mettukadu, Karattupalayam, Nambiyur,Kurumandur,Erode 638457",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STHA-2026-20260330021010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/28/0/04be135b43/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shanmugam.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Ponnusamy",
+        "address": "L 181, Periyar Nagar, Erode-638001",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHANM-2026-20260404124439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6605/0/6292aed0f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sirajudeen",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Ismail",
+        "address": "983, Pudhumai Colony, Erode - 638001",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIRAJ-2026-20260406023729.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8591/0/35486382dd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Dhanalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Varatharajan",
+        "address": "90, Thirumuruganpoondi, Devarayampalayam, Avanashi, Tiruppur-641654",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VDHA-2026-20260402024852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13364/0/744ac99275/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.dhanalakshmi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Erode (East)",
+        "father_husband_name": "Varatharajan",
+        "address": "90, Thirumuruganpoondi, Devarayampalayam, Avanashi, Tiruppur-641654",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VDHA-2026-20260402024852.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5522/0/9a9c8c5444/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

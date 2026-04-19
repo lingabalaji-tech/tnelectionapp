@@ -1,0 +1,525 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Palayamkottai",
+    "count": 34,
+    "candidates": [
+      {
+        "name": "A. Sudhahar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "A.arokiasamy",
+        "address": "C-70, 7Th Cross Street, Ngo A Colony, Jawahar Nagar, Tirunelveli - 627007",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406070542.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15597/0/7e00656956/",
+          "https://voterlist.co.in/affidavit-download/15597/1/328f47c5d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.mujibur Rahman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Abdul Rahman",
+        "address": "56/145-J, R.p Melaputhumanai Street, Pettai, Tirunelveli - 627004.",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUJ-2026-20260406042503.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9337/0/a3d7c2b743/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.muzammil Ahamed",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "M.abdul Wahab",
+        "address": "28A/79, Mgp, Sannathi Street, Pettai, Tirunelveli - 627004",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUZ-2026-20260406041020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8492/0/0722b50b68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdul Kader",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Mugaideen Koya",
+        "address": "62, Methamar Palayam, 2Nd Street, Melapalayam, Palayamkottai, Tirunelveli - 627005",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABDUL-2026-20260406014250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10224/0/4af60a6d22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdul Koya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Mugaideen Koya",
+        "address": "62, Methamar Palayam, 2Nd Street, Melapalayam, Palayamkottai, Tirunelveli District - 627005",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABDUL-2026-20260406014250.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15570/0/1314807860/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.senthil Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "M.balamurugan",
+        "address": "142, Dr.ambedkar Colony, Manakavalampillai Nagar, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BSEN-2026-20260406055633.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10243/0/0273716ddd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.santhiyagappar Antony",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "David Maruthaiya",
+        "address": "60A/1, 6Th Thomas Street, Perumalpuram, Palayamkottai, Tirunelveli - 627004",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DSAN-2026-20260406052709.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9724/0/8aed11dd8a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakkimuthu",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Sivan",
+        "address": "1/164A, Mela Vellamadam, Thoothukudi District - 628617",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SESA-2026-20260404043300.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15894/0/fce8895c6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.mariappan",
+        "party": "Thamizhaka Padaippalar Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Krishnan",
+        "address": "3/5, Avanikinaru Street, Moolakaraipatti, Tirunelveli - 627354",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAR-2026-20260406072139.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11083/0/d27d2709f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick Narayanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Sivanu",
+        "address": "22A, Mutharamman Kovil Street, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406044615.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8614/0/8ef3b18a1f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick Narayanan S.",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Sivanu",
+        "address": "22A, Mutharamman Kovil Street, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KARTH-2026-20260410083628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14725/0/a39465c66c/",
+          "https://voterlist.co.in/affidavit-download/14725/1/74587fd7f4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.abdul Wahab",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "M.mohamed Hanifa",
+        "address": "28A/79, Mgp Sannathi Street, Pettai, Tirunelveli - 627004",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MABD-2026-20260406020712.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9166/0/69f583f530/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.c.srinivash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Murugan",
+        "address": "13B, Selvi Amman Kovil Street, Sindhuponthurai, Tirunelvelii - 627001",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MCS-2026-20260404015034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6573/0/8797a6aabc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.manikandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Madasamy",
+        "address": "D16,Adukkumadi Kudiyiruppu, Thirumalnagar, Palayamkottai, Tirunelveli - 627007.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAN-2026-20260406045546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9352/0/b6deedbc36/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.maria Babu Ramesh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Maria John",
+        "address": "7/20, Karia Nayanar Street, Samathanapuram, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMAR-2026-20260404031824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6815/0/5267237b75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Maria John",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Savarimuthu",
+        "address": "7/20 Kariyanayanar Street, Samathanapuram, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAR-2026-20260404023020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15762/0/1359f60bb5/",
+          "https://voterlist.co.in/affidavit-download/15762/1/7b61218e65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.thiruppathi Ram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Narayanan",
+        "address": "6/75, Sanniyasi Gramam, Meenakshipuram, Tirunelveli - 627001",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NTHI-2026-20260406054950.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9569/0/b9374f6ac2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nallakkannu Alias Karthic",
+        "party": "All India Forward Bloc",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Karunakaran -",
+        "address": "12, Kas Complex, South Bye Pass Road, Tirunelveli.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/226/1775117161KarPassportSizecopy.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9489/0/b96aea6883/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nallakkannu Alias Karthic.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Karunakaran -",
+        "address": "12, Kas Complex, South Bye Pass Road, Tirunelveli - 627005",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/2026/ac/E32/S22/227/1775127252KarPassportSizecopy.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15156/0/a3dd78d3bf/",
+          "https://voterlist.co.in/affidavit-download/15156/1/89686deb22/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Paulraj.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Victor",
+        "address": "51/176, 29Th Street, Shanthi Nagar, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PAULR-2026-20260406053350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10311/0/a8a1ad2269/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabhu.s",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "A.sankarapandian",
+        "address": "15/37, Pudhukottai North Street, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABH-2026-20260404041557.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6849/0/c23acfd8e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sesu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Rayappan",
+        "address": "26/A, Pnk Colony, Anna Nagar, Maharaja Nagar Pose, Tirunelveli - 627011",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSES-2026-20260406074043.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10976/0/3903d6aa1d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajavisuvasum",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Sundarakonar",
+        "address": "157A, Middle Street, Paneeroothu, Sundankurichi Panchayat, Thevarkulam Po. Manur T.k, Tirunelveli - 627951",
+        "gender": "Male",
+        "age": "71",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAV-2026-20260402022553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5421/0/9012628442/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rasheetha Mahathi.r.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Basheer Rahman",
+        "address": "Plot No. B39, North South Part, Fathima Nagar, Melepalayam, Tirunelveli - 627005.",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RASHE-2026-20260406075338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10657/0/3b1f5d9d6b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.esakkimuthu",
+        "party": "Puthiya Makkal Tamil Desam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Sivan",
+        "address": "1/164A, Mela Vellamadam, Thoothukudi - 628617",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SESA-2026-20260404043300.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6366/0/d35fba2e01/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.maria John",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Savarimuthu",
+        "address": "7/20 Karianainar Street, Samathanapuram, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMAR-2026-20260404023020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6173/0/1d877dfac3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.sankara Narayanan",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "S.siva Kumar",
+        "address": "164, B/1 5Th Street, Rahumath Nagar, Palayamkottai - 627011",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAN-2026-20260330023800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/81/0/37c642badf/",
+          "https://voterlist.co.in/affidavit-download/81/1/3bf6ff94ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.thangadurai",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "J.samuvel",
+        "address": "4/68, North Street, Pudukottai, Thoothukudi- 628103",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STHA-2026-20260330010945.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/494/0/e8142585a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sankara Narayanan Alias Saran",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "S.siva Kumar",
+        "address": "164, B/1 5Th Street, Rahumath Nagar, Maharajanagar Post, Palayamkottai - 627011",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAN-2026-20260330023800.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15278/0/ce028b62e7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Srinivash",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Murugan",
+        "address": "13B, Selvi Amman Kovil Street, Sindhuponthurai, Tirunelveli  Junction - 627001",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MCS-2026-20260404015034.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16072/0/459cda2300/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudhahar Amalin Christopher.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "A.arokiasamy",
+        "address": "C-70, 7Th Cross Street, Ngo A Colony, Jawahar Nagar, Tirunelveli - 627007",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406070542.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10274/0/21f7553cb8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed Sulthan Samsudeen",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Sulthan Alavudeen",
+        "address": "B270, 17Th Street, Jawahar Nagar, Ngo B Colony, Tirunelveli - 627007",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDS-2026-20260404011823.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6186/0/99dccb8bf5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.a.umar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Ahamed Ali",
+        "address": "41-48, First Main Road, Hajira Nagar, South Hameempuram, Melapalayam, Tirunelveli - 627005",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAU-2026-20260404033853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6336/0/5e9b438636/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.george",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Palayamkottai",
+        "father_husband_name": "Venkatasamy",
+        "address": "C34, Kennedy Street, Mkp Nagar, Palayamkottai, Tirunelveli - 627002",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VGEO-2026-20260406064606.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10410/0/d1c558e42d/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Madathukulam",
+    "count": 18,
+    "candidates": [
+      {
+        "name": "A Shanmugavel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Amirthalingam",
+        "address": "27 C1 South Street Chozhamadevi  Post Madathukulam Taluk Tiruppur District  - 642113",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASHAN-2026-20260406040035.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10125/0/6f58b419a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ak Senthilkumar",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Ak Kandasamy",
+        "address": "3/3 A Kennady Nagar Pulankinar Post Udumalaipet Taluk Tiruppur District -642122",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKSEN-2026-20260406051204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8533/0/23398d892b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Shanmugavelu",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Chinnagounder",
+        "address": "3/37 B,Neruji Veedhi, Samarayapatti Post,Komaralingam West Madathukulam Taluk Tiruppur District - 642204",
+        "gender": "Male",
+        "age": "76",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSHAN-2026-20260404032223.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6518/0/f10ef98349/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J  Kalaiselvi",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "R Jayaramkrishnan",
+        "address": "5 Dharapuram Main Road Thungavi Thungavi Post Madathukaulam Taluk Tiruppur District - 642203",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JKALA-2026-20260404051355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7566/0/05ec15129c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Shanmugavel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Kalimuthu",
+        "address": "1/204 Ravanapuram Ravanapuram Post Udumalaipettai Taluk Tiruppur District -642207",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KSHAN-2026-20260406042559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9409/0/57515b5b25/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Vadivazhagan Balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Kannappan",
+        "address": "76 North Street, Athupollachi Pollachi Taluk Coimbatore -642103",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KVADI-2026-20260404041512.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6832/0/5b7b32dd03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Ahamed Ali",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Mohamed Jakiriya",
+        "address": "28 A Ukc Nagar Udumalpettai Tiruppur District 642126",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAHAM-2026-20260404052556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8035/0/641cc9fead/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Radhamani",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Senthilraman G",
+        "address": "4/200 Kollan Thottam, Kannamanaickanur,Udumalaipettai Taluk, Tiruppur District - 642154",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MRADH-2026-20260330041738.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/628/0/09c0551777/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Shanugavel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Mariyappagounder",
+        "address": "1/69 Ravanapuram  Ravanapuram Post Udumalpettai Taluk Tiruppur District - 642207",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSHAN-2026-20260406043710.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10175/0/f808e30ac7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Ragul Saran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "P Palanisamy",
+        "address": "4/123- A Gandhipuram Kanakkampalayam Gandhinagar Udumalaipettai  Taluk Tiruppur District  - 642154",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAGU-2026-20260404044651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7692/0/0d2c380cbf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Rahul Saran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "P Palanisamy",
+        "address": "4/123- A Gandhipuram Kanakkampalayam Gandhinagar Udumalaipettai  Taluk Tiruppur District  - 642154",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAGU-2026-20260404044651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8402/0/9bb8a14ad8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P Thangaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "M Palani",
+        "address": "2/134 Kodingiam  Udumalpettai Taluk Tiruppur Distrc - 642122",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PTHAN-2026-20260406052207.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9339/0/ce117b781f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Jayaramakrishnan",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Ramasamy Gounder",
+        "address": "5 Dharapuram Rain Road Thungavi Thungavi Post Madathukulam Taluk Tiruppur District - 642203",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJAYA-2026-20260404050144.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7044/0/4adddc658f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Thirumalai",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Rammanoharaju",
+        "address": "5/704-A  Dharun Nagar Street No 1 Teachers Colony Ramasamy Nagar East Udumalaipettai Taluk Tiruppur District - 642126",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RTHIR-2026-20260404043147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6353/0/b3374fd9f7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Manonmani",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "C Shanmugavelu",
+        "address": "3/37 B Neruji Veedhi, Samarayapatti  Komaralingamwest, Madathukulam Taluk Tiruppur District - 642204",
+        "gender": "Female",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMANO-2026-20260404035052.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6475/0/d0227888f6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Shanmugavel",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Subbramani",
+        "address": "2/138 E West Street Cholamadevi Post Madathukaum Taluk Tiruppur District  - 642113",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSHAN-2026-20260406034714.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9523/0/31b06d5cf9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sp Mahendran",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Semboothapandiyan",
+        "address": "3/111 Sadaiyagoundenpudhur Anthiyur Pulankinar Post Udumalpettai Taluk Tiruppur  District -642122",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPMAH-2026-20260406041519.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8760/0/81f148c49d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T Saravanakumar",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Madathukulam",
+        "father_husband_name": "Thirumalaisamy",
+        "address": "No 1 Thottathusalai Thirumurthy Nagar Post Dhali Udumalpet Taluk Tiruppur District - 642112",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TSARA-2026-20260406054238.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8960/0/076d39cc09/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

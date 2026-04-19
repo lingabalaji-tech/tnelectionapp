@@ -1,0 +1,372 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Dharapuram",
+    "count": 24,
+    "candidates": [
+      {
+        "name": "A.sathya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Archunan",
+        "address": "175, Pappanuthu, Chinnaputhur Village, Dharapuram Taluk, Tiruppur District-638657",
+        "gender": "Female",
+        "age": "22",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASAT-2026-20260406013445.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9915/0/17e22717c9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amuthapriya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Sanjai Gandhi",
+        "address": "54A, Meenatchipuram, Dharapuram, Tiruppur-638673",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUTH-2026-20260402031515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5183/0/a2cb141693/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ananthi.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Mani.p",
+        "address": "11/181, Aathikattu Thottam, Elukamvalasu, Ponnivadi Post, Dharapuram Taluk, Tiruppur-638673",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ANANT-2026-20260410014118.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16374/0/8eb31a17d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.indhirani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Chinnadurai",
+        "address": "144, Kuppuchipalayam, Nanjiyampalayam Post, Dharapuram",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CIND-2026-20260406025421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9380/0/c496a53f92/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhivya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Prasanth",
+        "address": "26, Kilangundal, Mulanur, Dharapuram, Tiruppur-638106",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHIVY-2026-20260402015313.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5069/0/e6220795ce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gowri Chitra",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Murugesan",
+        "address": "17/17, Seetha Nagar, Devendra Street, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Female",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOWRI-2026-20260404022535.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6125/0/d0cd9b93e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gowri.p",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Muthusamy",
+        "address": "B2, Chinniyagoundanpalayam, Thoppampatti, Dharapuram Taluk, Tiruppur-638657",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGOW-2026-20260404014105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15970/0/7c15e650c9/",
+          "https://voterlist.co.in/affidavit-download/15970/1/f4c721dd03/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indhirani.c",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Chinnadurai",
+        "address": "144, Kuppuchipalayam, Nanjiyampalayam Post, Dharapuram",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/INDHI-2026-20260410014100.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15107/0/dc6885f3d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Indirani.t",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Subramanian",
+        "address": "23B, Chenniyappa Nagar, West Street, Dharapuram Town, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/INDIR-2026-20260410014135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15566/0/5564bf461c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.mohanraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Mayavan",
+        "address": "8/140, Rajiv Nagar, Govindhapuram Post, Dharapuram Taluk",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MMOH-2026-20260406014308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10255/0/dd0844adcf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.saravanan",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Murugan",
+        "address": "11, 5Th Street, Thiruneelakandapuram, Mulanur, Dharapuram Taluk, Tiruppur District-638106",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSAR-2026-20260404025443.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6521/0/90711976e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.subramanian",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Marimuthu",
+        "address": "23B, Chenniyappa Nagar, West Street, Dharapuram Town, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSUB-2026-20260406035607.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9890/0/8c2d845058/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohanraj.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Mayavan",
+        "address": "8/140, Rajiv Nagar, Govindhapuram Post, Dharapuram Taluk",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MOHAN-2026-20260410014641.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15586/0/f325704b8d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.gowri",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Muthusamy",
+        "address": "B2, Chinniyagoundanpalayam, Thoppampatti, Dharapuram Taluk, Tiruppur-638657",
+        "gender": "Female",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGOW-2026-20260404014105.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6457/0/473d1c8cfa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.krishna",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "K.ponnusamy",
+        "address": "31/6, Anna Nagar, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKRI-2026-20260406023220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10429/0/9e01670f63/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.murugesan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Periyasamy",
+        "address": "17/17, Seetha Nagar, Devendra Street, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUR-2026-20260406042753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9515/0/8aa2865300/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.murugesan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Periyasamy",
+        "address": "17/17, Seetha Nagar, Devendra Street, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMUR-2026-20260406042753.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13036/0/7a6c760100/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.sathyabama",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Ponnusamy",
+        "address": "31/6, Anna Nagar, Dharapuram Taluk-638656",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAT-2026-20260406020528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9175/0/8e95b7e24c/",
+          "https://voterlist.co.in/affidavit-download/9175/1/fb82bbd8eb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.perumal",
+        "party": "India Dravida Makkal Munnetra Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Raman",
+        "address": "139, M.kumarapalayam, Mulanur Post, Dharapuram Taluk, Tiruppur District",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RPER-2026-20260406041044.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8531/0/146befc27c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rohini.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Subash Kiran",
+        "address": "8, Puthu Ambedkar Street, Dharapuram Town, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ROHIN-2026-20260410014017.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16119/0/8d5caae56d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.ananthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "P.mani",
+        "address": "11/181, Aathikattu Thottam, Elukamvalasu, Ponnivadi Post, Dharapuram Taluk, Tiruppur-638673",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANA-2026-20260402012131.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5024/0/6e08ce2659/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.rohini",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Subash Kiran",
+        "address": "8, Puthu Ambedkar Street, Dharapuram Town, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Female",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SROH-2026-20260404015743.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6635/0/0557cfd7dc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathyabama.p",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Ponnusamy",
+        "address": "31/6, Anna Nagar, Dharapuram Taluk-638656",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PSAT-2026-20260406020528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14989/0/355ce3b89f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.indirani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Dharapuram",
+        "father_husband_name": "Subramanian",
+        "address": "23B, Chenniyappa Nagar, West Street, Dharapuram Town, Dharapuram Taluk, Tiruppur District-638656",
+        "gender": "Female",
+        "age": "64",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TIND-2026-20260406031323.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10219/0/9b069e70b3/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

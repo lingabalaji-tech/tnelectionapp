@@ -1,0 +1,443 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Thalli",
+    "count": 29,
+    "candidates": [
+      {
+        "name": "A.narayanasamy",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Annaiyappa",
+        "address": "1/313A,Begepalli Village And Panchayat,Hosur Taluk,Krishnagiri-635126",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANAR-2026-20260402054308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5871/0/f1d0ddab13/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ajith. G",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Gandhi",
+        "address": "29/1,Melkottai,Thalli Road,Second Cross  ,Indira Nagar,Denkanikottai,Krishnagiri-635107",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AJITH-2026-20260410023816.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16153/0/f8be3fc40c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asan Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Krishnan",
+        "address": "19/B, Madha Kovil Street, Denkanikottai Town And Taluk, Krishnagiri District - 635107",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASENR-2026-20260404062232.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13288/0/e0c69ac3e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asanraja. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Krishnan",
+        "address": "19/B, Madha Kovil Street, Denkanikottai Town And Taluk, Krishnagiri District - 635107",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ASANR-2026-20260410023746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16211/0/1a743b0a05/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asen Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Krishnan",
+        "address": "19/B, Madha Kovil Street, Denkanikottai Town And Taluk, Krishnagiri District - 635107",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASENR-2026-20260404062232.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7921/0/bfc2bdb1c8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.gopal",
+        "party": "Republican Party Of India (Athawale)",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Chennappa",
+        "address": "O/A1,Melkottai,4Th Cross,Denkanikottai Taluk,Krishnagiri District - 635 107",
+        "gender": "Male",
+        "age": "66",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CGOP-2026-20260406052721.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9768/0/cdcba7e906/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.magendiran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Dhadhu",
+        "address": "Door No.1/858,Shoolagiri Road,Rayakottai Post,Denkanikottai Taluk,Krishnagiri District - 635 116",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DMAG-2026-20260406071510.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10807/0/3e744d96cb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devappa",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Erappa",
+        "address": "Door No.1/113, Chinna Elasagiri, Titan Road, Sipcot Post, Hosur, Krishnagiri District - 635126",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DEVAP-2026-20260406102850.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12520/0/292b855d96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Devappa. Y",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Erappa",
+        "address": "Door No.1/113, Chinna Elasagiri, Titan Road, Sipcot Post, Hosur, Krishnagiri District - 635126",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DEVAP-2026-20260410024209.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15629/0/119aa21243/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.c.nagesh Kumar",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Chandrasekar",
+        "address": "No.108,Govt. Hospital Street,Thalli Village And Post,Denkanikottai Taluk, Krishnagiri District - 635 118",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRC-2026-20260406074322.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11117/0/631c7d5498/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.nagesh Kumar. C",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Chandrasekar",
+        "address": "No.108,Govt. Hospital Street,Thalli Village And Post,Denkanikottai Taluk, Krishnagiri District - 635 118",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRNA-2026-20260410024132.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15280/0/c9836785de/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.ajith",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Gandhi",
+        "address": "29/1,Melkottai,Thalli Road,Second Cross  ,Indira Nagar,Denkanikottai,Krishnagiri-635107",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GAJI-2026-20260404064944.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7801/0/f53280ecb3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.suresh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Gopal",
+        "address": "Door No.27/2, A.s.t.c Pallam, Hosur, Krishnagiri District - 635 109",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSUR-2026-20260406064350.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10179/0/ae42c7086c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jagan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Mani",
+        "address": "1/19,Dharavendiram Village,Thallikothanur Post,Denkanikottai Taluk,Krishnagiri District-635118",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAGAN-2026-20260410023605.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16343/0/f0b354473b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayaram. N",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Narasimmappa",
+        "address": "2/254,Begepalli Village And Panchayat,Hosur Taluk,Krishnagiri-635126",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/JAYAR-2026-20260410023642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16384/0/4f4cbef7a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Perumal",
+        "address": "6/642/B1, M.r.nagar, Anchetty Village, Post And Taluk, Krishnagiri District - 635102",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KUMAR-2026-20260404082010.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7859/0/8bb0b83af3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kumar. D.j",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Perumal",
+        "address": "6/642/B1, M.r.nagar, Anchetty Village, Post And Taluk, Krishnagiri District - 635102",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KUMAR-2026-20260410023911.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16179/0/63ad7385ea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.jagan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Mani",
+        "address": "1/19,Dharavendiram Village,Thallikothanur Post,Denkanikottai Taluk,Krishnagiri District-635118",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MJAG-2026-20260402060344.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5693/0/cce0f41037/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.purushowtham",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Muniraj",
+        "address": "155,Devarulimangalam Village And Post,Kakkadasam,Denkanikottai Taluk,Krishnagiri District-635 107",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MPUR-2026-20260406100108.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11737/0/a93b59b55b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.sivakumar",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Marappa",
+        "address": "No.3/1 ,Kalikeri Village, Anniyalam Post, Denkanikottai Taluk, Krishnagiri District - 635114",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MSIV-2026-20260406082439.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10995/0/c497d06d19/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.jayaram",
+        "party": "Anna Makkal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Narasimmappa",
+        "address": "2/254,Begepalli Village And Panchayat,Hosur Taluk,Krishnagiri-635126",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NJAY-2026-20260402051642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5591/0/e49b38fffc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Narasimma Reddy Alias Narasimman. R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Ramachandra Reddy",
+        "address": "2/227,C.r.palayam Village And Post,Kuppatti Panchayat,Denkanikottai Taluk,Krishnagiri District-635114",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NARAS-2026-20260410023627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14810/0/2ef507fdff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.narasimma Reddy",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Ramachandra Reddy",
+        "address": "2/227,C.r.palayam Village And Post,Kuppatti Panchayat,Denkanikottai Taluk,Krishnagiri District-635114",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RNAR-2026-20260330055955.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/35/0/907a385013/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.sundaravalli",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "M.lagumaiah",
+        "address": "2-225, Arthagoor Village, Noganoor Post, Denkanikottai Taluk, Krishnagiri District -635107",
+        "gender": "Female",
+        "age": "78",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUN-2026-20260404072328.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7668/0/32234ef842/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramachandran. T",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Thimmanna",
+        "address": "2-95, Varaganapalli Village, Nagamangalam Post, Denkanikottai Taluk, Krishnagiri District - 635113",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAMAC-2026-20260410023703.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15910/0/a01a3c5fd4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suresh. G",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Gopal",
+        "address": "Door No.27/2, A.s.t.c Pallam, Hosur, Krishnagiri District - 635 109",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SURES-2026-20260410024029.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15297/0/4ece8aa6c4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T.ramachandran",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Thimmanna",
+        "address": "2-95, Varaganapalli Village, Nagamangalam Post, Denkanikottai Taluk, Krishnagiri District - 635113",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TRAM-2026-20260402072636.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "V.sridhar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Venugopal",
+        "address": "Door No.1/11A,Anjaneyar Kovil Street,Kelamangalam Post,Denkanikottai Taluk,Krishnagiri District - 635 113",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSRI-2026-20260406055253.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9912/0/1cdfbe8e12/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Veena",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thalli",
+        "father_husband_name": "Magendhiran",
+        "address": "4/90, Anna Salai, Anchetty Village And Taluk, Krishnagiri District - 635102",
+        "gender": "Female",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEENA-2026-20260404083733.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8127/0/5fd36ce874/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

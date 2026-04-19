@@ -1,0 +1,413 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Ottapidaram",
+    "count": 27,
+    "candidates": [
+      {
+        "name": "Amutha .H",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Hariharan",
+        "address": "2G-126, Rajiv Nagar, 2Nd Street, Thoothukudi 628 008",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUTH-2026-20260406090352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10625/0/ecf25fbb99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amutha .H",
+        "party": "All India Mgr Makkal Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Hariharan",
+        "address": "2G-126, Rajiv Nagar, 2Nd Street, Thoothukudi 628 008",
+        "gender": "Female",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUTH-2026-20260406090352.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11759/0/60d92396a8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C .Raja",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Chandran",
+        "address": "5/1392-13,Kalaingar Nagar, Siluvaipatti, Thoothukudi - 628 002.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CRAJ-2026-20260406082734.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11109/0/31febfb6d0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C .Selvakumar",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Chelladurai",
+        "address": "48A, Tsunami Colony, Siluvaipatti North, Mappillaiyurani, Thoothukudi.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSEL-2026-20260406064336.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10158/0/02d8e756d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Aruna Devi",
+        "party": "Nam Naadu Nam Makkal Nam Ethirkaalam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "R. Ramesh Pandiyan",
+        "address": "4L/444, Pandarampatti, Sankaraperi Post, Thoothukudi - 628 002.",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CARU-2026-20260402020747.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5342/0/228d237714/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.k. Krishnasamy",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Karuppusamy",
+        "address": "22, Pothigai Illam, Thirumoorthy Nagar, Kuniyamuthur, Coimbatore - 641 008.",
+        "gender": "Male",
+        "age": "74",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRK-2026-20260406034155.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9297/0/2c60f20b9e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G .Murugan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Ganapathi",
+        "address": "9/123A, Colony Street, Muppulivetti, Ottapidaram - 628 401.",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GMUR-2026-20260404043732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7403/0/3aea204d75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M .Chellathurai",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Muthu",
+        "address": "740, Pallaku Road, Muthu Nagar, Kovilpatti, Thoothukudi - 628 501.",
+        "gender": "Male",
+        "age": "69",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MCHE-2026-20260406053335.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10273/0/32bbabee59/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M .Ishwarya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Muniyasamy",
+        "address": "4-55, North Street, Pottalkadu, Mullakadu, Muthaiyapuram Thoothukudi, 628 005.",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MISH-2026-20260404014431.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6511/0/dd7e65a89b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M .Lakshmanan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "P .Mookkan",
+        "address": "No.29,11 North Street, Manattoor, Thirunaveerudayarpuram, Tirukkalur, Tiruchendur, Thoothukudi - 628 612.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MLAK-2026-20260406084054.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10676/0/79e7de51fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Ananth",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Marimuthu. E",
+        "address": "5/46 M7, Rajiv Nagar 7Th Street, M.savariyarpuram, - Muthaiyapuram, Thoothukudi - 628 005.",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANA-2026-20260402054223.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5865/0/3de90a12ac/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Anusiya",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Lurthurmani",
+        "address": "5/48-2, Middle Street, Ramanatchiyarpuram, Maravanmadam, Thoothukudi 628 101.",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANU-2026-20260330035233.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/411/0/82e61b5a1d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.a. Dharmar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "M .Azhagan",
+        "address": "5/242, Annai Indra Nagar, 2Nd Street, New Bus Stand West, Thoothukudi",
+        "gender": "Male",
+        "age": "60",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MAD-2026-20260406071754.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10949/0/82088281b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N .Shunmugarajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Nadukatturaman",
+        "address": "1/33A, A.k.s. Colony, Ottapidaram, Thoothukudi",
+        "gender": "Male",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NSHU-2026-20260406061033.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9292/0/5f82202a82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P .Mathanraja",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "P .Perumal",
+        "address": "No:898, Thittankullam, John Pandiyan Nagar, Block-1 Kovilpatti, Thoothukudi 628 501.",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMAT-2026-20260406011824.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9313/0/2b9fe0b981/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P .Thenkarai Maharajan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "A .Perumal",
+        "address": "223, New Street, Thoopur, Tiruchendur - 628 215.",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PTHE-2026-20260406075054.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11447/0/a7b37d62f5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.m.ramajeyam",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "P. Mookkan",
+        "address": "5/181-3, Kottarvilai, Angamangalam, Kurumbur, Thoothukudi -628 207.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PMR-2026-20260404024602.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6410/0/8df882d7a3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R .Bala",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "P.m. Ramajeyam",
+        "address": "5/181-3, Kottarvilai, Angamangalam, Kurumbur, Thoothukudi 628 207",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RBAL-2026-20260404040420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6696/0/c6f3aaae27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R .Kannan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Raja",
+        "address": "9/257/3, West Colony, Muppulivetti, Ottapidaram - 628 401.",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RKAN-2026-20260404050924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7381/0/21fd7696d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R .Thayalan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "M .Ramasamy",
+        "address": "273, 2Nd North Street, Anbunagar, Maharajanagar, Tirunelveli 627 011.",
+        "gender": "Male",
+        "age": "82",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RTHA-2026-20260406121155.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R Sundararaj",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "S. Rajendran",
+        "address": "9/237 Annasalai, Muppulivettl, Ottapidaram, 628401",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSUND-2026-20260404121619.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6419/0/9e4e5dd06d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S .Gopinath",
+        "party": "Amma Makkal Munnettra Kazagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "R . Sundararaj",
+        "address": "9/237, Annasalai, Muppulivetti, Ottapidaram 628 401.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SGOP-2026-20260404124700.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6622/0/e67ca94255/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S .Muthuselvam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "K .Senthilkumar",
+        "address": "42/59A, North Mari Amman Kovil Street, Tiruchendur -628 215.",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMUT-2026-20260406080924.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11354/0/bec057692c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S .Vanitha",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Selvaraj",
+        "address": "9/238, Southwest Street, Muppulivetti, Ottapidaram",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SVAN-2026-20260406020055.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9033/0/a938d8ad97/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subbulakshmi. S",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Saravanabhavan. P",
+        "address": "2/165A, Indira Colony, Ayyanadaippu, Korampollam, Thoothukudi - 628 101.",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBBU-2026-20260402031200.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5165/0/ebb6509bb0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V .Raj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Velayutham. S",
+        "address": "5/62B, Melasubbramaniyapuram, Ottapidaram 628 722.",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAJ-2026-20260404053959.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7335/0/130ae71b17/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vedaprakash. A",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Ottapidaram",
+        "father_husband_name": "Antonysamy",
+        "address": "4/264, Tn H B Colony Ettayapuram Road, Thoothukudi.",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VEDAP-2026-20260330124410.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/470/0/ce4522a5f2/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

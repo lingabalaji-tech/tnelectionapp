@@ -1,0 +1,358 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kallakurichi",
+    "count": 23,
+    "candidates": [
+      {
+        "name": "Arul Vignesh",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Chinnayya",
+        "address": "4/A, Kachirayapalayam Road, Kallakurichi",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARULV-2026-20260404083107.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8361/0/fb7b8d5bab/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Janagan N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Nahoor",
+        "address": "1/43, Kalignar Nagar, Main Road, Adhanacheri, Padappai, Kanchipuram District-601301",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JANAG-2026-20260406065910.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9734/0/9952783c86/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Krishnasamy",
+        "party": "Parivartan Rajniti Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Mayakkannan",
+        "address": "No 10/10,  Thengiynatham Colony, Thengiyantham Village, Chinnasalem Taluk, Kallakurichi District-606201",
+        "gender": "Male",
+        "age": "24",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KRISH-2026-20260404100125.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8338/0/f42c5fd30b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malathi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Selvam",
+        "address": "No.. 261,Colony Street, Ammakalathur Village And Post, Chinnasalem Taluk - 606204",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALAT-2026-20260406073841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10849/0/8545d85d51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malathi K",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Thirukkumaran N",
+        "address": "4/50, Poothamangalam Village, Melur Taluk, Madurai District",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALAT-2026-20260404084017.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8163/0/c3e590775e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Malathi K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Selvam",
+        "address": "No.261, Colony Theru, Ammakalthur Village  Post, Chinnasalem Taluk, Kallakurichi District- 606 204.",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MALAT-2026-20260406073841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14981/0/53f37452b9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan K",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Kaliyan",
+        "address": "No. 15, East Street, Vaniyanthal Village, Sankarapuram Taluk, Kallakurichi District",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406064451.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10288/0/1ad4b4a03a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagammal R",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Rajkodi M D",
+        "address": "33B/3B, Nepal Street, Kallakurichi-606 202",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAM-2026-20260330014853.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/587/0/b1cac835e6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Prabu C",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Chinnayan",
+        "address": "No.728, New Colony, Siruvangur Post, Kallakurichi Taluk And District-606213.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRABU-2026-20260404091859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8259/0/5afad34487/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamanikkam G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Govindhan",
+        "address": "147 A, Nadu Theru, Pudhu Colony, Pakkam Village, Vanapuram Taluk-605801",
+        "gender": "Male",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260402072715.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5782/0/e7115de171/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajeevgandhi S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Subash Chandran",
+        "address": "179, Mariyamman Kovil Street, Neelamangalam Post, Kallakurichi Taluk And District-606213",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEE-2026-20260406071727.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10927/0/d049761fd1/",
+          "https://voterlist.co.in/affidavit-download/10927/1/d1c3b2ea74/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajivgandhi P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Paramasivam",
+        "address": "4/298 B, Adhithiravidar Street, Ammapalayam Post, Attur Taluk, Salem District",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJIV-2026-20260406085129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11102/0/158ee4fc7b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajivgandhi S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Subbarayan",
+        "address": "43/144, Colony, Puthirampattu Post, Mallapuram Village, Sankarapuram Taluk, Kallakurichi -606402",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJIV-2026-20260406090005.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11438/0/aa790aaf94/",
+          "https://voterlist.co.in/affidavit-download/11438/1/0d8728e51b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvaraj M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Mannangatti",
+        "address": "Mariyamman Kovil Street,  Veeracholapuram Post, Kallakurichi Taluk And District-606206.",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260404092559.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8268/0/c7068f7ffe/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Senthamarai",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Dhanakodi",
+        "address": "338/3B, Nephal Street. Kallakurichi-606202",
+        "gender": "Female",
+        "age": "63",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SENTH-2026-20260406090915.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11945/0/101a403c65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Singaravelan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Pichapillai",
+        "address": "29, Pazhaya Colony, Kaniyamur, Kallakurichi Taluk-606201.",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SINGA-2026-20260404093442.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8283/0/f6272f415d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivashankari",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Arul Vignesh",
+        "address": "No.4 Kachirayapalayam Road, Kallakurichi Taluk, Kallakurichi District",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAS-2026-20260404090054.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8226/0/1f49acb283/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thangapandiyan P",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Pazhani",
+        "address": "No. 10/1 Raja Nagar, Gandhi Road, Kallakurichi-606202",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THANG-2026-20260406072516.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11244/0/cf56e6f59e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thirukumaran",
+        "party": "Viduthalai Chiruthaigal Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Nachiyappan",
+        "address": "49, Poothamangalam North Colony, Poothamangalam Village, Melur Taluk -625108",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THIRU-2026-20260406084031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10659/0/02cd098103/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanthakumar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Saravanan",
+        "address": "38, West Street, Nedumanur Village, Sankarapuram Taluk, Kallakurichi-606208",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260404101045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8358/0/ad815e276a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vasanthakumar S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Saravanan",
+        "address": "38, Merku Theru, Nedumanur Village  Post, Sankarapuram Taluk, Kallakurichi District - 606 208.",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VASAN-2026-20260404101045.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16292/0/c0a0a34f80/",
+          "https://voterlist.co.in/affidavit-download/16292/1/be305ab0df/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Gunasekaran",
+        "address": "3/147, East Street, Prithivimangalam Village And Post, Thiyagadurugam,  Kallakurichi-606206.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIGNE-2026-20260404094353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8298/0/a3be62c59d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vignesh G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kallakurichi",
+        "father_husband_name": "Gunasekaran",
+        "address": "No.3/147, Kizhaku Theru, Prithvimangalam Village  Post, Kallakurichi Taluk  District - 606 206.",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VIGNE-2026-20260404094353.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16191/0/8b911f6a99/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

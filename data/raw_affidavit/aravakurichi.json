@@ -1,0 +1,726 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Aravakurichi",
+    "count": 48,
+    "candidates": [
+      {
+        "name": "Arasu Mani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Gurusamy K",
+        "address": "71-71, Chinnakulathupatti, Paganatham, Karur 639005",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARASU-2026-20260406010220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8589/0/ab501b0bf8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arasumani G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Gurusamy K",
+        "address": "71-71, Chinnakulathupatti, Paganatham, Karur 639005",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARASU-2026-20260406010220.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14712/0/a563a4fa07/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arivalagan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Muthusamy K",
+        "address": "121/4, Thavuttupalayam, Nanjai Pugalur, Pugalur, Karur 639113",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ARIVA-2026-20260406025515.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9888/0/f0ee8165d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Aseema Khaudhar S",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Sadiq Basha A",
+        "address": "5/180, Kattamputhhur, Chinnadarapuram, Aravakurichi, Karur 639202",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ASEEM-2026-20260404054112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7193/0/eba418d104/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asiya Begum",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Sadiq Basha A",
+        "address": "5/180, Kattamputhur, Chinnadarapuram, Aravakurichi, Karur 639202",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASIYA-2026-20260404044651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16115/0/48e31de2b8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Asiya Begum M",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Sadiq Basha A",
+        "address": "5/180, Kattamputhur, Chinnadarapuram, Aravakurichi, Karur 639202",
+        "gender": "Female",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASIYA-2026-20260404044651.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7698/0/f7733f7046/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Boopathy S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Subramani S",
+        "address": "2/112, Athithiravidar Street, Kasipalayam, Punjaikalikurichi, Aravakurichi, Karur 639002",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/BOOPA-2026-20260402025309.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5441/0/61f4521e15/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dharani Iyyappan D",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Devaraj",
+        "address": "90/84, East Vettuva Theru, Aravakurichi, Karur 639201",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DHARA-2026-20260406070844.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10460/0/194e93fbb1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Elango R",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Ramasamy P",
+        "address": "140, Kalipalayam, Monjanur, Monjanur West, Pugalur, Karur 639206",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ELANG-2026-20260406074616.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11256/0/cdeb7135b6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Ganesan",
+        "address": "4/54, Kuditheru West, Chinnadharapuram, Aravakurichi, Karur 639202",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406105204.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12174/0/577c34355a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan P",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Palanisami",
+        "address": "134, Muthugoundampalayam, Nagampalli, Aravakurichi, Karur 639109",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260404041856.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6130/0/9e6a11d980/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kathiresan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Murugan S",
+        "address": "30/A, Malaiveedhi, Old Kolumbu Store Line, Punjaipugalur, Karur",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KATHI-2026-20260404070349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6989/0/f7dd72ef9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kaviyarasu T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Thangavel S",
+        "address": "141, North Street, Aravakurichi, Karur 639201",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAVIY-2026-20260406122818.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9537/0/5417a13466/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kirubananth S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Sellappan R",
+        "address": "144, Periyaputhur, Venjamangkoodalur, Aravakurichi 639109",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KIRUB-2026-20260406091018.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15031/0/d775a6dd71/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kirubanath S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Sellappan R",
+        "address": "144, Periyaputhur, Venjamangkoodalur, Aravakurichi 639109",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KIRUB-2026-20260406091018.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12010/0/7f98d9ee8e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manikandan T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Thangarasu",
+        "address": "47, Pungambadi Kaspa, Pungambadi East, Aravakurichi, 639201",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANIK-2026-20260402043031.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5222/0/65b62ab01c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Manojpandian Jm",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Mayilraj T",
+        "address": "4/91, East Street, Rajapuram, Aravakurichi, Karur 639201",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MANOJ-2026-20260406122932.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9823/0/2b18625c0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mathiyalagan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Palanisamy",
+        "address": "93/66, Thoppampatti, Karaimedu, Athipalayam, Pugalur, Karur 639206",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MATHI-2026-20260406102732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12482/0/6ed202dcde/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohan Kumar K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Kumaran K",
+        "address": "3/100, Ellamettu Pudhur, Elavanur, Aravakurichi, Karur 639002",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406074052.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10987/0/05556b2e9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Mohankumar K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Kumaran K",
+        "address": "3/100, Ellamettu Pudhur, Elavanur, Aravakurichi, Karur 639002",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MOHAN-2026-20260406074052.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15136/0/0fed315f2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugesan R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Ramalingam",
+        "address": "73-8/1, North Street, Aravakurichi, Karur 639201",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406071334.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10738/0/c1a88ca50a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nachimuthu V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Veeran",
+        "address": "5,  Anna Nagar Sweeper Colony, Punjai Pugalur North, Pugalur 639117",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NACHI-2026-20260406084726.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10939/0/8a24c9f07a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nandhini S",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Selvakumar K",
+        "address": "3/85-1, Mettukadai, Athipalayam, Pugalur, Karur",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NANDH-2026-20260406025448.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9085/0/42ba993425/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Naren S",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Saravanan V",
+        "address": "19, Ghs School Street, Pandamangalam, P.velur, Namakkal 637208",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NAREN-2026-20260330014647.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/497/0/4ad728da65/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Narendra Kumar G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Gunasekar M",
+        "address": "3A, South Street, Senapirati, Pasupathipalayam, Karur 639004",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAREN-2026-20260406090302.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Narendrakumar G",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Gunasekar M",
+        "address": "3A, South Street, Senapirati, Pasupathipalayam, Karur 639004",
+        "gender": "Male",
+        "age": "30",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAREN-2026-20260406090302.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14733/0/e9a60c20ff/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natarajan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Paramasivam R",
+        "address": "10/2, Kongu Nagar, Kovil Nanaparappu, Pugalur, Punjai Pugalur North, Pugalur, Karur 639113",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NATAR-2026-20260402012553.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5011/0/5ce4d25a9c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Natchimuthu V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Veeran",
+        "address": "5,  Anna Nagar Sweeper Colony, Punjai Pugalur North, Pugalur 639117",
+        "gender": "Male",
+        "age": "54",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/NATCH-2026-20260410114837.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15084/0/2a63f5e673/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Praveen S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Sakthivel D",
+        "address": "5/268, Othamandhurai, Gudalur East Pit 2, Aravakurichi 639202",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PRAVE-2026-20260406092459.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12519/0/ae638b00b1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Purushothaman S",
+        "party": "Thamilaga Makkal Suthanthira Kalagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Subramanian M",
+        "address": "10-1, Bazaar Main Road, Velayuthampalayam, Pugalur, Karur 639117",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PURUS-2026-20260406101539.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12173/0/fa42b76896/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ragupathi S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Subramani S",
+        "address": "2/181-2, Kasipalayam, Punjaikalikurichi, Aravakurichi, Karur 639002",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/RAGUP-2026-20260402025859.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5366/0/be79d506a7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajagopal R",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Raman",
+        "address": "148, Annai Indira Nagar, Thethupatti, Velanchettiyur, Aravakurichi, Karur 639207",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAG-2026-20260406100215.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11778/0/21cc8f3eed/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajasekaran N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Nallaiyan",
+        "address": "604, C.s.c Street, Pallapalayam, Manmangalam, Karur 639002",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAS-2026-20260404071657.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7396/0/b32c393878/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendaran N",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Nallasamy",
+        "address": "92, Moorthipalayam, Poolampalayam, Punjai Thottakurichi, Pugalur, Karur 639002",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260404060019.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7045/0/c1213d05ef/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ramalingam V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Veluchamy A",
+        "address": "9/8, Arasampalayam, Kuppam, Aravakurichi, Karur 639111",
+        "gender": "Male",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAMAL-2026-20260404063121.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7022/0/4d370518c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ravi Ag",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Ganesan",
+        "address": "95A, Krishna Illam, Semangi, Karur 639117",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAVIA-2026-20260404051951.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7793/0/efeafd8e79/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rohesh R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Ravi R",
+        "address": "2/200, Chinnanadupalayam, Punnam, Pugalur, Karur 639136",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ROHES-2026-20260406064858.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8623/0/f18c847d4f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel R",
+        "party": "Viduthalai Kalam Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Ramasamy",
+        "address": "6/35, Vadugapatti. Puthambur, Karur 639003",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SAKTH-2026-20260404122157.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6444/0/165b235548/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sakthivel Rv",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Rengaraju V",
+        "address": "59, South Street, Aravakurichi, Karur",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SAKTH-2026-20260330045523.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/259/0/3ebde010e0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sasikumar R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Rajendran K",
+        "address": "5/47, Alanaankaadu Street, Kuppagoundanvalasu, Anjur, Pandilingapuram, Pugalur, Karur 638151",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SASIK-2026-20260406103628.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11798/0/8a52e64085/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvakumar K",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Kittappan",
+        "address": "3/85-1, Mettukadai, Athipalayam, Pugalur, Karur 639111",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVA-2026-20260406011812.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9304/0/f6756899d3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Silambarasan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Palanivel A",
+        "address": "30, Bawa Nagar, Aravakurichi, Karur 639201",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8381/0/27d2bf430c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivalingam T",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Thangarasu R",
+        "address": "14, Pillaiyar Kovil Street, Masakkavundanputhur, Moolimangalam, Kaagidhapuram, Karur 639136",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAL-2026-20260404064638.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7667/0/47f60fb2ec/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sowmiya R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Ragupathi C",
+        "address": "105, Poolan Colony, Thirukkaduthurai, Nadayanur, Pugalur 639117",
+        "gender": "Female",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SOWMI-2026-20260406085728.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Sudha E",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Elango R",
+        "address": "140, Kalipalayam, Monjanur, Monjanur West, Pugalur, Karur 639206",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUDHA-2026-20260406075413.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10699/0/b03c8f9f2f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Suganya S",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Sellamuthu S",
+        "address": "5/2, Uthirasapatti, Pungambadi, Aravakurichi 639201",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUGAN-2026-20260402040420.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5417/0/63ccb12189/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Tamilarasan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Murugesan P",
+        "address": "58B, Dharmarajapuram, East Thavutupalayam, Punjai Thottakurichi, Pugalur, Karur",
+        "gender": "Male",
+        "age": "26",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TAMIL-2026-20260404071109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7241/0/b38420ec0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thenmozhi K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Aravakurichi",
+        "father_husband_name": "Karthikeyan P",
+        "address": "134, Muthugoundanpalayam, Nagampalli, Aravakurichi 639109",
+        "gender": "Female",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THENM-2026-20260406091939.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12354/0/d91201360a/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

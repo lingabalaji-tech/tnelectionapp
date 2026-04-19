@@ -1,0 +1,751 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Kadayanallur",
+    "count": 49,
+    "candidates": [
+      {
+        "name": "Abdul Jaleel R K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Kasim",
+        "address": "145 Ambethkar Street, Tv Nagar Thirumangalam Chennai",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABDUL-2026-20260402071642.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5756/0/927f54218d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abdul Jaleel. R. K",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Kasim",
+        "address": "145 Ambedkar Street, Tv Nagar Thirumangalam Chennai - 600040",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ABDUL-2026-20260409052732.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14782/0/968d36fc38/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Abubacker Siddheeq",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Mohdoom Meeran Sahib",
+        "address": "69/29 Deevu Street, Kayalpattinam Thoothukudi District",
+        "gender": "Male",
+        "age": "27",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ABUBA-2026-20260330062000.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Barisha Banu M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Mohamed Hanifa",
+        "address": "4/128 Mangamma Salai Valasai Kambaneri Pudukudi 1 Kadayanallur Taluk Tenkasi District",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BARIS-2026-20260406084234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10777/0/7c3cb75d8f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Barisha Banu. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Mohamed Hanifa",
+        "address": "4/128 Mangamma Salai Valasai Kambaneri Pudukudi 1 Kadayanallur Taluk Tenkasi District - 627857",
+        "gender": "Female",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BARIS-2026-20260406084234.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14900/0/9b38735b4e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C Krishnamurali",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Chendur Pandian",
+        "address": "61 Ramasamy Street Shencottai Tenkasi District",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CKRIS-2026-20260404035702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6552/0/693f16bb27/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C. Krishnamurali",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Chendur Pandian",
+        "address": "61 Ramasamy Street Shencottai Shencottai Taluk Tenkasi District  - 627809",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/CKRI-2026-20260409052857.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14877/0/c16bf7047c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakki K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Karuppaiah",
+        "address": "343-9/80D-9 Devar Street Duraisamypuram Idaikal Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAKK-2026-20260406054855.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9446/0/b9d612b688/",
+          "https://voterlist.co.in/affidavit-download/9446/1/365fc55cca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakki Pandi K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Kalyani",
+        "address": "18/57A Pillaiyanar Kovil North Street Krishnapuram Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAKK-2026-20260406014453.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10388/0/2b3089a1bb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakki Pandi. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Kalyani",
+        "address": "18/57A Pillaiyar Kovil North Street Krishnapuram Kadayanallur Taluk Tenkasi District - 627759",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/ESAKK-2026-20260409053023.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15641/0/ab932859e1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakki. K",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Karuppaiah",
+        "address": "343-9/80D-9 Devar Street Duraisamypuram Idaikal Kadayanallur Taluk Tenkasi District - 627804",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAKK-2026-20260406054855.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15134/0/925aedd001/",
+          "https://voterlist.co.in/affidavit-download/15134/1/4ff2a4c9c2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Marimuthupandian",
+        "address": "5-41 Thennampillai Street Veerakelampudur Tenkasi District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GANES-2026-20260402013407.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5044/0/333bc5f4f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Ganesan. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Marimuthupandian",
+        "address": "5-41 Thennampillai Street Veerakelampudur Veerakelampudur Taluk Tenkasi District  - 627861",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/GANES-2026-20260409052717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16397/0/495007995b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K Muthiah",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Kuthalingam",
+        "address": "65 Parakiramapandiyaperi Nainaragaram Idaikal Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMUTH-2026-20260404070627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7091/0/ae09bc0b0a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha R",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Ramachandran",
+        "address": "41A-13 Krishnan Kovil North Street Melakadayanallur Kadayanallur Taluk Tenkasi District",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KAVIT-2026-20260406121845.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9834/0/ee19660341/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kavitha. R",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Ramachandran",
+        "address": "41A-13 Krishnan Kovil North Street Melakadayanallur Kadayanallur Taluk Tenkasi District - 627751",
+        "gender": "Female",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/KAVIT-2026-20260409052956.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15334/0/62ac96231e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lakshmi A",
+        "party": "Samata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "P G Anandan",
+        "address": "11-1/150/5 Kutti Nagar J.p. College Road Agarakattu Ayikudi Kadayanallur Taluk Tenkasi Dist",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/LAKSH-2026-20260330043608.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/99/0/c1696b6bdf/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Lakshmi. A",
+        "party": "Samata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "P. G. Anandan",
+        "address": "11-1/150/5 Kutti Nagar J.p. College Road Agarakattu Ayikudi Kadayanallur Taluk Tenkasi Dist - 627852",
+        "gender": "Female",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/LAKSH-2026-20260409052621.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16565/0/35ae142546/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M Arumugasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Muppuli",
+        "address": "2/143 Pillaiyar Kovil Street, Boganallur Post Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MARUM-2026-20260330052008.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "M. Arumugasamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Muppuli",
+        "address": "2/143-3  Pillaiyar Kovil Street, Boganallur Post  Kadayanallur Taluk Tenkasi District - 627751",
+        "gender": "Male",
+        "age": "67",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MARUM-2026-20260407063147.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16627/0/e92c1f7736/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Periyasamy Devar",
+        "address": "230 South Street Karpadam Village K Karisal Kulam Thiruvengadam Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MURUG-2026-20260406023723.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8580/0/bb4f9dd96c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Murugan. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Periyasamy Devar",
+        "address": "230 South Street Karpadam Village K Karisal Kulam Thiruvengadam Taluk Tenkasi District - 627552",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/MURUG-2026-20260409061549.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14706/0/71bb236ff2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Lakshmanan",
+        "address": "17A/49A Sevalvilai Street, Muthukrishnapuram Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260406053201.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10163/0/890389e5a1/",
+          "https://voterlist.co.in/affidavit-download/10163/1/892ce9a266/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Nagarajan. L",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Lakshmanan",
+        "address": "17A/49A Sevalvilai Street, Muthukrishnapuram Kadayanallur Kadayanallur Taluk Tenkasi District - 627751",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NAGAR-2026-20260406053201.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15536/0/9672a0a83d/",
+          "https://voterlist.co.in/affidavit-download/15536/1/0ad0586201/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthipan V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Velsamy",
+        "address": "6-5-6 Church Street Sambavar Vadakarai Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PARTH-2026-20260404122841.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6502/0/a544ada4b4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Parthipan. V",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Velsamy",
+        "address": "6-5-6 Church Street Sambavar Vadakarai Kadayanallur Taluk Tenkasi District - 627856",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/PARTH-2026-20260409052751.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16018/0/9aa26dec6e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Raja G",
+        "party": "Puthiya Tamilagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Gobalakrishnan",
+        "address": "11D3 North Vilai Colony Street Kumanthapuram Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAG-2026-20260406010129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8804/0/005fd112a4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamaravan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Shanmugaiah",
+        "address": "49/9 Thirupathi Vengadasalapathi Street Chockampatti Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260406060722.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9053/0/286e1b824d/",
+          "https://voterlist.co.in/affidavit-download/9053/1/fba1bf330b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajamaravan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Shunmugiah",
+        "address": "49/9 Thirupathi Vengadasalapathi Street Chockampatti Kadayanallur Taluk Tenkasi District - 627751",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAM-2026-20260406060722.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14926/0/d1b998ddf2/",
+          "https://voterlist.co.in/affidavit-download/14926/1/63cbad0dcb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajan B S",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "A Balayya",
+        "address": "115 Sakthi Nagar Tenkasi Tenkasi District",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAN-2026-20260406043303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9918/0/e27a429f49/",
+          "https://voterlist.co.in/affidavit-download/9918/1/ceced5324c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajan. B. S",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "A Balayya",
+        "address": "115 Sakthi Nagar Tenkasi Tenkasi Taluk Tenkasi District - 627811",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJAN-2026-20260406043303.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15383/0/5eac424040/",
+          "https://voterlist.co.in/affidavit-download/15383/1/e368f75df8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran T M",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Muthaiah S",
+        "address": "130A Main Road Thirumalapuram Panavadalichathram Post Sankarankovil Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406031111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10099/0/cfa76c474d/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran. T. M",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Muthaiah S",
+        "address": "130A Main Road Thirumalapuram Panavadalichathram Post Sankarankovil Taluk Tenkasi District - 627953",
+        "gender": "Male",
+        "age": "61",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406031111.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15491/0/7dee772480/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Muruganantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Subbaiah",
+        "address": "18 Pillaiyar Kovil Street Kumanthapuram Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SMURU-2026-20260404040711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6734/0/b1f8c6f7d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Muruganantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Subbaiah",
+        "address": "18 Pillaiyar Kovil Street Kumanthapuram Kadayanallur Taluk Tenkasi District - 627751",
+        "gender": "Male",
+        "age": "68",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SMUR-2026-20260409052917.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16189/0/ca2d413ba5/",
+          "https://voterlist.co.in/affidavit-download/16189/1/bc711670d5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seenivasan S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Sankarapandian",
+        "address": "11 Sankarapandian Street Sencottai Town Sencottai Taluk Tenkasi",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEENI-2026-20260406051132.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8444/0/c1e585fe44/",
+          "https://voterlist.co.in/affidavit-download/8444/1/cbe7a2c2a0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Seenivasan. S",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Sankarapandian",
+        "address": "11 Sankarapandian Street Sencottai Town Sencottai Taluk Tenkasi District - 627809",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SEENI-2026-20260406051132.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14649/0/8424156476/",
+          "https://voterlist.co.in/affidavit-download/14649/1/4e1668355f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Selvi A",
+        "party": "Aanaithinthiya Jananayaka Pathukappu Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Arjunan",
+        "address": "2/205 South Street Rajankapuram Govinthaperi Post Tenkasi Taluk Tenkasi District",
+        "gender": "Female",
+        "age": "53",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SELVI-2026-20260406045338.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9178/0/603048ee07/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shahin Fathima A",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Mohamed Thariq Syed",
+        "address": "54A-11 Bb Kulam Main Road Bb Kulam Madurai North Thallakulam Madurai District",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SHAHI-2026-20260404051020.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7436/0/da9dfe52a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Shahin Fathima. A",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Mohamed Thariq Syed",
+        "address": "54A-11 Bb Kulam Main Road Bb Kulam Madurai North Thallakulam Madurai District - 625002",
+        "gender": "Female",
+        "age": "31",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SHAHI-2026-20260409052936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15991/0/75f187b987/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaprakash M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Mani",
+        "address": "18C2 Paruth Ivilai North Street, Muthukrishnapuram Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "24",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SIVAP-2026-20260406092936.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11740/0/08451be63a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sureshkumar S",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Selvam",
+        "address": "87/29 North Oppanai Street Tenkasi Tenkasi Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SURES-2026-20260330045236.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/233/0/77aead67a6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sureshkumar. S",
+        "party": "Naam Indiar Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Selvam",
+        "address": "87/29 North Oppanai Street Tenkasi Tenkasi Taluk Tenkasi District - 627811",
+        "gender": "Male",
+        "age": "52",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/SURES-2026-20260409052635.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16594/0/305a495d35/",
+          "https://voterlist.co.in/affidavit-download/16594/1/f3dce2bba0/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Syed B Ibrahim",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Bashir Ahamed",
+        "address": "42/30A Kalvathnayagam Sannathi Street, Kadayanallur Tenkasi District",
+        "gender": "Male",
+        "age": "58",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SYEDB-2026-20260406065109.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9009/0/ab1fa7ae0f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T Maheshkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Thirumalai",
+        "address": "5/115 Church Street, Valliammalpuram Nainaragaram Post Kadayanallur Taluk Tenkasi District",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TMAHE-2026-20260404012711.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6278/0/811a687fad/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Maheshkumar",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Thirumalai",
+        "address": "5/115 Church Street, Valliammalpuram Nainaragaram Post Kadayanallur Taluk Tenkasi District - 627804",
+        "gender": "Male",
+        "age": "35",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/TMAH-2026-20260409052836.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15837/0/f576a1bec6/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Pechimuthu",
+        "address": "2-156 Vethakovil Street Veerakeralampudur Tenkasi District",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "Venkatesh. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "Pechimuthu",
+        "address": "2-156 Vethakovil Street Veerakeralampudur Veerakeralampudur Taluk Tenkasi District - 627861",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/VENKA-2026-20260409052701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16345/0/436e536f51/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Yamini Nachiar D R",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Kadayanallur",
+        "father_husband_name": "C Krishnamurali",
+        "address": "61 Ramasamy Street Shencottai Tenkasi District",
+        "gender": "Female",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/YAMIN-2026-20260404043717.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7391/0/bc47c9ed28/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Chengalpattu",
+    "count": 37,
+    "candidates": [
+      {
+        "name": "A.esakkiappan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Arunachalam",
+        "address": "Old No.77 Kattabomman Street,  Kamarajar Nagar, New Perungalathur, Chengalpattu, 600063.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAKK-2026-20260404013308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15887/0/29e0bd932d/",
+          "https://voterlist.co.in/affidavit-download/15887/1/0016bd30a5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.karthick",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Anbazhagan",
+        "address": "No.21, Pudha Street, Peramanur, Maraimalai Nagar, Chengalpattu - 603209",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAR-2026-20260406054021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8724/0/290cdca003/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.subash Anand",
+        "party": "All India Puratchi Thalaivar Makkal Munnettra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Anburaj",
+        "address": "No:22/1, Vallalar Street,Palur,603101",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ASUB-2026-20260404045941.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6982/0/83e8411915/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Amutha.n",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Nambiyar",
+        "address": "No.9B, Tranquil Nest,3Rd Main Road,Kamakotti Nagr,Chennai-600100",
+        "gender": "Female",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AMUTH-2026-20260330032002.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/271/0/2c993e2490/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Anitha",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Alagesan",
+        "address": "No,45, Nandeeswarar Colony,Kulakarai Veethi,Nandivarm,Guduvancherry,603202",
+        "gender": "Female",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ANITH-2026-20260330035443.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/420/0/8812618328/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.a. Jayaraman",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "N. Adhikesavan",
+        "address": "Sitthathur Village, Madhuranthagam Taluk, Chengalpattu - 603314",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CAJ-2026-20260406083701.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10540/0/4d195eaf69/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.sudhan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "J.chellamuthu",
+        "address": "No:53A/12, Thattanmalai Street,Periya Natham, Chengalpattu,603002",
+        "gender": "Male",
+        "age": "36",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CSUD-2026-20260406125405.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8510/0/62621ddecb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "C.vimalraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Chellappan",
+        "address": "No:18 Periyar Nagar,1St Street,Thirukachur,Maraimalai Nagar,Singaperumal Kovil, Chengalpattu,603204",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/CVIM-2026-20260406073335.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10612/0/6e8998bdf3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "D.rufus Kingston Jebaraj",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "J.deivasigamani",
+        "address": "No.17/19B, Chinna Rathinam Street, Chinna Natham, Chengalpattu Town, Taluk And District  603002",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRUF-2026-20260406061306.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9560/0/4771b4ebd9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Esakkiyappan.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Arunachalam",
+        "address": "No:77, Kattabomman Street, Kamarajar Nagar,New Perungalathur,600063",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ESAKK-2026-20260404013308.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6355/0/e2d647366c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G. Christopher",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "George Victor",
+        "address": "No: 87 Kathan Street, Periya Natham, Chengalpattu,603002",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GCHR-2026-20260404051441.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7610/0/6ce89974a2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "G.saratha",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "M.gajendran",
+        "address": "No:1, Gaja Castal, Balasundaram Street,Rathinamangalam,Vandalur Taluk,Chengalpattu District,600127",
+        "gender": "Female",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GSAR-2026-20260406041937.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8996/0/cf0db6071e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "J.victor John",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "D.jacob",
+        "address": "No:92, Utthukattu Amman Kovil Street, Chinnama Nagar, Thaiyur,Thiruporur",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/JVIC-2026-20260404054831.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7719/0/23ccef4673/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthick.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Anbazhagan",
+        "address": "No .21, Budhar Street, Peramanur, Maraimalai Nagar, Chengalpattu, 603209.",
+        "gender": "Male",
+        "age": "33",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AKAR-2026-20260406054021.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14768/0/c8c1c74e09/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthik Dhandapani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "M.k.dhandapani",
+        "address": "No:51, Periyar Ramasamy Street,Guduvanchery,Vandalur Taluk,Chengalpattu District-603202",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406012843.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9695/0/bcbacd1d83/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikdhandapani",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "M.k.dhandapani",
+        "address": "51, Periyar Ramasamy Street, Guduvanchery,  Vandalur Taluk,  Chengalpattu District, 603202.",
+        "gender": "Male",
+        "age": "43",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406012843.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15261/0/89be4c8995/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Karthikeyan Munusamy",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "G.munusamy",
+        "address": "No:5, Thulukkanathamman Kovil Street, Nandhivaram,Guduvanchery,Vandalur Taluk,Chengalpattu District 603202",
+        "gender": "Male",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KARTH-2026-20260406064505.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10320/0/29df96b24b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.anandan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "K.madhurai",
+        "address": "No:1, Barathiyar Street,Guduvancherry, Vandalur Taluk,Chengalpattu District 603202",
+        "gender": "Male",
+        "age": "41",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MANA-2026-20260406062903.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9045/0/f977ec699c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.gajendran",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Marimuthu",
+        "address": "No:1, Gaja Castal, Balasundaram Street,Rathinamangalam,Vandalur Taluk,Chengalpattu District,600127",
+        "gender": "Male",
+        "age": "47",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MGAJ-2026-20260406023749.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8611/0/30778a7744/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "M.kuppusamy  Johnvessi",
+        "party": "All India Jananayaka Makkal Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Muthu",
+        "address": "Door No.2/20, Gangayamman Kovil 2Nd Street, Nerpear Post, Madhuranthagam Taluk, Chengalpattu District  603313",
+        "gender": "Male",
+        "age": "57",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MKUP-2026-20260406092355.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12472/0/6d0d718461/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.george Devadoss",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "D.peter",
+        "address": "No:12, Gst Road,Telc Church,Chengalpattu",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGEO-2026-20260404053349.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/7132/0/dda7823748/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.karthick",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Paranthaman",
+        "address": "No.106, Gundur Mettu Street, Chengalpattu -  603001",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PKAR-2026-20260406052719.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9759/0/3fd419aea7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Palayanur / Palaru M.mani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Munusamy",
+        "address": "No: 277/1, Sakthi Nagar, 2Nd Street, Alapakkam,603003",
+        "gender": "Male",
+        "age": "70",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PALAY-2026-20260404022839.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6159/0/fbf5069408/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Premkumar Chidambaram",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "M.chidambaram",
+        "address": "No.01, Bajanai Koil Street, Ambedkar Nagar, Nandhivaram, Guduvancherry, Vandalur Taluk, Chengalpattu District - 603202",
+        "gender": "Male",
+        "age": "25",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PREMK-2026-20260406051412.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8643/0/1a2712384a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.vidhya",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "S.thiyagarajan",
+        "address": "No: 14 Vengadamangalam, Ward 1 Mettu Street, Parasuramman Street,Rathinamangalam,600127",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVID-2026-20260404031130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6722/0/a3275c99ba/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.vidhya",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "S.thiyagarajan",
+        "address": "No: 14 Vengadamangalam, Ward 1 Mettu Street, Parasuramman Street,Rathinamangalam,600127",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVID-2026-20260404031130.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14060/0/d84acd9ff3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Nelson Christopher",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "R. J. Samuel",
+        "address": "No: 476, Chanthirapuram 3, Vaidegi Street, Kolappakkam,Unaimancheri,600048",
+        "gender": "Male",
+        "age": "29",
+        "image_url": "https://affidavit.eci.gov.in/img/male_avatar.png",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Saravanan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Shanmugam.d",
+        "address": "5/197, Nalladuran Street,Komman Nagar, Thaiyur, 603103",
+        "gender": "Male",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSAR-2026-20260402014528.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5057/0/32b849f1bd/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Thiyagarajan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Sowtharajan",
+        "address": "No: 27 Vengadamangalam, Ward 1 Mettu Street, Tambaram, Vandalur,600048",
+        "gender": "Male",
+        "age": "37",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/STHI-2026-20260404025146.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6495/0/bf0aad80e4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.delhi Babu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Sadaiyappan",
+        "address": "No.400/8, Amman Kovil Street, Urapakkam, Chengalpattu Taluk, Chengalpattu District  603 210",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDEL-2026-20260406044421.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8443/0/db2b749b9b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.karthikeyan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "Sakthivel",
+        "address": "No.f-5, Star  Residency, Srinivasan Nagar, Nandhivaram, Guduvancherry, Chengalpattu District -603202.",
+        "gender": "Male",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAR-2026-20260406074746.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11316/0/0c54cfc8e3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.selvam",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "S.sekar",
+        "address": "No:225, C Block, Pallava Gardem, Pulipakkam Village, Chengalpattu Taluk  District  603002.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEL-2026-20260406091133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12072/0/142e9c7d72/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.selvam (A) Chella",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "S.sekar",
+        "address": "No.225, C Block, Pallava Garden, Pulipakkam Village, Chengalpattu Taluk  District.",
+        "gender": "Male",
+        "age": "44",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SSEL-2026-20260406091133.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15093/0/9904c2862a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "T. Prem Balaji",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "K.thambukannu",
+        "address": "No: 24/121 Kathan Street, Big Natham, Chengalpattu,603002",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/TPRE-2026-20260404052632.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8060/0/6008b0f63a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Thenmozhi Karthik",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "D.karthik",
+        "address": "No.51, Periyar Ramasamy Street, Guduvancherry, Vandalur Taluk, Chengalpattu District  603 202",
+        "gender": "Female",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/THENM-2026-20260406050128.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9847/0/fe76de1459/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Rama Krishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "R.venkatesan",
+        "address": "No.305/2, Netaji Nagar, Venpakkam Village And Post, Chengalpattu Taluk  District  603111",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406080547.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11211/0/786f3b4379/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V. Ramakrishnan",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Chengalpattu",
+        "father_husband_name": "R.venkatesan",
+        "address": "305/2, Netaji Nagar, Venpakkam Village  Post, Chengalpattu Taluk  District, 603111.",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VRAM-2026-20260406080547.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15404/0/43d17cf618/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

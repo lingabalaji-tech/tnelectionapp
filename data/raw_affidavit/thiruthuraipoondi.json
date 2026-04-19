@@ -1,0 +1,340 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Thiruthuraipoondi",
+    "count": 22,
+    "candidates": [
+      {
+        "name": "A.aarthi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Abdulrahim",
+        "address": "174, Vedharanyam Salai, Thiruthuraipoondi, Thiruvarur 614713",
+        "gender": "Female",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/AAAR-2026-20260402024625.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5493/0/8e9e89b3f1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "A.vimala",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Arul",
+        "address": "No 1/167, Middle Street,Varambiyam,Deevambalpuram,Vittukatti,Thiruthuraipoondi Tk,Thiruvarur Dt",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIM-2026-20260404022129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6862/0/841ec0e75a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam.n",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Nagaiyan",
+        "address": "162/1 Keezha Street, Manakkal ,Thiruvarur Taluk ,Thiruvarur District",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NARU-2026-20260406035946.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13110/0/5ebac3fdca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "B.thirumeni",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "U.balathandayutham",
+        "address": "214, North Street, Komalapettai, Panaiyur, Keelapanaiyur, Thiruthuraipoondi Taluk, Thiruvarur District",
+        "gender": "Female",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/BTHI-2026-20260406014713.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8490/0/b347e9c694/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Balathandayutham.u",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Uthirapathi",
+        "address": "214, North Street, Komalappettai, Panaiyur, Keelapanaiyur, Thiruthuraipoondi Taluk, Thiruvarur District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UBAL-2026-20260406010548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12950/0/bbdae09f99/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Jayasangar.a",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Ambigapathi",
+        "address": "145, Kumaran Street, Serukalathur, Sithamalli Post, Muthupettai Taluk, Thiruvarur District",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJAY-2026-20260406023053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13144/0/587bee4b96/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.marimuthu",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Kannu",
+        "address": "507/1,Colony Street,Kaduvakudi,Karuppukilar,Kottur,Mannargudi Taluk,Thiruvarur-614710",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAR-2026-20260404125629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6282/0/5a18ffe1ee/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "K.murugaiyan",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Krishnan",
+        "address": "4/107,Middle Street, Nachikulam,Uthayamarthandapuram,Muthupettai Taluk, Thiruvarur-614706",
+        "gender": "Male",
+        "age": "56",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMUR-2026-20260404014140.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6461/0/cbdfaa9650/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Marimuthu.k",
+        "party": "Communist Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Kannu",
+        "address": "507/1,Colony Street,Kaduvakkudi,Karuppukilar,Kottur,Mannargudi Taluk,Thiruvarur District-614710",
+        "gender": "Male",
+        "age": "55",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/KMAR-2026-20260404125629.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13196/0/ec4bf8400f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Muruganantham.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Veerasamy",
+        "address": "3/784, Sannathi Street, Kottur, Mannargudi Taluk, Thiruvarur District-614708",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUR-2026-20260406020947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13011/0/fe123e68e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "N.arumugam",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Nagaiyan",
+        "address": "162/1 Keela Street, Manakkal ,Thiruvarur Taluk ,Thiruvarur District 610104",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/NARU-2026-20260406035946.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10049/0/5ecdf9bf68/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandiyan.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Selvam",
+        "address": "584/1, Pillaiyar Kovil Street, Kampankudi, Adichapuram, Mannargudi Taluk, Thiruvarur District-614717",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAN-2026-20260404120524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13209/0/20b350db82/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.jayasangar",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Ambikapathi",
+        "address": "145, Kumaran Street, Serugalathur, Sithamalli, Muthupettai Taluk, Thiruvarur -614705",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RJAY-2026-20260406023053.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10373/0/9ac4266f8f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R.vinothini",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Rajini",
+        "address": "249C, Kaveri Nagar,Keelakavathukudi,Thiruvarur,610001",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIN-2026-20260330033708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/353/0/6a3b51e8e2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.dhinakaran",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Siva",
+        "address": "5/784, Mela Street, Thattankovil, Thiruvanduthurai Post, Mannargudi Taluk,Thiruvarur-614717",
+        "gender": "Male",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SDHI-2026-20260406030135.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9645/0/3da7aefbea/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S.pandiyan",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Selvam",
+        "address": "584/1, Pillayar Kovil Street, Kambankudi, Adichpuram,Thiruvarur-614717",
+        "gender": "Male",
+        "age": "42",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SPAN-2026-20260404120524.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6367/0/d823744ed4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sivaprakasam.v",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Vedhaiyan",
+        "address": "3/120, Keezha Street, Vilakudi, Vilakudi Post Thiruthuraipoondi Taluk, Thiruvarur-614715",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIVA-2026-20260404123426.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13077/0/7ae8f3b87f/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "U.balathandayutham",
+        "party": "All India Anna Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Uthirapathy",
+        "address": "214, North Street, Komalapettai, Panaiyur, Keelapanaiyur, Thiruthuraipoondi Taluk, Thiruvarur District",
+        "gender": "Male",
+        "age": "51",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/UBAL-2026-20260406010548.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/8934/0/96c82fe9fb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V Sivaprakasam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Vedhaiyan",
+        "address": "3/120, Keezha Street, Vilakudi, Thiruthuraipoondi Taluk, Thiruvarur-614715",
+        "gender": "Male",
+        "age": "39",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VSIVA-2026-20260404123426.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6536/0/51cd0ded4c/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.muruganantham",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Veerasamy",
+        "address": "3/784, Sannathi Street, Kottur, Mannargudi Taluk, Thiruvarur District-614708",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VMUR-2026-20260406020947.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/9349/0/6175c8b9c1/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vimala.a",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Arul",
+        "address": "1/167, Middle Street,Varambiyam,Deevampalpuram,Vittukatti,Thiruthuraipoondi Taluk,Thiruvarur District",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/AVIM-2026-20260404022129.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13304/0/60f5a705b7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Vinothini.r",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Thiruthuraipoondi",
+        "father_husband_name": "Rajini",
+        "address": "249C, Cauvery Nagar,Keezhakavathukudi,Thiruvarur,610001",
+        "gender": "Female",
+        "age": "34",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RVIN-2026-20260330033708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13342/0/9af8c656a6/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}

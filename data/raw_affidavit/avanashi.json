@@ -1,0 +1,533 @@
+{
+  "success": true,
+  "data": {
+    "state": "Tamil Nadu",
+    "constituency": "Avanashi",
+    "count": 35,
+    "candidates": [
+      {
+        "name": "Anandhi.s",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Senthilnadhan",
+        "address": "No.17, Indira Colony, Rasipuram Taluk, Namakkal District- 637408",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANAN-2026-20260402052556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14087/0/a9969ba4ab/",
+          "https://voterlist.co.in/affidavit-download/14087/1/36d53a32e8/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Palani",
+        "address": "5/151, Nambiyampalayam, Avinashi Taluk, Tiruppur-641670",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUMU-2026-20260406070820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10438/0/8bfa0a65d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam. P",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Palani",
+        "address": "5/151, Nambiyampalayam, Avinashi Taluk, Tiruppur",
+        "gender": "Male",
+        "age": "50",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/ARUMU-2026-20260406070820.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15668/0/6450addf28/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Arumugam.r",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Raman",
+        "address": "5/355, Ad Colony, Sulthanpettai, Mangalam, Tiruppur-641663",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARU-2026-20260404035708.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14046/0/b65c3f8642/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Chinnasamy.v",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Venkatasalam",
+        "address": "2/123, A.d. Colony, Nerupperichal, Vavipalayam, Tirupur",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VCHI-2026-20260406092637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15664/0/213850ae6a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dhanabal.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Ramasamy",
+        "address": "2-71/5, Samiyappan Compound, Kaniyampoondi, Avinashi-641663",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHAN-2026-20260402050627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15417/0/ef8590d8c5/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. Gokilamani.v",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Venitan",
+        "address": "6/102, Thirumalaigoundenpalayam, Kuttagam, Avinashi, Tiruppur District-638462",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRGO-2026-20260406073333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14749/0/ace925e9d7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr. L. Murugan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Loganathan",
+        "address": "B4/2, South Asian Federation Games Village, Koyambedu, Chennai-600107.",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRL-2026-20260406064044.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15689/0/bf2016019e/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.gokilamani.v",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Venitan",
+        "address": "6/102, Thirumalaigoundenpalayam, Kuttagam, Avinashi, Tiruppur District 638462",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRGO-2026-20260406073333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13901/0/ae521305d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.gokilmani.v",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Vengittan",
+        "address": "6/102, Thirumalaigoundenpalayam, Kuttagam, Avinashi, Tirupur District-638462",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/DRGO-2026-20260406073333.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10608/0/833af20bca/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Dr.l.murugan",
+        "party": "Bharatiya Janata Party",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Loganathan",
+        "address": "B4/2, South Asian Federation Games Village, Koyambedu, Chennai-600107",
+        "gender": "Male",
+        "age": "48",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/S22/DRL-2026-20260406064044.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/10472/0/a2eaecbebb/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gokilamani",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Murugan",
+        "address": "3/57, Kanuvaipalayam, Bhujanganur, Mettupalayam, Coimbatore-641113",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOKIL-2026-20260406082702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11086/0/b9f108356b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Gokilamani. M",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Murugan",
+        "address": "D.no. 3/57, Kanuvaipalayam, Phujanganur, Mettupalayam, Coimbatore, 641113",
+        "gender": "Female",
+        "age": "49",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/GOKIL-2026-20260406082702.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15250/0/7e7a228b75/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Govindan.p",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Palani",
+        "address": "9/131, Arugampalayam, Masagounden Chettipalayam, Kunnathur Pudur Po, Annur, Coimbatore - 641 107",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGOV-2026-20260404033257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/15800/0/3fd350e292/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Iyyammal.v",
+        "party": "Dravida Munnetra Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Gangatharan",
+        "address": "6/102, Thirumalaigoudanpalayam, Kuttagam, Avinashi, Tiruppur-638459",
+        "gender": "Female",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/IYYAM-2026-20260406080827.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11310/0/d96160146a/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Kamali.s",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Senthilnathan",
+        "address": "No.17 , Indira Colony , Rasipuram Taluk , Namakkal District 637408",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAM-2026-20260402042428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14078/0/5b3e5a3820/",
+          "https://voterlist.co.in/affidavit-download/14078/1/e00573e1c3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Menaka. V",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "V.vijayakumar",
+        "address": "Door No.7/246, Sugathara Uliyar Street , Avinashi - 641654",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MENAK-2026-20260330030716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/16585/0/f2994207d3/",
+          "https://voterlist.co.in/affidavit-download/16585/1/8f745fbf5b/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Menaka.v",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Vijayakumar",
+        "address": "7/246, Sugathara Uliyar Street , Avinashi - 641654",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/MENAK-2026-20260330030716.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/186/0/8b58ed8610/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Moorthi.r",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Ramasamy",
+        "address": "5/127, Old Colony, Nambiyampalayam, Avinashi Taluk, Tiruppur District.",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMOO-2026-20260406100319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14806/0/97c0953dce/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "P.govindan",
+        "party": "Bahujan Samaj Party",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Palani",
+        "address": "9/131, Arugampalayam, Masagoundenchettipalayam, Coimbatore - 641107",
+        "gender": "Male",
+        "age": "65",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PGOV-2026-20260404033257.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/6231/0/0699705d64/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Pandiselvi",
+        "party": "Naam Tamilar Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Saminathan",
+        "address": "Door No.28/29, Gandhi Colony, Sokkampalayam, Annur",
+        "gender": "Female",
+        "age": "40",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/PANDI-2026-20260402061410.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5774/0/0aa49dbff9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R  Dhanapal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Ramasamy",
+        "address": "2-71/5, Samyappan Compound, Kaniampoondi, Tiruppur-641663",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHAN-2026-20260402050627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5147/0/86e92fd1e9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R Sathiyarasu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Rangan",
+        "address": "2/76, Vanjipalayam, Puthucolony, Kaniyampoondi, Avinashi Taluk, Tiruppur District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSATH-2026-20260402055112.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Dhanabal",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Ramasamy",
+        "address": "2-71/5, Samyappan Compound, Kaniampoondi, Tiruppur-641663",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RDHAN-2026-20260402050627.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5962/0/7d53239ecc/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "R. Sathiyarasu",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Rangan",
+        "address": "2/76, Vanjipalayam, Puthucolony, Kaniyampoondi, Avinashi Taluk, Tiruppur District",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSATH-2026-20260402055112.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.arumugam",
+        "party": "Ganasangam Party Of India",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Raman",
+        "address": "5/355, Ad Colony, Sulthanpettai, Mangalam, Tiruppur-641663",
+        "gender": "Male",
+        "age": "62",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RARU-2026-20260404035708.jpg",
+        "affidavit_download_links": [],
+        "matched_fields": []
+      },
+      {
+        "name": "R.moorthi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Ramasamy",
+        "address": "5/127, Old Colony, Nambiyampalayam, Avinashi Taluk, Tiruppur District-641670",
+        "gender": "Male",
+        "age": "32",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RMOO-2026-20260406100319.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11804/0/60e075f0fa/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Rajendran.m",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Murugan",
+        "address": "230/68, Thennampalayam Road, Annur, Coimbatore-641653",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RAJEN-2026-20260406094546.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12241/0/f66085f5d2/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S Anandhi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Senthilnathan",
+        "address": "No.17, Indira Colony, Rasipuram Taluk, Namakkal District- 637408",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANAN-2026-20260402052556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5622/0/f1327ad050/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Anandhi",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Senthilnathan",
+        "address": "No.17, Indira Colony, Rasipuram Taluk, Namakkal District- 637408",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANAN-2026-20260402052556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5986/0/eac57dc503/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Anandhi",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Senthilnathan",
+        "address": "No.17, Indira Colony, Rasipuram Taluk, Namakkal District- 637408",
+        "gender": "Female",
+        "age": "46",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SANAN-2026-20260402052556.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/13340/0/2a3f124286/",
+          "https://voterlist.co.in/affidavit-download/13340/1/3c97468ec7/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "S. Kamali",
+        "party": "Tamilaga Vettri Kazhagam",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Senthilnathan",
+        "address": "No.17 , Indira Colony , Rasipuram Taluk , Namakkal District 637408",
+        "gender": "Female",
+        "age": "28",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SKAM-2026-20260402042428.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/5166/0/121b2d77f9/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Sathiyarasu. R",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Rangan",
+        "address": "2/76, Vanjipalayam, Pudu Colony, Kaniyampoondi, Avinashi Taluk, Tiruppur District.",
+        "gender": "Male",
+        "age": "38",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/RSATH-2026-20260402055112.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/14823/0/9eb58b32d4/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "Subramani.c.k",
+        "party": "Independent",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Chinnakaruppan",
+        "address": "90, Nethaji Nagar, Anupparpalayam, Tiruppur-641652",
+        "gender": "Male",
+        "age": "59",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/SUBRA-2026-20260406085755.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/11330/0/e72bfaafe3/"
+        ],
+        "matched_fields": []
+      },
+      {
+        "name": "V.chinnasamy",
+        "party": "Tamizhaga Vaazhvurimai Katchi",
+        "state": "Tamil Nadu",
+        "constituency": "Avanashi",
+        "father_husband_name": "Venkatasalam",
+        "address": "2/123, Vavipalayam, Tirupur-641666",
+        "gender": "Male",
+        "age": "45",
+        "image_url": "https://suvidha.eci.gov.in/ac/public/uploads2/candprofile/E32/2026/AC/s22/VCHI-2026-20260406092637.jpg",
+        "affidavit_download_links": [
+          "https://voterlist.co.in/affidavit-download/12545/0/2a27fa29d0/"
+        ],
+        "matched_fields": []
+      }
+    ]
+  }
+}
