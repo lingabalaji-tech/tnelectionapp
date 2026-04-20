@@ -1070,6 +1070,10 @@ def currency_text(value: Any) -> str:
     return f"₹{amount:,.0f}"
 
 
+def js_string(value: Any) -> str:
+    return json.dumps(value, ensure_ascii=False)
+
+
 def cases_flag_text(value: Any) -> str:
     if value in ("", None):
         return "â€”"
@@ -1235,12 +1239,24 @@ body[data-lang='ta'] .lang-en.block{display:none}
 body[data-lang='ta'] .lang-ta.block{display:block}
 .lang-en.block{display:block}
 .lang-ta.block{display:none}
-.btn{display:inline-block;padding:10px 14px;border-radius:12px;background:var(--accent);color:#fff;font-weight:700}
+.btn{display:inline-block;padding:10px 14px;border-radius:12px;background:var(--accent);color:#fff;font-weight:700;border:1px solid transparent;cursor:pointer;font-family:inherit;font-size:1rem;line-height:1.1}
 .small{font-size:.9rem;color:var(--muted)}
 .candidate-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
 .party-cell{display:flex;align-items:center;gap:0;min-width:220px}
 .party-icon{display:none}
 .affidavit-link{font-weight:700;white-space:nowrap}
+.roster-toolbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin:18px 0}
+.roster-toolbar .filters{flex:1 1 320px;margin:0}
+.roster-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:flex-end}
+.btn.secondary{background:#fff;color:var(--accent);border-color:var(--accent)}
+.btn[disabled]{opacity:.55;cursor:not-allowed;pointer-events:none}
+.roster-feedback{min-height:1.25rem;margin:10px 0 0;color:var(--muted);font-size:.92rem}
+.roster-feedback.error{color:#b91c1c}
+.share-capture{background:var(--bg);padding:24px;border-radius:24px}
+.share-capture .hero{padding-top:0}
+.share-capture .table-card{overflow:visible}
+.share-capture .candidate-row[style*="display: none"]{display:none !important}
+.share-capture .roster-toolbar,.share-capture .roster-feedback{display:none !important}
 @media (max-width:860px){.filters{grid-template-columns:1fr}.topbar-inner{align-items:flex-start;flex-direction:column}.nav{justify-content:flex-start}}
 """
     app = f"""
@@ -1272,6 +1288,190 @@ function formatCurrency(value) {{
   if (value === null || value === undefined || value === "") return "—";
   return "₹" + new Intl.NumberFormat("en-IN").format(Math.round(Number(value)));
 }}
+
+function csvEscape(value) {{
+  const text = value === null || value === undefined ? "" : String(value);
+  return /[",\\n]/.test(text) ? '"' + text.replace(/"/g, '""') + '"' : text;
+}}
+
+function downloadBlob(filename, blob) {{
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}}
+
+async function loadStylesheetText(relativePrefix) {{
+  const response = await fetch((relativePrefix || "") + "styles.css");
+  return response.text();
+}}
+
+function xmlEscape(value) {{
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}}
+
+async function buildSnapshotBlob(target, options) {{
+  const clone = target.cloneNode(true);
+  clone.classList.add("share-capture");
+  clone.querySelectorAll(".roster-toolbar, .roster-feedback").forEach((node) => node.remove());
+  const sandbox = document.createElement("div");
+  sandbox.style.position = "fixed";
+  sandbox.style.left = "-10000px";
+  sandbox.style.top = "0";
+  sandbox.style.width = "1200px";
+  sandbox.style.pointerEvents = "none";
+  sandbox.style.zIndex = "-1";
+  sandbox.appendChild(clone);
+  document.body.appendChild(sandbox);
+  const width = Math.max(960, Math.min(1200, clone.scrollWidth || 1200));
+  sandbox.style.width = width + "px";
+  const height = Math.max(720, clone.scrollHeight + 32);
+  const stylesText = await loadStylesheetText(options.relativePrefix || "");
+  const markup = `
+    <div xmlns="http://www.w3.org/1999/xhtml" style="padding:16px;background:#f5efe3;width:${{width}}px;">
+      <style>${{xmlEscape(stylesText)}}</style>
+      <style>.topbar,.lang-toggle,.roster-feedback,.roster-toolbar{{display:none !important;}} main.wrap{{width:auto !important;margin:0 !important;}}</style>
+      ${{clone.outerHTML}}
+    </div>
+  `;
+  document.body.removeChild(sandbox);
+  const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="${{width}}" height="${{height}}" viewBox="0 0 ${{width}} ${{height}}">
+      <foreignObject width="100%" height="100%">${{markup}}</foreignObject>
+    </svg>
+  `;
+  const svgBlob = new Blob([svg], {{ type: "image/svg+xml;charset=utf-8" }});
+  const url = URL.createObjectURL(svgBlob);
+  try {{
+    const image = await new Promise((resolve, reject) => {{
+      const img = new Image();
+      img.onload = () => resolve(img);
+      img.onerror = reject;
+      img.src = url;
+    }});
+    const canvas = document.createElement("canvas");
+    canvas.width = width;
+    canvas.height = height;
+    const ctx = canvas.getContext("2d");
+    ctx.fillStyle = "#f5efe3";
+    ctx.fillRect(0, 0, width, height);
+    ctx.drawImage(image, 0, 0);
+    return await new Promise((resolve, reject) => {{
+      canvas.toBlob((blob) => blob ? resolve(blob) : reject(new Error("PNG generation failed")), "image/png");
+    }});
+  }} finally {{
+    URL.revokeObjectURL(url);
+  }}
+}}
+
+function setRosterFeedback(element, html, isError) {{
+  if (!element) return;
+  element.innerHTML = html || "";
+  element.classList.toggle("error", !!isError);
+}}
+
+window.initConstituencyRosterPage = function initConstituencyRosterPage(config) {{
+  const searchInput = document.getElementById(config.searchInputId);
+  const exportButton = document.getElementById(config.exportButtonId);
+  const shareButton = document.getElementById(config.shareButtonId);
+  const feedback = document.getElementById(config.feedbackId);
+  const shareRoot = document.getElementById(config.shareRootId);
+  const rows = Array.from(document.querySelectorAll(config.rowSelector));
+
+  const visibleRows = () => rows.filter((row) => row.style.display !== "none");
+  const rowPayload = (row) => ({{
+    candidate_name: row.dataset.candidateName || "",
+    party_name: row.dataset.partyName || "",
+    gender: row.dataset.gender || "",
+    age: row.dataset.age || "",
+    assets: row.dataset.assets || "",
+    cases_flag: row.dataset.cases || "",
+    affidavit_url: row.dataset.affidavitUrl || "",
+    constituency_name: config.constituencyName || "",
+    constituency_no: String(config.constituencyNo || ""),
+    district: config.district || "",
+  }});
+
+  function updateActionState() {{
+    const hasRows = visibleRows().length > 0;
+    if (exportButton) exportButton.disabled = !hasRows;
+    if (shareButton) shareButton.disabled = !hasRows;
+    if (!hasRows) {{
+      feedback.dataset.state = "empty";
+      setRosterFeedback(feedback, config.messages.noRows, true);
+    }} else if (feedback && feedback.dataset.state === "empty") {{
+      feedback.dataset.state = "";
+      setRosterFeedback(feedback, "", false);
+    }}
+  }}
+
+  function filterRows() {{
+    const query = (searchInput?.value || "").toLowerCase().trim();
+    rows.forEach((row) => {{
+      row.style.display = !query || row.dataset.search.includes(query) ? "" : "none";
+    }});
+    updateActionState();
+  }}
+
+  async function handleCsvExport() {{
+    const data = visibleRows().map(rowPayload);
+    if (!data.length) {{
+      feedback.dataset.state = "empty";
+      setRosterFeedback(feedback, config.messages.noRows, true);
+      return;
+    }}
+    const header = ["candidate_name","party_name","gender","age","assets","cases_flag","affidavit_url","constituency_name","constituency_no","district"];
+    const lines = [
+      header.join(","),
+      ...data.map((record) => header.map((key) => csvEscape(record[key])).join(",")),
+    ];
+    const blob = new Blob(["\\ufeff" + lines.join("\\r\\n")], {{ type: "text/csv;charset=utf-8;" }});
+    downloadBlob(config.csvFilename, blob);
+    setRosterFeedback(feedback, config.messages.csvReady, false);
+  }}
+
+  async function handleShare() {{
+    if (!shareRoot) return;
+    if (!visibleRows().length) {{
+      feedback.dataset.state = "empty";
+      setRosterFeedback(feedback, config.messages.noRows, true);
+      return;
+    }}
+    try {{
+      setRosterFeedback(feedback, config.messages.sharePreparing, false);
+      const blob = await buildSnapshotBlob(shareRoot, {{ relativePrefix: config.relativePrefix }});
+      const file = new File([blob], config.imageFilename, {{ type: "image/png" }});
+      if (navigator.share && navigator.canShare && navigator.canShare({{ files: [file] }})) {{
+        await navigator.share({{
+          files: [file],
+          title: config.shareTitle,
+          text: config.shareText,
+        }});
+        setRosterFeedback(feedback, config.messages.shareDone, false);
+        return;
+      }}
+      downloadBlob(config.imageFilename, blob);
+      setRosterFeedback(feedback, config.messages.shareFallback, false);
+    }} catch (error) {{
+      console.error(error);
+      setRosterFeedback(feedback, config.messages.shareError, true);
+    }}
+  }}
+
+  searchInput?.addEventListener("input", filterRows);
+  exportButton?.addEventListener("click", handleCsvExport);
+  shareButton?.addEventListener("click", handleShare);
+  updateActionState();
+}};
 
 """
     (SITE_DIR / "styles.css").write_text(styles.strip() + "\n", encoding="utf-8")
@@ -1648,9 +1848,22 @@ def render_constituency_pages(summaries: list[dict[str, Any]], rows_by_constitue
         target_dir = base_dir / summary["constituency_slug"]
         target_dir.mkdir(parents=True, exist_ok=True)
         candidates = rows_by_constituency[summary["constituency_no"]]
+        share_root_id = f"roster-share-root-{summary['constituency_no']}"
+        search_input_id = f"candidate-search-{summary['constituency_no']}"
+        export_button_id = f"export-csv-{summary['constituency_no']}"
+        share_button_id = f"share-whatsapp-{summary['constituency_no']}"
+        feedback_id = f"roster-feedback-{summary['constituency_no']}"
         table_rows = "".join(
             f"""
-            <tr class="candidate-row" data-search="{html.escape((row['candidate_name'] + ' ' + row['party_name'] + ' ' + row['party_abbrev']).lower())}">
+            <tr class="candidate-row"
+                data-search="{html.escape((row['candidate_name'] + ' ' + row['party_name'] + ' ' + row['party_abbrev']).lower())}"
+                data-candidate-name="{html.escape(row['candidate_name'])}"
+                data-party-name="{html.escape(row['party_name'])}"
+                data-gender="{html.escape(str(row.get('gender') or ''))}"
+                data-age="{html.escape(str(row.get('age') or ''))}"
+                data-assets="{html.escape(currency_text(row['declared_assets']) if row.get('declared_assets') not in ('', None) else '')}"
+                data-cases="{html.escape(cases_flag_text(row.get('criminal_cases_flag') or row.get('criminal_cases_declared')) if (row.get('criminal_cases_flag') not in ('', None) or row.get('criminal_cases_declared') not in ('', None)) else '')}"
+                data-affidavit-url="{html.escape(row.get('candidate_reference_url') or row.get('affidavit_reference_url') or row.get('affidavit_url') or '')}">
               <td><a href="../../candidates/{row['candidate_slug']}/index.html">{html.escape(row['candidate_name'])}</a></td>
               <td><div class="party-cell"><span class="party-icon" title="{html.escape(row.get('symbol') or row['party_abbrev'])}" aria-label="{html.escape(row.get('symbol') or row['party_abbrev'])}">{html.escape(symbol_icon(row.get('symbol'), row['party_abbrev']))}</span><span>{html.escape(row['party_name'])}</span></div></td>
               <td>{html_text(row['gender'])}</td>
@@ -1662,40 +1875,68 @@ def render_constituency_pages(summaries: list[dict[str, Any]], rows_by_constitue
             """
             for row in candidates
         )
+        notes_html = bi_text(
+            "Assets, education, liabilities, and cases remain partial until local 2026 affidavit PDFs are parsed.",
+            "2026 affidavit PDF-களை உள்ளூரில் parse செய்யும் வரை சொத்து, கல்வி, கடன், வழக்கு தகவல்கள் பகுதியளவிலேயே இருக்கும்.",
+        )
         body = f"""
-        <section class="hero">
-          <span class="pill">{html.escape(summary['district'])}</span>
-          <h1>{html.escape(summary['constituency_name'])} ({summary['constituency_no']})</h1>
-          <p>{bi_text('Official 2026 roster with 2021 result context and 2026 voter roll stats where available.', 'அதிகாரப்பூர்வ 2026 பட்டியல், 2021 முடிவு பின்னணி மற்றும் கிடைக்கும் 2026 வாக்காளர் விவரங்களுடன்.')}</p>
-        </section>
-        <section class="meta">
-          <div class="card"><div class="meta-label">{bi_text('Candidates', 'வேட்பாளர்கள்')}</div><div class="meta-value">{summary['candidate_count_2026']}</div></div>
-          <div class="card"><div class="meta-label">{bi_text('Winner 2021', '2021 வெற்றியாளர்')}</div><div class="meta-value">{html_text(summary['winner_2021'])}</div></div>
-          <div class="card"><div class="meta-label">{bi_text('Margin 2021', '2021 வித்தியாசம்')}</div><div class="meta-value">{html_text(summary['margin_2021'])}</div></div>
-          <div class="card"><div class="meta-label">{bi_text('Voters 2026', 'வாக்காளர்கள் 2026')}</div><div class="meta-value">{html_text(summary['voters_total_2026'])}</div></div>
-        </section>
-        <div class="notice">{bi_text('Top parties in this seat: ' + summary['top_parties_2026'], 'இந்த தொகுதியில் முக்கிய கட்சிகள்: ' + summary['top_parties_2026'])}</div>
-        <div class="section-title"><h2>{bi_text('Candidate roster', 'வேட்பாளர் பட்டியல்')}</h2></div>
-        <div class="filters single">
-          <input id="candidate-search" class="search-box" placeholder="Search candidate or party name">
+        <div id="{share_root_id}" class="roster-share-root" data-constituency-name="{html.escape(summary['constituency_name'])}" data-constituency-no="{summary['constituency_no']}" data-district="{html.escape(summary['district'])}">
+          <section class="hero">
+            <span class="pill">{html.escape(summary['district'])}</span>
+            <h1>{html.escape(summary['constituency_name'])} ({summary['constituency_no']})</h1>
+            <p>{bi_text('Official 2026 roster with 2021 result context and 2026 voter roll stats where available.', 'அதிகாரப்பூர்வ 2026 பட்டியல், 2021 முடிவு பின்னணி மற்றும் கிடைக்கும் 2026 வாக்காளர் விவரங்களுடன்.')}</p>
+          </section>
+          <section class="meta">
+            <div class="card"><div class="meta-label">{bi_text('Candidates', 'வேட்பாளர்கள்')}</div><div class="meta-value">{summary['candidate_count_2026']}</div></div>
+            <div class="card"><div class="meta-label">{bi_text('Winner 2021', '2021 வெற்றியாளர்')}</div><div class="meta-value">{html_text(summary['winner_2021'])}</div></div>
+            <div class="card"><div class="meta-label">{bi_text('Margin 2021', '2021 வித்தியாசம்')}</div><div class="meta-value">{html_text(summary['margin_2021'])}</div></div>
+            <div class="card"><div class="meta-label">{bi_text('Voters 2026', 'வாக்காளர்கள் 2026')}</div><div class="meta-value">{html_text(summary['voters_total_2026'])}</div></div>
+          </section>
+          <div class="notice">{bi_text('Top parties in this seat: ' + summary['top_parties_2026'], 'இந்த தொகுதியில் முக்கிய கட்சிகள்: ' + summary['top_parties_2026'])}</div>
+          <div class="section-title"><h2>{bi_text('Candidate roster', 'வேட்பாளர் பட்டியல்')}</h2></div>
+          <div class="roster-toolbar">
+            <div class="filters single">
+              <input id="{search_input_id}" class="search-box" placeholder="Search candidate or party name">
+            </div>
+            <div class="roster-actions">
+              <button id="{export_button_id}" class="btn secondary" type="button">{bi_text('Export to CSV', 'CSV ஆக ஏற்றுமதி')}</button>
+              <button id="{share_button_id}" class="btn" type="button">{bi_text('Share to WhatsApp', 'WhatsApp-ல் பகிர்')}</button>
+            </div>
+          </div>
+          <div class="table-card">
+            <table>
+              <thead><tr><th>{bi_text('Candidate', 'வேட்பாளர்')}</th><th>{bi_text('Party', 'கட்சி')}</th><th>{bi_text('Gender', 'பாலினம்')}</th><th>{bi_text('Age', 'வயது')}</th><th>{bi_text('Assets', 'சொத்துகள்')}</th><th>{bi_text('Cases (Y/N)', 'வழக்குகள் (Y/N)')}</th><th>{bi_text('Affidavit URL', 'அஃபிடவிட் இணைப்பு')}</th></tr></thead>
+              <tbody>{table_rows}</tbody>
+            </table>
+          </div>
+          <div id="{feedback_id}" class="roster-feedback" aria-live="polite"></div>
         </div>
-        <div class="table-card">
-          <table>
-            <thead><tr><th>{bi_text('Candidate', 'வேட்பாளர்')}</th><th>{bi_text('Party', 'கட்சி')}</th><th>{bi_text('Gender', 'பாலினம்')}</th><th>{bi_text('Age', 'வயது')}</th><th>{bi_text('Assets', 'சொத்துகள்')}</th><th>{bi_text('Cases (Y/N)', 'வழக்குகள் (Y/N)')}</th><th>{bi_text('Affidavit URL', 'அஃபிடவிட் இணைப்பு')}</th></tr></thead>
-            <tbody>{table_rows}</tbody>
-          </table>
-        </div>
-        <p class="footer-note">{bi_text('Source dated ' + str(summary['source_date']), 'மூல தேதி ' + str(summary['source_date']))}</p>
+        <p class="footer-note">{bi_text('Source dated ' + str(summary['source_date']), 'மூல தேதி ' + str(summary['source_date']))}<br>{notes_html}</p>
         <script>
-          const candidateSearch = document.getElementById('candidate-search');
-          const candidateRows = Array.from(document.querySelectorAll('.candidate-row'));
-          function filterCandidateRows() {{
-            const q = (candidateSearch.value || '').toLowerCase().trim();
-            candidateRows.forEach(row => {{
-              row.style.display = !q || row.dataset.search.includes(q) ? '' : 'none';
-            }});
-          }}
-          candidateSearch.addEventListener('input', filterCandidateRows);
+          window.initConstituencyRosterPage({{
+            searchInputId: {js_string(search_input_id)},
+            exportButtonId: {js_string(export_button_id)},
+            shareButtonId: {js_string(share_button_id)},
+            feedbackId: {js_string(feedback_id)},
+            shareRootId: {js_string(share_root_id)},
+            rowSelector: ".candidate-row",
+            relativePrefix: "../../",
+            constituencyName: {js_string(summary['constituency_name'])},
+            constituencyNo: {summary['constituency_no']},
+            district: {js_string(summary['district'])},
+            csvFilename: {js_string(f"tn2026-{summary['constituency_slug']}-filtered-roster.csv")},
+            imageFilename: {js_string(f"tn2026-{summary['constituency_slug']}-filtered-roster.png")},
+            shareTitle: {js_string(f"{summary['constituency_name']} constituency roster")},
+            shareText: {js_string(f"Visible candidate roster for {summary['constituency_name']} ({summary['constituency_no']})")},
+            messages: {{
+              noRows: {js_string(bi_text('No visible rows to export or share.', 'ஏற்றுமதி செய்ய அல்லது பகிர காட்சிப்படுத்தப்பட்ட வரிகள் இல்லை.'))},
+              csvReady: {js_string(bi_text('CSV downloaded for the visible roster rows.', 'காட்சிப்படுத்தப்பட்ட roster வரிகளுக்கான CSV பதிவிறக்கப்பட்டது.'))},
+              sharePreparing: {js_string(bi_text('Preparing snapshot image…', 'படப் snapshot தயாராகிறது…'))},
+              shareDone: {js_string(bi_text('Share sheet opened. Choose WhatsApp to send the image.', 'பகிர்வு சாளரம் திறந்தது. படத்தை அனுப்ப WhatsApp-ஐ தேர்வுசெய்யவும்.'))},
+              shareFallback: {js_string(bi_text('Image downloaded. Share it in WhatsApp from your device.', 'படம் பதிவிறக்கப்பட்டது. உங்கள் சாதனத்திலிருந்து அதை WhatsApp-ல் பகிரலாம்.'))},
+              shareError: {js_string(bi_text('Unable to prepare the share image right now.', 'இப்போது பகிர்வு படத்தை தயாரிக்க முடியவில்லை.'))}
+            }}
+          }});
         </script>
         """
         (target_dir / "index.html").write_text(

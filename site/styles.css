@@ -55,10 +55,22 @@ body[data-lang='ta'] .lang-en.block{display:none}
 body[data-lang='ta'] .lang-ta.block{display:block}
 .lang-en.block{display:block}
 .lang-ta.block{display:none}
-.btn{display:inline-block;padding:10px 14px;border-radius:12px;background:var(--accent);color:#fff;font-weight:700}
+.btn{display:inline-block;padding:10px 14px;border-radius:12px;background:var(--accent);color:#fff;font-weight:700;border:1px solid transparent;cursor:pointer;font-family:inherit;font-size:1rem;line-height:1.1}
 .small{font-size:.9rem;color:var(--muted)}
 .candidate-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
 .party-cell{display:flex;align-items:center;gap:0;min-width:220px}
 .party-icon{display:none}
 .affidavit-link{font-weight:700;white-space:nowrap}
+.roster-toolbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin:18px 0}
+.roster-toolbar .filters{flex:1 1 320px;margin:0}
+.roster-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:flex-end}
+.btn.secondary{background:#fff;color:var(--accent);border-color:var(--accent)}
+.btn[disabled]{opacity:.55;cursor:not-allowed;pointer-events:none}
+.roster-feedback{min-height:1.25rem;margin:10px 0 0;color:var(--muted);font-size:.92rem}
+.roster-feedback.error{color:#b91c1c}
+.share-capture{background:var(--bg);padding:24px;border-radius:24px}
+.share-capture .hero{padding-top:0}
+.share-capture .table-card{overflow:visible}
+.share-capture .candidate-row[style*="display: none"]{display:none !important}
+.share-capture .roster-toolbar,.share-capture .roster-feedback{display:none !important}
 @media (max-width:860px){.filters{grid-template-columns:1fr}.topbar-inner{align-items:flex-start;flex-direction:column}.nav{justify-content:flex-start}}
