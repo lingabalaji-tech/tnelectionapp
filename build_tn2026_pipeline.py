@@ -1363,12 +1363,17 @@ def render_home(
     (SITE_DIR / "index.html").write_text(render_layout("Tamil Nadu 2026 Voter Facts", body), encoding="utf-8")
 
 
-def render_constituencies_index(summaries: list[dict[str, Any]]) -> None:
+def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constituency: dict[int, list[dict[str, Any]]]) -> None:
     items_html = []
     for item in summaries:
+        candidate_search_blob = " ".join(
+            row["candidate_name"].lower()
+            for row in rows_by_constituency.get(item["constituency_no"], [])
+            if row.get("candidate_name")
+        )
         items_html.append(
             f"""
-            <article class="card constituency-card" data-name="{html.escape(item['constituency_name'].lower())}" data-district="{html.escape(item['district'].lower())}" data-parties="{html.escape(item['top_parties_2026'].lower())}">
+            <article class="card constituency-card" data-name="{html.escape(item['constituency_name'].lower())}" data-district="{html.escape(item['district'].lower())}" data-parties="{html.escape(item['top_parties_2026'].lower())}" data-candidates="{html.escape(candidate_search_blob)}">
               <h3><a href="{item['constituency_slug']}/index.html">{html.escape(item['constituency_name'])} ({item['constituency_no']})</a></h3>
               <p class="small">{html.escape(item['district'])} • {item['candidate_count_2026']} candidates • {html.escape(item['top_parties_2026'])}</p>
               <div class="meta">
@@ -1381,7 +1386,7 @@ def render_constituencies_index(summaries: list[dict[str, Any]]) -> None:
     body = f"""
     <section class="hero">
       <h1>{bi_text('All 234 constituencies', 'அனைத்து 234 தொகுதிகள்')}</h1>
-      <p>{bi_text('Search by constituency, district, or party mix.', 'தொகுதி, மாவட்டம் அல்லது கட்சி அடிப்படையில் தேடுங்கள்.')}</p>
+      <p>{bi_text('Search by candidate, constituency, district, or party mix.', 'வேட்பாளர், தொகுதி, மாவட்டம் அல்லது கட்சி அடிப்படையில் தேடுங்கள்.')}</p>
     </section>
     <div class="filters">
       <input id="constituency-search" class="search-box" placeholder="{html.escape(UI_TEXT['search_placeholder']['en'])}">
@@ -1399,7 +1404,7 @@ def render_constituencies_index(summaries: list[dict[str, Any]]) -> None:
         const district = (districtFilter.value || '').toLowerCase();
         const party = (partyFilter.value || '').toLowerCase();
         cards.forEach(card => {{
-          const okQ = !q || card.dataset.name.includes(q) || card.dataset.district.includes(q) || card.dataset.parties.includes(q);
+          const okQ = !q || card.dataset.name.includes(q) || card.dataset.district.includes(q) || card.dataset.parties.includes(q) || card.dataset.candidates.includes(q);
           const okD = !district || card.dataset.district === district;
           const okP = !party || card.dataset.parties.includes(party);
           card.style.display = okQ && okD && okP ? '' : 'none';
@@ -1832,7 +1837,7 @@ def build_site(full_rows: list[dict[str, Any]], summaries: list[dict[str, Any]],
     write_common_assets(site_meta)
 
     render_home(site_meta, summaries, full_rows, validation)
-    render_constituencies_index(summaries)
+    render_constituencies_index(summaries, rows_by_constituency)
     render_constituency_pages(summaries, rows_by_constituency)
     render_candidate_pages(full_rows)
     render_compare_page(full_rows)
