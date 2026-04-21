@@ -166,7 +166,7 @@ ALLIANCE_BY_PARTY = {
 }
 
 UI_TEXT = {
-    "brand": {"en": "Tamil Nadu 2026 Voter Facts", "ta": "தமிழ்நாடு 2026 வாக்காளர் தகவல்கள்"},
+    "brand": {"en": "Know Your Candidates – Tamil Nadu 2026", "ta": "உங்கள் வேட்பாளர்களை அறியுங்கள் – தமிழ்நாடு 2026"},
     "tagline": {
         "en": "Contesting candidates, constituency context, and downloadable voter facts sourced from publicly available election pages.",
         "ta": "அதிகாரப்பூர்வ வேட்பாளர் பட்டியல், தொகுதி தகவல்கள், பதிவிறக்கக் கூடிய வாக்காளர் உண்மைகள்.",
@@ -1736,7 +1736,7 @@ def svg_card(title: str, subtitle: str, lines: list[str], accent: str = "#9a3412
   <text x="40" y="110" font-size="48" font-weight="700" fill="#9a3412">{html.escape(title)}</text>
   <text x="40" y="140" font-size="28" fill="#64748b">{html.escape(subtitle)}</text>
   {safe_lines}
-  <text x="40" y="592" font-size="22" fill="#64748b">Tamil Nadu 2026 Voter Facts • Source dated records</text>
+  <text x="40" y="592" font-size="22" fill="#64748b">Know Your Candidates - Tamil Nadu 2026 • Source dated records</text>
 </svg>
 """
 
@@ -1826,7 +1826,7 @@ def render_home(
     </section>
     <p class="footer-note">{bi_text('Generated on ' + site_meta['generated_on'], 'உருவாக்கப்பட்ட தேதி: ' + site_meta['generated_on'])}</p>
     """
-    (SITE_DIR / "index.html").write_text(render_layout("Tamil Nadu 2026 Voter Facts", body), encoding="utf-8")
+    (SITE_DIR / "index.html").write_text(render_layout("Know Your Candidates – Tamil Nadu 2026", body), encoding="utf-8")
 
 
 def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constituency: dict[int, list[dict[str, Any]]]) -> None:
@@ -2162,7 +2162,7 @@ def render_home(
     </section>
     <p class="footer-note">{bi_text('Generated on ' + site_meta['generated_on'], 'உருவாக்கப்பட்ட தேதி: ' + site_meta['generated_on'])}</p>
     """
-    (SITE_DIR / "index.html").write_text(render_layout("Tamil Nadu 2026 Voter Facts", body), encoding="utf-8")
+    (SITE_DIR / "index.html").write_text(render_layout("Know Your Candidates – Tamil Nadu 2026", body), encoding="utf-8")
 
 
 def render_constituency_pages(summaries: list[dict[str, Any]], rows_by_constituency: dict[int, list[dict[str, Any]]]) -> None:
@@ -2396,7 +2396,7 @@ def render_share_assets(summaries: list[dict[str, Any]], full_rows: list[dict[st
 
     verify_svg = svg_card(
         title="How to verify a candidate",
-        subtitle="Tamil Nadu 2026 voter facts",
+        subtitle="Know Your Candidates - Tamil Nadu 2026",
         lines=[
             "1. Open the candidate page",
             "2. Check the affidavit link when available",
