@@ -146,6 +146,25 @@ PARTY_PRIORITY = [
     "IND",
 ]
 
+ALLIANCE_BY_PARTY = {
+    "DMK": "DMK Alliance",
+    "INC": "DMK Alliance",
+    "DMDK": "DMK Alliance",
+    "VCK": "DMK Alliance",
+    "CPI": "DMK Alliance",
+    "CPM": "DMK Alliance",
+    "MDMK": "DMK Alliance",
+    "IUML": "DMK Alliance",
+    "MMK": "DMK Alliance",
+    "KMDK": "DMK Alliance",
+    "AIADMK": "AIADMK Alliance",
+    "BJP": "AIADMK Alliance",
+    "PMK": "AIADMK Alliance",
+    "AMMK": "AIADMK Alliance",
+    "TMC": "AIADMK Alliance",
+    "IJK": "AIADMK Alliance",
+}
+
 UI_TEXT = {
     "brand": {"en": "Tamil Nadu 2026 Voter Facts", "ta": "தமிழ்நாடு 2026 வாக்காளர் தகவல்கள்"},
     "tagline": {
@@ -1766,6 +1785,7 @@ def render_home(
         <tr>
           <td>{html.escape(party_labels.get(party_key, party_key))}</td>
           <td>{count:,}</td>
+          <td>{html.escape(ALLIANCE_BY_PARTY.get(party_key, "—"))}</td>
         </tr>
         """
         for party_key, count in top_parties
@@ -2125,6 +2145,7 @@ def render_home(
           <tr>
             <th>{bi_text('Party', 'Party')}</th>
             <th>{bi_text('# of candidates', '# of candidates')}</th>
+            <th>{bi_text('Alliance', 'Alliance')}</th>
           </tr>
         </thead>
         <tbody>{top_parties_rows}</tbody>

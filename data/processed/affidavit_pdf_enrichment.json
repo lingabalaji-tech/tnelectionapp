@@ -1,0 +1,1078 @@
+{
+  "generated_at": "2026-04-21T03:37:44.834Z",
+  "rows": [
+    {
+      "candidate_uid": "tn2026-001-0003",
+      "candidate_name": "M.JAGADEESAN",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/341/0/9e8cdf8197/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0003.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:00:50.309Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17"
+      ],
+      "ocr_snippets": {
+        "page_17": "[93 Scanned with OKEN Scanner",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0005",
+      "candidate_name": "SDK SANKAR",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/6648/0/bd559ad3f3/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0005.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:01:10.546Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19"
+      ],
+      "ocr_snippets": {
+        "page_17": "PART-B\n(11). ABSTRACT OF THE DETAILS GIVEN IN (1) TO (10) OF PART - A:\ni Name of the candidate Sh./Smt./Kum.SDK SANKAR\nFull postal address No.61,Egavalliyamman Kovil Street, Narasingapuram Village,\nPeriyaobulaburam Post, Gammidipoondi Taluk Thiruvallur District -\n601201\nNumber and name of the\nconstituency and State 01,Gummidipoondi constituency, State of Tamilnadu\n1 Name of the political party which AANAITHINTHIYA JANANAYAKA PATHUKAPPU\n| set up the candidate (otherwise KAZHAGAM\n| write ‘Independent’)\n5. Total number of pending criminal NIL\ncases\n6. Total Number of cases in which NIL\nconvicted\nPAN of Year for which last Total Income Shown\nIncome Tax Return filed\na) Candidate BILPS1522H 2024-2025 Rs.9.41,550\nb)Spouse =~ |JANCPVS47R | NL | ர |\n©) HUF\n&) Dependent\n5 | Details of Assets and Liabilities (including offshore assets) in rupees\n[Description [Self [Spouse | 11UF___|Dependent-1 [Depondoni-2_|Dependent3\nA Moveable Assets Rs.53,04,[Rs.30,73 Not Not Not Not\n(Total value) 647/- |000/-",
+        "page_19": "VERIFICATION\n1 the deponent, above named, do hereby verify and declare that the contents of this affidavit\nare true and correct to the best of my knowledge and belief and no part of it is false and nothing\nmaterial has been concealed there from. I further declare that:-\n(a) there is no case of conviction or pending case against me other than those mentioned in items\n5 and 6 of Part A and B above;\n(b) I, my spouse, or my dependents do not have any asset or liability, other than those mentioned\nin items 7 and 8 of Part A and items 8, 9 and 10 of Part B above.\nVerified at...Gummidipoondi................On this April... the 4% day\nOf...2026 ........qc05550\n) ட\nNote: 1. Affidavit should be filed latest by 3.00 PM on the last day of filing nominations.\nNote: 2. Affidavit should be sworn before an Oath Commissioner or Magistrate of the First\nClass or before a Notary Public.\nNote: 3. All columns should be filled up and no column to be left blank. If there is no\ninformation to furnish in respec",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0006",
+      "candidate_name": "K. CHANDRA SEKAR",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/7795/0/88ba7c770f/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0006.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:01:21.273Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0007",
+      "candidate_name": "S.VIJAYAKUMAR",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/5188/0/c41997b1e3/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0007.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:01:29.618Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0008",
+      "candidate_name": "M.KUMARAN",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/13064/0/1062dcaa24/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0008.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 235289,
+      "assets_movable": 235289,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:01:53.762Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "(8) details of contracts,\n~ entered into by Partnership\nFirms in which candidate or\nspouse or dependents are\npartners: 'N/A'\n(f) details of contracts,\nentered into by private\ncompanies in which candidate\nor spouse or dependents have\nshare: ‘N/A\n(10) My educational\nqualification is as under:\nDIPLOMA IN\nELECTRICAL AND\nELECTRONICS\nENGINEERING,SRI DEGREE OF BACHELOR\nSENIOR SECONDARY LEAVING NALLALAGHU OF SCIENCE IN\nCERTIFICATE,KLK GOVT HR SEC POLYTECHNIC PSYCHOLOGY,UNIVERS\nSCHOOL GUMMIDIPOONDI,STATE PUZHAL ITY OF MADRAS\nBOARD TAMILNADU,1998 CHENNAI STATE CHENNAILUNIVERSITY\nBOARD OF OF MADRAS,2007\nTECHNICAL\nEDUCATION AND\nTRAINING,2001\n(Give details of highest School /\nUniversity education mentioning the full\nform of the certiftcate/ diploma/ degree\ncourse, name of the School /College/\nUniversity and the year in which the\ncourse was completed.)\nAT ப்பம்‌\nக ணு\nAES\nQ RS wie <.\\\n= Nels 42\n\\ Wee EY\nஇடு ஸ்‌ ஆமா கம்‌\nOO ob’ ஏ\nது\nSIGNED BEFORE ME Page 17",
+        "page_19": "-\nப eel\nA Moveable Assets (Total ₹235289.00 | Nil Nil Nil Nil Nil\nvalue)\n80) | Immovable Assets ₹0.00 Nil Nil | Nil Nil Nil\nPurchase Price of self-\nacquired immovable\nproperty\n80) | Development/construction | 20.00 Nil Nil | Nil Nil Nil\ncost of immovable\nproperty after purchase (if\napplicable)\n80) | Approximate Current Nil Nil | Nil Nil Nil\nMarket Price\n(a)(a) Self-acquired Self :¥0.00\nassets (Total Value) Inherited\n(b)(b) Inherited assets :¥130800.00\n(Total Value)\n1] Liabilities\n(Government dues Nil | Nil Nil Nil\n(Total) 20.00 Nil 1 | Nil Nil\n(ii)Loans from Bank, Nil Nil\nFinancial Institutions and | ¥ 941000\nothers (Total)\n100 Liabilities that are\nunder dispute\n(iYGovernment dues Nil | Nil Nil Nil\n(Total) Nil Nil Nil ஙா Nil\n(iLoans from Bank, Nil Nil\nFinancial Institutionsand | ₹ 0.00\nothers (Total)\nQualification Full Form Certificate / School/College Board/University Year Of\n, ட்‌ * Diploma / Degree | Completion\ner . F Course\n| SENIOR SECONDARY | KLK GOVT HR SEC STATE BOARD 1998\n— LE",
+        "page_20": "x VERIFICATION\nI, the deponent, above named, do hereby verify and declare that the contents of this affidavit\nare true and correct to the best of my knowledge and belief and no part of it is false and nothing\nmaterial has been concealed there from. | further declare that;:-\n(a) there is no case of conviction or pending case against me other than those mentioned in\nitems 5 and 6 of Part A and B above.\n(b) I, my spouse, or my dependents do not have any asset or liability, other than those\nmentioned in items 7 and 8 of Part A and items 8, 9 and 10 of Part B above. ரீ\nVerifted at GUMMIDIPOONDI this the day of 06.04.2026. SEN\n. /DEPONENT\nNote: 1. Affidavit should be ftled latest by 3.00 PM on the last day of ftling nominations.\nNote: 2. Affidavit should be sworn before an Oath Commissioner or Magistrate of the First\nClass or before a Notary Public.\nNote: 3. கி) columns should be ftlled up and no column to be left blank. If there is no\ninformation to furnish in respect of any item, either “N"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0009",
+      "candidate_name": "GOPAL.K",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/11976/0/0f42a9d661/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0009.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 10,
+      "assets_movable": null,
+      "assets_immovable": 10,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:02:26.643Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "17\n| | | வேண்டி | |] |\n| | । தொகைகள்‌\n| (மொத்தம்‌) உ த\n(ii) | வங்கி, நிதி\nநிறுவனங்கள்‌\n| மற்றும்‌\nப ரூ. ்‌ ல்லை ல்லை\nவற்றிலிருந்து | 2,20,000 /- இல்லை flo 8\nபெறப்பட்ட\nகடன்கள்‌\n(மொத்தம்‌)\n| 10 பிரச்சனைக்குரிய\n| கடன்‌ பொறுப்புகள்‌\n| | (i) அரசுக்கு\n| | செலுத்த . ) .\n| | வேண்டிய இல்லை இல்லை இல்லை இல்லை\n| கடன்கள்‌\n| (மொத்தம்‌)\n| (ii) வங்கி, நிதி\n| நிறுவனங்கள்‌\n| | மற்றும்‌\nஏனைய ்‌ 2 ; :\nx A ல்லை ல்லை ல்லை இல்லை\nவற்றிலிருந்து 8 8 8\n| பெறப்பட்ட\n| கடன்கள்‌\n| (மொத்தம்‌)\n11. உயரளவு கல்வித்‌ தகுதி :\n10%. - அரசினர்‌ மேல்நிலைப்பள்ளி, சோழவரம்‌\nமுடித்த ஆண்டு - 1979-1980.\nநட்‌ TARR A pb”\nVa NY Mao, ன ஜ்‌\nஇம WEASIHT, வா. ர\nI | 7 ” \\ * g > & Notary p ம்‌ ன்னு\nப | ' oy 7] No.53, Vasantia Bazaar go nhs\n1 0.656500 ர Gummidipoandi » றன gone 00th\nNy ந்ஞ்த்ப J HRT Goll: 9304004579\nNp, eine SY\nNMC\nNENT Vo\nJ",
+        "page_19": "NOTARIAL CERTIFICATE\nBe it know and made manifest (Unto People) that on 06\" day of April 2026 at\nGummidipoondi.\n1. N.Kasimani, MA BL, Notary appointed by the Government of India. to practice in\nGummidipoondi, Tiruvallur district, STATE OF TAMILNADU, duly authorized and sworn subject\nthe provisions of the NOTARIES ACT 53 of 1952 and Notaries Rules 1956.\nDO HEREBY CERTIFIED THAT Mr.Sudhakar V(Voter ID No.AYR2038370) son of\ngANGADHARAN , residing No: 582, Kottakuppam Village, Manjakaranai Panchat, Uthukottai\nTaluk. Tiruvallur District-600067. Deponent personally appeared in the before me , known to be the\nperson or persons described in the Affidavit, Letter of Indemnity.\nHe deponent in my present and signed his their mark after knowing the contents of this\naffidavit. Having been read over and explained to the deponent who seemed perfectly to understand it\nknowledge the he signed same at FREE/WILL.\nTHIS INSTRUMENT INTENDED TO TAKE EFFECT WITHIN TAMILNADU NOTARIAL\nREGISTER BOOK.\nBOOK NO : W",
+        "page_20": "ந Mobile No. : 99948 24570\nPhone No.: 044-27928888\nN. KASIMANI ma. BL,\nAdvocate & Notary Public\niif\n, ரஜி\nResidence : UO, Office :\nPlot No.39, N.M.S. Nagar, ன No.59, Vasantha Bazaar,\n¥ - tH 5\nRettambedu Road, GOV ERNMENT OF INDIA Railway Station Road,\nGummidipoondi - 601 201. Gummudipoondi - 601 201.\nவைனை\nRef. :\nபஸ்ல வலவ\nNOTARIAL CERTIFICATE\nBE IT KNOWN & MADE MANIFEST (unto all people) that on this 06\" Day of April 2026\n1, N. KASIMANI, M.A., B.L., Notary appointed by the Government of India, to practices in Tiruvallur\nDistrict, State of Tamil Nadu, India country, duly authorized admitted & sworn affidavit subject to the\nprovisions of the Notaries Act, 1952 and Notaries Rules, 1956.\nDO HEREBY CERTIFY THAT Mr. K. GOPAL, S/o. Kangadaran, Indian and Hindu, born on 05.10.1962, aged\n63 years, residing at No. 582, Kottakuppam, Manjangarani, Uthukkottai Taluk, Tiruvallur District, Tamil Nadu,\nand India.\nThe deponent personally appeared before me know to be the person described in the affidavi"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0010",
+      "candidate_name": "T.GOVINDAN",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/8666/0/5e61e3efa4/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0010.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:02:34.298Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0011",
+      "candidate_name": "A.H. SIVA GANESH",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/10835/0/8abf2253cc/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0011.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:02:43.196Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0012",
+      "candidate_name": "D.SUDHAKAR",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/9158/0/fa2e31bb16/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0012.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:03:05.911Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "SN 7A\nved —B\n(11) பகுதி கி G@ (1) முதல்‌ (10) வரையில்‌ அளிக்கப்பட்டுள்ள விவரங்களின்‌\nசுருக்கம்‌:---\nவேட்பாளர்‌ பெயர்‌ திரு. சுதாகர்‌ ட\n2. | முழு அஞ்சல்‌ முகவரி எண்‌.84,சித்தூர்‌ நத்தம்‌ கிராமம்‌\nஈகுவார்பாளையம்‌ அஞ்சல்‌\nகும்மிடிபூண்டி வட்டம்‌\nதிருவள்ளுர்‌ மாவட்டம்‌ 601 201.\n3. | தொகுதியின்‌ எண்‌ பெயர்‌ மற்றும்‌ எண்‌.001, கும்மிடிப்பூண்டி, சட்டமன்ற தொகுதி\nமாநிலம்‌ தமிழ்நாடு.\n4. | வேட்பாளர்‌ சார்ந்த அரசியல்‌\nகட்சியின்‌ பெயர்‌ (இல்லையெனில்‌ சுயேட்சை\n'சுயேட்சை' என குறிப்பிடவும்‌) ்‌\n5. | நிலுவையிலுள்ள குற்றவியல்‌ வழக்குகளின்‌\n| மொத்த எண்ணிக்கை\n| ஏதுமில்லை\n|\n|\n6. | தண்டனை பெற்ற வழக்குகளின்‌ மொத்த\n| எண்ணிக்கை யில்லை\n|\n|\nகடைசியாக வருமான வரி\nநிரந்தர வருமான கணக்கு விவர அறிக்கை | காட்டப்பட்டுள்‌\nவரிக்கணக்கு தாக்கல்‌ செய்யப்பட்ட ள மொத்த\nகற்ற ஆண்டு வருமானம்‌\n(a) வேட்பாளர்‌ To\nற.சுதாகர்‌ FNUPS8475K ஏதுமில்லை பொருந்தாது\n(வாழ்க்கைத்‌\nதுணைவி FAPPPO882R ஏதுமில்லை பொருந்தாது\nபிரபாவதி\nந்து கூட்ருக்குரும்பம்‌ ட :\nசார்ந்தவர்‌ 1\nமைனர்‌ மகள்‌ இல்லை பொருந்தாது பொருந்தாது\n8.மஜாழீ EE\nசார்ந்தவர்‌ 2\nமைனர்‌ மகன்‌ இ",
+        "page_19": "த்‌\n10. | பிரச்சனைக்குரிய கடன்‌ a -\nபொறுப்புகள்‌\nடு அரசுக்கு ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\nrn | PE\n| கடன்‌\nமொத்தம்‌\n(if) வங்கி, நிதி\n| நிறுவனங்கள்‌\n| மற்றும்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nஏனையவற்றிலி\nருந்து.\nபெறப்பட்ட\nகடன்கள்‌\n| மொத்தம்‌\n| 11.\n| உயரளவு கல்வித்‌ தகுதி:---\n| (சான்றிதழ்‌ படிப்பின்‌ / பட்டயப்படிப்பின்‌ | பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌, உயரளவு\n| பள்ளிக்‌ கல்வி / பல்கலைக்கழக கல்வி விவரங்கள்‌, பள்ளி | கல்லூரி | பல்கலைக்கழகம்‌ பெயர்‌\n। மற்றும்‌ படிப்பு முடித்த ஆண்டு குறித்த விவரங்களை அளிக்கவும்‌.)\n|\n| 1. 5th Standard, Government Higher Secondary School,\nChithoor Natham Village, Gummidipoondi Taluk, “Thiruvallur District.\n| முடித்த வருடம்‌ 2000\n|\n| ட ௨\nசரிபார்ப்பு\nமேற்சொன்ன பெயரை உடைய உறுதியளிப்பவராகிய நான்‌, எனக்கு நன்கு\nதெறிந்த வரையிலும்‌ நம்பிக்கைக்கு உகந்த வகையிலும்‌, இந்த உறுதிமொழிப்‌\nபத்திரத்தில்‌ உள்ளவை உண்மையானது மற்றும்‌ சரியானது என்றும்‌, எந்தப்‌\nபகுதியும்‌ பொய்யானவை அல்ல என்றும்‌, எவையும்‌ இதிலிருந்து\nமறைக்கப்படவில்லை என்றும்‌",
+        "page_20": "க\n(வ/மேலே பகுதி A மற்றும்‌ 13 இல்‌ உள்ள இனங்கள்‌ 8 மற்றும்‌ 6-இல்‌\nகுறிப்பிடப்பட்டவை நீங்கலாக, என்‌ மீது தண்டனை பெற்ற வழக்கு அல்லது\nநிலுவை வழக்கு ஏதுமில்லை.\n(௩) மேலே பகுதி A இல்‌ உள்ள இனங்கள்‌ 7 மற்றும்‌ 8 மற்றும்‌ பகுதி பி இல்‌\nஉள்ள இனங்கள்‌ 8, 9 மற்றும்‌ 10-இல்‌ குறிப்பிடப்பட்டவை நீங்கலாக,\nஎனக்கு, என்‌ வாழ்க்கைத்‌ துணைக்கு அல்லது என்னை\nசார்ந்திருப்பவர்களுக்கு யாதொரு சொத்து அல்லது கடன்‌ பொறுப்புகள்‌\nஎவையுமில்லை\n2026 ஆம்‌ ஆண்டு ஏப்ரல்‌ 06 ஆம்‌ நாளன்று சரிபார்க்கப்பட்டது. PL 4 ர்க\nSYA ஷ்‌ 11\n1 லு ள்‌ சான்றளிப்பவர்‌\n| = (ணில்‌ பை [தக்‌\nஅபய்‌ இரப்ப EN, se.\nBEART) பம din Gand Stee\nor மனு தாறு! ALLA hanes நாளன்று, பிற்பகல்‌ 3.00\nமணிக்கு முன்னதாக உறுதிமொழிப்பத்திரம்‌ தாக்கல்‌ செய்யப்பட\nவேண்டும்‌.\n2. உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌ வகுப்பு மாஜிஸ்திரேட்டு அல்லது\nசான்றுருதி வழங்கும்‌ வழக்குரைஞர்‌ முன்னிலையில்‌ உறுதிமொழி\nஎடுத்துக்‌ கொள்ளப்படவேண்டும்‌.\n3. நெடும்பத்திகள்‌ அனைத்தும்‌\n4. .நிரப்பப்படவேண்டும்‌ எந்தவொரு நெடும்பத்தியும்‌ காலியாக\nவிடப்படக்கூடாது யாதொரு இனம்‌ பற்றி அளிப்பதற்கு தகவல்‌\nஇல்ல"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0013",
+      "candidate_name": "V.SUDHAKAR",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/7816/0/3b20d3d209/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0013.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:03:29.238Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "யில்‌\nபகுதி - 1\n(11) பகுதி கி G@ (7) முதல்‌ (10) வரையில்‌ அளிக்கப்பட்டுள்ள விவரங்களின்‌\nசுருக்கம்‌:---\nவேட்பாளர்‌ பெயர்‌ திரு.7.சுதாகர்‌ |\n2. | முழு அஞ்சல்‌ முகவரி எண்‌.46,பாப்பார்‌ தெரு\nகீழ்முதலம்பேரு கிராமம்‌\nமேல்முதலம்பேரு3\nகும்மிடிபூண்டி வட்டம்‌\nதிருவள்ளுர்‌ மாவட்டம்‌ 601 206. க\n3. | தொகுதியின்‌ எண்‌ பெயர்‌ மற்றும்‌ எண்‌.001, கும்மிடிப்பூண்டி, சட்டமன்ற தொகுதி\nமாநிலம்‌ தமிழ்நாடு.\n4. | வேட்பாளர்‌ சார்ந்த அரசியல்‌\nகட்சியின்‌ பெயர்‌ (இல்லையெனில்‌ சுயேட்சை\nசுயேட்சை என குறிப்பிடவும்‌)\n5. | நிலுவையிலுள்ள குற்றவியல்‌ வழக்குகளின்‌\nமொத்த எண்ணிக்கை மில்லை\n6. | தண்டனை பெற்ற வழக்குகளின்‌ மொத்த ன\n| 0\n| | எண்ணிக்கை ஏதுமில்லை\n| 7. | கடைசியாக வருமான வரி\nநிரந்தர வருமான கணக்கு விவர அறிக்கை | காட்டப்பட்டுள்‌\nவரிக்கணக்கு தாக்கல்‌ செய்யப்பட்ட er மொத்த\npao ஆண்டு வருமானம்‌\na) | லவேட்பாளர்‌ . .\nV. சுதாகர்‌ CSTPS1131H ஏதுமில்லை பொருந்தாது\n(வாழ்க்கைத்‌ ட\nதுணைவி இல்லை பொருந்தாது பொருந்தாது\n5.ரேவதி\nந்து கட்டுக்குடும்பம்‌ _\nசார்ந்தவர்‌ !\nமகள்‌ இல்லை பொருந்தாது பொருந்தாது\n8.நந்தினி\nசார்ந்தவர்‌ 2\nமகள்‌ இல்லை பொரு",
+        "page_19": "மது\n10. | பிரச்சனைக்குரிய கடன்‌ ட ்‌\nபொறுப்புகள்‌\nடு அரசுக்கு ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\nசெலுத்த ்‌\nவேண்டிய ஏதுபின்லை\nகடன்‌\nமொத்தம்‌\n(ii) வங்கி, நிதி\nநிறுவனங்கள்‌\nமற்றும்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nஏனையவற்றிலி\nருந்து\nபெறப்பட்ட\nகடன்கள்‌\nமொக்தம்‌\n11.\nஉயரளவு கல்வித்‌ தகுதி:---\n(சான்றிதழ்‌ படிப்பின்‌ [ பட்டயப்படிப்பின்‌ [ பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌, உயரளவு\nபள்ளிக்‌ கல்வி | பல்கலைக்கழக கல்வி விவரங்கள்‌, பள்ளி [ கல்லூரி | பல்கலைக்கழகம்‌ பெயர்‌\nமற்றும்‌ படிப்பு முடித்த ஆண்டு குறித்த விவரங்களை அளிக்கவும்‌.)\n1. 8\" Standard, Government Higher Secondary School, Kavarapettai\n| முடித்த வருடம்‌ 2000\n|\nசரிபார்ப்பு\nமேற்சொன்ன பெயரை உடைய உறுதியளிப்பவராகிய நான்‌, எனக்கு நன்கு\nதெறிந்த வரையிலும்‌ நம்பிக்கைக்கு உகந்த வகையிலும்‌, இந்த உறுதிமொழிப்‌\nபத்திரத்தில்‌ உள்ளவை உண்மையானது மற்றும்‌ சரியானது என்றும்‌, எந்தப்‌\nபகுதியும்‌ பொய்யானவை அல்ல என்றும்‌, எவையும்‌ இதிலிருந்து\nமறைக்கப்படவில்லை என்றும்‌ இதனால்‌ சரிபார்ப்பு செய்து உறுதியளிக்கிறேன்‌.\nமேலும்‌ நான்‌ பின",
+        "page_20": "்‌ 20.\n(வுமேலே பகுதி A மற்றும்‌ 13 இல்‌ உள்ள இனங்கள்‌ 8 மற்றும்‌ 6-இல்‌\nகுறிப்பிடப்பட்டவை நீங்கலாக, என்‌ மீது தண்டனை பெற்ற வழக்கு அல்லது\nநிலுவை வழக்கு ஏதுமில்லை.\n(௦)மேலே பகுதி A இல்‌ உள்ள இனங்கள்‌ 7 மற்றும்‌ 8 மற்றும்‌ பகுதி பி இல்‌\nஉள்ள இனங்கள்‌ 8, 9 மற்றும்‌ 10-இல்‌ குறிப்பிடப்பட்டவை நீங்கலாக,\nஎனக்கு, என்‌ வாழ்க்கைத்‌ துணைக்கு அல்லது என்னை\nசார்ந்திருப்பவர்களுக்கு யாதொரு சொத்து அல்லது கடன்‌ பொறுப்புகள்‌\nஎவையுமில்லை\n2026 ஆம்‌ ஆண்டு ஏப்ரல்‌ 04 ஆம்‌ நாளன்று சரிபார்க்கப்பட்டது. Nf தத்‌\n( Bobs oy \\ fb \\ சான்றளிப்பவர்‌\nகடு உண 5) v AMARA THE Hn Sw mi ow\nNe RECN | / SUESRRRECATE & NOTARY PUBLIC '\nட யப்‌ al indir 6 adhi Steet,\n1, CaS SE bes செயியப்படுகின்ற BBE, நாளன்று, பிற்பகல்‌ 3.00\nமணிக்கு முன்னதாக உறுதிமொழிப்பத்திரம்‌ தாக்கல்‌ செய்யப்பட\nவேண்டும்‌.\n2. உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌ வகுப்பு மாஜிஸ்திரேட்டு அல்லது\nசான்றுருதி வழங்கும்‌ வழக்குரைஞர்‌ முன்னிலையில்‌ உறுதிமொழி\nஎடுத்துக்‌ கொள்ளப்படவேண்டும்‌.\n3. நெடும்பத்திகள்‌ அனைத்தும்‌\n4. .நிரப்பப்படவேண்டும்‌ எந்தவொரு நெடும்பத்தியும்‌ காலியாக\nவிடப"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0014",
+      "candidate_name": "D.DINESH",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/9723/0/b4aeb3c7f1/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0014.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 18588832,
+      "assets_movable": 18588832,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "---",
+      "parsed_at": "2026-04-21T03:03:59.897Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "(4) வேட்பாளர்‌ அல்லது வாழ்க்கை துணை அல்லது சார்ந்தோர்கள்‌ ஈருபாரு\nகொண்டுள்ள இந்து கட்டு குடும்பம்‌ அல்லது அறக்கட்டளையால்‌ செய்து\nகொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌ - ஏதுமில்லை\n(8) வேட்பாளர்‌ அல்லது வாழ்க்கை துணை அல்லது சார்ந்தோர்கள்‌ அல்லது\nபங்குதாரர்களாக உள்ள கூட்டாண்மை நிறுவனங்களால்‌ செய்து கொள்ளப்பட்ட\nஒப்பந்தங்களின்‌ விவரங்கள்‌ - ஏதுமில்லை\n(f) வேப்பாளர்‌ அல்லது வாழ்க்கை துணை அல்லது சார்ந்தோர்களின்‌ பங்குகளை\nவைத்துள்ள தனியார்‌ நிறுவனங்களால்‌ செய்துகொள்ளப்பட்ட ஒப்பந்தங்களின்‌\nவிவரங்கள்‌ - ஏதுமில்லை\n(10) எனது கல்வித்‌ தகுதி வருமாறு:-\n1. 8810, Bharath Matriculation Higher Secondary School, Ponneri\nமுடித்த வருடம்‌ 2000\n2. HSC, Velammal Matriculation School, Mugapair\nமுடித்த வருடம்‌ 2002\n3. Bcom D G Vaishnava College\nமுடித்த வருடம்‌ 2006\n4. LLB Anandha Law College,\nமுடித்த வருடம்‌ 2015\n(சான்றிதழ்‌ படிப்பின்‌ ] பட்டயப்படிப்பின்‌ / பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌ உயரளவு\nபள்ளிக்கல்லி / பல்கலைகழக கல்வி விவரங்கள்‌ பள்ளி / கல்லூரி / பல்கலைகழகம்‌\nபெயர்‌ மற்றும்‌ படிப்பு முடித்த ஆண்டு குறி",
+        "page_19": "பல்க\n8. சொத்துக்கள்‌ மற்றும்‌ கடன்‌ பொறுப்புகளின்‌ (வெளிநாடுகளில்‌ உள்ள\nசொத்துக்கள்‌ உட்பட) விவரங்கள்‌ ரூபாயில்‌\nஇநது கூட்டு சார்ந்தவர்‌ 1 | சார்ந்தவர்‌ 2,\nEOE குடும்பம்‌ மகன்‌ மகள்‌\nட & தார துணைவி மைனர்‌ மைனர்‌\nவிவரம்‌ ர்பி ௩ ரிக்விக்‌ D ட\nற.தினேஜ்‌ D. அம்பிகா ரித்விக்‌ - அதுல்யா\nசாய்‌\nA அசையும்‌ சொத்து ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\n(மொத்த மதிப்பு) Rs.1,85,88,832 | Rs.12,20,897\n| os | | |\n| 1. | சுயமாக வாங்கிய\nஅசையாச்‌ சொத்தின்‌ .\n| | கொள்முதல்‌ re Rs.64,70,000/- | ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\n11. | அசையாச்‌ சொத்தை | ட\nகொள்முதல்‌ செய்த | ஏதுமில்லை _\n| பின்னர்‌ மேம்பாட்டு / ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\n| கட்டுமான செலவு\nIL. | சொத்தின்‌\n| தோராயமான நடப்பு\nசந்தை விலை\n(a) சுயமாக வாங்கிய\nசொத்துக்கள்‌ ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\n(மொத்த மதிப்பு) Rs.75,90,000/- | ஏதுமில்லை\nஐ) பூர்விக சாத்து\nமாத்த மதிப்‌ :\nதது மற்று ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\n6) அரசுக்கு செலுத்த\nவேண்டிய\nதொகைகள்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\n(மொத்",
+        "page_20": "தய\n10. | பிரச்சனைக்குரிய கடன்‌\nபொறுப்புகள்‌\n(0) அரசுக்கு ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\nசெலுத்‌ 8\nhog இதும்‌\nகடன்‌\nமொத்தம்‌\n(0 வங்கி, நிதி\n| நிறுவனங்கள்‌\nமற்றும்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\nஏனையவற்றிலி\n| ருந்து\nபெறப்பட்ட\nகடன்கள்‌\nமொத்கம்‌\n11.\nஉயரளவு கல்வித்‌ தகுதி:---\n(சான்றிதழ்‌ படிப்பின்‌ [ பட்டயப்படிப்பின்‌ | பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌, உயரளவு\nபள்ளிக்‌ கல்வி | பல்கலைக்கழக கல்வி விவரங்கள்‌, பள்ளி | கல்லூரி / பல்கலைக்கழகம்‌ பெயர்‌\nமற்றும்‌ படிப்பு முடித்த ஆண்டு குறித்த விவரங்களை அளிக்கவும்‌.)\n1. SSLC, Velammal Matriculation School, Panjetty\nமுடித்த வருடம்‌ 2006-2007\n2. HSC, Velammal Matriculation School, Panjetty\nமுடித்த வருடம்‌ 2008-2009\n3. Bcom SRM University\nமுடித்த வருடம்‌ 2009-2012\n4. MBA National School of Business, Bangalore\nமுடித்த வருடம்‌ மார்ச்‌ 2015-2017\nசரிபார்ப்பு\nமேற்சொன்ன பெயரை உடைய உறுதியளிப்பவராகிய நான்‌, எனக்கு நன்கு\nதெரிந்த வரையிலும்‌ நம்பிக்கைக்கு உகந்த வகையிலும்‌, இந்த உறுதிமொழிப்‌\nபத்திரத்தில்‌ உள்ளவை உண்மையானது மற்றும்"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-001-0015",
+      "candidate_name": "G.RANJITH B.SC.L.L.B",
+      "constituency_name": "Gummidipoondi",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/10511/0/1dfbf4adac/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-001-0015.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:05:16.388Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0016",
+      "candidate_name": "DURAI CHANDRASEKAR",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/10371/0/495fed21ab/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0016.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:05:38.261Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "அல்‌ சீனை\nபகுதி - 1\n(11) பகுதி &-இல்‌ (1) முதல்‌ (10) வரையில்‌ அளிக்கப்பட்டுள்ள விவரங்களின்‌\nசுருக்கம்‌;---\nவேட்பாளர்‌ பெயர்‌ திரு.10. சந்திரசேகர்‌\n2. | முழு அஞ்சல்‌ முகவரி எண்‌.2/220,காந்தி தெரு\nகும்மனூர்‌ கிராமம்‌\nவிளாங்காருபாக்கம்‌ அஞ்சல்‌\nபொன்னேரி வட்டம்‌\nசென்னை - 600 052\n3. | தொகுதியின்‌ எண்‌ பெயர்‌ மற்றும்‌ எண்‌.002, பொன்னேரி (தனி), சட்டமன்ற தொகுதி\nமாநிலம்‌ தமிழ்நாடு.\n4. | வேட்பாளர்‌ சார்ந்த அரசியல்‌ .\nகட்சியின்‌ பெயர்‌ (இல்லையெனில்‌ இந்திய தேசிய காங்கிரஸ்‌\n'சுயேட்சை' என குறிப்பிடவும்‌)\n5. | நிலுவையிலுள்ள குற்றவியல்‌ வழக்குகளின்‌\nமொத்த எண்ணிக்கை கள!\nஒன்று மட்டும்‌\n6. | தண்டனை பெற்ற வழக்குகளின்‌ மொத்த\nஎண்ணிக்கை ஏதுமில்லை\n7 நிரந்தர வருமான கடைசியாக வருமான வரி | காட்டப்பட்டுள்ள\nவரிக்கணக்கு எண்‌ கணக்கு விவர அறிக்கை மொத்த\nதாக்கல்‌ செய்யப்பட்ட வருமானம்‌\nஆண்டு\nவுலேட்மாளர்‌ BJIPC8388M 2024 to 2025 Rs.4,82,100/-\nற. சந்திரசேகர்‌\nவாழ்க்கைத்‌\nதுணை பவ 2024 1௦ 2025 Rs.14,29,250/-\nC. சுபாஜினி\n© இந்து . ;\n(d) சார்ந்திருப்வர்‌ 1\nமைனர்‌ மகன்‌ 6.சச்சின்‌ | இல்லை பொருந்தாது பொருந்தாது\nதுரைசாமி\n(9) சா",
+        "page_19": "கமி\nனை | | | | | |\n| பொறுப்புகள்‌\n(i) அரசுக்கு ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\nசெலுத்த\nவேண்டிய கடன்‌\n(மொத்தம்‌)\n(iD) வங்கி, நிதி\nநிறுவனங்கள்‌\nமற்றும்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\nஏனையவற்றிலி\nருந்து\nபெறப்பட்ட\nகடன்கள்‌\nமொத்‌ g ம்‌)\n11.\nஉயரளவு கல்வித்‌ தகுதி:---\n(சான்றிதழ்‌ படிப்பின்‌ 7 பட்டயப்படிப்பின்‌ / பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌,\nஉயரளவு பள்ளிக்‌ கல்வி [| பல்கலைக்கழக கல்வி விவரங்கள்‌, பள்ளி [| கல்லூரி 7\nபல்கலைக்கழகம்‌ பெயர்‌ மற்றும்‌ படிப்பு முடித்த ஆண்டு குறித்த விவரங்களை அளிக்கவும்‌.)\n1. SSLC, Government Adi Dravidar Welfare School, Vadagarai\nமுடித்த வருடம்‌ செப்டம்பர்‌ 1987\n2. Higher Secondary School, Government Adi Dravidar Welfare School, Vadagarai\nமுடித்த வருடம்‌ மார்ச்‌ 1989\n3. Bsc., Botany, Theyagaraya College, Chennai\nமுடித்த வருடம்‌ மார்ச்‌ 1994\n4. B.L.., Law College, Chennai,\nமுடித்த வருடம்‌ மார்ச்‌ 2001\nம ணத துடை\naN 3 da & எ\nE RAVICHANDRAN ey Uy dn\n© | REG. No. 9278/2011 |\nவெருவ]\nக iting 25\nPe த்‌\nநட ன\nசரிபார்ப்பு\nமேற்சொன்",
+        "page_20": "நட ன\nசரிபார்ப்பு\nமேற்சொன்ன பெயரை உடைய உறுதியளிப்பவராகிய நான்‌, எனக்கு நன்கு\nதெரிந்த வரையிலும்‌ நம்பிக்கைக்கு உகந்த வகையிலும்‌, இந்த உறுதிமொழிப்‌\nபத்திரத்தில்‌ உள்ளவை உண்மையானது மற்றும்‌ சரியானது என்றும்‌, எந்தப்‌\nபகுதியும்‌ பொய்யானவை அல்ல என்றும்‌, எவையும்‌ இதிலிருந்து\nமறைக்கப்படவில்லை என்றும்‌ இதனால்‌ சரிபார்ப்பு செய்து உறுதியளிக்கிறேன்‌.\nமேலும்‌ நான்‌ பின்வாறுமாறு உறுதியளிக்கிறேன்‌.\n(வுமேலே பகுதி A மற்றும்‌ 13 இல்‌ உள்ள இனங்கள்‌ 8 மற்றும்‌ 6-இல்‌\nகுறிப்பிடப்பட்டவை நீங்கலாக, என்‌ மீது தண்டனை பெற்ற வழக்கு\nஅல்லது நிலுவை வழக்கு ஏதுமில்லை.\n()மேலே பகுதி A இல்‌ உள்ள இனங்கள்‌ 7 மற்றும்‌ 8 மற்றும்‌ பகுதி 13\nஇல்‌ உள்ள இனங்கள்‌ 8, 9 மற்றும்‌ 10-இல்‌ குறிப்பிடப்பட்டவை\nநீங்கலாக, எனக்கு, என்‌ வாழ்க்கைத்‌ துணைக்கு அல்லது என்னை\nசார்ந்திருப்பவர்களுக்கு யாதொரு சொத்து அல்லது கடன்‌\nபொறுப்புகள்‌ எவையுமில்லை\n2026ஆம்‌ ஆண்டு ஏப்ரல்‌ 06 ஆம்‌ நாளன்று சரிபார்க்கப்பட்டது. oN\nடை ட்ட | @ N\nea hs 96 5\nபத்தி BY ’ 3\n| ததும்‌ நவை\nவ்‌ 2) iy \\ ADVOCATE & NOTARY PUBLIC றத்‌\n[ வாவு டு \\ (GOVERNMENT OF INDIA)\n| ம oe rea) "
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0017",
+      "candidate_name": "SANTHOSHKUMAR.J",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16486/0/dff69f5f91/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0017.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:05:52.298Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17"
+      ],
+      "ocr_snippets": {
+        "page_17": "27\nசரிபார்ப்பு\nமேற்சொன்ன பெயருடைய உறுதியளிப்பவராகிய நான்‌, எனக்கு நன்கு தெரிந்த\nவரையிலும்நம்பிக்கைக்கு உகந்த வகையிலும்‌, இந்த உறுதிமொழிப்‌ பத்திரத்தில்‌ உள்ளவை\nஉண்மையானது மற்றும்‌ சரியானது என்றும்‌, இதனால்‌ சரிபார்ப்பு செய்து\nஉறுதியளிக்கிறேன்‌. மேலும்‌ நான்‌ பின்வருமாறு உறுதியளிக்கிறேன்‌.\n(a) மேலே பகுதி A மற்றும்‌ ந இல்‌ உள்ள இனங்கள்‌ 5 மற்றும்‌ 6-இல்‌\nகுறிப்பிடப்பட்டவை நீங்கலாக, என்‌ மீது தண்டனை பெற்ற வழக்கு அல்லது\nநிலுவை வழக்கு ஏதுமில்லை.\n(b) மேலே பகுதி A இல்‌ உள்ள இனங்கள்‌ 7 மற்றும்‌ 8 மற்றும்‌ பகுதி B இல்‌ உள்ள\nஇனங்கள்‌ 8,9 மற்றும்‌ 10-இல்‌ குறிப்பிடப்பட்டவை நீங்கலாக, எனக்கு என்‌\nவாழ்க்கைத்‌ துணைக்கு அல்லது என்னை சார்ந்திருப்பவர்களுக்கு யாதொரு\nசொத்து அல்லது கடன்‌ பொறுப்புகள்‌ எவையுமில்லை. d= so\n2026 ம்‌ ஆண்டு 28.03.2026 ஆம்‌ நாளன்று சரிபார்க்கப்பட்டது, 41 ்‌ A\nZOTAR ங்‌\nக யச ம்‌\n7 ௯ DN + அரபுக்‌ ஐ லுக்‌\n(A நம்‌ பம GANDHI 3.5, 33. உறுதிமொழி அளிப்பவர்‌\n| ப NERI TALUK ௦ V.AMMA \\7€ & NOTARY PUBLIC\n| ந cant 5] 3) ம ERNMENT OF INDIA)\n\\2 1. TER ம்னு காக்‌ ar: fpuioOanmsadhis iit. பிற்பகல்",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0018",
+      "candidate_name": "BALARAMAN.P",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15708/0/d1d6228686/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0018.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 351000,
+      "assets_movable": null,
+      "assets_immovable": 351000,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "- MA - ANNAMALAI UNIVERSITY 2002",
+      "parsed_at": "2026-04-21T03:06:18.336Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "17\nவிண்ணப்பதாரர்‌ | துணைவி / இந்துக்‌ சார்ந்தவர்‌ | சார்ந்தவர்‌ சார்ந்தவர்‌\n. z கூட்டுக்‌ 1 2 3\nஉ.பலராமன துணைவர்‌ கும்பம்‌\n8.குப்பாபாய்‌\nக |\nவ வைகள்‌\nis ஏதுமில்லை. ஏதுமில்லை. ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nக ட |\nஏதுமில்லை. ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nBETTIE,\nசொத்துவரி\nநிலுவைகள்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\n(vii) எனைய\nநிலுவைகள்‌\nயாதொரு ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nநிலுவைகள்‌\n(viii) அரசுக்குச்‌ செலுத்த\nவேண்டிய\nஅனைத்து ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nபாக்ஜித்‌\nதொகைகளின்‌\nபெருமொத்தம்‌\n(ix) ஏனைய யாதொரு |\nகடன்‌ பொறுப்புகள்‌\nதகராறின்‌ கீழ்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nஉள்ளனவா? ஆம்‌\nஎனில்‌,\nசம்பந்தப்பட்ட\nதொகை எவ்வளவு\nஎன்பதையும்‌ எந்த\nஅதிகாரியிடம்‌\nநிலுவையில்‌\nஉள்ளது\nஎன்பதையும்‌\nதறிப்பிடவும்‌\nஒன்‌ ட\n< Goo Q\n*/ P. RAMESH \\»\n& [ THIRUVALLUR DISTRICT} o>\nஓ .0.(MS) Reg. No 674 a\nல்‌ Exp. Date 20-11-2028 /8\nNT oF",
+        "page_19": "19\nபகுதி -௩\n(11) UGS &-இல்‌ (1) முதல்‌ (10) வரையில்‌ அளிக்கப்பட்டுள்ள விவரங்களின்‌ சுருக்கம்‌:-\nவேட்பாளர்‌ பெயர்‌ இரு / திருமதி] செல்வி\nஉபலராமன்‌\n2. | முழு அஞ்சல்‌ முகவரி எண்‌: 1/1 தச்சூர்‌ கிராமம்‌, பஞ்செட்டி அஞ்சல்‌,\nபொன்னேரி வட்டம்‌, திருவள்ளூர்‌ மாவட்டம்‌-601204\n3. | தொகுஇயின்‌ எண்‌, பெயர்‌ மற்றும்‌ தொகுதி எண்‌: 002 பொன்னேரி குனி) சட்டமன்ற தொகுதி\nHEE se [Sp se ne\n4. வேட்பாளர்‌ சார்ந்த அரசியல்‌ கட்சியின்‌\nபெயர்‌\n(இல்லையெனில்‌ *சுயேட்சை' எனக்‌ அனைத்திந்திய அண்ணா இராவிட முன்னேற்றக்‌ கழகம்‌\nகுறிப்பிடவும்‌)\nவழக்குகளின்‌ மொத்த எண்ணிக்கை\nEee மன டங்கா\nஎண்ணிக்கை\n7. நிரந்தர வருமான வரிக்‌ கடைசியாக காட்டப்பட்டுள்ள\nகணக்கு எண்‌ வருமான மொத்த\nவரிக்‌ கணக்கு | வருமானம்‌\nவிவர\nஅறிக்கை\nதாக்கல்‌\nசெய்யப்பட்ட\nஆண்‌\n| _ | ஒரவட்பாளர்‌உபலராமன்‌ காளா | 00 |\nஇ ol Cl all\nஎண்‌ இல்லை\nwebs கட்டுக்குடும்பம்‌ ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை |\n[_ [டு ளர்ந்இருப்பவர்கள்‌ ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை _ |\n| 8 | சொத்துகள்‌ மற்றும்‌ கடன்‌ பொறுப்புகளின்‌ வளி நாடுகளில்‌ உள்ள சொத்துகள்‌ உள்பட] வி",
+        "page_20": "20\n8. அசையாச்‌ சொத்து\nசுயமாக\nji ரூ.3,51,000 ஏதுமில்லை மிதிலை | அணை | மணை | மிகை\nஅசையாச்‌ -3,51,\nசொத்தின்‌\nகொள்முதல்‌\nவிலை\nஅசையாச்‌\nசொத்தை\nகொள்முதல்‌\nசெய்த பின்னர்‌ ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nமேம்பாட்டு/ a) ரூ40,00,000/-\nகட்டுமான\nசெலவு b) ரூ.7,50,000 ரூ.7,50,000\n(பொருந்தக்‌\nகூடியது\nஎன்றால்‌)\nசொத்தின்‌\nதோராயமான ia மில்லை. மில்லை மில்லை\nல்லை [3] ல்‌\nநடப்பு சந்தை | ரூ.1,32,57,700 €5.10,76,700 * * x\nவிலை\nசுயமாக\nவாங்கிய i 3\nசொத்துக்கள்‌ | ரூ.1,21,81,000 ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\n(மொத்த\nமதிப்பு)\nபூர்வீக\nசொத்து : 3\n(மொத்த ரூ.10,76,700 ரூ.10,76,700 | ஏகமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nமதிப்பு)\nY RP,\nSos 9\n> த @\n*/ P. RAMESH \\\n© THIRUVALLUR DISTRICT} =\n2) G.0.(MS) Reg. No 674 18\n8) Exp. Date 29-11-2028 /\nQ &\nSNT oF A"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0019",
+      "candidate_name": "RAJATHI.M",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/612/0/c32d2fd2be/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0019.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 600000,
+      "assets_movable": null,
+      "assets_immovable": 600000,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:06:40.510Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "ன டை\nதுணைவர்‌ | கூட்டுக்‌ 1 2 3 |\nகுடும்பம்‌\nநிலுவைகள்‌\nததத | எ ee\nv) | சேவை வரி ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\n(ஜிஎஸ்டி) நிலுவை\nநகராட்சி /\n(vi) சொத்துவரி ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை:\nநிலுவைகள்‌\nநிலுவைகள்‌\nஅரசுக்குச்‌ செலுத்த\nவேண்டிய அனைத்து\n(viii) நிலுவைத்‌ ஏதுமில்லை. ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை\nதொகைகளின்‌\nபெருமொத்தம்‌\nஏனைய யாதொரு\nகடன்‌ பொறுப்புகள்‌\nதகராறின்‌ கீழ்‌\nஉள்ளனவா? ஆம்‌\nஎனில்‌\nதொடர்புடைய\n(ix) | தொகை எவ்வளவு ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை\nஎன்பதையும்‌ எந்த\nஅதிகாரியிடம்‌\nநிலுவையில்‌\nஉள்ளது\nஎன்பதையும்‌ குறிப்பி\nடவும்‌\nஅற\nALD\nfA) BS)\nட ; டு\n[216 க்‌ ப\n(8! STL DISTRICT 2\n\\& 1s) பயா 3)\nஉது\nர of UF",
+        "page_19": "இ ச்‌ அக்‌ அகட ட்‌ வர்ம ச்‌\nவவட\n|\nந |\n|\n(11) பகுதிஃஇல்‌ (1) முதல்‌ (10) வரையில்‌ அளிக்கப்பட்டுள்ள விவரங்களின்‌ சுருக்கம்‌:\nவேட்பாளர்‌ பெயர்‌ ளை\n} பவுன்‌ திருமதி.ராஜாத்தி.மு\nமுழு அஞ்சல்‌ முகவரி எண்‌.402, அறிஞர்‌ அண்ணா தெரு, வல்லூர்‌,\n2 வடசென்னை அனல்மின்‌ நிலையம்‌ அஞ்சல்‌,\nசென்னை - 600120.\nதொகுதியின்‌ எண்‌, பெயர்‌ மற்றும்‌ மாநிலம்‌\n3 002, பொன்னேரி தொகுதி, தமிழ்நாடு.\nவேட்பாளர்‌ சார்ந்த அரசியல்‌ கட்சியின்‌ பெயர்‌\n4. | ஏதுமில்லையெனில்‌ தனிநிலை: நாம்‌ தமிழர்‌ கட்சி\n(சுயேட்சை)எனக்‌ குறிப்பிடவும்‌)\nநிலுவையில்‌ உள்ள குற்றவியல்‌ வழக்குகளின்‌ 5\nii மொத்த எண்ணிக்கை ஏதுமில்லை\nதண்டனை பெற்ற வழக்குகளின்‌ மொத்த க\nயு எண்ணிக்கை ஏதுமில்லை\nகடைசியாக வருமான\nவருமான வரி நிலைக்‌ | வரிக்‌ கணக்கு விவர காட்டப்பட்டுள்ள\nகணக்கு 6T6001(PAN) அறிக்கை தாக்கல்‌ மொத்த வருமானம்‌\nசெய்யப்பட்ட ஆண்டு இ\n(a) வேட்பாளர்‌ g i\n4% EWWPRI091A மில்லை மில்லை\n, |ராஜாத்திமூ 78 ue\n(0) வாழ்க்கைத்‌\nதுணை மாள ஏதுமில்லை ஏதுமில்லை\nபுஷ்பராஜ்‌.ரா\n© இந்து . ;\nகூட்டுக்குடும்பம்‌ ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை\n@ சார்ந்தருப்பவர்கள்‌ ஏதுமில்லை\nGARRY Pi 2\n",
+        "page_20": "மத்த ய வவ வவவைவைவனைைவைைைைைவைைபப்்ப்்்் கைலை ட்ட அண Sn\nஞ்‌\nசொத்துகள்‌ மற்றும்‌ கடன்‌ பொறுப்புகளின்‌ (வெளிநாடுகளில்‌ உள்ள சொத்துக்கள்‌ உட்பட) விவரங்கள்‌\nஉருபாயில்‌\nப கனத\nதுணைவர்‌ | கூட்டுக்‌ 1 2 3\nகுடும்பம்‌\n| |] அசையாச்‌ சொத்து ்‌ ்‌\nதாமாக\nவாங்கிய |\nஅசையாச்‌ ) ) ) )\nசொத்தின்‌ Rs.600000 Rs.1000000 | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\nகொள்முதல்‌\nவிலை\nஅசையாச்‌\nசொத்தை\nகொள்முதல்‌\nசெய்த பின்னர்‌\nமேம்பாட்டு 7 _ _ _ )\nகட்டுமானச்‌ ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை. ஏதுமில்லை\nசெலவு\n(பொருத்தக்‌\nகூடியது\nஎன்றால்‌)\nசொத்தின்‌\nதோராயமான _ N . = . .\nநடப்புச்‌ சந்தை ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை.\nவிலை\n(a) தாமாக\nவாங்கிய\nசொத்துகள்‌ ௬.600000/- ரூ.1000000- | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை\n(மொத்த\nமதிப்பு\n(b) பரம்பரைச்‌\nசொத்து )\nமொத்த ஏதுமில்லை ரூ.1200000- ஏதுமில்லை. ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை\nமதிப்பு)\npa Py,\n<P 8,\n5 ட்‌\nரீட்‌ ‘GDEVARAL \\ *\n! oy | THIRUBLLUR DISTRICT) 2\n(9) 5.0.1.0 58312023 =\nRE hd fm) Ay\nம வப்‌\nNENT oF VF OH . PRS\n="
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0020",
+      "candidate_name": "ASHOK PRIYADARSHAN",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15740/0/c9fd9db43f/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0020.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:06:53.034Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17"
+      ],
+      "ocr_snippets": {
+        "page_17": "15) 8\n3. நெடும்பத்திகள்‌ அனைத்தும்‌ நிரப்பப்படவேண்டும்‌ எந்தவொரு நெடும்பத்தியும்‌ காலியாக\nவிடப்படக்கூடாது. யாதொரு இனம்‌ பற்றி அளிப்பதற்கு தகவல்‌ இல்லையெனில்‌, நேர்விற்கேற்ப,\n“ஏதுமில்லை” அல்லது “பொருந்தாது'' என்று குறிப்பிடப்படவேண்டும்‌.\n4. இந்த உறுதிமொழிப்‌ பத்திரம்‌ தட்டச்சு செய்யப்பட்டு அல்லது தெளிவாகவும்‌ நேர்த்தியாகவும்‌\nஎழுதப்பட்டிருக்க வேண்டும்‌.\n5. உறுதிமொழி ஏற்பதற்கு முன்‌. உறுதிமொழி அளிப்பவரால்‌ பத்திரத்தின்‌ ஒவ்வொரு பக்கத்திலும்‌\nகையொப்பம்‌ இட வேண்டும்‌ மற்றும்‌ உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌ வகுப்பு\nமாஜிஸ்திரேட்டு அல்லது சான்றுறுதி வழங்கும்‌ வழக்குரைஞரால்‌ முத்திரையுடன்‌ கூடிய\nகையொரப்பம்‌ இட வேண்டும்‌.\nToe\nக] திக்கு த்‌ $2\nNJ kA Ng”,\n* களரி 2: ்‌ சக்‌\nபிது T.SIVAGNANASAMBANDAN\nPINE 50107 B.A. M.L.,DGT,Dip, iy Ph.D\nNE) இ ADVOCATE & NOTARY PUBLIC\nNCEE No.23, Hospital Road, Kaveri Negar, T.Nager,\nSr Chennai-600 104. Cell : 9444818073",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0021",
+      "candidate_name": "RAJA.S",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15611/0/129090aa6f/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0021.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:07:15.098Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "~ 17\nபகுதி -B\ni பகுதி &-ல்‌ (1) முதல்‌ (10) வரையில்‌ அளிக்கப்பட்நுள்ள விவரங்களின்‌ சுருக்கம்‌:\n5 Sve\n2. | முழு அஞ்சல்‌ முகவரி எண்‌,175, பெரவள்ஞூர்‌ கிராமம்‌,\nபஞ்செட்டி அஞ்சல்‌ - 601 204இ\nபொன்னேரி வட்டம்‌,\nதிருவள்ளூர்‌ மாவட்டம்‌. §\n3. | தொகுதியின்‌ எண்‌, பெயர்‌ மற்றும்‌ | எண்‌.002 பொன்னேரி சட்டமன்றத்‌\nதொகுதிய மாநிலம்‌ தொகுதி. தமிழ்நாடு\n4. வேட்பாளர்‌ சார்ந்த அரசியல்‌ கட்சியின்‌\nVANCHIT BAHUJAN AAGHADI\nபெயர்‌ (இல்லையெனில்‌ “சுயேட்சை” = ன்‌\nட (வஞ்சித்‌ பகுஜன்‌ அகாடி)\nஎன குறிப்பிடவும்‌)\n5. | நிலுவையிலுள்ள குற்றவியல்‌ முன்று\nவழக்குகளின்‌ மொத்த எண்ணிக்கை\n6. தண்டனைப்பெற்ற வழக்குகளின்‌ ஏதுமில்லை\nமொத்த எண்ணிக்கை\n7 நிரந்தர கடைசியாக | காட்டப்பட்டுள்ள\nகணக்கு எண்‌ வருமான மொத்த\n(PAN) வரி கணக்கு வருமானம்‌\nவிவர\nஅறிக்கை\nதாக்கல்‌\nசெய்யப்பட்ட\nஆண்டு\n(a) வேட்பாளர்‌ _ _\nCFDPR7461A | இல்லை இல்லை\nராஜா\n(௦) வாழ்க்கைத்துணை\n(விவாகரத்தானவர்‌) இல்லை இல்லை இல்லை\n(8) சார்ந்திருப்பவர்‌-1 (மகன) பொருந்தாது | பொருந்தாது பொருந்தாது\n- இட்டன்‌ ராஜா\nய AISI) சார்ந்திருப்பவர்‌-2 (தாயார்‌) | பொருந்தாது | பொருந்தாது | பொருந்தாது\n",
+        "page_19": "ந 19\n(i) வங்கி. நிதி\nநிறுவனங்கள்‌ மற்றும்‌ . i\nஏனையவற்றிடமிருந்து | 8துமில்லை | ஏதுமிலலை | ஏதுமில்லை ஏதுமில்லை\nபெறப்பட்ட கடன்கள்‌\n(மொத்தம்‌)\n11: உயரளவு கல்வித்‌\nதகுதி , 5 os .\n(சான்றிதழ்‌ படிப்பின/ M.A. தம்ழ்‌, மாநிலக்‌ கல்லூரி, சென்னை\nபட்டப்படிப்பின/ . ட்ட\nபட்டப்படிப்பின்‌ முழு பரணை Spal - 200%\nவடிவத்துடன்‌, LLB, அம்பேத்கர்‌ சட்டக்கல்லூரி, திருப்பதி\nஉயரளவு பள்ளிக்‌ ந்‌\nகல்வி! படிப்பு முடித்த ஆண்டு - 2007\nTotes M.Phil., தமிழ்‌, பல்கலைக்கழகம்‌, தரமணி.\nபள்ளி / கல்லூரி 7 சென்னை\nபல்கலைக்‌ கழகம்‌\nபெயர்‌ மற்றும்‌ . படிப்பு படிப்பு முடித்த ஆண்டு - 2008\nமுடித்த ஆண்டு 2 ந\nகழித்த வில்லை Ph.D., தமிழ்‌, மாநிலக்‌ கல்லூரி, சென்னை\nஅளிக்கவும்‌) படிப்பு முடித்த ஆண்ரு - 2015,\nசரிபார்ப்பு\nமேற்சொன்ன பெயரை உடைய உறுதியளிப்பராகிய நான்‌, எனக்கு நன்கு தெரிந்த\nவரையிலும்‌. நம்பிக்கைக்கு உகந்த வகையிலும்‌. இந்த உறுதிமொழிப்‌ பத்திரத்தில்‌\nஉள்ளவை உண்மையானது மற்றும்‌ சரியானது என்றும்‌, எந்தப்‌ பகுதியும்‌ பொய்யானவை\nஅல்ல என்றும்‌, எவையும்‌, இதிலிருந்து மறைக்கப்படவில்லை என்றும்‌ இதனால்‌\nசரிபார்ப்பு செய்து உறுதியளிக்கிறே",
+        "page_20": "~ 20\nகுறிப்பு :\n1. வேட்பு மனு தாக்கல்‌ செய்யப்படுகின்ற கடைசி நாளன்று, பிற்பகல்‌ 3.00\nமணிக்கு முன்னதாக உறுதிமொழிப்‌ பத்திரம்‌ தாக்கல்‌ செய்யப்பட வேண்டும்‌.\n2. உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌ வகுப்பு மாஜிஸ்திரேட்நு அல்லது\nசான்றுருதி வழங்கும்‌ வழக்குரைஞர்‌ முன்னிலையில்‌ உறுதிமொழி எடுத்துக்‌\nகொள்ளப்படவேண்டும்‌.\n3. நெரும்பத்திகள்‌ அனைத்தும்‌ நிரப்பப்படவேண்ரும்‌. எந்தவொரு நெடும்பத்தியும்‌ ’\nகாலியாக விடப்படக்கூடாது. யாதொரு இனம்‌ பற்றி அளிப்பதற்கு தகவல்‌\nஇல்லையெனில்‌ நேர்விற்கேற்ப ஏதுமில்லை அல்லது பொருந்தாது அல்லது\nதெரியவில்லை என்று குறிப்பிடப்பட வேண்டும்‌.\n4. இந்த உறுதிமொழிப்பத்திரம்‌ தட்டச்சு செய்யப்பட்டு, அல்லது சட்டபூர்வமாகவும்‌,\nநேர்த்தியாகவும்‌ எழுதப்பட்டிருக்க வேண்டும்‌.\n5. உறுதிமொழி ஏற்பதற்கு முன்‌ சான்று அளிப்பவரால்‌ பத்திரத்தின்‌ ஒவ்வொரு\nபக்கத்திலும்‌ கையொப்பமிட வேண்டும்‌ மற்றும்‌ உறுதிமொழி ஆணையர்‌ முதல்‌\nவகுப்பு மாஜிஸ்திரேட்ரு அல்லது சான்றுருதி வழங்கும்‌ வழக்கறிஞரால்‌\nமுத்திரையுடன்‌ கூடிய கைடயாப்பமிட வேண்ரும்‌,\nடந்த\nர ak தல்‌ +a Gis, aK!\niE கோ\n2 டட 7 ய A |\nped PAG AS டட"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0022",
+      "candidate_name": "KOTTEESWARAN. K",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/11400/0/9039914bd8/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0022.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:07:22.604Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0024",
+      "candidate_name": "DR.RAVI.M.S",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16140/0/9d89c281b5/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0024.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:29:11.777Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18"
+      ],
+      "ocr_snippets": {
+        "page_17": "M.D: General Medicine Registration Certificate, and\n© Medical Registration Certificate.\n+7 That I hereby declare, affirm, and confirm that the names\n\"Dr. RAVI\", \"RAVI\", \"M.S. RAVI\", and. \"DR. RAV],\n~~. MARIMUTHU SHANMUGAM\" all refer to one and the\nsame person, which is myself.\nந 8. That I am swearing this affidavit to be produced before\n. the Returning -Officer, Ponneri Assembly Constituency,\nElection Commission of India, to establish my correct\nபர்வ and to ensure there is no discrepancy regarding\nmy nomination papers and appended qualifications.\nDEPONENT\nAN AR | ்‌ ்‌\nOx HG Ie\nட்ட ரா க்‌்‌\n* (5. அ 2\n<< OMEN, NPY | ்‌ .\ni Q > CREN ADY zZ ‘ |\nag msl, JS)\nNENA le)",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0025",
+      "candidate_name": "NAGAIYAN.G",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15881/0/5ab090ab97/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0025.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:29:22.088Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0026",
+      "candidate_name": "BARATHIRAJA.K",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15157/0/a8d3f0b38e/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0026.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:29:33.989Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17"
+      ],
+      "ocr_snippets": {
+        "page_17": "d NOTARIAL CERTIFICATE\nBE IT KNOWN AND MADE MANIFEST (unto all people) that on the\n06\" day of April, 2026 at Ponneri, Thiruvallur District, State of Tamil Nadu,\nIndia.\nI, V. AMUTHAVALLI, Advocate & Notary Public, appointed by the\nGovernment of Tamil Nadu to practice in Ponneri, Thiruvallur District, State of\nTamil Nadu duly authorized, admitted and sworn subject to the provisions of the\nNotaries act, 53 of 1952 and Notaries Rule 1956, DO HEREBY CERTIFY\nTHAT\nThiru. K. Bharathiraja,\nS/o. Krishnan,\nNo. 204, Lenin Street, 16.8. Palayam,\nNandiambakkam, Ponneri Taluk,\nThiruvallur District - 600 120.\nDeponent/Deponents herein personally appeared before me, known to be the only\nperson described in the affidavit/document and he/she/they deposed in my\npresence and signed his/her name (or mark) after knowing the contents of this\nAffidavit/Document having read over and explained to the Deponent/Deponents\nwho seem to perfectly understand it or acknowledged the same and he/she/they\nsigned the same i",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0027",
+      "candidate_name": "RAJASEKAR.J",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15425/0/337299f3fa/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0027.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:29:44.426Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17"
+      ],
+      "ocr_snippets": {
+        "page_17": ". NOTARIAL CERTIFICATE\nBE IT KNOWN AND MADE MANIFEST (unto all people) that on the\n06\" day of April, 2026 at Ponneri, Thiruvallur District, State of Tamil Nadu,\nIndia.\nI, V. AMUTHAVALLI, Advocate & Notary Public, appointed by the\nGovernment of Tamil Nadu to practice in Ponneri, Thiruvallur District, State of\nTamil Nadu duly authorized, admitted and sworn subject to the provisions of the\nNotaries act, 53 of 1952 and Notaries Rule 1956, DO HEREBY CERTIFY\nTHAT\nThiru. J. Rajasekar,\nS/o. Jayaraman,\nNo. 3/29, Perumal Koil,\nSombattu Anna Nagar,\nSombattu, Ponneri Taluk,\nThiruvallur District — 601 206.\nDeponent/Deponents herein personally appeared before me, known to be the only\nperson described in the affidavit/document and he/she/they deposed in my\npresence and signed his/her name (or mark) after knowing the contents of this\nAffidavit/Document having read over and explained to the Deponent/Deponents\nwho seem to perfectly understand it or acknowledged the same and he/she/they\nsigned the same i",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-002-0028",
+      "candidate_name": "VENKATESAN.S",
+      "constituency_name": "Ponneri",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/14821/0/7dd82ddd0f/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-002-0028.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:29:50.639Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0029",
+      "candidate_name": "G.HARI",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/12087/0/6bcd49a539/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0029.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:30:36.135Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "17\n2.அமிர்தாபுரம்‌ கிராம\nகணக்கு சர்வே எண்‌.\n: pe Wr i ii 2.செட்டியார்‌ அகரம்‌\nஅமைவிடங்கள்‌ | (1200 2.9) கிராமம்‌ விஜயலட்சுமி ஓ 9\nத த்கனவ நாள்‌: 22.09.2017 துவ bioge Lo ல்‌ ல்‌\nம ன்‌ ரூ.2,46,000 re லை | இல்லை இல்லை லை\nஉிகநல்லூர்‌ மதுரா | நாள்‌: 24.10.2008\nஇஸ்லாம்‌ நகர்‌ கிராம ரூ. 7,38,000\nகணக்கு புல எண்‌.\n46/38\ni (800 &.91)\nபரப்பு (மொத்த இ\nஅளவு சதூர 3200 sqft 4860 sqft ல்‌ இல்லை ல்லை 8\nஅடியில்‌) லை லை\n1. 2400 sqft\nசதுரடிகளில்‌\nஇ த! இரண்டுமாடி கட்டிடம்‌\nத்த அள கட்டப்பட்டுள்ளது. 5260sqft சதூடிகளில்‌ a இ\nN ee வு இரண்டுமாடி கட்டிடம்‌ aes இல்லை இல்லை ல்‌\nதுர அடியில்‌) 2. 800 sqft கட்டப்பட்டுள்ளது லை\nசதுரடிகளில\nகட்டிடம்‌\nகட்டப்பட்டுள்ளது.\nபூர்வீகச்‌ சொத்தா இ\na அல்லது இல்லை இல்லை ல்‌ | இல்லை இல்லை\nல) லை லை\nசொந்தமாக ன இ\nவாங்கியிருந்தால்‌ .09.2017 13.06.2008 ல்‌ 3 ) இ\n) ல்‌ை\nவாங்கப்பட்ட grat 22.09.2017 24.10.2008 லை | இல்லை இல்லை ல்‌\nசொத்து =\n(வாங்கப்பட்டிருந்தா இ\nல்‌) வாங்கப்பட்ட | ₹5-346,000 ரூ.7,20,000 ல்‌ . | இ\nசமயத்தில்‌ அதன்‌ | ₹5-2-46.000 ரூ.7,38,000 லை | இலலை இல்லை ல்‌\nவிலை ome\nநிலமேம்பா",
+        "page_19": "ப |\n19\n(A) தற்போதைய தேர்தல்‌ அறிவிப்பு நாளிலிருந்து கடந்த பத்து .\nஆண்டுகளில்‌, எப்பொழுதாவது, அரசால்‌ வழங்கப்பட்ட குடியிருப்பில்‌ ஆம்‌\nவேட்பாளர்‌ வசித்துள்ளாரா?\n(B) மேலே உள்ள (A) பகுதியிலுள்ள வினாவிற்குப்‌ பதில்‌ ஆம்‌ எனில்‌,\nபின்வரும்‌ உறுதிமொழி அளிக்கப்பட வேண்டும்‌. அவையாவன: |\nநிலுவை ஏதுமில்லை\nக்கும்‌ ர்‌. அரசு குடியிருப்பின்‌ முகவரி: என்பதற்கான சான்று\n= Sf . No.120, South Avenue, இணைக்கப்படடுள்ளது. |\nவு வேணு New Delhi-110 011\nபாக்கித்‌ _ | _ ந து ்‌ No.MP/160369/MSA/LS\nதொகைகள்‌: ii. மேற்சொன்ன அரசு குடியிருப்பிற்கு செலுத்த வேண்டிய $/2026 dated:\n& இவததி பின்வரும்‌ வகையிலான கட்டணம்‌ எதுவும்‌ நிலுவையில்‌ 01.04.2026\noo 3 இல்லை, அவையாவன\n(ii) தாடாபாக a) வாடகை\nநடவடிககை b) மின்‌ கட்டணங்கள்‌\nமேற்கொள்‌ கின்ற 0) குடிறி கட்டணங்கள்‌, மற்றும்‌\nதுறைகளுக்கு d) 01.04.2026 (நாள்‌) அன்று உள்ளவாறான\nசெலுத்த வேண்டிய தொலைபேசிக்‌ கட்டணங்கள்‌\nபாக்கித்‌\nதொகைகள்‌ [இங்கு குறிப்பிடப்படும்‌ நாளானது. தேர்தல்‌ அறிவிக்கப்பட்ட மாத்திலிருந்து\nமூன்று மாதங்களுக்கு முன்பு உள்ள மாதத்தின்‌ இறுதி நாளாக அல்லது\nஅதற்கு பின்னர்‌",
+        "page_20": "20\nவிண்ணப்பதாரர்‌ இந்து கூட்டுக்‌ | சார்ந்தவர்‌-1 சார்ந்தவர்‌-2 ப்ட்‌\nவி ப -3\nEE ee வண | HERS |e\n. வருமான வரி : . : : : ்‌\n(iv) நிலுவைகள்‌ ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை\nஜி.எஸ்‌.டி மில்லை மில்லை யில்‌ யில்‌ யில்‌ ஏதுமில்லை\nwv) நிலுவைகள்‌ ஏது ஏது ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை து\nநகராட்சி]\n(vi) சொத்துவரி ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை\nநிலுவைகள்‌\nஏனைய\n(vii) | யாதொரு ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை\nநிலுவைகள்‌\nஅரசுக்குச்‌\nசெலுத்த\nவேண்டிய\nபபப) | அனைத்து ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை\nபாக்கித்‌\nதொகைகளின்‌\nபெருமொத்தம்‌\nஏனைய\nயாதொரு கடன்‌\nபொறுப்புகள்‌\nதகராறின்‌ கீழ்‌\nஉள்ளனவா?\nஆம்‌ எனில்‌\nசம்பந்தப்பட்ட\n@ ்‌\n(iX) =n ஏதுமில்லை ஏதுமில்லை | ஏதுமில்லை | ஏதுமில்லை ஏதுமில்லை ஏதுமில்லை\nஎன்பதையும்‌\nஎந்த\nஅதிகாரியிடம்‌\nநிலுவையில்‌\nஉள்ளது\nஎன்பதையும்‌\nகுறிப்பிடவும்‌.\nட\n9) தொழில்‌ அல்லது வேலை பற்றிய விவரங்கள்‌: ்‌\na) தனி நபர்‌ - விவசாயம்‌ மற்றும்‌ வழக்கறிஞர்‌ தொழில்‌\nb) வாழ்க்கைத"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0030",
+      "candidate_name": "D.KRISHNAMURTHY",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/12302/0/7e85005c65/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0030.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:31:48.612Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "|\n-17-\nDescription Self: Spouse: HUF Depen | Depen | Depen\nD.KRISHNA | K.VIJAYA dent-1 | dent-2 | dent-3\nMURTHY\n111 Approximate Rs.3,87,00,00 | Rs.1,08,00,000/- | NIL NIL NIL NIL\nCurrent market 0/-\nprice of —\n(a)Self acquired\nassets (Total\nvalue)\n(b) inherited\nassets (Total\nvalue)\nமலி பவல்‌ I ARIES இ நல\n9(1) Government dues | NIL NIL NIL NIL NIL NIL\n(Total)\n9(ii) | Loans from Bank, NIL NIL NIL NIL NIL\nFinancial\nInstitutions and\nothers (Total)\nse EH PRN 5\n(1) | Government dues | NIL NIL NIL NIL NIL NIL\n(Total)\n(ii) | Loans from Bank, | NIL NIL NIL NIL NIL NIL\nFinancial\nInstitutions and\nothers (Total)\n11 Highest Educational Qualification:\nD.KRISHNAMURTHY S.S.L.C. 1978 GOVT BOYS HIGHER SEC. SCHOOL\nTIRUTTANI,\n(Give details of highest School/University education meaning the full form of the\ncertificate/diploma/degree course, name of the School/College/University and the\nyear in which the course was completed\nSE REDp y\nX %\n&/ ADVOCATE \\¢ |\nS NOTARY ர்‌\n+ INDIA 3 ;\n449/20\nCE)\nSTS V. KIS ப\n்‌ ",
+        "page_19": "ge A niin அவ்வல்‌ ren ui Wm ண்ண ni nny\noe = PER m= ==>\n& (tom இத்து\nsay pie = I~ B panei வதக்க. 17 P [RAH ===\nSr a AY = A Be RNR Ny Set (SER Le Sa = ST ட ட\nக என்‌. அ வுட்‌ ்‌ Sa TTY Cl 1 A ன்னா ந மு =\nவை ய்‌ - —Y TE RGR Vi 77 ZZ hs i) ce\nSesh ma —_——— NN So NA oD iT pen pm பப்பா இத்‌\nக்ப்‌ இகத P= WSN, டப பல அ IR ae a a 3 SR es\nSeay mit =e = Co (as டன்‌. Be TBR TT ‘al Sieve\n(= ESN தை m= | ESTA ji: ff = = 1 வித்‌ { Coe\nLe —e—1=7 == ui 2 ட i SAA AE p=\nக்ப்‌ ட்ட ட்‌ === னது = Be ————y க்‌ க\nக்க fi 8. Se ease A asa gr REE ட RS ree We த\nVere தம்‌ NEE 2 டன்ன 8 SL SAAR ந ல ந வ வ வளுளிவ வவ்வ ய கன்‌\nக்‌ ப்‌ உக்தி தடித்த த்‌ த்‌ A SSS SNE PN ன\n[BE Nem பப்ப 00 Ls - நங்க 100106 ie Se\n=e a 00100100100 RB UC RY At O01 00 1001 00s ESE\nCi ம்‌ ©0100 100100 k a 1™HO1 00100100 Fr Ea\nEe Ce 001001001001 SOT ப்ர Oc 100100 1001 OC SALE CH\nஇ TT O01 00 உரத்‌ பயப்பட க்கத்‌ 1 மல மலட்டு =a)\nsec hn oo1001 EREDYENAS நவி TS BANS 1 2381 gl) E23\na டய 338738341 IN க்‌ ts] Nol 1௨ PAC 1 001001 ன\neral 23 001 BIN BTEC, 1$ C",
+        "page_20": "ணியில்‌ அவிய ன்றி ள்ல Yl ணம்‌ வ்‌ nin many\nவேவ ==\neof | நன்கு 1 த்‌ ப வ்‌\nவ பட NaN Yee அ TA ௨௯ ன்‌ SES ©\nSES a NN SOE ற்‌ த்‌ அன ௨ WN ey,\nAa டட Sse cENs TOMER. Cope ங்கை ட்டை\nஹன mA Te அவங்கட டட மடு Ee\nயவ டு ட இத ௨ ௨; = ங்க த அட்‌ ட்டை ட பம்பாய்‌\nத்ய புட்‌ — = SNE eal lle 7 | 2 : ர க்‌\nன க =A NT BAY AVY == \"so 11:11 = UE 8] விவி ஊட E22\nSE Nee வலப்‌ டம்‌ ட்ட Ei oo SED ப்ப mm = ell அட்‌\nNe BN oma SE வதைத்‌ ழ்‌ பட NSIS ee as (=)\n(SE ING <r Of = pate LAS ட ட்ப டு யில்‌ அயில SIRT வலை பட்‌ த்த\nதனைப்‌ பப 00 TLE ep: - “ARIES BA Sa\" 1001 பய =\n= Ri 00100100100 8 ட CRYER அஃ OO 1 00 1 001 00s இதுத\nமம்‌ 001 00100100™ AT a யக்‌ யல க BE; B01 00 1001 00 imi னு\nIEC = 001091001 வரு வகர OF TET 001001001001 ஓல லவ்‌\nய TH வலு மல உஙவுயத்‌ யங்க ரர ப்அஆலத்பும்‌ 1 O01 மலட்டு ஊனை\npepeaime opi மம மம ERECYENSRE of SPAS 12891 OQ) CR\nhE 5 ட elo மல 4 \\' 11 A (sf \\ ந லி LIS ஹய்‌ 1 மம IQ னை\nஆன்‌ SH Eo ae hs oh = SEA EASA Li ்‌ வவ, க ee £2 = = eee\n1 = JEG UWP ஹுட்‌ ம ண றா ண\"\nட லு ஸ்‌ ப! HAN\nSa -\nஉ தமிாடு FETE TAMILNADU F"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0031",
+      "candidate_name": "CHANDRAN .S.S",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16381/1/b3cd6ec826/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0031.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:32:08.459Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0032",
+      "candidate_name": "MUTHURAJ.G",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16132/2/036b631ea4/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0032.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:32:21.094Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17"
+      ],
+      "ocr_snippets": {
+        "page_17": "Y அணையை\nழ்‌\n(a) மேலேப\nகூதி A மற்றும்‌ B ௫ல்‌ உள்ள இனங்கள்‌ 5\nதண்டனை பெற்ற ள்‌ 5 மற்றும்‌ 6.இல்‌ குறிப்பிடப்பட்டவை நீங்கலாக, என்‌ மீது\nற வழக்கு அல்லது நிலுவை\nவகை லு 1 வழக்கு ஏதுமில்லை.\nமலே ப\nகூதி A ல்‌ உள்ள இனங்கள்‌ 7 மற்றும்‌ மற்றும்‌\nகுறிப்பிடப்பட்டவை நீங்கல ig Bide. dir Emit கட்கு\n£க, எனக்கு, ன்‌\nசார்ந்திருப்பவர்களுக்கு யாதொரு ௦ ட கககைத்‌ தனே பை oe\nதாரு சொத்து அல்லது கடன்‌ பொறுப்புகள்‌ எவையுமில்லை,\n2026ஆம்‌ ஆண்‌ ப்ரஸ்‌\nடு ஏப்ரல்‌ மாதம்‌ ம்‌ நாளன்று சரிபார்க்கப்பட்டது.\n59\n| A\n8 உறுதிமொழி ர\nகுறிப்பு:\n1 வேட்பு மனு தாக்கல்‌ செய்யப்படுகின்ற கடைசி நாளன்று பிற்பகல்‌ 300 மணிக்கு முன்னதாக\nஉறுதிமொழிப்பத்திரம்‌ தாக்கல்‌ செய்யப்பட வேண்டும்‌.\n௨ உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌ வகுப்பு மாஜிஸ்திரேட்டு அல்லது சான்றுறுதி வழங்கும்‌\nவழக்குறைஞர்‌ முன்னிலையில்‌ உறுதிமொழி எடுத்துக்‌ கொள்ளப்பட வேண்டும்‌.\n௮. நெடும்பத்திகள்‌ அனைத்தும்‌ நிரப்பப்பட வேண்டும்‌ எந்தவொரு நெடும்பத்தியும்‌ காலியாக\nவிடப்படக்கூடாது. யாதொரு இனம்‌ பற்றி அளிப்பதற்கு தகவல்‌ இல்லையெனில்‌, நேர்விற்கேற்ப,\n“ஏதுமில்லை” அல்லது “பொருந்தாது” என்று",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0033",
+      "candidate_name": "M.SATHYA KUMAR",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16445/1/e48b73dc8c/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0033.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:33:05.106Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "ப்‌ PART-B\n0) ABSTRACT OF THE DETAILS GIVEN IN (1) TO (10) OF PART-A:\nName of the Candidates M. SATHYA KUMAR\nஉ Full postal address NO. 12, NEW BALAJI NAGAR\nEXTENSION PART 2, NELLORE\n: AMMAN KOIL, SELAIYUR,\nKANCHEEPURAM TAMIL NADU —\n600 073\n3. Number and name of the constituency and 31 -TAMBARAM, TAMIL NADU\nState\n4. Name of the political party which set up the | TAMILAGA VETTRI KAZHAGAM\ncandidate (otherwise write *Independent’) |\nTotal number of pending criminal cases Not Applicable | |\n|\nபன்‌ Total number of cases in which convicted Not Applicable Not Applicable |\n|\nTE PAN of Year for which Total income shown |\nlast Income Tax\nreturn filed இ\nfit (a) Candidate | CBJPS9012G 2024-25 Rs. 24.46.985 |\nக்கல்‌\nக்கட்‌ (b) Spouse CGDPR6257F 2024-25 Rs. 16.06.190 |\nடப்‌ (9) HUF Not Applicable Not Applicable Not Applicable |\nEee (d) Dependents | Not Applicable Not Applicable Not Applicable\nEEN 555 Details of Assets and Liabilities (including offshore assets) in Rupees\n) Description Self Spouse HUF",
+        "page_19": "11. | Highest Educational Qualification:\nDoctor of Philosophy - P.hD., (Global Transfer Pricing) - SRM University — 2021\nMaster of Laws — LLM - Jindal Global Law University - 2021\n|\n(Give details of Highest School / University Education mentioning the full form of the Certificate/\nDiploma / Degree Course, name of the School / College / University and the year in which the\n| course was completed.)\nVERIFICATION\n1, the deponent, above named, do hereby verify and declare that the contents of this affidavit\nare true and correct to the best of my knowledge and belief and no part of it is false and nothing\nmaterial has been concealed there from. 1 further declare that: -\n(a) there is no case of conviction or pending case against me other than those\nmentioned in items 5 and 6 of Part A and B above:\n(b) I my spouse, or my dependents do not have any asset or liability, other than those\nmentioned in items 7 and 8 of Part A and items 8.9 and 10 of Part B above.\n: TEL TTA! Hav of ge\nVerified at ...",
+        "page_20": "Note: 4. The Affidavit should be either typed or written legibly and neatly.\nNote: 5. Each page of the Affidavit should be signed by the deponent and the Affidavit\nshould bear on each page the stamp of the Notary or Oath Commissioner or\nMagistrate before whom the Affidavit is sworn.\n“ ப, MR\n7 SO D. NAGARAJ, M.A. B.L.,\n= SAN °\n: 0 | DVOGAYE ROLL NO.: 1555/06\nReg. NWA: | in GOVT. OF INDIA)\n«| ணே | NOTARY PUBLIC ( : -\nட Tiruvallur Dist இ COMMISSIONER OF OATH\nA Pin: 631 210/9 ORATHUR, PAGASALAI POST,\nC NY IST - 631210.\nIS TIRUVALLUR D |\n|"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0034",
+      "candidate_name": "BALAJI.A",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16422/0/5e647c8735/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0034.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 50000,
+      "assets_movable": 50000,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "2014- BA (History) - Madras University",
+      "parsed_at": "2026-04-21T03:33:44.824Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "ட\nAJ\n(10) My educational qualification is as under:\n2014- BA (History) - Madras University\n2018 - B.Ed - CM Annamalai College - Vellathur.\n(Give details of highest School / University education mentioning the full form of the\ncertificate/ diploma/ degree course, name of the School /College/ University and the year\nin which the course was completed.)\nஅநத O°\n2 N UN OB\n+ 7% வ ர 8 ag PSE\"\nக்க வ T | VOCATE & ARY PUBLIC\n5. ப A° street, Podaturpettal\nக 0.0) சட 160. 472, Madam allur District.\nத்‌ ௯ 02.9 (2¢ & SN) pallipet Taluk - 631 208, 1830707\nக தும்‌, ஆ ர்‌ Cel: 9786344955 /\n17\n- ன",
+        "page_19": "க\nER Immovable Assets\nrchase Price i\nor . Not Not Not Not Not Not\nர lofself-acquired |\nimmovable Applicable Applicable | Applicable Applicable |Applicable| Applicable\nroperty\nDevelopment/\nconstruction டு இ Nok\n0 0\nI cost of Not Not Not 0\nimmovable Applicable Applicable | Applicable Applicable |Applicable| Applicable\nproperty after\n| purchase\nApproximate\nCurrent Market a. Not\nPrice - a. Not a. Not a. Not Applicabl a. No\n(a) Sel a. Not Applicable | Applicable |Applicable e Applicable\na) oelr-\n, Applicable\nacquired BE\nassets (T\nsets (Total க Nok bo. Not b. Not b.Not |b. Not\nvalue) .\nb. 17,00,000/- | Applicable | Applicable |Applicable Applicabl [Applicable\n(b) Inherited €\nassets (Total\nValue\nEN Liabilities\n. Not Not Not Not Not\n(i) Government Rs. 50,000/-\ndues(Total) Applicable Applicable | Applicable |Applicable| Applicable\nLoans from\nBank,\n(ii) Financial னன்‌ Not Not Not Not Not\nInstitutions or Applicable | Applicable | Applicable |Applicable| Applicable\nand others\nTotal\nLiabilities tha",
+        "page_20": "®\nHighest educational qualification:\n2014- BA (History) - Madras University\n11. 2018 - B.Ed - CM Annamalai College - Vellathur.\n(Give details of highest School / University education mentioning the full form of\nthe certificate/ diploma/ degree course, name of the School /College/ University\nand the year in which the course was completed.)\nZN Do\n/ % \\\nRENN b pian, shar.\nக { VACP-DILLI . RY PUB‘\n| o {RUVALLUR DISTRICT] Sf} ம A TE &\\NOTA :\n8 \\G.0.Ms.) கலை FI No. 172, Madam Street, Podatur\nONAL dtr ய\nerrors ell : 9786\nTiss\n20"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0035",
+      "candidate_name": "PAVENDHAN.Y.R",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15865/1/98ec005151/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0035.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:34:26.709Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "7 17\n| Ce EF I HF | |\nமேலே\nகுறிப்பிடப்பட்ட\nவ தவிர ஏனைய\nயாதொரு இல்ை | இல்‌ை\n: . இல்லை. இல்லை ல ல இல்லை | இல்லை\nதனிநபர்களுக்கு\n/ உரிமை\nபெற்றவர்களுக்கு\nசெலுத்த\nவேண்டிய\nகடன்கள்‌\nஅல்லது\nநிலுவைத்‌\nதொகைகள்‌\nபெயர்‌\n(பெயர்கள்‌)\nநிலுவையாக\nஉள்ள தொகை\nகடனின்‌ தன்மை.\nஏனைய இல்லை இல்லை | இல்‌ை | இல்ை | இல்லை | இல்லை\nபொறுப்பு\nகடன்‌\nஇட்ட\nபெருமொத்தம்‌\nஅரசுக்குச்‌ (A) தற்போதைய தேர்தல்‌ அறிவிப்பு நாளிலிருந்து\nசெலுத்த கடந்த பத்து ஆண்டுகளில்‌ எப்பொழுதாவது,\nவேண்டிய அரசால்‌ வழங்கப்பட்ட குடியிருப்பில்‌ வேட்பாளர்‌ | இல்லை\nபாக்கித்‌ வசித்துள்ளாரா?\nதொகைகள்‌:\nஅரசு இடவசதி | ௬9). மேலே உள்ள (A) பகுதியில்‌ உள்ள\nதொடர்பாக வினாவிற்கு பதில்‌ “ஆம்‌” எனில்‌ பின்வரும்‌\nநடவடிக்கை உறுதிமொழி அளிக்கப்பட வேண்டும்‌.\nலு = மேற்கொள்கின்ற\n| A ன்‌ 2 றைகளுக்கு i) அரசு குடியிருப்பின்‌ முகவரி. ந\nந்‌ ர்க | செலுத்த பொருந்தாது. Ban 7, las. ஹு aly A\nINO பகத்‌ ௨௦௦3604614 FUE LL.\nIss Goyt. மன ctrick WHE ன்‌\nArakkonal , Ranipet Distric ஷ்‌",
+        "page_19": "19\nகுடும்ப 2 ல்‌\nம்‌\niv. | வருமான வரி | இல்லை | இல்லை இல்ை | இல்ை | இல்லை | இல்லை\nநிலுவைகள்‌ ல்‌ ie\nv. | ஜி.எஸ்‌.டி. இல்லை | இல்லை இல்ை | இல்ை | இல்லை | இல்லை\nநிலுவை ல்‌ i\nvi. | நகராட்சி / | இல்லை இல்லை இல்ை | இல்ை | இல்லை | இல்லை\nசொத்து வரி i =\nநிலுவைகள்‌\nஏனைய இல்லை இல்லை இல்ை | இல்ை | இல்லை | இல்லை\nயாதொரு ல gS\nநிலுவைகள்‌\nஅரசுக்குச்‌\nசெலுக்‌\nMena இல்லை | இல்லை இல்ை | இல்ை | இல்லை | இல்லை\nவேண்டிய ல ல\nஅனைத்து\nநிலுவைத்‌\nதொகைகளின்‌\nபெரு மொத்தம்‌\nஏனைய\nயாதொரு கடன்‌\nபொறுப்புகள்‌\nதகராறின்‌ கீழ்‌\n_ இல்லை இல்லை இல்ை | இல்ை | இல்லை | இல்லை\nஉள்ளனவா?\nல ல\nஆம்‌ எனில்‌\nதொடர்புடைய\nதொகை\nஎவ்வளவு\nஎன்பதையும்‌ ்‌\nஎந்த\nஅதிகாரியிடம்‌\nநிலுவையில்‌\nஉள்ளது\nஇன்‌ _ என்பதையும்‌\nத SEIN டவ\nAEN [|\nESE ora ர oo\nTEENA ed | வு! ரீ ) |\nநல்க Hie] LO Big தீ ட 1169\n> ஸ்‌ NY / on Com fi ~ wh\n» Sty MY Advocate ந படு FUbRS =\n5 La Gov. of india . =\n100+ Arakkonam. Ranipet District\n்‌ 20\n(9). தொழில்‌ அல்லது வேலை பற்றிய விவரங்கள்‌:\n(a) தனி நபர்‌ - வழக்கறிஞர்‌ .\n(b) வாழ்க்கைத்‌ துணை - இல்லத்தரசி.\n9A). வருவாய்க்கான ஆதாரங்கள்‌ பற்றிய",
+        "page_20": "்‌ 20\n(9). தொழில்‌ அல்லது வேலை பற்றிய விவரங்கள்‌:\n(a) தனி நபர்‌ - வழக்கறிஞர்‌ .\n(b) வாழ்க்கைத்‌ துணை - இல்லத்தரசி.\n9A). வருவாய்க்கான ஆதாரங்கள்‌ பற்றிய விவரங்கள்‌:-\n(a). தனி நபர்‌ - வழக்கறிஞர்‌ |\n(b) வாழ்க்கைத்‌ துணை — இல்லத்தரசி.\n(௦9). சார்ந்தோர்களின்‌ வருவாய்‌ ஆதாரம்‌ ஏதேனுமிருப்பின்‌ - இல்லை.\n(9B). அரசு மற்றும்‌ அரசுப்‌ பொது நிறுவனம்‌. அல்லது நிறுவனங்களுடனான ஒப்பந்தங்கள்‌.\n(ஐ. வேட்பாளரால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌. - இல்லை.\n(b). வாழ்க்கைத்‌ துணையால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌. -\nஇல்லை.\n(௦). சார்ந்தோர்களால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌. - இல்லை.\n(d). வேட்பாளர்‌ அல்லது வாழ்க்கைத்‌ துணை அல்லது சார்ந்தோர்கள்‌ ஈடுபாடு கொண்டுள்ள\nஇந்து கூட்டுக்‌ குடும்பம்‌ அல்லது அறக்கட்டளையால்‌ செய்து கொள்ளப்பட்ட\nஒப்பந்தங்களின்‌ விவரங்கள்‌:- இல்லை.\n(e). வேட்பாளர்‌ அல்லது வாழ்க்கைத்‌ துணை அல்லது சார்ந்தோர்கள்‌ பங்குதாரர்களாக\nஉள்ள கூட்டாண்மை நிறுவனங்களால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌:-\nஇல்லை.\n(8. வேட்பாளர்‌ அல்லது வாழ்க்கைத்‌ துணை அ"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0036",
+      "candidate_name": "KRISHNAMOORTHY.K",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16255/1/4b7198da11/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0036.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:35:01.622Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19"
+      ],
+      "ocr_snippets": {
+        "page_17": "17\nBT த வ உணு க வ\n(0) | அரசுக்கு செலுத்த இ இ\nSead ்‌ இல்லை இல்லை ல்‌ இல்லை | இல்லை ல்‌\nதாகைகள்‌ Er es\n(மொத்தம்‌)\n(ii) | வங்கி, நித\nநிறுவனங்கள்‌\nமற்றும்‌ ஏனைய இ இ\nவற்றிலிருந்து ரூ.30,04,000 இல்லை ல்‌ இல்லை | இல்லை ல்‌\nபெறப்பட்ட லை லை\nகடன்கள்‌\n(மொத்தம்‌)\nபிரச்சனைக்குரிய கடன்‌ பொறுப்புகள்‌\n(i) | அரசுக்கு செலுத்த இ இ\nவேண்டிய கடன்கள்‌ இல்லை இல்லை ல்‌ இல்லை | இல்லை ல்‌\n(மொத்தம்‌) லை லை\n(ii) | வங்கி, நித\nநிறுவனங்கள்‌\nமற்றும்‌ ஏனைய இ இ\nவற்றிலிருந்து இல்லை இல்லை ல்‌ இல்லை | இல்லை ல்‌\nபெறப்பட்ட லை லை\nகடன்கள்‌\n(மொத்தம்‌)\n11: உயரளவு கல்வித்‌ தகுதி:\n1. 5510- அரசினர்‌ ஆண்கள்‌ மேல்நிலைப்பள்ளி, வெடியங்காடு (2010)\n2. 0145-பாரதிவேல்‌ காலேஜ்‌ ஆப்‌ பாலிடெக்னிக்‌, ஜம்புகுளம்‌ (2015)\n(சான்றிதழ்‌ படிப்பின்‌ / பட்டயப்படிப்பின்‌ / பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌, உயரளவு பள்ளிக்கல்வி / பல்கலைக்கழக கல்வி\nவிவரங்கள்‌, பள்ளி / கல்லூரி / பல்கலைக்கழகம்‌ பெயர்‌ மற்றும்‌ படிப்பு முடித்த ஆண்டு குறித்த விவரங்களை அளிக்கவும்‌)\nபிய |\nளப்‌ னன்‌ 8 ~ lo\nSON AN ர்‌\nஷ்‌ த்‌ னா 7 TGP A BE.\nட $1 கரல பாயி\n| / Vp; ILLI ன Na.172 M",
+        "page_19": "19\nகுறிப்பு:\n1. வேட்பு மனு தாக்கல்‌ செய்யப்படுகின்ற கடைசி நாளன்று, பிற்பகல்‌ 3.00 மணிக்கு முன்னதாக\nஉறுதிமொழிப்பத்திரம்‌ தாக்கல்‌ செய்யப்பட வேண்டும்‌.\n2. உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌ வகுப்பு மாஜிஸ்திரேட்டு அல்லது சான்றுறுதி\nவழங்கும்‌ வழக்குறைஞர்‌ முன்னிலையில்‌ உறுதிமொழி எடுத்துக்‌ கொள்ளப்பட வேண்டும்‌.\n3. நெடும்பத்திகள்‌ அனைத்தும்‌ நிரப்பப்படவேண்டும்‌ எந்தவொரு நெடும்பத்தியும்‌ காலியாக\nவிடப்படக்கூடாது. யாதொரு இனம்‌ பற்றி அளிப்பதற்கு தகவல்‌ இல்லையெனில்‌,\nநேர்விற்கேற்ப, “ஏதுமில்லை” அல்லது “பொருந்தாது” என்று குறிப்பிடப்பட வேண்டும்‌.\n4. இந்த உறுதிமொழிப்‌ பத்திரம்‌ தட்டச்சு செய்யப்பட்டு அல்லது தெளிவாகவும்‌ நேர்த்தியாகவும்‌\nஎழுதப்பட்டிருக்க வேண்டும்‌.\n5. உறுதிமொழி ஏற்பதற்கு முன்‌, உறுதிமொழி அளிப்பவரால்‌ பத்திரத்தின்‌ ஒவ்வொரு\nபக்கத்திலும்‌ கையொப்பம்‌ இட வேண்டும்‌ மற்றும்‌ உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌\nவகுப்பு மாஜிஸ்திரேட்டு அல்லது சான்றுறுதி வழங்கும்‌ வழக்குரைஞரால்‌ முத்திரையுடன்‌\nகூடிய கையொப்பம்‌ இட வேண்டும்‌.\nEe\nநடு A ) ்‌ Vo ்‌\nத \\ ர்‌ SN\nரீ *\\ a ள்‌\n// V.P. TULL BA.BL.,\n(Qf VP. LI ௮ ADV",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0037",
+      "candidate_name": "KRISHNAMOORTHY.D",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/15459/1/04528de110/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0037.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "",
+      "parsed_at": "2026-04-21T03:35:39.272Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "6 ந\nB சொத்துகள்‌ மற்றும்‌ கடன்‌ பொறுப்புகளின்‌ (வெளிநாடுகளில்‌ உள்ள சொத்துகள்‌ உள்பட) விவரங்கள்‌ ரூபாயில்‌\nட விண்ணப்பதாரர்‌ துணைவி ம்‌ - 4... சார்ந்தவர்‌-1 | சார்ந்தவர்‌-2 | சார்ந்தவர்‌\na விவரம்‌ D. கிருஷ்ணமூர்த்தி | N. ஹேமலதா இந்து கூட்டுக்‌ குடும்பம்‌ | துதி (யவித்ரா 3\n6] 6] 6] 6]\nb Gers து து து து\nA. ge rin ரூ.20,04,099.88 ரூ.2,512.03 மி மி மி மி\nல்‌ ல ல்‌ 60\nலை லை லை லை\new\nசுயமாக வாங்கிய 7 6] 6] 6]\nஅசையாச்‌ து து து து\nசொத்தின்‌ ஏதுமில்லை ஏதுமில்லை மி மி மி மி\nகொள்முதல்‌ விலை ல்‌ ல்‌ ல்‌ ல்‌\nலை லை லை லை\nஅசையாச்‌ சொத்து\nகொள்முதல்‌ செய்த 4 = து ன்‌\nகட்டுமான Gon | எதமில்லை . | ஏதுமில்லை மி மி | மிமி\nண்‌ பனி கிட்‌\nகூடியது என்றால்‌)\n_ ஏ ஏ ஏ\nசொத்தின்‌ _ _ து து து\n111 | தோராயமான நடப்பு ஏதுமில்லை ஏதுமில்லை ரூ.30,00,000 மி மி மி\nசந்தை விலை ல்‌ ல்‌ ல்‌\nலை லை லை\n(a) சுயமாக [1 6] 6] 6]\nவாங்கிய _ _ து து து து\nசொத்துக்கள்‌ ஏதுமில்லை ஏதுமில்லை மி மி மி மி\n(மொத்த மதிப்பு) ல்‌ ல்‌ ல்‌ ல்‌\nலை லை லை லை\n6] 6] 6]\n. . து து து\n(0) பூர்வீக சொத்து . ிஹ்ை A A\nகொக்கு மதிப்பு) ஏதுமில்லை ஏது ரூ.7,94,000 பி",
+        "page_19": "19\nசரிபார்ப்பு\nமேற்சொன்ன பெயருடைய உறுதியளிப்பராகிய நான்‌, எனக்கு நன்கு தெரிந்த வரையிலும்‌\nநம்பிக்கைக்கு உகந்த வகையிலும்‌, இந்த உறுதிமொழப்‌ பத்திரத்தில்‌ உள்ளவை உண்மையானது\nமற்றும்‌ சரியானது என்றும்‌, எந்தப்‌ பகுதியும்‌ பொய்யானவை அல்ல என்றும்‌, எவையும்‌ இதிலிருந்து |\nமறைக்கப்படவில்லை என்றும்‌ இதனால்‌ சரிபார்ப்பு செய்து உறுதியளிக்கிறேன்‌. மேலும்‌ நான்‌\nபின்வருமாறு உறுதியளிக்கிறேன்‌:- |\n(a) மேலே பகுதி A மற்றும்‌ இல்‌ உள்ள இனங்கள்‌ 5 மற்றும்‌ 6-இல்‌ குறிப்பிடப்பட்டவை ்‌\nநீங்கலாக, என்மீது தண்டனை பெற்ற வழங்கு அல்லது நிலுவை வழக்கு ஏதுமில்லை.\n(b) மேலே பகுதி A இல்‌ உள்ள இனங்கள்‌ 7 மற்றும்‌ 8 மற்றும்‌ பகுதி 8-ல்‌ உள்ள இனங்கள்‌ 8,9\nமற்றும்‌ 10-இல்‌ குறிப்பிடப்பட்டவை நீங்கலாக, எனக்கு, என்‌ வாழ்க்கைத்‌ துணைக்கு அல்லது\nஎன்னை சார்ந்திருப்பவர்களுக்கு யாதொரு சொத்து அல்லது கடன்‌ பொறுப்பு\nஎவையுமில்லை.\n2026-ம்‌ ஆண்டு ஏப்ரல்‌ 06-ஆம்‌ நாளன்று சரிபார்க்கப்பட்டது.\nற்‌\nOMAR NN உறுதிமொழி அளிப்பவர்‌\nந! ed Ny\nநக \\ ~ [= ந\n(தபர கு ல\n0 Thifuystiur District } ©) | | ல ப JE Aol\nப CMS) 434/203 | ௨ je rey! 1E oH | :\nWe D",
+        "page_20": "20\nகுறிப்பு-\n1. வேட்பு மனு தாக்கல்‌ செய்யப்படுகின்ற கடைசி நாளன்று, பிற்பகல்‌ 3.00 மணிக்கு முன்னதாக\nஉறுதிமொழிப்பத்திரம்‌ தாக்கல்‌ செய்யப்பட வேண்டும்‌.\n2. உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌ வகுப்பு மாஜிஸ்திரேட்டு அல்லது சான்றுறுதி\nவழங்கும்‌ வழக்குறைஞர்‌ முன்னிலையில்‌ உறுதிமொழி எடுத்துக்‌ கொள்ளப்பட வேண்டும்‌.\n3. நெடும்பத்திகள்‌ அனைத்தும்‌ நிரப்பப்பபவேண்டும்‌ எந்தவொரு நெடும்பத்தியும்‌ காலியாக\nவிடப்படக்கூடாது. யாதொரு இனம்‌ பற்றி அளிப்பதற்கு தகவல்‌ இல்லையெனில்‌,\nநேர்விற்கேற்ப, “ஏதுமில்லை” அல்லது “பொருந்தாது” என்று குறிப்பிடப்பட வேண்டும்‌. :\n4. இந்த உறுதிமொழிப்‌ பத்திரம்‌ தட்டச்சு செய்யப்பட்டு அல்லது தெளிவாகவும்‌ நேர்த்தியாகவும்‌\nஎழுதப்பட்டிருக்க வேண்டும்‌.\n5. உறுதிமொழி ஏற்பதற்கு முன்‌, உறுதிமொழி அளிப்பவரால்‌ பத்திரத்தின்‌ ஒவ்வொரு\nபக்கத்திலும்‌ கையொப்பம்‌ இட வேண்டும்‌ மற்றும்‌ உறுதிமொழி ஆணையர்‌ அல்லது முதல்‌\nவகுப்பு மாஜிஸ்திரேட்டு அல்லது சான்றுறுதி வழங்கும்‌ வழக்குரைஞரால்‌ முத்திரையுடன்‌\nகூடிய கையொப்பம்‌ இட வேண்டும்‌.\n0 சன\na ந்‌\nந | 9) AN = Ny, 1 |\nச்ச Ny ்‌ ஷ்‌ 1 i: AB Lees oe |\nசீர தட்‌ : வ பப"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0038",
+      "candidate_name": "KRISHNAMOORTHY.M",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/14927/1/330185fa1f/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0038.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 200,
+      "assets_movable": 100,
+      "assets_immovable": 100,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:36:05.159Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20"
+      ],
+      "ocr_snippets": {
+        "page_17": "்‌ 1\nஇல யவ வர்க TI ~The பு\nவ [=]\nAE tr ப்‌ Ere =e\n(ive oud aie Rs. 100\nEEE = ட்‌ Gy. fe உல\nஇண்ட = See. டு =r\nட காஸி dE\nதட்ப ழும்‌ ல்க பிறரும்‌\nInN லட்‌ அவ\ndt nes MINS வய a |\nதிட i S185 இல்டல ல்‌\nப ட்ட\nலு உம்மி வ்‌ டப ees ம்‌ அ Pl\n/ 'BARETE AT TAMILNADY ps. தமு 200 FC 785529\nல்‌ 245 pegs es VENDOR\nBra TIRUTTAN VA aoa.\nப | படிவம்‌ 26\n1 (1981 ஆம்‌ ஆண்டு தேர்தல்‌ நடத்துவது குறித்த விதி 4&-யைக்‌ காண்க)\n1 தேர்தல்‌ நடத்தும்‌ அதிகாரியின்‌ முன்னிலையில்‌, வேட்பாளர்‌ வேட்பு மனுவுடன்‌.\nx அளிக்க வேண்டிய உறுதி மொழிப்‌ பத்திரம்‌\n17-வது தமிழ்நாடு சட்டப்பேரவைக்கு நடைபெறும்‌ தேர்தல்‌ 003: திருங்கணி சட்டமன்ற தொகுதி.\nர்‌ பகுதி -A\nதிரு. முத்துசாமி என்பவரின்‌ மகனும்‌ 52 வயதுடைய கதவு எனர்‌.637, சின்னப்‌\nஇள்ளையார்‌ கோயில்‌ தெரு வங்கனூர்‌ கிராமம்‌, ஆர்‌.கே. பேட்டை வட்டம்‌, திருவள்ளூர்‌.\nport - 831 304, என்ற முகவரியில்‌ வசிக்கின்ற, இந்தத்‌ தேர்தலில்‌ போட்டியிடுகின்ற\n86 வேப்பாளகுளகிய திரு. 14. கிருஷ்ணமூர்த்தி என்கிற நாள்‌, இதனால்‌, சத்தியப்‌\nலு செய்து, pi ays ttn.\nட்‌ நு =\nடா ம்‌ My.\nA P< VBAOLLL BANE,\n(இனவ pi\n|",
+        "page_19": "்‌ 1\nஇல யவ வர்க TI ~The பு\nவ [=]\nAE tr ப்‌ Ere =e\n(ive oud aie Rs. 100\nEEE = ட்‌ Gy. fe உல\nஇண்ட = See. டு =r\nட காஸி dE\nதட்ப ழும்‌ ல்க பிறரும்‌\nInN லட்‌ அவ\ndt nes MINS வய a |\nதிட i S185 இல்டல ல்‌\nப ட்ட\nலு உம்மி வ்‌ டப ees ம்‌ அ Pl\n/ 'BARETE AT TAMILNADY ps. தமு 200 FC 785529\nல்‌ 245 pegs es VENDOR\nBra TIRUTTAN VA aoa.\nப | படிவம்‌ 26\n1 (1981 ஆம்‌ ஆண்டு தேர்தல்‌ நடத்துவது குறித்த விதி 4&-யைக்‌ காண்க)\n1 தேர்தல்‌ நடத்தும்‌ அதிகாரியின்‌ முன்னிலையில்‌, வேட்பாளர்‌ வேட்பு மனுவுடன்‌.\nx அளிக்க வேண்டிய உறுதி மொழிப்‌ பத்திரம்‌\n17-வது தமிழ்நாடு சட்டப்பேரவைக்கு நடைபெறும்‌ தேர்தல்‌ 003: திருங்கணி சட்டமன்ற தொகுதி.\nர்‌ பகுதி -A\nதிரு. முத்துசாமி என்பவரின்‌ மகனும்‌ 52 வயதுடைய கதவு எனர்‌.637, சின்னப்‌\nஇள்ளையார்‌ கோயில்‌ தெரு வங்கனூர்‌ கிராமம்‌, ஆர்‌.கே. பேட்டை வட்டம்‌, திருவள்ளூர்‌.\nport - 831 304, என்ற முகவரியில்‌ வசிக்கின்ற, இந்தத்‌ தேர்தலில்‌ போட்டியிடுகின்ற\n86 வேப்பாளகுளகிய திரு. 14. கிருஷ்ணமூர்த்தி என்கிற நாள்‌, இதனால்‌, சத்தியப்‌\nலு செய்து, pi ays ttn.\nட்‌ நு =\nடா ம்‌ My.\nA P< VBAOLLL BANE,\n(இனவ pi\n|",
+        "page_20": "்‌ 1\nஇல யவ வர்க TI ~The பு\nவ [=]\nAE tr ப்‌ Ere =e\n(ive oud aie Rs. 100\nEEE = ட்‌ Gy. fe உல\nஇண்ட = See. டு =r\nட காஸி dE\nதட்ப ழும்‌ ல்க பிறரும்‌\nInN லட்‌ அவ\ndt nes MINS வய a |\nதிட i S185 இல்டல ல்‌\nப ட்ட\nலு உம்மி வ்‌ டப ees ம்‌ அ Pl\n/ 'BARETE AT TAMILNADY ps. தமு 200 FC 785529\nல்‌ 245 pegs es VENDOR\nBra TIRUTTAN VA aoa.\nப | படிவம்‌ 26\n1 (1981 ஆம்‌ ஆண்டு தேர்தல்‌ நடத்துவது குறித்த விதி 4&-யைக்‌ காண்க)\n1 தேர்தல்‌ நடத்தும்‌ அதிகாரியின்‌ முன்னிலையில்‌, வேட்பாளர்‌ வேட்பு மனுவுடன்‌.\nx அளிக்க வேண்டிய உறுதி மொழிப்‌ பத்திரம்‌\n17-வது தமிழ்நாடு சட்டப்பேரவைக்கு நடைபெறும்‌ தேர்தல்‌ 003: திருங்கணி சட்டமன்ற தொகுதி.\nர்‌ பகுதி -A\nதிரு. முத்துசாமி என்பவரின்‌ மகனும்‌ 52 வயதுடைய கதவு எனர்‌.637, சின்னப்‌\nஇள்ளையார்‌ கோயில்‌ தெரு வங்கனூர்‌ கிராமம்‌, ஆர்‌.கே. பேட்டை வட்டம்‌, திருவள்ளூர்‌.\nport - 831 304, என்ற முகவரியில்‌ வசிக்கின்ற, இந்தத்‌ தேர்தலில்‌ போட்டியிடுகின்ற\n86 வேப்பாளகுளகிய திரு. 14. கிருஷ்ணமூர்த்தி என்கிற நாள்‌, இதனால்‌, சத்தியப்‌\nலு செய்து, pi ays ttn.\nட்‌ நு =\nடா ம்‌ My.\nA P< VBAOLLL BANE,\n(இனவ pi\n|"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0039",
+      "candidate_name": "SHETTU.S",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/14724/0/d2598ad59b/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0039.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:36:26.601Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0040",
+      "candidate_name": "DR.A.V.NARENDRAN",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16341/2/c533667bce/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0040.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:36:42.800Z",
+      "ocr_pages": [
+        "page-02"
+      ],
+      "ocr_snippets": {
+        "page_17": "",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-003-0041",
+      "candidate_name": "JAMBU.B",
+      "constituency_name": "Tiruttani",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/16491/1/33b701ffd6/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-003-0041.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "",
+      "criminal_cases_declared": "",
+      "education": "",
+      "parsed_at": "2026-04-21T03:37:09.105Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18"
+      ],
+      "ocr_snippets": {
+        "page_17": "பெறப்பட்ட கடன்கள்‌\n(மொத்தம்‌)\nபிரச்சனைக்குறிய கடன்‌\nபொறுப்புகள்‌\nடு | அரசுக்கு செலுத்த |\nவேண்டிய\nஇல்லை இல்லை இல்லை இல்லை இல்லை இல்லை\nதொகைகள்‌\n(மாத்தம்‌)\nடு | வங்கி, நிதி\n, நிறுவனங்கள்‌ மற்றும்‌\n| ஏஎனையவற்றிலிருந்து இல்லை இல்லை | இல்லை | இல்லை | இல்லை | இல்லை\nபெறப்பட்ட கடன்கள்‌\n(மாத்தம்‌)\n11. உயரளவு கல்வித்‌ தகுதி :-\nD.M.E., C.M.Annamalai Polytechnic College, Vellathur, Thiruvallur Dt. (2025)\n(சான்றிதழ்‌ படிப்பின்‌ / பட்டய படிப்பின்‌ / பட்டப்‌ படிப்பின்‌ முழு வடிவத்துடன்‌, உயர அளவு பள்ளிக்கல்வி / பல்கலைக்கழக |\nகல்வி விவரங்கள்‌, பள்ளி / கல்லூரி / பல்கலைக்கழகம்‌ பெயர்‌ மற்றும்‌ படிப்பு முடித்த ஆண்டு குறித்த விவரங்களை |\nஅளிக்கவும்‌) |\n| CRY Py\nsR G3 15 Ex\nB55) G. VIJA fae, oO) ) Zc\n| iy : yd ர த்‌ Advocate (11.5.8௦.1402/2010), Jag\nole ரா 32030) NOTARY PUBLIC, SHOLINGHUR.\n\\Q\\_shotinghur 8) Sholinghur Tk, Ranipet Dt.-631102\nல Tes “Cell:9344719331",
+        "page_19": "\n",
+        "page_20": ""
+      }
+    },
+    {
+      "candidate_uid": "tn2026-004-0042",
+      "candidate_name": "V.G. RAAJENDRAN",
+      "constituency_name": "Thiruvallur",
+      "district": "Tiruvallur",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/11892/0/404984de38/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-004-0042.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": null,
+      "assets_movable": null,
+      "assets_immovable": null,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "-",
+      "parsed_at": "2026-04-21T03:37:44.833Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "17\n(ii) Government (A).Has the deponent been in occupation of\ndues: accommodation provided by the Government at any time\nDues to during the last Ten years before the date of notification of\ndepartments the current election? YES,\ndealing with (B).If answer to (A) above is YES, the following\nGovernment declaration may be furnished namely:-\naccommodation | (i).The address of the Government accommodation.\nNo.C-5-F, M.L.A Residential complex, @ omandurar |\nGovernment Estate, Chennai -2 ,\n(ii). There is no dues in respect of above Government\naccommodation, towards-\n(a).Rent - NIL\n(b).Electricity Charges - NIL ;\n(c).Water Charges - NIL\n(d).Telephone Charges - NIL as on 31.03.2026\n(date).\n(No due Certificate attached)\n[The date should be the last date of the third month prior\nto the month in which the election is notified or any date\nthereafter].\nNote—*No Dues Certificate’ from the agencies concerned\nin respect of rent, electricity charges, water charges and\ntelephone charges for the above Gov",
+        "page_19": "19\n6. Director in PRIYADHARSHINEE HOSPITAL PRIVATE LIMITED\n7. Trustee in Priyadarshini Charitable and Educational Trust\n(b) Spouse : 1. Trustee, M/s INDIRA EDUCATIONAL AND\nCHARITABLE TRUST\n2. Director in M/s INDIRA FOUNDATIONS PVT LTD\n3. Director in GALAXY AUTOMOTIVE PRIVATE LIMITED\n4. Director in PRIYADHARSHINEE HOSPITAL PRIVATE LIMITED\n5. Managing Trustee in Priyadarshini Charitable and Educational Trust\n(9A).Details of source(s) of Income: |\n(a). Self: Business, M.L.A. Salary,\n(b). Spouse: Business.\n(6). Source of Income, if any, of dependents: NIL.\n(9B). Contracts with appropriate Governments and any public company or companies.\n(a). Details of contracts entered by the Candidate - Not applicable\n(b). Details of contracts entered into by the spouse - Not applicable\n(¢). Details of contracts entered into by dependents - Not applicable\n(d). Details of contracts entered into by Hindu Undivided\nFamily or Trust in which candidate or spouse or - Not applicable\ndependents have interest:\n(e",
+        "page_20": "20\n(10) My educational qualification is as under:-\nDiploma in Civil Engineering, Murugappa Polytechnic, State Board of Technical\nEducation and Training - Year: October 1988.\n(Give details of highest school/university education mentioning the full form of the\ncertificate/diploma/degree course, name of the school/collage/university and the year in which the\ncourse was completed)\nPART-B a\n11) ABSTRACT OF THE DETAILS GIVEN IN (1) TO (10) OF PART-A:\nName of the Candidate Shri. V.G.RAAJENDRAN\n2 Full postal address No. 1.V.G.R.Garden,\nV.G.R.Nagar, ;\nPandur, Thiruvallur District\nPIN code-631203\n3 | Number and name of the No:004\nconstituency and State Thiruvallur-Tamilnadu\n4 | Name of the political party which set | Dravida Munnetra Kazhagam (DMK)\nup the candidate (otherwise write\n‘Independent’)\n5 Total number of pending criminal 4 cases\ncases.\nTotal number of cases in which NIL\nConvicted.\n7 | Particulars PAN Year for which last | Total income\n| income tax return Shown.\n| filed.\n= (a) Candidate"
+      }
+    },
+    {
+      "candidate_uid": "tn2026-014-0304",
+      "candidate_name": "YUVARAJ S",
+      "constituency_name": "Villivakkam",
+      "district": "Chennai",
+      "candidate_reference_url": "https://voterlist.co.in/affidavit-download/12664/0/d95a552def/",
+      "affidavit_pdf_path": "D:\\01 Projects\\TNElectionsApp\\data\\affidavit_pdfs\\raw\\tn2026-014-0304.pdf",
+      "parse_status": "parsed_local_pdf",
+      "declared_assets": 66913.86,
+      "assets_movable": 17913.86,
+      "assets_immovable": 49000,
+      "liabilities": null,
+      "criminal_cases_flag": "N",
+      "criminal_cases_declared": 0,
+      "education": "None",
+      "parsed_at": "2026-04-20T17:43:31.037Z",
+      "ocr_pages": [
+        "page-02",
+        "page-17",
+        "page-18",
+        "page-19",
+        "page-20",
+        "page-21"
+      ],
+      "ocr_snippets": {
+        "page_17": "17\n9B) ows மற்றும்‌ அரசுப்‌ பொது நிறுவனம்‌ அல்லது நிறுவனங்களுடனான ஒப்பந்தங்கள்‌\n(a) வேட்பாளரால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌ : பொருந்தாது\n(0) வாழ்க்கைத்‌ துணையால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌:\nபொருந்தாது\n(©) சார்ந்தோர்களால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌: பொருந்தாது\n(1) வேட்பாளர்‌ அல்லது வாழ்க்கைத்‌ துணை அல்லது சார்ந்தோர்கள்‌ ஈடுபாடு\nகொண்டுள்ள இந்து கூட்டுக்‌ குடும்பம்‌ அல்லது அறக்கட்டளையால்‌ செய்து\nகொள்ளப்பட்ட ஒப்பந்தங்களின்‌ விவரங்கள்‌ : பொருந்தாது\n(6) வேட்பாளர்‌ அல்லது வாழ்க்கைத்‌ துணை அல்லது சார்ந்தோர்கள்‌ பங்குதாரர்களாக\nஉள்ள கூட்டாண்மை நிறுவனங்களால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌\nவிவரங்கள்‌ : பொருந்தாது\n(0 வேட்பாளர்‌ அல்லது வாழ்க்கைத்‌ துணை அல்லது சார்ந்தோர்களின்‌ பங்குகளை\nவைத்துள்ள தனியார்‌ நிறுவனங்களால்‌ செய்து கொள்ளப்பட்ட ஒப்பந்தங்களின்‌\nவிவரம்‌ : பொருந்தாது\n(10) எனது கல்வித்‌ தகுதி வருமாறு:\nஏதுமில்லை\n(சான்றிதழ்‌ படிப்பின்‌ 7 பட்டயப்படிப்பின்‌ / பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌, உயரளவு\nபள்ளிக்கல்வி 77 பல்கலைக்கழக கல்வி ",
+        "page_19": "19\nசொத்துகள்‌ மற்றும்‌ கடன்‌ பொறுப்புகளின்‌ (வெளிநாடுகளில்‌ உள்ள சொத்துகள்‌ உள்பட)\n| ல்‌ Ee\nவிண்ணப்பதாரர்‌ | துணைவி 7 | இந்து | சார்ந்த ] சார்ந்தவர்‌ சார்ந்த\nயுவராஜ்‌ துணைவர்‌ கூட்டுக்‌| வர்‌ 1 2 வர்‌ 3\nு.ஷாலினி குடும்ப\nம்‌ *.ஷிவா | *.யுவானி\nனி\nA | அசையும்‌ ரூ.17,913.86 ரூ.27,028.03 பொரு | இல்லை இல்லை பொரு\nஇ Cri இ\n(மொத்த மதிப்பு)\nI. சுயமாக ஏதுமில்லை ஏதுமில்லை | ஏதுமி ஏது ஏது ஏது\nவாங்கிய ல்லை | மில்லை | மில்லை | மில்‌ை\nஅசையாச்‌ ல\nசொத்தின்‌\nகொள்மு\nதல்‌\nவிலை\nII. | அசையாச்‌ ஏதுமில்லை ஏதுமில்லை பொரு ஏது ஏது பொரு\nசொத்தை நீதாது | மில்லை | மில்லை | ந்தாது\nகொள்மு\nதல்‌\nசெய்த\nபின்னர்‌\nமேம்பாட்‌ |\n®\nகட்டுமான\nசெலவு\n(பொருந்த\nக்‌ கூடியது\nஎன்றால்‌)\nII. | சொத்தின்‌ ஏதுமில்லை ஏதுமில்லை பொரு | ஏதுமில்‌ | ஏதுமில்ை | பொரு\nதோராயம ந்தாது லை ல்‌ ந்தாது\nரான\nநடப்பு\nசந்தை\nவிலை\n(a) ஏதுமில்லை ஏதுமில்லை பொரு ஏது ஏது பொரு\nசுயமாக ந்தாது | மில்லை | மில்லை | ந்தாது\nவாங்கிய\nசொத்துக்‌\nகள்‌\n(மொத்த\nமதிப்பு)\nA DT Pa p. து\n* சீரற்று :\nA Dy < =\nACA 15\nCe By Nog, a 66 [6\nONG பண்ட\niy த ADVOCATE & NOTARY PUBLIC\nSa Cre ay 1௦.29. ",
+        "page_20": "20\n(b) புர்வீக ஏதுமில்லை ஏதுமில்‌ | பொரு ஏது ஏது பொருந்‌\nசொத்து (மொத்த லை ந்தாது | மில்லை | மில்லை தாது\nமதிப்பு)\nறு ட ட ட டட ட்ட\n>i) | அரசுக்கு ஏதுமில்லை | ஏதுமில்‌ | பொரு | ஏதுமில்‌ ஏதுமில்‌ை | பொருந்‌\nசெலுத்த லை ந்தாது லை ல்‌ தாது\nவேண்டிய\nதொகைகள்‌\n(மொத்தம்‌)\n(ii) | வங்கி, நிதி ரூ.49,000/- | ரூ.2,13,8 | பொரு | ஏதுமில்‌ | ஏதுமில்‌ை பொருந்‌\nநிறுவனங்கள்‌ 40/- |ந்தாது| லை ல தாது\nமற்றும்‌\nஏனையவற்றிலிரு\nந்து பெறப்பட்ட\nகடன்கள்‌\n(மொத்தம்‌)\nபிரச்சனைக்குரிய கடன்‌ பொறுப்புகள்‌\n(i) | அரசுக்கு ஏதுமில்லை ஏதுமில்‌ | பொரு | ஏதுமில்‌ | ஏதுமில்‌ை பொருந்‌\nசெலுத்த லை ந்தாது லை 60 தாது\nவேண்டிய\nகடன்கள்‌\n(மொத்தம்‌)\n(ii) | வங்கி, நிதி ஏதுமில்லை | ஏதுமில்‌ | பொரு | ஏதுமில்‌ ஏதுமில்‌ை | பொருந்‌\nநிறுவனங்கள்‌ லை ந்தாது லை ல்‌ தாது\nமற்றும்‌\nஏனையவற்றிலிரு\nந்து பெறப்பட்ட\nகடன்கள்‌\n(மொத்தம்‌)\n11, உயரளவு கல்வித்‌ தகுதி:\nஏதுமில்லை\n(சான்றிதழ்‌ படிப்பின்‌ / பட்டயப்படிப்பின்‌ / பட்டப்படிப்பின்‌ முழு வடிவத்துடன்‌, உயரளவு\nபள்ளிக்கல்வி 7 பல்கலைக்கழக கல்வி விவரங்கள்‌, பள்ளி 7 கல்லூரி 7\nபல்கலைக்கழகம்‌ பெயர்‌ மற்றும்‌ படிப்பு ம"
+      }
+    }
+  ]
+}
