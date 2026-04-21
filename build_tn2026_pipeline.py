@@ -37,6 +37,7 @@ AFFIDAVIT_PDF_ENRICHMENT = PROCESSED_DIR / "affidavit_pdf_enrichment.json"
 SUPABASE_BASE = "https://ljbewpsksaetftwuaqaz.supabase.co/rest/v1"
 FORM7A_LIST_URL = "https://erolls.tn.gov.in/acwithcandidate_tnla2026/AC_List.aspx"
 FORM7A_BASE_URL = "https://erolls.tn.gov.in/acwithcandidate_tnla2026/Form7A.aspx"
+AFFIDAVIT_ECI_FILTER_URL = "https://affidavit.eci.gov.in/CandidateCustomFilter"
 AFFIDAVIT_BROWSER_URL = "https://voterlist.co.in/affidavit/"
 AFFIDAVIT_MIRROR_AJAX_URL = "https://voterlist.co.in/wp-admin/admin-ajax.php"
 AFFIDAVIT_MIRROR_STATE = "Tamil Nadu"
@@ -148,7 +149,7 @@ PARTY_PRIORITY = [
 UI_TEXT = {
     "brand": {"en": "Tamil Nadu 2026 Voter Facts", "ta": "தமிழ்நாடு 2026 வாக்காளர் தகவல்கள்"},
     "tagline": {
-        "en": "Official contesting candidates, constituency context, and downloadable voter facts.",
+        "en": "Contesting candidates, constituency context, and downloadable voter facts sourced from publicly available election pages.",
         "ta": "அதிகாரப்பூர்வ வேட்பாளர் பட்டியல், தொகுதி தகவல்கள், பதிவிறக்கக் கூடிய வாக்காளர் உண்மைகள்.",
     },
     "home": {"en": "Home", "ta": "முகப்பு"},
@@ -178,7 +179,7 @@ UI_TEXT = {
         "ta": "வேட்பாளர், தொகுதி, மாவட்டம் அல்லது கட்சியைத் தேடுங்கள்",
     },
     "facts_notice": {
-        "en": "Roster truth comes from the official statewide Form 7A HTML pages. Enrichment fields are matched cautiously from public historical data.",
+        "en": "Roster rows are sourced from publicly available statewide Form 7A pages. Enrichment fields are matched cautiously from public historical data.",
         "ta": "வேட்பாளர் பட்டியல் அதிகாரப்பூர்வ மாவட்ட தேர்தல் பக்கங்களில் இருந்து பெறப்பட்டது. கூடுதல் தகவல்கள் பொதுப் பதிவுகளிலிருந்து கவனமாக பொருத்தப்பட்டவை.",
     },
 }
@@ -188,6 +189,12 @@ UI_TEXT["facts_notice"]["ta"] = (
     "கூடுதல் தகவல்கள் பொதுப் பதிவுகளிலிருந்து கவனமாக பொருத்தப்பட்டவை."
 )
 
+
+UI_TEXT["tagline"]["ta"] = "பொதுவாகக் கிடைக்கும் தேர்தல் பக்கங்களில் இருந்து சேகரிக்கப்பட்ட வேட்பாளர் பட்டியல், தொகுதி தகவல்கள் மற்றும் பதிவிறக்கக்கூடிய வாக்காளர் தகவல்கள்."
+UI_TEXT["facts_notice"]["ta"] = (
+    "வேட்பாளர் பட்டியல் பொதுவாகக் கிடைக்கும் மாநில அளவிலான Form 7A HTML பக்கங்களில் இருந்து பெறப்பட்டது. "
+    "கூடுதல் தகவல்கள் பொது வரலாற்றுத் தரவுகளுடன் கவனமாக பொருத்தப்பட்டவை."
+)
 
 @dataclass
 class DistrictFetchResult:
@@ -1765,7 +1772,7 @@ def render_home(
     )
     body = f"""
     <section class="hero">
-      <span class="pill">{bi_text('Official roster + voter context', 'அதிகாரப்பூர்வ பட்டியல் + வாக்காளர் தகவல்')}</span>
+      <span class="pill">{bi_text('Roster + voter context', 'பட்டியல் + வாக்காளர் தகவல்')}</span>
       <h1>{bi_text(UI_TEXT['brand']['en'], UI_TEXT['brand']['ta'])}</h1>
       <p>{bi_text(UI_TEXT['tagline']['en'], UI_TEXT['tagline']['ta'])}</p>
     </section>
@@ -2098,10 +2105,10 @@ def render_home(
     </section>
     <div class="notice">{bi_text(UI_TEXT['facts_notice']['en'], UI_TEXT['facts_notice']['ta'])}</div>
     <section class="kpi-grid">
-      <div class="kpi"><strong>{len(full_rows):,}</strong><span>{bi_text('Official 2026 candidate rows', '2026 அதிகாரப்பூர்வ வேட்பாளர் வரிகள்')}</span></div>
+      <div class="kpi"><strong>{len(full_rows):,}</strong><span>{bi_text('2026 candidate rows', '2026 வேட்பாளர் வரிகள்')}</span></div>
       <div class="kpi"><strong>{len(summaries)}</strong><span>{bi_text('Assembly constituencies', 'சட்டமன்ற தொகுதிகள்')}</span></div>
       <div class="kpi"><strong>{len({row['district'] for row in summaries if row['district']})}</strong><span>{bi_text('Districts covered', 'கவரப்பட்ட மாவட்டங்கள்')}</span></div>
-      <div class="kpi"><strong>{validation['official_count_status']}</strong><span>{bi_text('Official count check vs 4,023', '4,023 எண்ணிக்கையுடன் சரிபார்ப்பு')}</span></div>
+      <div class="kpi"><strong>{validation['official_count_status']}</strong><span>{bi_text('Row count check vs 4,023', '4,023 எண்ணிக்கையுடன் வரிசை சரிபார்ப்பு')}</span></div>
     </section>
     <div class="section-title"><h2>{bi_text('Alliance snapshot', 'கூட்டணி தகவல்')}</h2></div>
     <section class="cards">{alliance_cards_html}</section>
@@ -2109,7 +2116,7 @@ def render_home(
     <div class="section-title"><h2>{bi_text('Quick voter modules', 'வாக்காளர்களுக்கான விரைவு தொகுதிகள்')}</h2></div>
     <section class="cards">
       <article class="card"><h3>{bi_text('Constituency roster', 'தொகுதி வேட்பாளர் பட்டியல்')}</h3><p class="small">{bi_text('Find everyone contesting in a seat, with district context and 2021 result data.', 'ஒவ்வொரு தொகுதியிலும் போட்டியிடும் அனைவரையும், 2021 முடிவு பின்னணியுடன் காணுங்கள்.')}</p><a class="btn" href="constituencies/index.html">{bi_text('Browse constituencies', 'தொகுதிகளைப் பார்க்க')}</a></article>
-      <article class="card"><h3>{bi_text('Candidate fact cards', 'வேட்பாளர் உண்மை அட்டைகள்')}</h3><p class="small">{bi_text('Each candidate page shows official roster data, affidavit links, and matched public facts where available.', 'ஒவ்வொரு வேட்பாளர் பக்கமும் அதிகாரப்பூர்வ பட்டியல் தகவல்கள், affidavit இணைப்புகள் மற்றும் கிடைக்கும் பொது தரவு பொருத்தங்களை காட்டுகிறது.')}</p><a class="btn" href="downloads/index.html">{bi_text('Open downloads', 'பதிவிறக்கங்களைத் திறக்க')}</a></article>
+      <article class="card"><h3>{bi_text('Candidate fact cards', 'வேட்பாளர் உண்மை அட்டைகள்')}</h3><p class="small">{bi_text('Each candidate page shows roster data sourced from public pages, affidavit links, and matched public facts where available.', 'ஒவ்வொரு வேட்பாளர் பக்கமும் பொதுவாகக் கிடைக்கும் பக்கங்களில் இருந்து பெறப்பட்ட பட்டியல் தகவல்கள், affidavit இணைப்புகள் மற்றும் கிடைக்கும் பொது தரவு பொருத்தங்களை காட்டுகிறது.')}</p><a class="btn" href="downloads/index.html">{bi_text('Open downloads', 'பதிவிறக்கங்களைத் திறக்க')}</a></article>
     </section>
     <div class="section-title"><h2>{bi_text('Parties with the most candidates contesting', 'Parties with the most candidates contesting')}</h2></div>
     <section class="table-card">
@@ -2179,7 +2186,7 @@ def render_constituency_pages(summaries: list[dict[str, Any]], rows_by_constitue
           <section class="hero">
             <span class="pill">{html.escape(summary['district'])}</span>
             <h1>{html.escape(summary['constituency_name'])} ({summary['constituency_no']})</h1>
-            <p>{bi_text('Official 2026 roster with 2021 result context and 2026 voter roll stats where available.', 'அதிகாரப்பூர்வ 2026 பட்டியல், 2021 முடிவு பின்னணி மற்றும் கிடைக்கும் 2026 வாக்காளர் விவரங்களுடன்.')}</p>
+            <p>{bi_text('2026 roster sourced from public pages, with 2021 result context and 2026 voter roll stats where available.', 'பொதுவாகக் கிடைக்கும் பக்கங்களில் இருந்து பெறப்பட்ட 2026 பட்டியல், 2021 முடிவு பின்னணி மற்றும் கிடைக்கும் 2026 வாக்காளர் விவரங்களுடன்.')}</p>
           </section>
           <section class="meta">
             <div class="card"><div class="meta-label">{bi_text('Candidates', 'வேட்பாளர்கள்')}</div><div class="meta-value">{summary['candidate_count_2026']}</div></div>
@@ -2258,7 +2265,7 @@ def render_candidate_pages(full_rows: list[dict[str, Any]]) -> None:
             else ""
         )
         verification_note = bi_text(
-            "Age and gender are refreshed from a 2026 affidavit browser feed sourced from affidavit.eci.gov.in. Latest official PDF parsing is blocked from this environment, so assets, liabilities, education, and cases currently fall back to older trusted public matches when available.",
+            "Age and gender are refreshed from a 2026 affidavit browser feed sourced from affidavit.eci.gov.in. Latest PDF parsing is blocked from this environment, so assets, liabilities, education, and cases currently fall back to older trusted public matches when available.",
             "வயதும் பாலினமும் affidavit.eci.gov.in மூலம் கிடைக்கும் 2026 affidavit browser feed-இலிருந்து புதுப்பிக்கப்படுகின்றன. இந்த சூழலில் அதிகாரப்பூர்வ PDF பதிவிறக்கம் தடுக்கப்பட்டதால், சொத்து, கடன், கல்வி, வழக்கு தகவல்கள் கிடைக்கும் இடங்களில் பழைய நம்பகமான பொது பொருத்தங்களில் இருந்து காட்டப்படுகின்றன.",
         )
         body = f"""
@@ -2277,7 +2284,7 @@ def render_candidate_pages(full_rows: list[dict[str, Any]]) -> None:
           <div class="card"><div class="meta-label">{bi_text('2021 Vote Share', '2021 வாக்கு பங்கு')}</div><div class="meta-value">{html_text(row['vote_share_2021'])}</div></div>
         </section>
         <section class="cards">
-          <article class="card"><h3>{bi_text('Official roster facts', 'அதிகாரப்பூர்வ பட்டியல் தகவல்கள்')}</h3><p class="small">{bi_text('Party: ', 'கட்சி: ')}{html.escape(row['party_name'])}</p><p class="small">{bi_text('Source document: ', 'மூல ஆவணம்: ')}{html.escape(row['source_document'])}</p><p class="small">{bi_text('Source date: ', 'மூல தேதி: ')}{html_text(row['source_date'])}</p></article>
+          <article class="card"><h3>{bi_text('Roster facts from public pages', 'பொது பக்கங்களில் இருந்து பெறப்பட்ட பட்டியல் தகவல்கள்')}</h3><p class="small">{bi_text('Party: ', 'கட்சி: ')}{html.escape(row['party_name'])}</p><p class="small">{bi_text('Source document: ', 'மூல ஆவணம்: ')}{html.escape(row['source_document'])}</p><p class="small">{bi_text('Source date: ', 'மூல தேதி: ')}{html_text(row['source_date'])}</p></article>
           <article class="card"><h3>{bi_text('Constituency context', 'தொகுதி பின்னணி')}</h3><p class="small">{bi_text('Winner 2021: ', '2021 வெற்றியாளர்: ')}{html_text(row['winner_2021'])}</p><p class="small">{bi_text('Margin 2021: ', '2021 வித்தியாசம்: ')}{html_text(row['margin_2021'])}</p><p class="small">{bi_text('Turnout 2021: ', '2021 வாக்குப்பதிவு: ')}{html_text(row['turnout_2021'])}</p></article>
           <article class="card"><h3>{bi_text('Verification', 'சரிபார்ப்பு')}</h3><p class="small">{verification_note}</p><p class="small">{bi_text('Age source: ', 'வயது மூலம்: ')}{html_text(row.get('age_source'))}</p><p class="small">{bi_text('Gender source: ', 'பாலின மூலம்: ')}{html_text(row.get('gender_source'))}</p><p class="small">{bi_text('Education source: ', 'கல்வி மூலம்: ')}{html_text(row.get('education_source'))}</p><p class="small">{bi_text('Assets source: ', 'சொத்து மூலம்: ')}{html_text(row.get('declared_assets_source'))}</p><p class="small">{bi_text('Liabilities source: ', 'கடன் மூலம்: ')}{html_text(row.get('liabilities_source'))}</p><p class="small">{bi_text('Cases source: ', 'வழக்கு மூலம்: ')}{html_text(row.get('criminal_cases_source'))}</p><p class="small">{bi_text('Affidavit status: ', 'சத்தியப்பிரமாண நிலை: ')}{html_text(row.get('affidavit_parse_status'))}</p><p class="small">{bi_text('Reference URL: ', 'குறிப்பு இணைப்பு: ')}{html.escape(row['affidavit_url']) if row['affidavit_url'] else html_text('')}</p>{affidavit}</article>
         </section>
@@ -2297,13 +2304,25 @@ def render_downloads_page(downloads: list[Path], validation: dict[str, Any]) -> 
         f'<div class="link-item"><span>{html.escape(path.name)}</span><a href="{html.escape(path.name)}">Download</a></div>'
         for path in downloads
     )
+    source_links = [
+        ("Tamil Nadu Form 7A constituency list", "தமிழ்நாடு Form 7A தொகுதி பட்டியல்", FORM7A_LIST_URL),
+        ("Tamil Nadu Form 7A candidate page", "தமிழ்நாடு Form 7A வேட்பாளர் பக்கம்", FORM7A_BASE_URL),
+        ("ECI affidavit candidate filter", "ECI affidavit candidate filter", AFFIDAVIT_ECI_FILTER_URL),
+        ("Affidavit reference browser used for candidate links", "வேட்பாளர் இணைப்புகளுக்கு பயன்படுத்தப்பட்ட affidavit reference browser", AFFIDAVIT_BROWSER_URL),
+    ]
+    sources_html = "".join(
+        f'<article class="card"><h3>{bi_text(title_en, title_ta)}</h3><p class="small"><a href="{html.escape(url)}">{html.escape(url)}</a></p></article>'
+        for title_en, title_ta, url in source_links
+    )
     body = f"""
     <section class="hero">
       <h1>{bi_text('Download the data', 'தரவுகளைப் பதிவிறக்குங்கள்')}</h1>
       <p>{bi_text('Use these files for reporting, volunteer outreach, newsroom analysis, and public verification.', 'செய்தி வெளியீடு, தன்னார்வ குழுக்கள், தரவு பகுப்பாய்வு மற்றும் பொதுச் சரிபார்ப்புக்கு இந்தக் கோப்புகளைப் பயன்படுத்துங்கள்.')}</p>
     </section>
-    <div class="notice">{bi_text('Official roster count found: ' + str(validation['official_candidate_rows']) + '. Validation target: 4,023 candidates.', 'அதிகாரப்பூர்வ பட்டியல் எண்ணிக்கை: ' + str(validation['official_candidate_rows']) + '. சரிபார்ப்பு இலக்கு: 4,023 வேட்பாளர்கள்.')}</div>
+    <div class="notice">{bi_text('Roster row count found: ' + str(validation['official_candidate_rows']) + '. Validation target: 4,023 candidates.', 'பட்டியல் வரிசை எண்ணிக்கை: ' + str(validation['official_candidate_rows']) + '. சரிபார்ப்பு இலக்கு: 4,023 வேட்பாளர்கள்.')}</div>
     <section class="link-list">{links}</section>
+    <div class="section-title"><h2>{bi_text('Source reference pages', 'மூல குறிப்பு பக்கங்கள்')}</h2></div>
+    <section class="cards">{sources_html}</section>
     """
     downloads_dir = SITE_DIR / "downloads"
     downloads_dir.mkdir(parents=True, exist_ok=True)
@@ -2360,7 +2379,7 @@ def render_share_assets(summaries: list[dict[str, Any]], full_rows: list[dict[st
         lines=[
             "1. Open the candidate page",
             "2. Check the affidavit link when available",
-            "3. Confirm constituency and party on the official district source",
+            "3. Confirm constituency and party on the publicly available Form 7A source",
             "4. Use downloads for newsroom or volunteer review",
         ],
         accent="#1d4ed8",

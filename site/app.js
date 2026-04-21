@@ -12,6 +12,104 @@ function toggleLanguage() {
   }
 })();
 
+const PUBLIC_COPY_REPLACEMENTS = [
+  ["Official roster + voter context", "Roster + voter context"],
+  ["அதிகாரப்பூர்வ பட்டியல் + வாக்காளர் தகவல்", "பட்டியல் + வாக்காளர் தகவல்"],
+  ["Official 2026 candidate rows", "2026 candidate rows"],
+  ["2026 அதிகாரப்பூர்வ வேட்பாளர் வரிகள்", "2026 வேட்பாளர் வரிகள்"],
+  ["Official count check vs 4,023", "Row count check vs 4,023"],
+  ["4,023 எண்ணிக்கையுடன் சரிபார்ப்பு", "4,023 எண்ணிக்கையுடன் வரிசை சரிபார்ப்பு"],
+  ["Each candidate page shows official roster data, affidavit links, and matched public facts where available.", "Each candidate page shows roster data sourced from public pages, affidavit links, and matched public facts where available."],
+  ["ஒவ்வொரு வேட்பாளர் பக்கமும் அதிகாரப்பூர்வ பட்டியல் தகவல்கள், affidavit இணைப்புகள் மற்றும் கிடைக்கும் பொது தரவு பொருத்தங்களை காட்டுகிறது.", "ஒவ்வொரு வேட்பாளர் பக்கமும் பொதுவாகக் கிடைக்கும் பக்கங்களில் இருந்து பெறப்பட்ட பட்டியல் தகவல்கள், affidavit இணைப்புகள் மற்றும் கிடைக்கும் பொது தரவு பொருத்தங்களை காட்டுகிறது."],
+  ["Each candidate page shows official roster data and matched public facts where available.", "Each candidate page shows roster data sourced from public pages and matched public facts where available."],
+  ["ஒவ்வொரு வேட்பாளர் பக்கமும் அதிகாரப்பூர்வ பட்டியல் தகவல்களையும் பொருந்திய பொதுத் தரவுகளையும் காட்டுகிறது.", "ஒவ்வொரு வேட்பாளர் பக்கமும் பொதுவாகக் கிடைக்கும் பக்கங்களில் இருந்து பெறப்பட்ட பட்டியல் தகவல்களையும் பொருந்திய பொதுத் தரவுகளையும் காட்டுகிறது."],
+  ["Official 2026 roster with 2021 result context and 2026 voter roll stats where available.", "2026 roster sourced from public pages, with 2021 result context and 2026 voter roll stats where available."],
+  ["அதிகாரப்பூர்வ 2026 பட்டியல், 2021 முடிவு பின்னணி மற்றும் கிடைக்கும் 2026 வாக்காளர் விவரங்களுடன்.", "பொதுவாகக் கிடைக்கும் பக்கங்களில் இருந்து பெறப்பட்ட 2026 பட்டியல், 2021 முடிவு பின்னணி மற்றும் கிடைக்கும் 2026 வாக்காளர் விவரங்களுடன்."],
+  ["Official roster facts", "Roster facts from public pages"],
+  ["அதிகாரப்பூர்வ பட்டியல் தகவல்கள்", "பொது பக்கங்களில் இருந்து பெறப்பட்ட பட்டியல் தகவல்கள்"],
+  ["Official roster count found:", "Roster row count found:"],
+  ["அதிகாரப்பூர்வ பட்டியல் எண்ணிக்கை:", "பட்டியல் வரிசை எண்ணிக்கை:"],
+  ["Latest official PDF parsing is blocked from this environment", "Latest PDF parsing is blocked from this environment"],
+  ["அதிகாரப்பூர்வ PDF பதிவிறக்கம் இங்கிருந்த சூழலில் தடுக்கப்பட்டதால்", "PDF பதிவிறக்கம் இங்கிருந்த சூழலில் தடுக்கப்பட்டதால்"],
+  ["Confirm constituency and party on the official district source", "Confirm constituency and party on the publicly available Form 7A source"],
+];
+
+const DOWNLOAD_SOURCE_LINKS = [
+  {
+    titleEn: "Tamil Nadu Form 7A constituency list",
+    titleTa: "தமிழ்நாடு Form 7A தொகுதி பட்டியல்",
+    url: "https://erolls.tn.gov.in/acwithcandidate_tnla2026/AC_List.aspx",
+  },
+  {
+    titleEn: "Tamil Nadu Form 7A candidate page",
+    titleTa: "தமிழ்நாடு Form 7A வேட்பாளர் பக்கம்",
+    url: "https://erolls.tn.gov.in/acwithcandidate_tnla2026/Form7A.aspx",
+  },
+  {
+    titleEn: "ECI affidavit candidate filter",
+    titleTa: "ECI affidavit candidate filter",
+    url: "https://affidavit.eci.gov.in/CandidateCustomFilter",
+  },
+  {
+    titleEn: "Affidavit reference browser used for candidate links",
+    titleTa: "வேட்பாளர் இணைப்புகளுக்கு பயன்படுத்தப்பட்ட affidavit reference browser",
+    url: "https://voterlist.co.in/affidavit/",
+  },
+];
+
+function replacePublicCopy(root) {
+  if (!root) return;
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode(node) {
+      const parentTag = node.parentElement?.tagName;
+      if (!node.nodeValue?.trim()) return NodeFilter.FILTER_REJECT;
+      if (parentTag === "SCRIPT" || parentTag === "STYLE") return NodeFilter.FILTER_REJECT;
+      return NodeFilter.FILTER_ACCEPT;
+    },
+  });
+  let current = walker.nextNode();
+  while (current) {
+    let nextValue = current.nodeValue;
+    for (const [before, after] of PUBLIC_COPY_REPLACEMENTS) {
+      if (nextValue.includes(before)) {
+        nextValue = nextValue.split(before).join(after);
+      }
+    }
+    if (nextValue !== current.nodeValue) {
+      current.nodeValue = nextValue;
+    }
+    current = walker.nextNode();
+  }
+}
+
+function injectDownloadSources() {
+  if (!window.location.pathname.includes("/downloads/")) return;
+  if (document.querySelector("[data-source-reference-pages]")) return;
+  const linkList = document.querySelector(".link-list");
+  if (!linkList || !linkList.parentElement) return;
+  const title = document.createElement("div");
+  title.className = "section-title";
+  title.dataset.sourceReferencePages = "true";
+  title.innerHTML = '<h2><span class="lang-en">Source reference pages</span><span class="lang-ta">மூல குறிப்பு பக்கங்கள்</span></h2>';
+  const section = document.createElement("section");
+  section.className = "cards";
+  section.dataset.sourceReferencePages = "true";
+  section.innerHTML = DOWNLOAD_SOURCE_LINKS.map((item) => (
+    `<article class="card"><h3><span class="lang-en">${item.titleEn}</span><span class="lang-ta">${item.titleTa}</span></h3><p class="small"><a href="${item.url}">${item.url}</a></p></article>`
+  )).join("");
+  linkList.insertAdjacentElement("afterend", section);
+  linkList.insertAdjacentElement("afterend", title);
+}
+
+function applyPublicPageEnhancements() {
+  if (document.body?.dataset.publicPageEnhancements === "done") return;
+  replacePublicCopy(document.body);
+  injectDownloadSources();
+  if (document.body) {
+    document.body.dataset.publicPageEnhancements = "done";
+  }
+}
+
 async function loadJson(path) {
   const response = await fetch(path);
   return response.json();
@@ -385,7 +483,11 @@ function autoInitRosterPages() {
 }
 
 if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", autoInitRosterPages, { once: true });
+  document.addEventListener("DOMContentLoaded", () => {
+    applyPublicPageEnhancements();
+    autoInitRosterPages();
+  }, { once: true });
 } else {
+  applyPublicPageEnhancements();
   autoInitRosterPages();
 }
