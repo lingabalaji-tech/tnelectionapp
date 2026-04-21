@@ -1368,57 +1368,179 @@ function xmlEscape(value) {{
 }}
 
 async function buildSnapshotBlob(target, options) {{
-  const clone = target.cloneNode(true);
-  clone.classList.add("share-capture");
-  clone.querySelectorAll(".roster-toolbar, .roster-feedback").forEach((node) => node.remove());
-  const sandbox = document.createElement("div");
-  sandbox.style.position = "fixed";
-  sandbox.style.left = "-10000px";
-  sandbox.style.top = "0";
-  sandbox.style.width = "1200px";
-  sandbox.style.pointerEvents = "none";
-  sandbox.style.zIndex = "-1";
-  sandbox.appendChild(clone);
-  document.body.appendChild(sandbox);
-  const width = Math.max(960, Math.min(1200, clone.scrollWidth || 1200));
-  sandbox.style.width = width + "px";
-  const height = Math.max(720, clone.scrollHeight + 32);
-  const stylesText = await loadStylesheetText(options.relativePrefix || "");
-  const markup = `
-    <div xmlns="http://www.w3.org/1999/xhtml" style="padding:16px;background:#f5efe3;width:${{width}}px;">
-      <style>${{xmlEscape(stylesText)}}</style>
-      <style>.topbar,.lang-toggle,.roster-feedback,.roster-toolbar{{display:none !important;}} main.wrap{{width:auto !important;margin:0 !important;}}</style>
-      ${{clone.outerHTML}}
-    </div>
-  `;
-  document.body.removeChild(sandbox);
-  const svg = `
-    <svg xmlns="http://www.w3.org/2000/svg" width="${{width}}" height="${{height}}" viewBox="0 0 ${{width}} ${{height}}">
-      <foreignObject width="100%" height="100%">${{markup}}</foreignObject>
-    </svg>
-  `;
-  const svgBlob = new Blob([svg], {{ type: "image/svg+xml;charset=utf-8" }});
-  const url = URL.createObjectURL(svgBlob);
-  try {{
-    const image = await new Promise((resolve, reject) => {{
-      const img = new Image();
-      img.onload = () => resolve(img);
-      img.onerror = reject;
-      img.src = url;
+  const summaryCards = Array.from(target.querySelectorAll(".meta .card")).map((card) => {{
+    const label = (card.querySelector(".meta-label .lang-en") || card.querySelector(".meta-label"))?.textContent?.trim() || "";
+    const value = (card.querySelector(".meta-value")?.textContent || "").trim();
+    return {{ label, value }};
+  }}).filter((card) => card.label || card.value).slice(0, 4);
+  const rows = Array.isArray(options.rows) ? options.rows : [];
+  const title = options.snapshotTitle || (options.constituencyName ? `${{options.constituencyName}} (${{options.constituencyNo || ""}})` : "Candidate roster");
+  const subtitle = [options.district, `${{rows.length}} visible candidates`].filter(Boolean).join(" • ");
+  const topPartyText = target.querySelector(".notice .lang-en")?.textContent?.trim() || target.querySelector(".notice")?.textContent?.trim() || "";
+  const columnDefs = [
+    {{ key: "candidate_name", label: "Candidate", width: 280 }},
+    {{ key: "party_name", label: "Party", width: 250 }},
+    {{ key: "gender", label: "Gender", width: 100 }},
+    {{ key: "age", label: "Age", width: 80 }},
+    {{ key: "assets", label: "Assets", width: 180 }},
+    {{ key: "cases_flag", label: "Cases", width: 90 }},
+  ];
+  const width = 1180;
+  const padding = 36;
+  const innerWidth = width - (padding * 2);
+  const contentFont = "16px Arial, sans-serif";
+  const smallFont = "13px Arial, sans-serif";
+  const labelFont = "600 13px Arial, sans-serif";
+  const titleFont = "700 34px Arial, sans-serif";
+  const subtitleFont = "16px Arial, sans-serif";
+  const rowLineHeight = 22;
+  const rowVerticalPadding = 12;
+  const cardGap = 14;
+  const canvas = document.createElement("canvas");
+  const ctx = canvas.getContext("2d");
+
+  function wrapText(text, maxWidth, font) {{
+    const safeText = String(text || "—").replace(/\\s+/g, " ").trim() || "—";
+    ctx.font = font;
+    const words = safeText.split(" ");
+    const lines = [];
+    let current = "";
+    words.forEach((word) => {{
+      const next = current ? `${{current}} ${{word}}` : word;
+      if (ctx.measureText(next).width <= maxWidth || !current) {{
+        current = next;
+      }} else {{
+        lines.push(current);
+        current = word;
+      }}
     }});
-    const canvas = document.createElement("canvas");
-    canvas.width = width;
-    canvas.height = height;
-    const ctx = canvas.getContext("2d");
-    ctx.fillStyle = "#f5efe3";
-    ctx.fillRect(0, 0, width, height);
-    ctx.drawImage(image, 0, 0);
-    return await new Promise((resolve, reject) => {{
-      canvas.toBlob((blob) => blob ? resolve(blob) : reject(new Error("PNG generation failed")), "image/png");
-    }});
-  }} finally {{
-    URL.revokeObjectURL(url);
+    if (current) lines.push(current);
+    return lines.length ? lines : ["—"];
   }}
+
+  const preparedRows = rows.map((row) => {{
+    const cells = columnDefs.map((column) => wrapText(row[column.key] || "—", column.width - 18, contentFont));
+    const lineCount = Math.max(...cells.map((lines) => lines.length), 1);
+    const rowHeight = (lineCount * rowLineHeight) + (rowVerticalPadding * 2);
+    return {{ row, cells, rowHeight }};
+  }});
+
+  const summaryCardWidth = Math.floor((innerWidth - cardGap) / 2);
+  const summaryCardHeight = 74;
+  const summaryRows = summaryCards.length ? Math.ceil(summaryCards.length / 2) : 0;
+  const summaryHeight = summaryRows ? (summaryRows * summaryCardHeight) + ((summaryRows - 1) * cardGap) : 0;
+  const topPartyLines = topPartyText ? wrapText(topPartyText, innerWidth - 28, smallFont) : [];
+  const topPartyHeight = topPartyLines.length ? 30 + (topPartyLines.length * 18) : 0;
+  const tableHeaderHeight = 44;
+  const tableHeight = preparedRows.reduce((total, item) => total + item.rowHeight, 0);
+  const height = padding + 54 + 28 + (subtitle ? 26 : 0) + (summaryHeight ? summaryHeight + 24 : 0) + (topPartyHeight ? topPartyHeight + 20 : 0) + tableHeaderHeight + tableHeight + 36;
+  const scale = Math.min(window.devicePixelRatio || 1, 2);
+  canvas.width = Math.ceil(width * scale);
+  canvas.height = Math.ceil(height * scale);
+  ctx.scale(scale, scale);
+  ctx.fillStyle = "#f5efe3";
+  ctx.fillRect(0, 0, width, height);
+  ctx.fillStyle = "#fffaf1";
+  ctx.strokeStyle = "#e7d7c2";
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.roundRect(20, 20, width - 40, height - 40, 24);
+  ctx.fill();
+  ctx.stroke();
+  ctx.fillStyle = "#9a3412";
+  ctx.fillRect(32, 32, width - 64, 10);
+
+  let cursorY = padding + 10;
+  ctx.fillStyle = "#9a3412";
+  ctx.font = titleFont;
+  ctx.fillText(title, padding, cursorY + 24);
+  cursorY += 48;
+  if (subtitle) {{
+    ctx.fillStyle = "#475569";
+    ctx.font = subtitleFont;
+    ctx.fillText(subtitle, padding, cursorY);
+    cursorY += 28;
+  }}
+
+  if (summaryHeight) {{
+    summaryCards.forEach((card, index) => {{
+      const column = index % 2;
+      const rowIndex = Math.floor(index / 2);
+      const x = padding + (column * (summaryCardWidth + cardGap));
+      const y = cursorY + (rowIndex * (summaryCardHeight + cardGap));
+      ctx.fillStyle = "#ffffff";
+      ctx.strokeStyle = "#e7d7c2";
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.roundRect(x, y, summaryCardWidth, summaryCardHeight, 18);
+      ctx.fill();
+      ctx.stroke();
+      ctx.fillStyle = "#64748b";
+      ctx.font = labelFont;
+      ctx.fillText(card.label || "Summary", x + 18, y + 26);
+      ctx.fillStyle = "#1f2933";
+      ctx.font = "700 20px Arial, sans-serif";
+      ctx.fillText(card.value || "—", x + 18, y + 54);
+    }});
+    cursorY += summaryHeight + 24;
+  }}
+
+  if (topPartyHeight) {{
+    ctx.fillStyle = "#fff7ed";
+    ctx.strokeStyle = "#fdba74";
+    ctx.beginPath();
+    ctx.roundRect(padding, cursorY, innerWidth, topPartyHeight, 18);
+    ctx.fill();
+    ctx.stroke();
+    ctx.fillStyle = "#9a3412";
+    ctx.font = labelFont;
+    ctx.fillText("Top parties", padding + 16, cursorY + 22);
+    ctx.fillStyle = "#7c2d12";
+    ctx.font = smallFont;
+    topPartyLines.forEach((line, lineIndex) => {{
+      ctx.fillText(line, padding + 16, cursorY + 44 + (lineIndex * 18));
+    }});
+    cursorY += topPartyHeight + 20;
+  }}
+
+  let currentX = padding;
+  ctx.fillStyle = "#f1f5f9";
+  ctx.strokeStyle = "#d7dde5";
+  ctx.beginPath();
+  ctx.roundRect(padding, cursorY, innerWidth, tableHeaderHeight, 14);
+  ctx.fill();
+  ctx.stroke();
+  ctx.fillStyle = "#334155";
+  ctx.font = labelFont;
+  columnDefs.forEach((column) => {{
+    ctx.fillText(column.label, currentX + 10, cursorY + 27);
+    currentX += column.width;
+  }});
+  cursorY += tableHeaderHeight;
+
+  preparedRows.forEach((item, rowIndex) => {{
+    ctx.fillStyle = rowIndex % 2 === 0 ? "#fffaf1" : "#ffffff";
+    ctx.fillRect(padding, cursorY, innerWidth, item.rowHeight);
+    ctx.strokeStyle = "#e7d7c2";
+    ctx.beginPath();
+    ctx.moveTo(padding, cursorY + item.rowHeight);
+    ctx.lineTo(padding + innerWidth, cursorY + item.rowHeight);
+    ctx.stroke();
+    let cellX = padding;
+    item.cells.forEach((lines, columnIndex) => {{
+      ctx.fillStyle = "#1f2933";
+      ctx.font = contentFont;
+      lines.forEach((line, lineIndex) => {{
+        ctx.fillText(line, cellX + 10, cursorY + rowVerticalPadding + 16 + (lineIndex * rowLineHeight));
+      }});
+      cellX += columnDefs[columnIndex].width;
+    }});
+    cursorY += item.rowHeight;
+  }});
+
+  return await new Promise((resolve, reject) => {{
+    canvas.toBlob((blob) => blob ? resolve(blob) : reject(new Error("PNG generation failed")), "image/png");
+  }});
 }}
 
 function setRosterFeedback(element, html, isError) {{
@@ -1497,7 +1619,14 @@ window.initConstituencyRosterPage = function initConstituencyRosterPage(config) 
     }}
     try {{
       setRosterFeedback(feedback, config.messages.sharePreparing, false);
-      const blob = await buildSnapshotBlob(shareRoot, {{ relativePrefix: config.relativePrefix }});
+      const blob = await buildSnapshotBlob(shareRoot, {{
+        relativePrefix: config.relativePrefix,
+        snapshotTitle: config.shareTitle,
+        constituencyName: config.constituencyName,
+        constituencyNo: config.constituencyNo,
+        district: config.district,
+        rows: visibleRows().map(rowPayload),
+      }});
       const file = new File([blob], config.imageFilename, {{ type: "image/png" }});
       if (navigator.share && navigator.canShare && navigator.canShare({{ files: [file] }})) {{
         await navigator.share({{
