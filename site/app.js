@@ -1,4 +1,4 @@
-window.SITE_META = {"generated_on": "2026-04-20 17:14 UTC", "relativePrefix": "../"};
+window.SITE_META = {"generated_on": "2026-04-20 17:47 UTC", "relativePrefix": "../"};
 function toggleLanguage() {
   const current = document.body.dataset.lang === "ta" ? "ta" : "en";
   const next = current === "en" ? "ta" : "en";
@@ -44,8 +44,20 @@ function downloadBlob(filename, blob) {
 }
 
 async function loadStylesheetText(relativePrefix) {
-  const response = await fetch((relativePrefix || "") + "styles.css");
-  return response.text();
+  const fromDom = Array.from(document.styleSheets || []).map((sheet) => {
+    try {
+      return Array.from(sheet.cssRules || []).map((rule) => rule.cssText).join("\n");
+    } catch (error) {
+      return "";
+    }
+  }).filter(Boolean).join("\n");
+  if (fromDom) return fromDom;
+  try {
+    const response = await fetch((relativePrefix || "") + "styles.css");
+    return await response.text();
+  } catch (error) {
+    return "";
+  }
 }
 
 function xmlEscape(value) {
@@ -124,6 +136,7 @@ window.initConstituencyRosterPage = function initConstituencyRosterPage(config) 
   const feedback = document.getElementById(config.feedbackId);
   const shareRoot = document.getElementById(config.shareRootId);
   const rows = Array.from(document.querySelectorAll(config.rowSelector));
+  if (shareRoot && shareRoot.dataset.rosterInit === "done") return;
 
   const visibleRows = () => rows.filter((row) => row.style.display !== "none");
   const rowPayload = (row) => ({
@@ -209,4 +222,25 @@ window.initConstituencyRosterPage = function initConstituencyRosterPage(config) 
   exportButton?.addEventListener("click", handleCsvExport);
   shareButton?.addEventListener("click", handleShare);
   updateActionState();
+  if (shareRoot) shareRoot.dataset.rosterInit = "done";
 };
+
+function autoInitRosterPages() {
+  const configNodes = Array.from(document.querySelectorAll('script[type="application/json"][id^="roster-config-"]'));
+  configNodes.forEach((configNode) => {
+    try {
+      const config = JSON.parse(configNode.textContent || "{}");
+      if (config && typeof window.initConstituencyRosterPage === "function") {
+        window.initConstituencyRosterPage(config);
+      }
+    } catch (error) {
+      console.error("Unable to initialize roster page", error);
+    }
+  });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", autoInitRosterPages, { once: true });
+} else {
+  autoInitRosterPages();
+}

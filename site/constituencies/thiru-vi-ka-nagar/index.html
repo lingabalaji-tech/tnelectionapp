@@ -467,32 +467,14 @@
           </div>
           <div id="roster-feedback-15" class="roster-feedback" aria-live="polite"></div>
         </div>
-        <p class="footer-note"><span class="lang-en">Source dated 2026-04-19</span><span class="lang-ta">மூல தேதி 2026-04-19</span><br><span class="lang-en">Assets, education, liabilities, and cases remain partial until local 2026 affidavit PDFs are parsed.</span><span class="lang-ta">2026 affidavit PDF-களை உள்ளூரில் parse செய்யும் வரை சொத்து, கல்வி, கடன், வழக்கு தகவல்கள் பகுதியளவிலேயே இருக்கும்.</span></p>
+        <p class="footer-note"><span class="lang-en">Source dated 2026-04-20</span><span class="lang-ta">மூல தேதி 2026-04-20</span><br><span class="lang-en">Assets, education, liabilities, and cases remain partial until local 2026 affidavit PDFs are parsed.</span><span class="lang-ta">2026 affidavit PDF-களை உள்ளூரில் parse செய்யும் வரை சொத்து, கல்வி, கடன், வழக்கு தகவல்கள் பகுதியளவிலேயே இருக்கும்.</span></p>
+        <script type="application/json" id="roster-config-15">{"searchInputId": "candidate-search-15", "exportButtonId": "export-csv-15", "shareButtonId": "share-whatsapp-15", "feedbackId": "roster-feedback-15", "shareRootId": "roster-share-root-15", "rowSelector": ".candidate-row", "relativePrefix": "../../", "constituencyName": "Thiru-Vi-Ka-Nagar", "constituencyNo": 15, "district": "Chennai", "csvFilename": "tn2026-thiru-vi-ka-nagar-filtered-roster.csv", "imageFilename": "tn2026-thiru-vi-ka-nagar-filtered-roster.png", "shareTitle": "Thiru-Vi-Ka-Nagar constituency roster", "shareText": "Visible candidate roster for Thiru-Vi-Ka-Nagar (15)", "messages": {"noRows": "<span class=\"lang-en\">No visible rows to export or share.</span><span class=\"lang-ta\">ஏற்றுமதி செய்ய அல்லது பகிர காட்சிப்படுத்தப்பட்ட வரிகள் இல்லை.</span>", "csvReady": "<span class=\"lang-en\">CSV downloaded for the visible roster rows.</span><span class=\"lang-ta\">காட்சிப்படுத்தப்பட்ட roster வரிகளுக்கான CSV பதிவிறக்கப்பட்டது.</span>", "sharePreparing": "<span class=\"lang-en\">Preparing snapshot image…</span><span class=\"lang-ta\">படப் snapshot தயாராகிறது…</span>", "shareDone": "<span class=\"lang-en\">Share sheet opened. Choose WhatsApp to send the image.</span><span class=\"lang-ta\">பகிர்வு சாளரம் திறந்தது. படத்தை அனுப்ப WhatsApp-ஐ தேர்வுசெய்யவும்.</span>", "shareFallback": "<span class=\"lang-en\">Image downloaded. Share it in WhatsApp from your device.</span><span class=\"lang-ta\">படம் பதிவிறக்கப்பட்டது. உங்கள் சாதனத்திலிருந்து அதை WhatsApp-ல் பகிரலாம்.</span>", "shareError": "<span class=\"lang-en\">Unable to prepare the share image right now.</span><span class=\"lang-ta\">இப்போது பகிர்வு படத்தை தயாரிக்க முடியவில்லை.</span>"}}</script>
         <script>
-          window.initConstituencyRosterPage({
-            searchInputId: "candidate-search-15",
-            exportButtonId: "export-csv-15",
-            shareButtonId: "share-whatsapp-15",
-            feedbackId: "roster-feedback-15",
-            shareRootId: "roster-share-root-15",
-            rowSelector: ".candidate-row",
-            relativePrefix: "../../",
-            constituencyName: "Thiru-Vi-Ka-Nagar",
-            constituencyNo: 15,
-            district: "Chennai",
-            csvFilename: "tn2026-thiru-vi-ka-nagar-filtered-roster.csv",
-            imageFilename: "tn2026-thiru-vi-ka-nagar-filtered-roster.png",
-            shareTitle: "Thiru-Vi-Ka-Nagar constituency roster",
-            shareText: "Visible candidate roster for Thiru-Vi-Ka-Nagar (15)",
-            messages: {
-              noRows: "<span class=\"lang-en\">No visible rows to export or share.</span><span class=\"lang-ta\">ஏற்றுமதி செய்ய அல்லது பகிர காட்சிப்படுத்தப்பட்ட வரிகள் இல்லை.</span>",
-              csvReady: "<span class=\"lang-en\">CSV downloaded for the visible roster rows.</span><span class=\"lang-ta\">காட்சிப்படுத்தப்பட்ட roster வரிகளுக்கான CSV பதிவிறக்கப்பட்டது.</span>",
-              sharePreparing: "<span class=\"lang-en\">Preparing snapshot image…</span><span class=\"lang-ta\">படப் snapshot தயாராகிறது…</span>",
-              shareDone: "<span class=\"lang-en\">Share sheet opened. Choose WhatsApp to send the image.</span><span class=\"lang-ta\">பகிர்வு சாளரம் திறந்தது. படத்தை அனுப்ப WhatsApp-ஐ தேர்வுசெய்யவும்.</span>",
-              shareFallback: "<span class=\"lang-en\">Image downloaded. Share it in WhatsApp from your device.</span><span class=\"lang-ta\">படம் பதிவிறக்கப்பட்டது. உங்கள் சாதனத்திலிருந்து அதை WhatsApp-ல் பகிரலாம்.</span>",
-              shareError: "<span class=\"lang-en\">Unable to prepare the share image right now.</span><span class=\"lang-ta\">இப்போது பகிர்வு படத்தை தயாரிக்க முடியவில்லை.</span>"
-            }
-          });
+          document.addEventListener("DOMContentLoaded", function () {
+            const configNode = document.getElementById("roster-config-15");
+            if (!configNode || typeof window.initConstituencyRosterPage !== "function") return;
+            window.initConstituencyRosterPage(JSON.parse(configNode.textContent));
+          }, { once: true });
         </script>
         
   </main>

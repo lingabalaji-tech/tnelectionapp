@@ -23,12 +23,16 @@ ROOT = Path(__file__).resolve().parent
 RAW_OFFICIAL_DIR = ROOT / "data" / "raw_official"
 RAW_PUBLIC_DIR = ROOT / "data" / "raw_public"
 PROCESSED_DIR = ROOT / "data" / "processed"
+RAW_AFFIDAVIT_PDF_DIR = ROOT / "data" / "affidavit_pdfs" / "raw"
+AFFIDAVIT_IMAGE_CACHE_DIR = ROOT / "data" / "affidavit_pdfs" / "images"
 SITE_DIR = ROOT / "site"
 SITE_DATA_DIR = SITE_DIR / "data"
 SITE_DOWNLOADS_DIR = SITE_DIR / "downloads"
 SITE_SHARE_DIR = SITE_DIR / "share"
 OUTPUTS_DIR = ROOT / "outputs"
 RAW_AFFIDAVIT_DIR = ROOT / "data" / "raw_affidavit"
+AFFIDAVIT_PDF_MANIFEST = PROCESSED_DIR / "affidavit_pdf_manifest.json"
+AFFIDAVIT_PDF_ENRICHMENT = PROCESSED_DIR / "affidavit_pdf_enrichment.json"
 
 SUPABASE_BASE = "https://ljbewpsksaetftwuaqaz.supabase.co/rest/v1"
 FORM7A_LIST_URL = "https://erolls.tn.gov.in/acwithcandidate_tnla2026/AC_List.aspx"
@@ -199,6 +203,8 @@ def ensure_dirs() -> None:
         RAW_PUBLIC_DIR,
         PROCESSED_DIR,
         RAW_AFFIDAVIT_DIR,
+        RAW_AFFIDAVIT_PDF_DIR,
+        AFFIDAVIT_IMAGE_CACHE_DIR,
         SITE_DIR,
         SITE_DATA_DIR,
         SITE_DOWNLOADS_DIR,
@@ -212,6 +218,25 @@ def ensure_dirs() -> None:
 
 def log(message: str) -> None:
     print(message, flush=True)
+
+
+def load_local_affidavit_pdf_enrichment() -> dict[str, Any]:
+    if not AFFIDAVIT_PDF_ENRICHMENT.exists():
+        return {"by_candidate_uid": {}, "by_reference_url": {}}
+    payload = json.loads(AFFIDAVIT_PDF_ENRICHMENT.read_text(encoding="utf-8"))
+    rows = payload.get("rows", []) if isinstance(payload, dict) else payload
+    by_candidate_uid: dict[str, dict[str, Any]] = {}
+    by_reference_url: dict[str, dict[str, Any]] = {}
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        candidate_uid = str(row.get("candidate_uid") or "").strip()
+        reference_url = str(row.get("candidate_reference_url") or "").strip()
+        if candidate_uid:
+            by_candidate_uid[candidate_uid] = row
+        if reference_url:
+            by_reference_url[reference_url] = row
+    return {"by_candidate_uid": by_candidate_uid, "by_reference_url": by_reference_url}
 
 
 def slugify(text: str) -> str:
@@ -865,6 +890,7 @@ def match_and_enrich(
     official_rows: list[dict[str, Any]],
     public_context: dict[str, list[dict[str, Any]]],
     affidavit_context: dict[str, Any] | None = None,
+    local_pdf_context: dict[str, Any] | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     constituency_by_id = {row["id"]: row for row in public_context["constituencies"]}
     constituency_by_name = {normalize_text(row.get("name")): row for row in public_context["constituencies"]}
@@ -888,6 +914,8 @@ def match_and_enrich(
     affidavit_by_constituency: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for candidate in affidavit_candidates:
         affidavit_by_constituency[normalize_text(candidate.get("mirror_constituency"))].append(candidate)
+    local_pdf_by_candidate_uid = (local_pdf_context or {}).get("by_candidate_uid", {})
+    local_pdf_by_reference_url = (local_pdf_context or {}).get("by_reference_url", {})
 
     enrichment_rows: list[dict[str, Any]] = []
     enriched_master: list[dict[str, Any]] = []
@@ -929,19 +957,27 @@ def match_and_enrich(
         )
         affidavit_match, affidavit_match_method = choose_affidavit_candidate(row, affidavit_candidates_for_constituency)
         affidavit_reference_url = resolve_mirror_reference_url(affidavit_match) if affidavit_match else ""
+        candidate_reference_url = affidavit_reference_url or (matched.get("affidavit_url") if matched else "")
+        local_pdf = (
+            local_pdf_by_candidate_uid.get(str(row["candidate_uid"]))
+            or local_pdf_by_reference_url.get(candidate_reference_url)
+            or {}
+        )
 
         age_value = affidavit_match.get("age") if affidavit_match and affidavit_match.get("age") else matched.get("age") if matched else ""
         gender_value = affidavit_match.get("gender") if affidavit_match and affidavit_match.get("gender") else row.get("gender", "")
-        education_value = matched.get("education") if matched else ""
-        assets_value = matched.get("net_worth") if matched else ""
-        liabilities_value = matched.get("liabilities") if matched else ""
-        criminal_cases_value = matched.get("criminal_cases_declared") if matched else ""
+        education_value = local_pdf.get("education") if local_pdf.get("education") not in ("", None) else matched.get("education") if matched else ""
+        assets_value = local_pdf.get("declared_assets") if local_pdf.get("declared_assets") not in ("", None) else matched.get("net_worth") if matched else ""
+        liabilities_value = local_pdf.get("liabilities") if local_pdf.get("liabilities") not in ("", None) else matched.get("liabilities") if matched else ""
+        criminal_cases_value = local_pdf.get("criminal_cases_declared") if local_pdf.get("criminal_cases_declared") not in ("", None) else matched.get("criminal_cases_declared") if matched else ""
         criminal_cases_flag = ""
         if criminal_cases_value not in ("", None):
             try:
                 criminal_cases_flag = "Y" if float(criminal_cases_value) > 0 else "N"
             except (TypeError, ValueError):
                 criminal_cases_flag = "Y" if str(criminal_cases_value).strip() else ""
+        if local_pdf.get("criminal_cases_flag") in {"Y", "N"}:
+            criminal_cases_flag = local_pdf["criminal_cases_flag"]
 
         enrichment = {
             "candidate_uid": row["candidate_uid"],
@@ -955,21 +991,21 @@ def match_and_enrich(
             "gender": gender_value,
             "gender_source": "2026 affidavit mirror" if affidavit_match and affidavit_match.get("gender") else "",
             "education": education_value,
-            "education_source": "2021 public match" if education_value not in ("", None) else "",
+            "education_source": "2026 local affidavit PDF" if local_pdf.get("education") not in ("", None) else "2021 public match" if education_value not in ("", None) else "",
             "declared_assets": assets_value,
-            "declared_assets_source": "2021 public match" if assets_value not in ("", None) else "",
-            "assets_movable": matched.get("assets_movable") if matched else "",
-            "assets_immovable": matched.get("assets_immovable") if matched else "",
+            "declared_assets_source": "2026 local affidavit PDF" if local_pdf.get("declared_assets") not in ("", None) else "2021 public match" if assets_value not in ("", None) else "",
+            "assets_movable": local_pdf.get("assets_movable") if local_pdf.get("assets_movable") not in ("", None) else matched.get("assets_movable") if matched else "",
+            "assets_immovable": local_pdf.get("assets_immovable") if local_pdf.get("assets_immovable") not in ("", None) else matched.get("assets_immovable") if matched else "",
             "liabilities": liabilities_value,
-            "liabilities_source": "2021 public match" if liabilities_value not in ("", None) else "",
+            "liabilities_source": "2026 local affidavit PDF" if local_pdf.get("liabilities") not in ("", None) else "2021 public match" if liabilities_value not in ("", None) else "",
             "criminal_cases_declared": criminal_cases_value,
             "criminal_cases_flag": criminal_cases_flag,
-            "criminal_cases_source": "2021 public match" if criminal_cases_value not in ("", None) else "",
+            "criminal_cases_source": "2026 local affidavit PDF" if (local_pdf.get("criminal_cases_declared") not in ("", None) or local_pdf.get("criminal_cases_flag") in {"Y", "N"}) else "2021 public match" if criminal_cases_value not in ("", None) else "",
             "affidavit_url": matched.get("affidavit_url") if matched else "",
             "affidavit_reference_url": affidavit_reference_url,
-            "candidate_reference_url": affidavit_reference_url or (matched.get("affidavit_url") if matched else ""),
+            "candidate_reference_url": candidate_reference_url,
             "affidavit_reference_source": "voterlist.co.in mirror of affidavit.eci.gov.in" if affidavit_reference_url else "",
-            "affidavit_parse_status": "reference_link_available_pdf_blocked" if affidavit_reference_url else "not_available",
+            "affidavit_parse_status": local_pdf.get("parse_status") or ("reference_link_available_pdf_blocked" if affidavit_reference_url else "not_available"),
             "votes_2021": matched.get("votes_received") if matched else "",
             "vote_share_2021": matched.get("vote_share") if matched else "",
             "winner_2021": result_2021.get("winner_name") if result_2021 else "",
@@ -1306,8 +1342,20 @@ function downloadBlob(filename, blob) {{
 }}
 
 async function loadStylesheetText(relativePrefix) {{
-  const response = await fetch((relativePrefix || "") + "styles.css");
-  return response.text();
+  const fromDom = Array.from(document.styleSheets || []).map((sheet) => {{
+    try {{
+      return Array.from(sheet.cssRules || []).map((rule) => rule.cssText).join("\\n");
+    }} catch (error) {{
+      return "";
+    }}
+  }}).filter(Boolean).join("\\n");
+  if (fromDom) return fromDom;
+  try {{
+    const response = await fetch((relativePrefix || "") + "styles.css");
+    return await response.text();
+  }} catch (error) {{
+    return "";
+  }}
 }}
 
 function xmlEscape(value) {{
@@ -1386,6 +1434,7 @@ window.initConstituencyRosterPage = function initConstituencyRosterPage(config) 
   const feedback = document.getElementById(config.feedbackId);
   const shareRoot = document.getElementById(config.shareRootId);
   const rows = Array.from(document.querySelectorAll(config.rowSelector));
+  if (shareRoot && shareRoot.dataset.rosterInit === "done") return;
 
   const visibleRows = () => rows.filter((row) => row.style.display !== "none");
   const rowPayload = (row) => ({{
@@ -1471,7 +1520,28 @@ window.initConstituencyRosterPage = function initConstituencyRosterPage(config) 
   exportButton?.addEventListener("click", handleCsvExport);
   shareButton?.addEventListener("click", handleShare);
   updateActionState();
+  if (shareRoot) shareRoot.dataset.rosterInit = "done";
 }};
+
+function autoInitRosterPages() {{
+  const configNodes = Array.from(document.querySelectorAll('script[type="application/json"][id^="roster-config-"]'));
+  configNodes.forEach((configNode) => {{
+    try {{
+      const config = JSON.parse(configNode.textContent || "{{}}");
+      if (config && typeof window.initConstituencyRosterPage === "function") {{
+        window.initConstituencyRosterPage(config);
+      }}
+    }} catch (error) {{
+      console.error("Unable to initialize roster page", error);
+    }}
+  }});
+}}
+
+if (document.readyState === "loading") {{
+  document.addEventListener("DOMContentLoaded", autoInitRosterPages, {{ once: true }});
+}} else {{
+  autoInitRosterPages();
+}}
 
 """
     (SITE_DIR / "styles.css").write_text(styles.strip() + "\n", encoding="utf-8")
@@ -1566,14 +1636,34 @@ def render_home(
 def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constituency: dict[int, list[dict[str, Any]]]) -> None:
     items_html = []
     for item in summaries:
+        constituency_rows = rows_by_constituency.get(item["constituency_no"], [])
         candidate_search_blob = " ".join(
             row["candidate_name"].lower()
-            for row in rows_by_constituency.get(item["constituency_no"], [])
+            for row in constituency_rows
             if row.get("candidate_name")
+        )
+        party_search_blob = " ".join(
+            " ".join(
+                value.lower()
+                for value in [str(row.get("party_name") or "").strip(), str(row.get("party_abbrev") or "").strip()]
+                if value
+            )
+            for row in constituency_rows
+        )
+        search_blob = " ".join(
+            part
+            for part in [
+                item["constituency_name"].lower(),
+                item["district"].lower(),
+                candidate_search_blob,
+                party_search_blob,
+                str(item.get("top_parties_2026") or "").lower(),
+            ]
+            if part
         )
         items_html.append(
             f"""
-            <article class="card constituency-card" data-name="{html.escape(item['constituency_name'].lower())}" data-district="{html.escape(item['district'].lower())}" data-parties="{html.escape(item['top_parties_2026'].lower())}" data-candidates="{html.escape(candidate_search_blob)}">
+            <article class="card constituency-card" data-name="{html.escape(item['constituency_name'].lower())}" data-district="{html.escape(item['district'].lower())}" data-parties="{html.escape(party_search_blob)}" data-candidates="{html.escape(candidate_search_blob)}" data-search="{html.escape(search_blob)}">
               <h3><a href="{item['constituency_slug']}/index.html">{html.escape(item['constituency_name'])} ({item['constituency_no']})</a></h3>
               <p class="small">{html.escape(item['district'])} • {item['candidate_count_2026']} candidates • {html.escape(item['top_parties_2026'])}</p>
               <div class="meta">
@@ -1604,7 +1694,7 @@ def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constit
         const district = (districtFilter.value || '').toLowerCase();
         const party = (partyFilter.value || '').toLowerCase();
         cards.forEach(card => {{
-          const okQ = !q || card.dataset.name.includes(q) || card.dataset.district.includes(q) || card.dataset.parties.includes(q) || card.dataset.candidates.includes(q);
+          const okQ = !q || (card.dataset.search || '').includes(q);
           const okD = !district || card.dataset.district === district;
           const okP = !party || card.dataset.parties.includes(party);
           card.style.display = okQ && okD && okP ? '' : 'none';
@@ -1912,31 +2002,36 @@ def render_constituency_pages(summaries: list[dict[str, Any]], rows_by_constitue
           <div id="{feedback_id}" class="roster-feedback" aria-live="polite"></div>
         </div>
         <p class="footer-note">{bi_text('Source dated ' + str(summary['source_date']), 'மூல தேதி ' + str(summary['source_date']))}<br>{notes_html}</p>
+        <script type="application/json" id="roster-config-{summary['constituency_no']}">{json.dumps({
+            "searchInputId": search_input_id,
+            "exportButtonId": export_button_id,
+            "shareButtonId": share_button_id,
+            "feedbackId": feedback_id,
+            "shareRootId": share_root_id,
+            "rowSelector": ".candidate-row",
+            "relativePrefix": "../../",
+            "constituencyName": summary["constituency_name"],
+            "constituencyNo": summary["constituency_no"],
+            "district": summary["district"],
+            "csvFilename": f"tn2026-{summary['constituency_slug']}-filtered-roster.csv",
+            "imageFilename": f"tn2026-{summary['constituency_slug']}-filtered-roster.png",
+            "shareTitle": f"{summary['constituency_name']} constituency roster",
+            "shareText": f"Visible candidate roster for {summary['constituency_name']} ({summary['constituency_no']})",
+            "messages": {
+                "noRows": bi_text('No visible rows to export or share.', 'ஏற்றுமதி செய்ய அல்லது பகிர காட்சிப்படுத்தப்பட்ட வரிகள் இல்லை.'),
+                "csvReady": bi_text('CSV downloaded for the visible roster rows.', 'காட்சிப்படுத்தப்பட்ட roster வரிகளுக்கான CSV பதிவிறக்கப்பட்டது.'),
+                "sharePreparing": bi_text('Preparing snapshot image…', 'படப் snapshot தயாராகிறது…'),
+                "shareDone": bi_text('Share sheet opened. Choose WhatsApp to send the image.', 'பகிர்வு சாளரம் திறந்தது. படத்தை அனுப்ப WhatsApp-ஐ தேர்வுசெய்யவும்.'),
+                "shareFallback": bi_text('Image downloaded. Share it in WhatsApp from your device.', 'படம் பதிவிறக்கப்பட்டது. உங்கள் சாதனத்திலிருந்து அதை WhatsApp-ல் பகிரலாம்.'),
+                "shareError": bi_text('Unable to prepare the share image right now.', 'இப்போது பகிர்வு படத்தை தயாரிக்க முடியவில்லை.'),
+            },
+        }, ensure_ascii=False)}</script>
         <script>
-          window.initConstituencyRosterPage({{
-            searchInputId: {js_string(search_input_id)},
-            exportButtonId: {js_string(export_button_id)},
-            shareButtonId: {js_string(share_button_id)},
-            feedbackId: {js_string(feedback_id)},
-            shareRootId: {js_string(share_root_id)},
-            rowSelector: ".candidate-row",
-            relativePrefix: "../../",
-            constituencyName: {js_string(summary['constituency_name'])},
-            constituencyNo: {summary['constituency_no']},
-            district: {js_string(summary['district'])},
-            csvFilename: {js_string(f"tn2026-{summary['constituency_slug']}-filtered-roster.csv")},
-            imageFilename: {js_string(f"tn2026-{summary['constituency_slug']}-filtered-roster.png")},
-            shareTitle: {js_string(f"{summary['constituency_name']} constituency roster")},
-            shareText: {js_string(f"Visible candidate roster for {summary['constituency_name']} ({summary['constituency_no']})")},
-            messages: {{
-              noRows: {js_string(bi_text('No visible rows to export or share.', 'ஏற்றுமதி செய்ய அல்லது பகிர காட்சிப்படுத்தப்பட்ட வரிகள் இல்லை.'))},
-              csvReady: {js_string(bi_text('CSV downloaded for the visible roster rows.', 'காட்சிப்படுத்தப்பட்ட roster வரிகளுக்கான CSV பதிவிறக்கப்பட்டது.'))},
-              sharePreparing: {js_string(bi_text('Preparing snapshot image…', 'படப் snapshot தயாராகிறது…'))},
-              shareDone: {js_string(bi_text('Share sheet opened. Choose WhatsApp to send the image.', 'பகிர்வு சாளரம் திறந்தது. படத்தை அனுப்ப WhatsApp-ஐ தேர்வுசெய்யவும்.'))},
-              shareFallback: {js_string(bi_text('Image downloaded. Share it in WhatsApp from your device.', 'படம் பதிவிறக்கப்பட்டது. உங்கள் சாதனத்திலிருந்து அதை WhatsApp-ல் பகிரலாம்.'))},
-              shareError: {js_string(bi_text('Unable to prepare the share image right now.', 'இப்போது பகிர்வு படத்தை தயாரிக்க முடியவில்லை.'))}
-            }}
-          }});
+          document.addEventListener("DOMContentLoaded", function () {{
+            const configNode = document.getElementById("roster-config-{summary['constituency_no']}");
+            if (!configNode || typeof window.initConstituencyRosterPage !== "function") return;
+            window.initConstituencyRosterPage(JSON.parse(configNode.textContent));
+          }}, {{ once: true }});
         </script>
         """
         (target_dir / "index.html").write_text(
@@ -2101,7 +2196,8 @@ def main() -> None:
     constituencies = public_context["constituencies"]
     official_rows = fetch_statewide_form7a_rows(constituencies)
     affidavit_context = fetch_affidavit_mirror_context()
-    full_rows, enrichment_rows = match_and_enrich(official_rows, public_context, affidavit_context)
+    local_pdf_context = load_local_affidavit_pdf_enrichment()
+    full_rows, enrichment_rows = match_and_enrich(official_rows, public_context, affidavit_context, local_pdf_context)
     summaries = make_constituency_summaries(full_rows)
 
     generated_on = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -2126,6 +2222,8 @@ def main() -> None:
         "constituency_summary_2026.json": summaries,
         "validation.json": validation,
     }
+    if AFFIDAVIT_PDF_ENRICHMENT.exists():
+        outputs["affidavit_pdf_enrichment.json"] = json.loads(AFFIDAVIT_PDF_ENRICHMENT.read_text(encoding="utf-8"))
     for name, payload in outputs.items():
         (PROCESSED_DIR / name).write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
 
