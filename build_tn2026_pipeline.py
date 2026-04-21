@@ -1367,6 +1367,25 @@ function xmlEscape(value) {{
     .replace(/'/g, "&apos;");
 }}
 
+function drawRoundedRect(ctx, x, y, width, height, radius) {{
+  const safeRadius = Math.max(0, Math.min(radius || 0, width / 2, height / 2));
+  if (typeof ctx.roundRect === "function") {{
+    ctx.beginPath();
+    ctx.roundRect(x, y, width, height, safeRadius);
+    return;
+  }}
+  ctx.beginPath();
+  ctx.moveTo(x + safeRadius, y);
+  ctx.lineTo(x + width - safeRadius, y);
+  ctx.quadraticCurveTo(x + width, y, x + width, y + safeRadius);
+  ctx.lineTo(x + width, y + height - safeRadius);
+  ctx.quadraticCurveTo(x + width, y + height, x + width - safeRadius, y + height);
+  ctx.lineTo(x + safeRadius, y + height);
+  ctx.quadraticCurveTo(x, y + height, x, y + height - safeRadius);
+  ctx.lineTo(x, y + safeRadius);
+  ctx.quadraticCurveTo(x, y, x + safeRadius, y);
+}}
+
 async function buildSnapshotBlob(target, options) {{
   const summaryCards = Array.from(target.querySelectorAll(".meta .card")).map((card) => {{
     const label = (card.querySelector(".meta-label .lang-en") || card.querySelector(".meta-label"))?.textContent?.trim() || "";
@@ -1398,6 +1417,7 @@ async function buildSnapshotBlob(target, options) {{
   const cardGap = 14;
   const canvas = document.createElement("canvas");
   const ctx = canvas.getContext("2d");
+  if (!ctx) throw new Error("Canvas not supported");
 
   function wrapText(text, maxWidth, font) {{
     const safeText = String(text || "—").replace(/\\s+/g, " ").trim() || "—";
@@ -1443,8 +1463,7 @@ async function buildSnapshotBlob(target, options) {{
   ctx.fillStyle = "#fffaf1";
   ctx.strokeStyle = "#e7d7c2";
   ctx.lineWidth = 2;
-  ctx.beginPath();
-  ctx.roundRect(20, 20, width - 40, height - 40, 24);
+  drawRoundedRect(ctx, 20, 20, width - 40, height - 40, 24);
   ctx.fill();
   ctx.stroke();
   ctx.fillStyle = "#9a3412";
@@ -1471,8 +1490,7 @@ async function buildSnapshotBlob(target, options) {{
       ctx.fillStyle = "#ffffff";
       ctx.strokeStyle = "#e7d7c2";
       ctx.lineWidth = 1.5;
-      ctx.beginPath();
-      ctx.roundRect(x, y, summaryCardWidth, summaryCardHeight, 18);
+      drawRoundedRect(ctx, x, y, summaryCardWidth, summaryCardHeight, 18);
       ctx.fill();
       ctx.stroke();
       ctx.fillStyle = "#64748b";
@@ -1488,8 +1506,7 @@ async function buildSnapshotBlob(target, options) {{
   if (topPartyHeight) {{
     ctx.fillStyle = "#fff7ed";
     ctx.strokeStyle = "#fdba74";
-    ctx.beginPath();
-    ctx.roundRect(padding, cursorY, innerWidth, topPartyHeight, 18);
+    drawRoundedRect(ctx, padding, cursorY, innerWidth, topPartyHeight, 18);
     ctx.fill();
     ctx.stroke();
     ctx.fillStyle = "#9a3412";
@@ -1506,8 +1523,7 @@ async function buildSnapshotBlob(target, options) {{
   let currentX = padding;
   ctx.fillStyle = "#f1f5f9";
   ctx.strokeStyle = "#d7dde5";
-  ctx.beginPath();
-  ctx.roundRect(padding, cursorY, innerWidth, tableHeaderHeight, 14);
+  drawRoundedRect(ctx, padding, cursorY, innerWidth, tableHeaderHeight, 14);
   ctx.fill();
   ctx.stroke();
   ctx.fillStyle = "#334155";
@@ -1627,8 +1643,8 @@ window.initConstituencyRosterPage = function initConstituencyRosterPage(config) 
         district: config.district,
         rows: visibleRows().map(rowPayload),
       }});
-      const file = new File([blob], config.imageFilename, {{ type: "image/png" }});
-      if (navigator.share && navigator.canShare && navigator.canShare({{ files: [file] }})) {{
+      const file = typeof File === "function" ? new File([blob], config.imageFilename, {{ type: "image/png" }}) : null;
+      if (file && navigator.share && navigator.canShare && navigator.canShare({{ files: [file] }})) {{
         await navigator.share({{
           files: [file],
           title: config.shareTitle,
@@ -1706,6 +1722,24 @@ def render_home(
     validation: dict[str, Any],
 ) -> None:
     top_constituencies = sorted(summaries, key=lambda row: row["candidate_count_2026"], reverse=True)[:6]
+    alliance_cards = [
+        {
+            "title_en": "DMK-led alliance",
+            "title_ta": "DMK தலைமையிலான கூட்டணி",
+            "summary_en": "DMK 164, Congress 28, DMDK 10, VCK 8, CPI 5, CPM 5, MDMK 4, IUML 2, MMK 2, KMDK 2, plus smaller allies.",
+            "summary_ta": "DMK 164, காங்கிரஸ் 28, DMDK 10, VCK 8, CPI 5, CPM 5, MDMK 4, IUML 2, MMK 2, KMDK 2 மற்றும் சிறிய கூட்டணி கட்சிகள்.",
+        },
+        {
+            "title_en": "AIADMK-led NDA",
+            "title_ta": "AIADMK தலைமையிலான NDA",
+            "summary_en": "AIADMK 178, BJP 27, PMK 18, AMMK 11. Reports also mention other NDA partners such as TMC(M) and IJK.",
+            "summary_ta": "AIADMK 178, BJP 27, PMK 18, AMMK 11. TMC(M), IJK போன்ற கூட்டணி கட்சிகளும் செய்தி அறிக்கைகளில் குறிப்பிடப்பட்டுள்ளன.",
+        },
+    ]
+    alliance_cards_html = "".join(
+        f'<article class="card"><h3>{bi_text(item["title_en"], item["title_ta"])}</h3><p class="small">{bi_text(item["summary_en"], item["summary_ta"])}</p></article>'
+        for item in alliance_cards
+    )
     party_counts: Counter[str] = Counter()
     party_labels: dict[str, str] = {}
     party_name_counts: dict[str, Counter[str]] = {}
@@ -1742,6 +1776,12 @@ def render_home(
       <div class="kpi"><strong>{len({row['district'] for row in summaries if row['district']})}</strong><span>{bi_text('Districts covered', 'கவரப்பட்ட மாவட்டங்கள்')}</span></div>
       <div class="kpi"><strong>{validation['official_count_status']}</strong><span>{bi_text('Official count check vs 4,023', '4,023 எண்ணிக்கையுடன் சரிபார்ப்பு')}</span></div>
     </section>
+    <div class="section-title"><h2>{bi_text('Alliance snapshot', 'கூட்டணி தகவல்')}</h2></div>
+    <section class="cards">{alliance_cards_html}</section>
+    <p class="footer-note">{bi_text('Alliance seat-sharing snapshot reflects public reports published on March 23-28, 2026.', 'கூட்டணி இடஒதுக்கீட்டு தகவல் 23-28 மார்ச் 2026 வெளியான பொதுச் செய்தி அறிக்கைகளை அடிப்படையாகக் கொண்டது.')}</p>
+    <div class="section-title"><h2>{bi_text('Alliance snapshot', 'கூட்டணி தகவல்')}</h2></div>
+    <section class="cards">{alliance_cards_html}</section>
+    <p class="footer-note">{bi_text('Alliance seat-sharing snapshot reflects public reports published on March 23-28, 2026.', 'கூட்டணி இடஒதுக்கீட்டு தகவல் 23-28 மார்ச் 2026 வெளியான பொதுச் செய்தி அறிக்கைகளை அடிப்படையாகக் கொண்டது.')}</p>
     <div class="section-title"><h2>{bi_text('Quick voter modules', 'வாக்காளர்களுக்கான விரைவு தொகுதிகள்')}</h2></div>
     <section class="cards">
       <article class="card"><h3>{bi_text('Constituency roster', 'தொகுதி வேட்பாளர் பட்டியல்')}</h3><p class="small">{bi_text('Find everyone contesting in a seat, with district context and 2021 result data.', 'ஒவ்வொரு தொகுதியிலும் போட்டியிடும் அனைவரையும், 2021 முடிவு பின்னணியுடன் காணுங்கள்.')}</p><a class="btn" href="constituencies/index.html">{bi_text('Browse constituencies', 'தொகுதிகளைப் பார்க்க')}</a></article>
@@ -1764,6 +1804,7 @@ def render_home(
 
 def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constituency: dict[int, list[dict[str, Any]]]) -> None:
     items_html = []
+    party_option_map: dict[str, str] = {}
     for item in summaries:
         constituency_rows = rows_by_constituency.get(item["constituency_no"], [])
         candidate_search_blob = " ".join(
@@ -1771,6 +1812,20 @@ def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constit
             for row in constituency_rows
             if row.get("candidate_name")
         )
+        party_filter_tokens: list[str] = []
+        seen_party_tokens: set[str] = set()
+        for row in constituency_rows:
+            party_name = str(row.get("party_name") or "").strip()
+            party_abbrev = str(row.get("party_abbrev") or "").strip()
+            display_label = party_name or party_abbrev
+            for raw_value in [party_abbrev, party_name]:
+                token = raw_value.lower().strip()
+                if not token or token in seen_party_tokens:
+                    continue
+                seen_party_tokens.add(token)
+                party_filter_tokens.append(token)
+                if display_label:
+                    party_option_map.setdefault(token, display_label if not party_abbrev or party_abbrev == party_name else f"{display_label} ({party_abbrev})")
         party_search_blob = " ".join(
             " ".join(
                 value.lower()
@@ -1792,7 +1847,7 @@ def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constit
         )
         items_html.append(
             f"""
-            <article class="card constituency-card" data-name="{html.escape(item['constituency_name'].lower())}" data-district="{html.escape(item['district'].lower())}" data-parties="{html.escape(party_search_blob)}" data-candidates="{html.escape(candidate_search_blob)}" data-search="{html.escape(search_blob)}">
+            <article class="card constituency-card" data-name="{html.escape(item['constituency_name'].lower())}" data-district="{html.escape(item['district'].lower())}" data-parties="{html.escape(party_search_blob)}" data-party-values="{html.escape('|'.join(party_filter_tokens))}" data-candidates="{html.escape(candidate_search_blob)}" data-search="{html.escape(search_blob)}">
               <h3><a href="{item['constituency_slug']}/index.html">{html.escape(item['constituency_name'])} ({item['constituency_no']})</a></h3>
               <p class="small">{html.escape(item['district'])} • {item['candidate_count_2026']} candidates • {html.escape(item['top_parties_2026'])}</p>
               <div class="meta">
@@ -1810,7 +1865,7 @@ def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constit
     <div class="filters">
       <input id="constituency-search" class="search-box" placeholder="{html.escape(UI_TEXT['search_placeholder']['en'])}">
       <select id="district-filter" class="select"><option value="">All districts</option>{"".join(f'<option value="{html.escape(item)}">{html.escape(item)}</option>' for item in sorted({row['district'] for row in summaries}))}</select>
-      <select id="party-filter" class="select"><option value="">All parties</option>{"".join(f'<option value="{html.escape(item)}">{html.escape(item)}</option>' for item in sorted({abbr for row in summaries for abbr in row['top_parties_2026'].replace(" ", "").split(",") if abbr}))}</select>
+      <select id="party-filter" class="select"><option value="">All parties</option>{"".join(f'<option value="{html.escape(token)}">{html.escape(label)}</option>' for token, label in sorted(party_option_map.items(), key=lambda item: item[1].lower()))}</select>
     </div>
     <section id="constituency-list" class="cards">{''.join(items_html)}</section>
     <script>
@@ -1825,7 +1880,7 @@ def render_constituencies_index(summaries: list[dict[str, Any]], rows_by_constit
         cards.forEach(card => {{
           const okQ = !q || (card.dataset.search || '').includes(q);
           const okD = !district || card.dataset.district === district;
-          const okP = !party || card.dataset.parties.includes(party);
+          const okP = !party || (card.dataset.partyValues || '').split('|').includes(party);
           card.style.display = okQ && okD && okP ? '' : 'none';
         }});
       }}
@@ -1994,6 +2049,24 @@ def render_home(
     validation: dict[str, Any],
 ) -> None:
     top_constituencies = sorted(summaries, key=lambda row: row["candidate_count_2026"], reverse=True)[:6]
+    alliance_cards = [
+        {
+            "title_en": "DMK-led alliance",
+            "title_ta": "DMK தலைமையிலான கூட்டணி",
+            "summary_en": "DMK 164, Congress 28, DMDK 10, VCK 8, CPI 5, CPM 5, MDMK 4, IUML 2, MMK 2, KMDK 2, plus smaller allies.",
+            "summary_ta": "DMK 164, காங்கிரஸ் 28, DMDK 10, VCK 8, CPI 5, CPM 5, MDMK 4, IUML 2, MMK 2, KMDK 2 மற்றும் சிறிய கூட்டணி கட்சிகள்.",
+        },
+        {
+            "title_en": "AIADMK-led NDA",
+            "title_ta": "AIADMK தலைமையிலான NDA",
+            "summary_en": "AIADMK 178, BJP 27, PMK 18, AMMK 11. Reports also mention other NDA partners such as TMC(M) and IJK.",
+            "summary_ta": "AIADMK 178, BJP 27, PMK 18, AMMK 11. TMC(M), IJK போன்ற கூட்டணி கட்சிகளும் செய்தி அறிக்கைகளில் குறிப்பிடப்பட்டுள்ளன.",
+        },
+    ]
+    alliance_cards_html = "".join(
+        f'<article class="card"><h3>{bi_text(item["title_en"], item["title_ta"])}</h3><p class="small">{bi_text(item["summary_en"], item["summary_ta"])}</p></article>'
+        for item in alliance_cards
+    )
     party_counts: Counter[str] = Counter()
     party_labels: dict[str, str] = {}
     party_name_counts: dict[str, Counter[str]] = {}
@@ -2030,6 +2103,9 @@ def render_home(
       <div class="kpi"><strong>{len({row['district'] for row in summaries if row['district']})}</strong><span>{bi_text('Districts covered', 'கவரப்பட்ட மாவட்டங்கள்')}</span></div>
       <div class="kpi"><strong>{validation['official_count_status']}</strong><span>{bi_text('Official count check vs 4,023', '4,023 எண்ணிக்கையுடன் சரிபார்ப்பு')}</span></div>
     </section>
+    <div class="section-title"><h2>{bi_text('Alliance snapshot', 'கூட்டணி தகவல்')}</h2></div>
+    <section class="cards">{alliance_cards_html}</section>
+    <p class="footer-note">{bi_text('Alliance seat-sharing snapshot reflects public reports published on March 23-28, 2026.', 'கூட்டணி இடஒதுக்கீட்டு தகவல் 23-28 மார்ச் 2026 வெளியான பொதுச் செய்தி அறிக்கைகளை அடிப்படையாகக் கொண்டது.')}</p>
     <div class="section-title"><h2>{bi_text('Quick voter modules', 'வாக்காளர்களுக்கான விரைவு தொகுதிகள்')}</h2></div>
     <section class="cards">
       <article class="card"><h3>{bi_text('Constituency roster', 'தொகுதி வேட்பாளர் பட்டியல்')}</h3><p class="small">{bi_text('Find everyone contesting in a seat, with district context and 2021 result data.', 'ஒவ்வொரு தொகுதியிலும் போட்டியிடும் அனைவரையும், 2021 முடிவு பின்னணியுடன் காணுங்கள்.')}</p><a class="btn" href="constituencies/index.html">{bi_text('Browse constituencies', 'தொகுதிகளைப் பார்க்க')}</a></article>

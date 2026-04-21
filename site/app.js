@@ -69,6 +69,25 @@ function xmlEscape(value) {
     .replace(/'/g, "&apos;");
 }
 
+function drawRoundedRect(ctx, x, y, width, height, radius) {
+  const safeRadius = Math.max(0, Math.min(radius || 0, width / 2, height / 2));
+  if (typeof ctx.roundRect === "function") {
+    ctx.beginPath();
+    ctx.roundRect(x, y, width, height, safeRadius);
+    return;
+  }
+  ctx.beginPath();
+  ctx.moveTo(x + safeRadius, y);
+  ctx.lineTo(x + width - safeRadius, y);
+  ctx.quadraticCurveTo(x + width, y, x + width, y + safeRadius);
+  ctx.lineTo(x + width, y + height - safeRadius);
+  ctx.quadraticCurveTo(x + width, y + height, x + width - safeRadius, y + height);
+  ctx.lineTo(x + safeRadius, y + height);
+  ctx.quadraticCurveTo(x, y + height, x, y + height - safeRadius);
+  ctx.lineTo(x, y + safeRadius);
+  ctx.quadraticCurveTo(x, y, x + safeRadius, y);
+}
+
 async function buildSnapshotBlob(target, options) {
   const summaryCards = Array.from(target.querySelectorAll(".meta .card")).map((card) => {
     const label = (card.querySelector(".meta-label .lang-en") || card.querySelector(".meta-label"))?.textContent?.trim() || "";
@@ -100,6 +119,7 @@ async function buildSnapshotBlob(target, options) {
   const cardGap = 14;
   const canvas = document.createElement("canvas");
   const ctx = canvas.getContext("2d");
+  if (!ctx) throw new Error("Canvas not supported");
 
   function wrapText(text, maxWidth, font) {
     const safeText = String(text || "—").replace(/\s+/g, " ").trim() || "—";
@@ -145,8 +165,7 @@ async function buildSnapshotBlob(target, options) {
   ctx.fillStyle = "#fffaf1";
   ctx.strokeStyle = "#e7d7c2";
   ctx.lineWidth = 2;
-  ctx.beginPath();
-  ctx.roundRect(20, 20, width - 40, height - 40, 24);
+  drawRoundedRect(ctx, 20, 20, width - 40, height - 40, 24);
   ctx.fill();
   ctx.stroke();
   ctx.fillStyle = "#9a3412";
@@ -173,8 +192,7 @@ async function buildSnapshotBlob(target, options) {
       ctx.fillStyle = "#ffffff";
       ctx.strokeStyle = "#e7d7c2";
       ctx.lineWidth = 1.5;
-      ctx.beginPath();
-      ctx.roundRect(x, y, summaryCardWidth, summaryCardHeight, 18);
+      drawRoundedRect(ctx, x, y, summaryCardWidth, summaryCardHeight, 18);
       ctx.fill();
       ctx.stroke();
       ctx.fillStyle = "#64748b";
@@ -190,8 +208,7 @@ async function buildSnapshotBlob(target, options) {
   if (topPartyHeight) {
     ctx.fillStyle = "#fff7ed";
     ctx.strokeStyle = "#fdba74";
-    ctx.beginPath();
-    ctx.roundRect(padding, cursorY, innerWidth, topPartyHeight, 18);
+    drawRoundedRect(ctx, padding, cursorY, innerWidth, topPartyHeight, 18);
     ctx.fill();
     ctx.stroke();
     ctx.fillStyle = "#9a3412";
@@ -208,8 +225,7 @@ async function buildSnapshotBlob(target, options) {
   let currentX = padding;
   ctx.fillStyle = "#f1f5f9";
   ctx.strokeStyle = "#d7dde5";
-  ctx.beginPath();
-  ctx.roundRect(padding, cursorY, innerWidth, tableHeaderHeight, 14);
+  drawRoundedRect(ctx, padding, cursorY, innerWidth, tableHeaderHeight, 14);
   ctx.fill();
   ctx.stroke();
   ctx.fillStyle = "#334155";
@@ -329,8 +345,8 @@ window.initConstituencyRosterPage = function initConstituencyRosterPage(config) 
         district: config.district,
         rows: visibleRows().map(rowPayload),
       });
-      const file = new File([blob], config.imageFilename, { type: "image/png" });
-      if (navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
+      const file = typeof File === "function" ? new File([blob], config.imageFilename, { type: "image/png" }) : null;
+      if (file && navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
         await navigator.share({
           files: [file],
           title: config.shareTitle,
